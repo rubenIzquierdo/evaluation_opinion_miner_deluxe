@@ -1,0 +1,2400 @@
+DSE	bad	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w3
+TARGET	Service	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w1
+
+DSE	bad	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w3
+TARGET	Service	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w1
+
+DSE	clean	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w7
+TARGET	property	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w8
+
+DSE	bad	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w3
+TARGET	Service	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w1
+
+DSE	modern	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w128
+TARGET	the	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w123
+
+DSE	modern	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w128
+TARGET	the	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w123
+
+DSE	great condition	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w28 ./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w29
+TARGET	my experience	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w34 ./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w35
+
+DSE	great condition	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w28 ./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w29
+TARGET	hotel	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w25
+
+DSE	great condition	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w28 ./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w29
+TARGET	the	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w31
+
+DSE	really	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w15
+TARGET	The staff	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w9 ./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w10
+
+DSE	really	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w15
+TARGET	hotel	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w13
+
+DSE	really	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w15
+TARGET	of my	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w19 ./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w20
+
+DSE	not handled	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w41 ./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w42
+TARGET	requests	./opener_hotel/en/english00106_74e62e551e5b441356b001c5f7ca2070.kaf#w39
+
+DSE	Amazing	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w1
+TARGET	holiday	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w2
+
+DSE	Amazing	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w16
+TARGET	value	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w17
+
+DSE	excellent	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w21
+TARGET	location	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w22
+
+DSE	Amazing	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w16
+TARGET	value for	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w17 ./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w18
+
+DSE	massive	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w6
+TARGET	The hotel	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w3 ./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w4
+
+DSE	massive	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w6
+TARGET	The hotel	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w3 ./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w4
+
+DSE	Loved	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w45
+TARGET	the amination staff	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w46 ./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w47 ./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w48
+
+DSE	AMAZING	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w27
+TARGET	The staff	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w24 ./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w25
+
+DSE	AMAZING	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w27
+TARGET	our stay	./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w42 ./opener_hotel/en/english00086_5f8333203decf8cdff3fe67a1d5305f2.kaf#w43
+
+DSE	very poor	./opener_hotel/en/english00001_039d4b7b17acc9ef4243f32de0e3c70e.kaf#w32 ./opener_hotel/en/english00001_039d4b7b17acc9ef4243f32de0e3c70e.kaf#w33
+TARGET	Condition of the room	./opener_hotel/en/english00001_039d4b7b17acc9ef4243f32de0e3c70e.kaf#w27 ./opener_hotel/en/english00001_039d4b7b17acc9ef4243f32de0e3c70e.kaf#w28 ./opener_hotel/en/english00001_039d4b7b17acc9ef4243f32de0e3c70e.kaf#w29 ./opener_hotel/en/english00001_039d4b7b17acc9ef4243f32de0e3c70e.kaf#w30
+
+DSE	needs to be improved	./opener_hotel/en/english00001_039d4b7b17acc9ef4243f32de0e3c70e.kaf#w11 ./opener_hotel/en/english00001_039d4b7b17acc9ef4243f32de0e3c70e.kaf#w12 ./opener_hotel/en/english00001_039d4b7b17acc9ef4243f32de0e3c70e.kaf#w13 ./opener_hotel/en/english00001_039d4b7b17acc9ef4243f32de0e3c70e.kaf#w14
+TARGET	Room service	./opener_hotel/en/english00001_039d4b7b17acc9ef4243f32de0e3c70e.kaf#w9 ./opener_hotel/en/english00001_039d4b7b17acc9ef4243f32de0e3c70e.kaf#w10
+
+DSE	ok	./opener_hotel/en/english00001_039d4b7b17acc9ef4243f32de0e3c70e.kaf#w46
+TARGET	issues	./opener_hotel/en/english00001_039d4b7b17acc9ef4243f32de0e3c70e.kaf#w44
+
+DSE	could not have	./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w13 ./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w14 ./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w15
+TARGET	canal	./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w12
+
+DSE	excellent	./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w48
+TARGET	The dinner	./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w45 ./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w46
+
+DSE	excellent	./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w48
+TARGET	staff	./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w53
+
+DSE	clean	./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w39
+TARGET	The rooms	./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w36 ./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w37
+
+DSE	clean	./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w39
+TARGET	The rooms	./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w36 ./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w37
+
+DSE	clean	./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w39
+TARGET	The rooms	./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w36 ./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w37
+
+DSE	efficient	./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w73
+TARGET	staff	./opener_hotel/en/english00038_2a905390ffe1f23af8075a24535f6fa6.kaf#w67
+
+DSE	very pleasant	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w2 ./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w3
+TARGET	place	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w4
+
+DSE	nice	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w15
+TARGET	The neightborhood	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w12 ./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w13
+
+DSE	nice	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w15
+TARGET	The neightborhood	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w12 ./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w13
+
+DSE	very pleasant	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w8 ./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w9
+TARGET	This	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w5
+
+DSE	very pleasant	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w8 ./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w9
+TARGET	hotel	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w10
+
+DSE	big	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w34
+TARGET	The rooms	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w31 ./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w32
+
+DSE	big	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w34
+TARGET	The rooms	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w31 ./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w32
+
+DSE	free	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w54
+TARGET	Internet connection	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w51 ./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w52
+
+DSE	free	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w54
+TARGET	Internet connection	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w51 ./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w52
+
+DSE	extremely large	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w43 ./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w44
+TARGET	The bathroom	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w39 ./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w40
+
+DSE	extremely large	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w43 ./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w44
+TARGET	bathroom	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w40
+
+DSE	extremely large	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w43 ./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w44
+TARGET	The bathroom	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w39 ./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w40
+
+DSE	good	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w70
+TARGET	place	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w71
+
+DSE	nice	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w60
+TARGET	table	./opener_hotel/en/english00061_4017aed98f712cd7f7e670f4821687c8.kaf#w61
+
+DSE	Very comfortable	./opener_hotel/en/english00005_07fd29e078dd0aaf439ecb54b2505e3e.kaf#w10 ./opener_hotel/en/english00005_07fd29e078dd0aaf439ecb54b2505e3e.kaf#w11
+TARGET	bed	./opener_hotel/en/english00005_07fd29e078dd0aaf439ecb54b2505e3e.kaf#w12
+
+DSE	the	./opener_hotel/en/english00005_07fd29e078dd0aaf439ecb54b2505e3e.kaf#w6
+TARGET	hotel	./opener_hotel/en/english00005_07fd29e078dd0aaf439ecb54b2505e3e.kaf#w4
+
+DSE	Ideal	./opener_hotel/en/english00005_07fd29e078dd0aaf439ecb54b2505e3e.kaf#w19
+TARGET	location	./opener_hotel/en/english00005_07fd29e078dd0aaf439ecb54b2505e3e.kaf#w20
+
+DSE	Central	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w1
+TARGET	location	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w2
+
+DSE	Very small	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w27 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w28
+TARGET	rooms	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w29
+
+DSE	very loud	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w12 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w13
+TARGET	location	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w14
+
+DSE	Good	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w3
+TARGET	location	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w4
+
+DSE	Not a comfortable	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w58 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w59 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w60
+TARGET	hotel	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w61
+
+DSE	no	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w81
+TARGET	Breakfast	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w79
+
+DSE	no	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w81
+TARGET	Breakfast	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w79
+
+DSE	there are enough good	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w85 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w86 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w87 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w88
+TARGET	locations	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w89
+
+DSE	no	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w81
+TARGET	Breakfast	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w79
+
+DSE	not worth its	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w68 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w69 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w70
+TARGET	The rooms	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w65 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w66
+
+DSE	not worth its	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w68 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w69 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w70
+TARGET	its price	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w70 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w71
+
+DSE	not worth its	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w68 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w69 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w70
+TARGET	price	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w71
+
+DSE	low budget	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w123 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w124
+TARGET	room	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w125
+
+DSE	very small	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w105 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w106
+TARGET	rooms	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w103
+
+DSE	very small	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w105 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w106
+TARGET	Upper rooms	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w102 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w103
+
+DSE	very small	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w105 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w106
+TARGET	without own	./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w107 ./opener_hotel/en/english00069_4a24f9e92c2bd08de2cf29567b4464ab.kaf#w108
+
+DSE	fantastically	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w6
+TARGET	stay	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w7
+
+DSE	keep	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w29
+TARGET	They	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w28
+
+DSE	very well	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w32 ./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w33
+TARGET	the	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w39
+
+DSE	keep	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w29
+TARGET	They	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w28
+
+DSE	very well	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w32 ./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w33
+TARGET	foot · paths	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w50 ./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w51 ./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w52
+
+DSE	warm	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w25
+TARGET	water	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w26
+
+DSE	big	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w9
+TARGET	hotel	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w10
+
+DSE	warm	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w25
+TARGET	garden	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w20
+
+DSE	pond	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w75
+TARGET	the	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w66
+
+DSE	cleaned	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w77
+TARGET	the	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w78
+
+DSE	very clean	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w57 ./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w58
+TARGET	The rooms	./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w54 ./opener_hotel/en/english00083_7b3d49a3481f9f590bab53cb14befd11.kaf#w55
+
+DSE	great distance to	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w33 ./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w34 ./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w35
+TARGET	the	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w36
+
+DSE	friendly	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w39
+TARGET	staff	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w40
+
+DSE	great distance to	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w33 ./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w34 ./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w35
+TARGET	distance	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w34
+
+DSE	excellent	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w27
+TARGET	hotel	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w25
+
+DSE	excellent	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w27
+TARGET	impression	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w22
+
+DSE	excellent	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w27
+TARGET	hotel	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w25
+
+DSE	quite	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w69
+TARGET	The service	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w65 ./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w66
+
+DSE	big	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w71
+TARGET	the	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w74
+
+DSE	been better	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w47 ./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w48
+TARGET	the food	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w50 ./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w51
+
+DSE	would definately recommend	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w126 ./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w127 ./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w128
+TARGET	this hotel	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w129 ./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w130
+
+DSE	there	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w140
+TARGET	there	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w140
+
+DSE	good	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w83
+TARGET	The massage	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w79 ./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w80
+
+DSE	not impressive	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w95 ./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w96
+TARGET	treatment	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w93
+
+DSE	not impressive	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w95 ./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w96
+TARGET	the	./opener_hotel/en/english00171_cebaff52e17c933972109ed500b1e231.kaf#w98
+
+DSE	best	./opener_hotel/en/english00121_b40ac36f760c9f6502f427e2d1e3fb16.kaf#w2
+TARGET	hotel	./opener_hotel/en/english00121_b40ac36f760c9f6502f427e2d1e3fb16.kaf#w3
+
+DSE	very good	./opener_hotel/en/english00121_b40ac36f760c9f6502f427e2d1e3fb16.kaf#w57 ./opener_hotel/en/english00121_b40ac36f760c9f6502f427e2d1e3fb16.kaf#w58
+TARGET	the	./opener_hotel/en/english00121_b40ac36f760c9f6502f427e2d1e3fb16.kaf#w55
+
+DSE	very good	./opener_hotel/en/english00121_b40ac36f760c9f6502f427e2d1e3fb16.kaf#w57 ./opener_hotel/en/english00121_b40ac36f760c9f6502f427e2d1e3fb16.kaf#w58
+TARGET	The standard	./opener_hotel/en/english00121_b40ac36f760c9f6502f427e2d1e3fb16.kaf#w47 ./opener_hotel/en/english00121_b40ac36f760c9f6502f427e2d1e3fb16.kaf#w48
+
+DSE	very good	./opener_hotel/en/english00121_b40ac36f760c9f6502f427e2d1e3fb16.kaf#w69 ./opener_hotel/en/english00121_b40ac36f760c9f6502f427e2d1e3fb16.kaf#w70
+TARGET	food	./opener_hotel/en/english00121_b40ac36f760c9f6502f427e2d1e3fb16.kaf#w71
+
+DSE	doing ther job	./opener_hotel/en/english00121_b40ac36f760c9f6502f427e2d1e3fb16.kaf#w42 ./opener_hotel/en/english00121_b40ac36f760c9f6502f427e2d1e3fb16.kaf#w43 ./opener_hotel/en/english00121_b40ac36f760c9f6502f427e2d1e3fb16.kaf#w44
+TARGET	Everybody	./opener_hotel/en/english00121_b40ac36f760c9f6502f427e2d1e3fb16.kaf#w40
+
+DSE	ever !	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w3 ./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w4
+TARGET	hotel	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w2
+
+DSE	go	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w25
+TARGET	here	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w26
+
+DSE	great	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w29
+TARGET	holiday	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w30
+
+DSE	have ever	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w12 ./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w13
+TARGET	holiday place	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w9 ./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w10
+
+DSE	great	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w38
+TARGET	Staff	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w36
+
+DSE	great	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w38
+TARGET	the	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w40
+
+DSE	fantastic	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w45
+TARGET	holiday	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w42
+
+DSE	great	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w38
+TARGET	Staff	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w36
+
+DSE	fantastic	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w45
+TARGET	whole holiday package	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w41 ./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w42 ./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w43
+
+DSE	great !	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w34 ./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w35
+TARGET	People	./opener_hotel/en/english00002_0685261321182f93763efabe4099a840.kaf#w32
+
+DSE	Terrible	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w1
+TARGET	room	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w2
+
+DSE	dirty	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w42
+TARGET	tiling round toilet	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w43 ./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w44 ./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w45
+
+DSE	dirty	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w42
+TARGET	toilet	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w45
+
+DSE	dirty	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w42
+TARGET	toilet	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w45
+
+DSE	door	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w55
+TARGET	bathroom door	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w54 ./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w55
+
+DSE	dirty	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w42
+TARGET	bath	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w40
+
+DSE	stained	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w61
+TARGET	bed	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w64
+
+DSE	stained	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w61
+TARGET	bed	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w64
+
+DSE	door	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w55
+TARGET	damage	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w58
+
+DSE	faulty	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w77
+TARGET	TV	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w78
+
+DSE	cracked	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w35
+TARGET	bathroom	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w36
+
+DSE	ever again	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w96 ./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w97
+TARGET	Thomsons	./opener_hotel/en/english00220_fa8115ab7f09678324fbeee56a7b1f34.kaf#w95
+
+DSE	very cheap	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w147 ./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w148
+TARGET	accomodation	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w149
+
+DSE	little	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w37
+TARGET	this	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w36
+
+DSE	little	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w37
+TARGET	hotel	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w38
+
+DSE	incredibly cheap	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w41 ./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w42
+TARGET	price	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w43
+
+DSE	little	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w37
+TARGET	this	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w36
+
+DSE	little	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w37
+TARGET	hotel	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w38
+
+DSE	incredibly cheap	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w41 ./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w42
+TARGET	price	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w43
+
+DSE	small dark	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w98 ./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w99
+TARGET	room	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w100
+
+DSE	tiny bad	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w105 ./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w106
+TARGET	furniture	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w103
+
+DSE	small dark	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w98 ./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w99
+TARGET	the	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w92
+
+DSE	small dark	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w98 ./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w99
+TARGET	room	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w100
+
+DSE	small dark	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w98 ./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w99
+TARGET	room	./opener_hotel/en/english00203_eb3bae183b573012e1d929eaa6f6c99d.kaf#w100
+
+DSE	very enjoyable	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w7 ./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w8
+TARGET	stay	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w9
+
+DSE	very welcoming	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w54 ./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w55
+TARGET	The Hotel	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w49 ./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w50
+
+DSE	very welcoming	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w54 ./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w55
+TARGET	Staff	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w52
+
+DSE	very welcoming	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w54 ./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w55
+TARGET	The Hotel	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w49 ./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w50
+
+DSE	very welcoming	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w54 ./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w55
+TARGET	Staff	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w52
+
+DSE	would recommend	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w71 ./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w72
+TARGET	this	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w73
+
+DSE	international	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w60
+TARGET	The food	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w57 ./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w58
+
+DSE	international	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w60
+TARGET	The food	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w57 ./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w58
+
+DSE	international	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w60
+TARGET	buffet	./opener_hotel/en/english00103_9470bc3be06f9d9696662a605dc0bdfe.kaf#w64
+
+DSE	don 't recommend	./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w2 ./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w3 ./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w4
+TARGET	this hotel	./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w5 ./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w6
+
+DSE	Extremely unpleasant	./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w14 ./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w15
+TARGET	odor	./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w16
+
+DSE	Very poor	./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w21 ./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w22
+TARGET	bathroom	./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w19
+
+DSE	Very poor	./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w21 ./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w22
+TARGET	breakfast	./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w23
+
+DSE	Very small	./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w8 ./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w9
+TARGET	room	./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w10
+
+DSE	Very small	./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w8 ./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w9
+TARGET	room	./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w10
+
+DSE	No	./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w37
+TARGET	parking	./opener_hotel/en/english00209_f48f5dee65f975a4e162333c113bbb98.kaf#w38
+
+DSE	fresh	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w4
+TARGET	room	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w5
+
+DSE	fresh	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w4
+TARGET	room	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w5
+
+DSE	very well	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w24 ./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w25
+TARGET	The owners	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w19 ./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w20
+
+DSE	very well	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w24 ./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w25
+TARGET	the place	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w22 ./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w23
+
+DSE	very clean	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w14 ./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w15
+TARGET	This B &	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w7 ./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w8 ./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w9
+
+DSE	very clean	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w14 ./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w15
+TARGET	B	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w12
+
+DSE	very clean	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w14 ./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w15
+TARGET	This B	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w7 ./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w8
+
+DSE	very clean	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w14 ./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w15
+TARGET	B	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w12
+
+DSE	equipped with	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w35 ./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w36
+TARGET	Room	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w33
+
+DSE	warm	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w29
+TARGET	Beddings	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w27
+
+DSE	warm	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w29
+TARGET	Beddings	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w27
+
+DSE	very generous	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w78 ./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w79
+TARGET	Owners	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w76
+
+DSE	provided	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w61
+TARGET	towels	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w57
+
+DSE	provided	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w61
+TARGET	towels	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w57
+
+DSE	very helpful	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w87 ./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w88
+TARGET	Alphons	./opener_hotel/en/english00161_eed91ac341d52eabf370dd4b6c3c3219.kaf#w85
+
+DSE	their best to help	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w39 ./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w40 ./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w41 ./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w42
+TARGET	the	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w36
+
+DSE	their best to help	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w39 ./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w40 ./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w41 ./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w42
+TARGET	staff	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w37
+
+DSE	hope	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w12
+TARGET	the hotel	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w15 ./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w16
+
+DSE	very reasonable	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w97 ./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w98
+TARGET	bus	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w93
+
+DSE	would	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w107
+TARGET	it	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w106
+
+DSE	away.As	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w71
+TARGET	resort	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w66
+
+DSE	away.As	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w71
+TARGET	Shops	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w63
+
+DSE	fun to	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w85 ./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w86
+TARGET	fun	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w85
+
+DSE	very reasonable	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w97 ./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w98
+TARGET	a bus	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w92 ./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w93
+
+DSE	fine	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w46
+TARGET	Drinks	./opener_hotel/en/english00201_e9c2c8e0381cf0343c58aa1504606625.kaf#w44
+
+DSE	awful	./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w22
+TARGET	Area	./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w19
+
+DSE	about 30 minutes from center	./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w7 ./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w8 ./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w9 ./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w10 ./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w11
+TARGET	Hotel	./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w4
+
+DSE	metro line 12	./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w15 ./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w16 ./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w17
+TARGET	metro	./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w15
+
+DSE	street !	./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w66 ./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w67
+TARGET	death	./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w62
+
+DSE	located about	./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w37 ./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w38
+TARGET	Metro	./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w35
+
+DSE	not hoovered	./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w70 ./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w71
+TARGET	Room	./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w68
+
+DSE	not hoovered	./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w70 ./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w71
+TARGET	1	./opener_hotel/en/english00030_2417edb5ec4f8fcb65315add3d4cccde.kaf#w73
+
+DSE	looks	./opener_hotel/en/english00192_e3fe22eeb360723a699504a27e13065e.kaf#w102
+TARGET	this place	./opener_hotel/en/english00192_e3fe22eeb360723a699504a27e13065e.kaf#w100 ./opener_hotel/en/english00192_e3fe22eeb360723a699504a27e13065e.kaf#w101
+
+DSE	wonderful	./opener_hotel/en/english00192_e3fe22eeb360723a699504a27e13065e.kaf#w77
+TARGET	our	./opener_hotel/en/english00192_e3fe22eeb360723a699504a27e13065e.kaf#w83
+
+DSE	very bad	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w4 ./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w5
+TARGET	rooms	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w6
+
+DSE	very bad	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w8 ./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w9
+TARGET	manager	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w10
+
+DSE	very bad	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w4 ./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w5
+TARGET	rooms	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w6
+
+DSE	Terrible	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w1
+TARGET	service	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w2
+
+DSE	awful	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w62
+TARGET	experience	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w63
+
+DSE	the worst	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w11 ./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w12
+TARGET	hotel	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w13
+
+DSE	no	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w27
+TARGET	Wi	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w28
+
+DSE	no	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w27
+TARGET	Fi	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w30
+
+DSE	the worst	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w11 ./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w12
+TARGET	hotel experience	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w13 ./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w14
+
+DSE	the worst	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w11 ./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w12
+TARGET	hotel experience	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w13 ./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w14
+
+DSE	no	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w19
+TARGET	hot water	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w20 ./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w21
+
+DSE	no	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w46
+TARGET	hotel	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w40
+
+DSE	no	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w46
+TARGET	/ bar	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w42 ./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w43
+
+DSE	no	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w46
+TARGET	towels	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w47
+
+DSE	the worst	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w11 ./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w12
+TARGET	hotel	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w13
+
+DSE	no	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w27
+TARGET	no Wi	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w27 ./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w28
+
+DSE	no	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w27
+TARGET	Fi	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w30
+
+DSE	no	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w46
+TARGET	towels	./opener_hotel/en/english00216_f7c75ca42432376cd15a2aff7694125b.kaf#w47
+
+DSE	the most appealing	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w44 ./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w45 ./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w46
+TARGET	The location	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w41 ./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w42
+
+DSE	the most appealing	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w44 ./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w45 ./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w46
+TARGET	this	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w49
+
+DSE	good	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w23
+TARGET	flat · screen	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w25 ./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w26 ./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w27
+
+DSE	good	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w23
+TARGET	flat · screen	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w25 ./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w26 ./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w27
+
+DSE	very comfy	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w30 ./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w31
+TARGET	screen	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w27
+
+DSE	very nice	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w38 ./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w39
+TARGET	room	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w36
+
+DSE	good	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w23
+TARGET	flat · screen	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w25 ./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w26 ./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w27
+
+DSE	very comfy	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w30 ./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w31
+TARGET	bed	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w32
+
+DSE	very nice	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w38 ./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w39
+TARGET	room	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w36
+
+DSE	fantastic	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w6
+TARGET	The location	./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w3 ./opener_hotel/en/english00004_077501d9543ab2cdab911d318c2a4a1c.kaf#w4
+
+DSE	great	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w3
+TARGET	Surprise	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w1
+
+DSE	great	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w3
+TARGET	food	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w4
+
+DSE	great	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w3
+TARGET	Surprise	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w1
+
+DSE	great	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w3
+TARGET	food	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w4
+
+DSE	great	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w3
+TARGET	Surprise	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w1
+
+DSE	great	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w3
+TARGET	food	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w4
+
+DSE	good	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w15
+TARGET	this Hotel	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w12 ./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w13
+
+DSE	extremely well trained	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w32 ./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w33 ./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w34
+TARGET	Front desk	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w29 ./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w30
+
+DSE	extremely well trained	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w32 ./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w33 ./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w34
+TARGET	Front desk	./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w29 ./opener_hotel/en/english00173_d11c0a69dd693e360058d020539d21d3.kaf#w30
+
+DSE	needs to be improved	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w6 ./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w7 ./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w8 ./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w9
+TARGET	service	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w5
+
+DSE	Fine classic	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w1 ./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w2
+TARGET	hotel	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w3
+
+DSE	Fine classic	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w1 ./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w2
+TARGET	hotel	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w3
+
+DSE	fine	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w34
+TARGET	The hotel	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w30 ./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w31
+
+DSE	below standard	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w43 ./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w44
+TARGET	service level	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w40 ./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w41
+
+DSE	below standard	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w43 ./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w44
+TARGET	service level	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w40 ./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w41
+
+DSE	slow	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w76
+TARGET	keys	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w74
+
+DSE	slow	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w76
+TARGET	keys	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w74
+
+DSE	long	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w97
+TARGET	coffee	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w89
+
+DSE	full of	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w129 ./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w130
+TARGET	charme	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w133
+
+DSE	answered politely	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w108 ./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w109
+TARGET	members	./opener_hotel/en/english00034_2820ca54100cbd25c013f0c31b534ba7.kaf#w106
+
+DSE	would not	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w40 ./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w41
+TARGET	reason	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w35
+
+DSE	to	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w46
+TARGET	to	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w46
+
+DSE	nice	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w10
+TARGET	The hotel	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w7 ./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w8
+
+DSE	nice	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w10
+TARGET	The hotel	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w7 ./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w8
+
+DSE	nice	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w81
+TARGET	hotel	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w79
+
+DSE	nice	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w81
+TARGET	personnel	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w83
+
+DSE	nice	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w81
+TARGET	personnel	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w83
+
+DSE	kind	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w88
+TARGET	kind	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w88
+
+DSE	city center	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w74 ./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w75
+TARGET	center	./opener_hotel/en/english00039_2bc0812c3efc22fca59475d1ea37a251.kaf#w75
+
+DSE	Marriott standard	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w1 ./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w2
+TARGET	room	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w4
+
+DSE	good	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w27
+TARGET	impression	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w32
+
+DSE	not cleaned properly	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w36 ./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w37 ./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w38
+TARGET	it	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w34
+
+DSE	rather small	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w52 ./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w53
+TARGET	Bathroom	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w50
+
+DSE	!	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w112
+TARGET	rooftop swimming pool	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w109 ./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w110 ./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w111
+
+DSE	very friendly	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w133 ./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w134
+TARGET	Reception staff	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w130 ./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w131
+
+DSE	were	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w123
+TARGET	towels	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w124
+
+DSE	were	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w123
+TARGET	towels	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w124
+
+DSE	not big	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w115 ./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w116
+TARGET	It	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w113
+
+DSE	nice	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w120
+TARGET	view	./opener_hotel/en/english00127_8d4c9655dbcc99d27f3addc930c6881a.kaf#w118
+
+DSE	wonderful	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w5
+TARGET	park	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w6
+
+DSE	Nice	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w1
+TARGET	hotel	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w2
+
+DSE	wonderful	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w5
+TARGET	park	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w6
+
+DSE	rather noisy	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w20 ./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w21
+TARGET	Streetside	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w18
+
+DSE	excellent	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w36
+TARGET	Diner	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w34
+
+DSE	excellent	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w36
+TARGET	the	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w38
+
+DSE	excellent	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w36
+TARGET	choice	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w39
+
+DSE	very good	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w31 ./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w32
+TARGET	Wellness	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w26
+
+DSE	!	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w49
+TARGET	staff	./opener_hotel/en/english00155_e51c6adb2b98c032a78935b3923537a0.kaf#w48
+
+DSE	awful	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w65
+TARGET	italian	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w63
+
+DSE	great	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w9
+TARGET	fab location	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w6 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w7
+
+DSE	great	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w9
+TARGET	views	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w10
+
+DSE	good	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w32
+TARGET	restaurant	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w30
+
+DSE	needs refurb bit tired.	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w26 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w27 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w28 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w29
+TARGET	whole public areas	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w23 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w24 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w25
+
+DSE	be better	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w14 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w15
+TARGET	some parts of	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w16 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w17 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w18
+
+DSE	be better	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w14 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w15
+TARGET	hotel	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w20
+
+DSE	needs refurb bit tired.	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w26 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w27 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w28 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w29
+TARGET	whole public	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w23 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w24
+
+DSE	good.	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w78
+TARGET	service	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w79
+
+DSE	very slow	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w84 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w85
+TARGET	bar	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w82
+
+DSE	great	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w9
+TARGET	location	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w7
+
+DSE	be better	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w14 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w15
+TARGET	management	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w12
+
+DSE	be better	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w14 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w15
+TARGET	some parts	./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w16 ./opener_hotel/en/english00183_d693aa86dc9f10aaee041d857b94417e.kaf#w17
+
+DSE	great condition	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w21 ./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w22
+TARGET	the	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w24
+
+DSE	only	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w33
+TARGET	centre	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w31
+
+DSE	short scenic	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w35 ./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w36
+TARGET	room	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w39
+
+DSE	very comfortable	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w26 ./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w27
+TARGET	Köln	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w29
+
+DSE	Will	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w3
+TARGET	this	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w7
+
+DSE	Will	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w3
+TARGET	staff	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w10
+
+DSE	Will	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w3
+TARGET	staff	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w10
+
+DSE	welcoming	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w17
+TARGET	the	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w14
+
+DSE	Will	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w3
+TARGET	staff	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w10
+
+DSE	welcoming	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w17
+TARGET	hotel	./opener_hotel/en/english00085_7d628a96745874778b8273c859ca3707.kaf#w18
+
+DSE	delightfully tranquil	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w45 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w46
+TARGET	The atmosphere	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w42 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w43
+
+DSE	relaxing	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w48
+TARGET	it	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w50
+
+DSE	delightfully tranquil	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w45 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w46
+TARGET	The atmosphere	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w42 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w43
+
+DSE	lovely	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w55
+TARGET	place	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w56
+
+DSE	lovely	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w55
+TARGET	place	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w56
+
+DSE	beautiful	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w7
+TARGET	This	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w4
+
+DSE	beautiful	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w7
+TARGET	hotel	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w8
+
+DSE	lovely	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w10
+TARGET	grounds	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w11
+
+DSE	beautiful	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w7
+TARGET	hotel	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w8
+
+DSE	lovely	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w10
+TARGET	grounds	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w11
+
+DSE	the	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w21
+TARGET	city of	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w22 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w23
+
+DSE	very well connected	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w30 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w31 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w32
+TARGET	park	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w34
+
+DSE	very well connected	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w30 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w31 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w32
+TARGET	park	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w34
+
+DSE	very well connected	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w30 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w31 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w32
+TARGET	bus service	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w39 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w40
+
+DSE	beautiful	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w7
+TARGET	This	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w4
+
+DSE	beautiful	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w7
+TARGET	hotel	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w8
+
+DSE	would be	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w81 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w82
+TARGET	bathroom	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w84
+
+DSE	would be	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w81 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w82
+TARGET	bathroom	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w84
+
+DSE	spacious	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w72
+TARGET	The rooms	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w69 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w70
+
+DSE	spacious	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w72
+TARGET	The rooms	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w69 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w70
+
+DSE	excellent	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w112
+TARGET	Room service	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w109 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w110
+
+DSE	adequate	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w104
+TARGET	That	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w99
+
+DSE	adequate	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w104
+TARGET	That	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w99
+
+DSE	enjoyed	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w124
+TARGET	our	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w125
+
+DSE	excellent	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w120
+TARGET	the restaurant	./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w117 ./opener_hotel/en/english00043_2ea2ca9e979272e94f95eba5cf140c04.kaf#w118
+
+DSE	Good	./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w1
+TARGET	location	./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w2
+
+DSE	Good	./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w1
+TARGET	Lyon	./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w5
+
+DSE	form	./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w28
+TARGET	the	./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w29
+
+DSE	do with some renovation	./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w64 ./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w65 ./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w66 ./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w67
+TARGET	The hotel	./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w61 ./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w62
+
+DSE	not	./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w56
+TARGET	The area	./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w50 ./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w51
+
+DSE	not	./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w56
+TARGET	hotel	./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w54
+
+DSE	alright	./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w97
+TARGET	hotel	./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w98
+
+DSE	quite a bit	./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w73 ./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w74 ./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w75
+TARGET	The check in	./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w69 ./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w70 ./opener_hotel/en/english00051_36b11c69a83111b47b881cf146619366.kaf#w71
+
+DSE	not well cleaned	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w48 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w49 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w50
+TARGET	sheets	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w46
+
+DSE	don 't want	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w57 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w58 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w59
+TARGET	stains	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w54
+
+DSE	very dirty	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w31 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w32
+TARGET	it	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w29
+
+DSE	very dirty	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w31 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w32
+TARGET	little insects	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w38 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w39
+
+DSE	not well cleaned	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w48 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w49 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w50
+TARGET	sheets	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w46
+
+DSE	remarkable	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w5
+TARGET	The hotel	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w2 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w3
+
+DSE	not worth	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w93 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w94
+TARGET	It	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w91
+
+DSE	not worth	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w93 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w94
+TARGET	the	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w96
+
+DSE	not worth	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w93 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w94
+TARGET	we	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w98
+
+DSE	very little	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w71 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w72
+TARGET	bathroom	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w69
+
+DSE	not	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w74
+TARGET	the sink	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w78 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w79
+
+DSE	was no space	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w87 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w88 ./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w89
+TARGET	space	./opener_hotel/en/english00029_23f919aca4ec4331ef32567446df366b.kaf#w89
+
+DSE	bad	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w54
+TARGET	hotel	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w52
+
+DSE	bad	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w54
+TARGET	air	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w55
+
+DSE	nice	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w90
+TARGET	bathroom	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w91
+
+DSE	good	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w97
+TARGET	TV	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w98
+
+DSE	nice	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w90
+TARGET	bathroom	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w91
+
+DSE	nice	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w90
+TARGET	bathroom	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w91
+
+DSE	always dirty	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w77 ./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w78
+TARGET	carpet	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w75
+
+DSE	not	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w67
+TARGET	cleanliness	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w65
+
+DSE	's best side	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w70 ./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w71 ./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w72
+TARGET	the	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w74
+
+DSE	not really smiling	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w120 ./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w121 ./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w122
+TARGET	The stuff	./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w117 ./opener_hotel/en/english00194_e730d7148c27e85baf35e595e4ee8414.kaf#w118
+
+DSE	Good	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w1
+TARGET	quality	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w2
+
+DSE	good	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w9
+TARGET	The hotel	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w5 ./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w6
+
+DSE	good	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w9
+TARGET	position	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w10
+
+DSE	free	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w82
+TARGET	parking	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w83
+
+DSE	just across the	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w65 ./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w66 ./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w67
+TARGET	street	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w68
+
+DSE	to	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w72
+TARGET	customers	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w73
+
+DSE	there are	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w46 ./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w47
+TARGET	two options	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w48 ./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w49
+
+DSE	there are	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w46 ./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w47
+TARGET	two options	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w48 ./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w49
+
+DSE	there are	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w46 ./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w47
+TARGET	two options	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w48 ./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w49
+
+DSE	doesn 't have	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w38 ./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w39 ./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w40
+TARGET	The hotel	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w36 ./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w37
+
+DSE	there are	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w46 ./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w47
+TARGET	two	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w48
+
+DSE	costs	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w117
+TARGET	between	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w116
+
+DSE	costs	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w117
+TARGET	between	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w116
+
+DSE	free	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w127
+TARGET	internet connection	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w128 ./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w129
+
+DSE	good	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w97
+TARGET	rooms	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w99
+
+DSE	good	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w97
+TARGET	rooms	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w99
+
+DSE	good	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w97
+TARGET	Quality	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w91
+
+DSE	good	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w97
+TARGET	rooms	./opener_hotel/en/english00162_c5cf6e0a872c0df8bd97a6e3facd6ffd.kaf#w99
+
+DSE	friendly	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w23
+TARGET	They	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w21
+
+DSE	friendly	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w23
+TARGET	They	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w21
+
+DSE	fantastic	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w11
+TARGET	This hotel	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w8 ./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w9
+
+DSE	fantastic	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w11
+TARGET	the staff	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w12 ./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w13
+
+DSE	fantastic	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w11
+TARGET	staff	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w13
+
+DSE	immaculately clean	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w43 ./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w44
+TARGET	The rooms	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w40 ./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w41
+
+DSE	immaculately clean	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w43 ./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w44
+TARGET	it	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w46
+
+DSE	good	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w30
+TARGET	The food	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w27 ./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w28
+
+DSE	vast	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w36
+TARGET	the complex	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w33 ./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w34
+
+DSE	good	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w30
+TARGET	The food	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w27 ./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w28
+
+DSE	vast	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w36
+TARGET	complex	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w34
+
+DSE	vast	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w36
+TARGET	complex	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w34
+
+DSE	good	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w30
+TARGET	The food	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w27 ./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w28
+
+DSE	vast	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w36
+TARGET	complex	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w34
+
+DSE	again	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w57
+TARGET	here	./opener_hotel/en/english00094_679dbf2a8a74195a9db0e990ffc0ca34.kaf#w56
+
+DSE	Friendly	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w131
+TARGET	staff	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w132
+
+DSE	restrooms	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w130
+TARGET	public restrooms	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w129 ./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w130
+
+DSE	very old	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w43 ./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w44
+TARGET	tube television	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w45 ./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w46
+
+DSE	side	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w32
+TARGET	hand	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w31
+
+DSE	very old	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w43 ./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w44
+TARGET	commode	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w40
+
+DSE	very old	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w43 ./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w44
+TARGET	television	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w46
+
+DSE	side	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w32
+TARGET	hand	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w31
+
+DSE	side	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w32
+TARGET	hand	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w31
+
+DSE	very old	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w43 ./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w44
+TARGET	television	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w46
+
+DSE	very old	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w16 ./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w17
+TARGET	The	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w9
+
+DSE	big dirty spot	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w109 ./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w110 ./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w111
+TARGET	spot on	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w111 ./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w112
+
+DSE	big dirty spot	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w109 ./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w110 ./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w111
+TARGET	spot	./opener_hotel/en/english00055_3a25a75c390c818d9006a41a88c36d5e.kaf#w111
+
+DSE	Very warm comfortable friendly	./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w4 ./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w5 ./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w6 ./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w7
+TARGET	hotel	./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w8
+
+DSE	Very warm comfortable friendly	./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w4 ./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w5 ./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w6 ./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w7
+TARGET	hotel	./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w8
+
+DSE	not big	./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w46 ./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w47
+TARGET	rooms	./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w44
+
+DSE	not big	./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w46 ./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w47
+TARGET	rooms	./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w44
+
+DSE	clean comfortable	./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w67 ./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w68
+TARGET	bathrooms	./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w69
+
+DSE	clean comfortable	./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w67 ./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w68
+TARGET	bathrooms	./opener_hotel/en/english00110_7a012157f787f3c49871371b3f64b382.kaf#w69
+
+DSE	Perfect	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w1
+TARGET	hotel	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w2
+
+DSE	wonderfull	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w18
+TARGET	breakfast	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w16
+
+DSE	perfect	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w9
+TARGET	hotel	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w7
+
+DSE	perfect	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w9
+TARGET	the	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w11
+
+DSE	near	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w13
+TARGET	location	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w12
+
+DSE	very helpfull	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w31 ./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w32
+TARGET	the	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w29
+
+DSE	very clean	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w35 ./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w36
+TARGET	the	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w33
+
+DSE	very clean	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w35 ./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w36
+TARGET	room	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w38
+
+DSE	very clean	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w35 ./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w36
+TARGET	the	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w33
+
+DSE	immidiately come	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w41 ./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w42
+TARGET	service	./opener_hotel/en/english00155_b652d1e721dc3fa132e8e1a810b87410.kaf#w39
+
+DSE	excellent	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w97
+TARGET	Location	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w96
+
+DSE	no	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w99
+TARGET	no	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w99
+
+DSE	no	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w99
+TARGET	narrow stairs	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w102 ./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w103
+
+DSE	excellent	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w97
+TARGET	Location	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w96
+
+DSE	no	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w99
+TARGET	elevator	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w100
+
+DSE	no	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w99
+TARGET	narrow stairs	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w102 ./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w103
+
+DSE	no	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w99
+TARGET	elevator	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w100
+
+DSE	no	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w99
+TARGET	stairs	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w103
+
+DSE	not working	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w13 ./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w14
+TARGET	TV	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w11
+
+DSE	not working	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w13 ./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w14
+TARGET	TV	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w11
+
+DSE	clean	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w6
+TARGET	The room	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w3 ./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w4
+
+DSE	minimal	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w8
+TARGET	interior	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w9
+
+DSE	friendly	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w42
+TARGET	Staff	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w41
+
+DSE	friendly	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w42
+TARGET	Staff	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w41
+
+DSE	friendly	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w42
+TARGET	Staff	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w41
+
+DSE	clean	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w24
+TARGET	Bathroom	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w22
+
+DSE	too expensive	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w93 ./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w94
+TARGET	Transport	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w89
+
+DSE	too expensive	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w93 ./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w94
+TARGET	the airport	./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w91 ./opener_hotel/en/english00182_d63307c29a9ed27614084c81d5fc01f4.kaf#w92
+
+DSE	Excellent	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w1
+TARGET	vacationd	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w2
+
+DSE	Excellent	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w1
+TARGET	vacationd	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w2
+
+DSE	great	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w17
+TARGET	Everything	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w15
+
+DSE	great	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w17
+TARGET	of the	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w21 ./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w22
+
+DSE	delicious	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w28
+TARGET	the staff	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w22 ./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w23
+
+DSE	delicious	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w28
+TARGET	food	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w26
+
+DSE	great	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w17
+TARGET	Everything	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w15
+
+DSE	great	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w17
+TARGET	the	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w19
+
+DSE	the best	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w7 ./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w8
+TARGET	IT	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w5
+
+DSE	the best	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w7 ./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w8
+TARGET	vacation	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w9
+
+DSE	wonderfull	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w40
+TARGET	time	./opener_hotel/en/english00138_d15915aac8e67bf4ecabaa0b95b10ec0.kaf#w41
+
+DSE	not like	./opener_hotel/en/english00015_10b768c75ce75f96ee4722d418252686.kaf#w46 ./opener_hotel/en/english00015_10b768c75ce75f96ee4722d418252686.kaf#w47
+TARGET	it	./opener_hotel/en/english00015_10b768c75ce75f96ee4722d418252686.kaf#w48
+
+DSE	limited	./opener_hotel/en/english00015_10b768c75ce75f96ee4722d418252686.kaf#w110
+TARGET	the choices	./opener_hotel/en/english00015_10b768c75ce75f96ee4722d418252686.kaf#w107 ./opener_hotel/en/english00015_10b768c75ce75f96ee4722d418252686.kaf#w108
+
+DSE	budget	./opener_hotel/en/english00015_10b768c75ce75f96ee4722d418252686.kaf#w72
+TARGET	" hotel	./opener_hotel/en/english00015_10b768c75ce75f96ee4722d418252686.kaf#w73 ./opener_hotel/en/english00015_10b768c75ce75f96ee4722d418252686.kaf#w74
+
+DSE	weird	./opener_hotel/en/english00021_175f405c5bc3db2c7e1207bc21346d43.kaf#w112
+TARGET	smell	./opener_hotel/en/english00021_175f405c5bc3db2c7e1207bc21346d43.kaf#w113
+
+DSE	weird	./opener_hotel/en/english00021_175f405c5bc3db2c7e1207bc21346d43.kaf#w112
+TARGET	area	./opener_hotel/en/english00021_175f405c5bc3db2c7e1207bc21346d43.kaf#w117
+
+DSE	weird	./opener_hotel/en/english00021_175f405c5bc3db2c7e1207bc21346d43.kaf#w112
+TARGET	weird smell	./opener_hotel/en/english00021_175f405c5bc3db2c7e1207bc21346d43.kaf#w112 ./opener_hotel/en/english00021_175f405c5bc3db2c7e1207bc21346d43.kaf#w113
+
+DSE	very friendly	./opener_hotel/en/english00021_175f405c5bc3db2c7e1207bc21346d43.kaf#w49 ./opener_hotel/en/english00021_175f405c5bc3db2c7e1207bc21346d43.kaf#w50
+TARGET	The staff	./opener_hotel/en/english00021_175f405c5bc3db2c7e1207bc21346d43.kaf#w46 ./opener_hotel/en/english00021_175f405c5bc3db2c7e1207bc21346d43.kaf#w47
+
+DSE	ok	./opener_hotel/en/english00021_175f405c5bc3db2c7e1207bc21346d43.kaf#w82
+TARGET	The location	./opener_hotel/en/english00021_175f405c5bc3db2c7e1207bc21346d43.kaf#w79 ./opener_hotel/en/english00021_175f405c5bc3db2c7e1207bc21346d43.kaf#w80
+
+DSE	channel	./opener_hotel/en/english00021_175f405c5bc3db2c7e1207bc21346d43.kaf#w74
+TARGET	channel	./opener_hotel/en/english00021_175f405c5bc3db2c7e1207bc21346d43.kaf#w74
+
+DSE	Nice	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w95
+TARGET	hotel	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w96
+
+DSE	Nice	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w1
+TARGET	hotel	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w2
+
+DSE	Nice	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w9
+TARGET	* *	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w10 ./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w11
+
+DSE	friendly	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w55
+TARGET	The	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w50
+
+DSE	friendly	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w55
+TARGET	location	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w52
+
+DSE	friendly	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w55
+TARGET	staff	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w56
+
+DSE	friendly	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w55
+TARGET	The	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w50
+
+DSE	friendly	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w55
+TARGET	location	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w52
+
+DSE	friendly	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w55
+TARGET	staff	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w56
+
+DSE	a little	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w44 ./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w45
+TARGET	The hotel	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w41 ./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w42
+
+DSE	diffrent	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w75
+TARGET	The hotel	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w69 ./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w70
+
+DSE	diffrent	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w75
+TARGET	the	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w78
+
+DSE	There is no	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w60 ./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w61 ./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w62
+TARGET	restaurant	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w63
+
+DSE	There is free	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w87 ./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w88 ./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w89
+TARGET	WIFI	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w90
+
+DSE	There is free	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w87 ./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w88 ./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w89
+TARGET	WIFI in	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w90 ./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w91
+
+DSE	good	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w85
+TARGET	Breakfast	./opener_hotel/en/english00053_37db4002a59f6cd0704d7b2d19756b73.kaf#w83
+
+DSE	not	./opener_hotel/en/english00112_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w29
+TARGET	this	./opener_hotel/en/english00112_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w27
+
+DSE	give	./opener_hotel/en/english00112_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w85
+TARGET	the ala carte menu	./opener_hotel/en/english00112_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w90 ./opener_hotel/en/english00112_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w91 ./opener_hotel/en/english00112_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w92 ./opener_hotel/en/english00112_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w93
+
+DSE	local	./opener_hotel/en/english00112_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w70
+TARGET	fish	./opener_hotel/en/english00112_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w71
+
+DSE	extra	./opener_hotel/en/english00112_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w75
+TARGET	ala	./opener_hotel/en/english00112_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w80
+
+DSE	nice	./opener_hotel/en/english00112_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w19
+TARGET	location	./opener_hotel/en/english00112_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w20
+
+DSE	nice	./opener_hotel/en/english00112_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w16
+TARGET	rooms	./opener_hotel/en/english00112_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w17
+
+DSE	amazing staff best	./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w4 ./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w5 ./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w6
+TARGET	holiday	./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w7
+
+DSE	Beautiful	./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w1
+TARGET	hotel	./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w2
+
+DSE	was	./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w27
+TARGET	lots of	./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w28 ./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w29
+
+DSE	lovely	./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w11
+TARGET	The	./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w8
+
+DSE	beautiful	./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w19
+TARGET	view	./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w20
+
+DSE	lovely	./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w11
+TARGET	The room	./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w8 ./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w9
+
+DSE	lovely	./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w11
+TARGET	The room	./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w8 ./opener_hotel/en/english00075_5080a24c245436ea37006171ebb61bc6.kaf#w9
+
+DSE	before making booking	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w119 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w120 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w121
+TARGET	this	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w123
+
+DSE	Too expensive for	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w1 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w2 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w3
+TARGET	service	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w5
+
+DSE	too small	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w42 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w43
+TARGET	The room	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w39 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w40
+
+DSE	not clean	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w48 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w49
+TARGET	bathroom	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w46
+
+DSE	too small	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w42 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w43
+TARGET	The room	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w39 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w40
+
+DSE	too small	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w42 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w43
+TARGET	the	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w45
+
+DSE	too expensive	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w32 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w33
+TARGET	The price	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w29 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w30
+
+DSE	too expensive	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w32 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w33
+TARGET	The price	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w29 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w30
+
+DSE	such ordinary	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w35 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w36
+TARGET	service	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w37
+
+DSE	free	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w86
+TARGET	The booking	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w81 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w82
+
+DSE	free	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w86
+TARGET	The booking conditions	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w81 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w82 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w83
+
+DSE	free	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w86
+TARGET	booking	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w82
+
+DSE	no	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w96
+TARGET	full	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w93
+
+DSE	free	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w86
+TARGET	The booking conditions	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w81 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w82 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w83
+
+DSE	free	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w86
+TARGET	cancelation	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w87
+
+DSE	very usual · fast	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w73 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w74 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w75 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w76
+TARGET	The food	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w70 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w71
+
+DSE	very usual · fast	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w73 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w74 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w75 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w76
+TARGET	The food	./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w70 ./opener_hotel/en/english00081_5a3f2f66182de61beb3b6079a33bafd6.kaf#w71
+
+DSE	non	./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w8
+TARGET	smoking room	./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w10 ./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w11
+
+DSE	only	./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w13
+TARGET	cigarette	./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w17
+
+DSE	expensive	./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w72
+TARGET	The food	./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w69 ./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w70
+
+DSE	is only	./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w43 ./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w44
+TARGET	set of	./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w46 ./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w47
+
+DSE	only	./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w63
+TARGET	hotel	./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w54
+
+DSE	only	./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w63
+TARGET	the elevators	./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w60 ./opener_hotel/en/english00051_496c24f962c80bf3bb9efff898020602.kaf#w61
+
+DSE	Lovely	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w1
+TARGET	hotel	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w2
+
+DSE	Lovely	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w1
+TARGET	Trier	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w9
+
+DSE	Lovely	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w1
+TARGET	hotel	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w2
+
+DSE	Lovely	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w1
+TARGET	Trier	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w9
+
+DSE	Lovely	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w1
+TARGET	hotel	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w2
+
+DSE	lovely	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w47
+TARGET	Park	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w45
+
+DSE	excellent	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w52
+TARGET	room	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w50
+
+DSE	lovely	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w47
+TARGET	Park	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w45
+
+DSE	lovely	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w47
+TARGET	our	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w49
+
+DSE	lovely	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w47
+TARGET	Park	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w45
+
+DSE	lovely	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w47
+TARGET	Park	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w45
+
+DSE	easy	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w13
+TARGET	The hotel	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w10 ./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w11
+
+DSE	easy	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w13
+TARGET	hotel	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w11
+
+DSE	poor	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w86
+TARGET	choice	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w87
+
+DSE	very good	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w66 ./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w67
+TARGET	The decor	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w59 ./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w60
+
+DSE	less	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w71
+TARGET	choice of food	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w72 ./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w73 ./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w74
+
+DSE	less	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w71
+TARGET	wine	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w76
+
+DSE	very friendly	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w104 ./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w105
+TARGET	the staff	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w101 ./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w102
+
+DSE	very friendly	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w104 ./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w105
+TARGET	the staff	./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w101 ./opener_hotel/en/english00149_ddc3a415ce3ad69951b4fcfed71bf2aa.kaf#w102
+
+DSE	Lovely	./opener_hotel/en/english00074_5043dc58494745b461da0773b8d0a648.kaf#w1
+TARGET	hotel	./opener_hotel/en/english00074_5043dc58494745b461da0773b8d0a648.kaf#w2
+
+DSE	lovely	./opener_hotel/en/english00074_5043dc58494745b461da0773b8d0a648.kaf#w19
+TARGET	Hotel	./opener_hotel/en/english00074_5043dc58494745b461da0773b8d0a648.kaf#w17
+
+DSE	lovely	./opener_hotel/en/english00074_5043dc58494745b461da0773b8d0a648.kaf#w19
+TARGET	Hotel	./opener_hotel/en/english00074_5043dc58494745b461da0773b8d0a648.kaf#w17
+
+DSE	lovely	./opener_hotel/en/english00074_5043dc58494745b461da0773b8d0a648.kaf#w19
+TARGET	Hotel	./opener_hotel/en/english00074_5043dc58494745b461da0773b8d0a648.kaf#w17
+
+DSE	okay	./opener_hotel/en/english00074_5043dc58494745b461da0773b8d0a648.kaf#w47
+TARGET	food	./opener_hotel/en/english00074_5043dc58494745b461da0773b8d0a648.kaf#w45
+
+DSE	got	./opener_hotel/en/english00074_5043dc58494745b461da0773b8d0a648.kaf#w49
+TARGET	abit	./opener_hotel/en/english00074_5043dc58494745b461da0773b8d0a648.kaf#w50
+
+DSE	lovely	./opener_hotel/en/english00074_5043dc58494745b461da0773b8d0a648.kaf#w28
+TARGET	Staff	./opener_hotel/en/english00074_5043dc58494745b461da0773b8d0a648.kaf#w26
+
+DSE	lovely	./opener_hotel/en/english00074_5043dc58494745b461da0773b8d0a648.kaf#w28
+TARGET	Staff	./opener_hotel/en/english00074_5043dc58494745b461da0773b8d0a648.kaf#w26
+
+DSE	Best	./opener_hotel/en/english00070_67e24dc57e51e8ecd836794d7292ac4b.kaf#w1
+TARGET	hotel	./opener_hotel/en/english00070_67e24dc57e51e8ecd836794d7292ac4b.kaf#w2
+
+DSE	the best	./opener_hotel/en/english00070_67e24dc57e51e8ecd836794d7292ac4b.kaf#w9 ./opener_hotel/en/english00070_67e24dc57e51e8ecd836794d7292ac4b.kaf#w10
+TARGET	hotel	./opener_hotel/en/english00070_67e24dc57e51e8ecd836794d7292ac4b.kaf#w11
+
+DSE	very small	./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w4 ./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w5
+TARGET	The room	./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w1 ./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w2
+
+DSE	of passing large	./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w30 ./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w31 ./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w32
+TARGET	the	./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w28
+
+DSE	near the	./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w15 ./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w16
+TARGET	Hotel	./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w9
+
+DSE	largest	./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w61
+TARGET	area	./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w53
+
+DSE	largest	./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w61
+TARGET	Rungis	./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w57
+
+DSE	station	./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w49
+TARGET	hotel	./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w38
+
+DSE	station	./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w49
+TARGET	a bus stop	./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w41 ./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w42 ./opener_hotel/en/english00200_e8f707795fc0c7f605a1f7115c3da711.kaf#w43
+
+DSE	Great	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w1
+TARGET	all inclusive trip	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w2 ./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w3 ./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w4
+
+DSE	great	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w37
+TARGET	The food	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w34 ./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w35
+
+DSE	great	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w37
+TARGET	·	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w38
+
+DSE	absolutely beautiful	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w31 ./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w32
+TARGET	The resort	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w28 ./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w29
+
+DSE	extremely pleasant	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w58 ./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w59
+TARGET	The pool bartenders	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w54 ./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w55 ./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w56
+
+DSE	extremely pleasant	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w58 ./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w59
+TARGET	The pool bartenders	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w54 ./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w55 ./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w56
+
+DSE	always attentive	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w61 ./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w62
+TARGET	our	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w64
+
+DSE	excellent	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w52
+TARGET	The service	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w49 ./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w50
+
+DSE	excellent	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w83
+TARGET	It	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w80
+
+DSE	highly recommend	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w91 ./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w92
+TARGET	this resort	./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w93 ./opener_hotel/en/english00113_a3f4d77145d61946af961aec6aec2e71.kaf#w94
+
+DSE	exceptional	./opener_hotel/en/english00071_4c3f3e5bd758f24bde2ee03079db5370.kaf#w41
+TARGET	attitudes	./opener_hotel/en/english00071_4c3f3e5bd758f24bde2ee03079db5370.kaf#w35
+
+DSE	exceptional	./opener_hotel/en/english00071_4c3f3e5bd758f24bde2ee03079db5370.kaf#w41
+TARGET	the room	./opener_hotel/en/english00071_4c3f3e5bd758f24bde2ee03079db5370.kaf#w37 ./opener_hotel/en/english00071_4c3f3e5bd758f24bde2ee03079db5370.kaf#w38
+
+DSE	exceptional	./opener_hotel/en/english00071_4c3f3e5bd758f24bde2ee03079db5370.kaf#w41
+TARGET	attitudes	./opener_hotel/en/english00071_4c3f3e5bd758f24bde2ee03079db5370.kaf#w35
+
+DSE	exceptional	./opener_hotel/en/english00071_4c3f3e5bd758f24bde2ee03079db5370.kaf#w41
+TARGET	the room	./opener_hotel/en/english00071_4c3f3e5bd758f24bde2ee03079db5370.kaf#w37 ./opener_hotel/en/english00071_4c3f3e5bd758f24bde2ee03079db5370.kaf#w38
+
+DSE	felt the attention to detail	./opener_hotel/en/english00071_4c3f3e5bd758f24bde2ee03079db5370.kaf#w26 ./opener_hotel/en/english00071_4c3f3e5bd758f24bde2ee03079db5370.kaf#w27 ./opener_hotel/en/english00071_4c3f3e5bd758f24bde2ee03079db5370.kaf#w28 ./opener_hotel/en/english00071_4c3f3e5bd758f24bde2ee03079db5370.kaf#w29 ./opener_hotel/en/english00071_4c3f3e5bd758f24bde2ee03079db5370.kaf#w30
+TARGET	attention	./opener_hotel/en/english00071_4c3f3e5bd758f24bde2ee03079db5370.kaf#w28
+
+DSE	Sensational located superfriendly	./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w1 ./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w2 ./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w3
+TARGET	hotel	./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w4
+
+DSE	frienly	./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w13
+TARGET	the	./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w10
+
+DSE	new	./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w18
+TARGET	rooms	./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w16
+
+DSE	new	./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w18
+TARGET	rooms	./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w16
+
+DSE	luxury modern	./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w22 ./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w23
+TARGET	modern	./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w23
+
+DSE	of opportunitys possible	./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w31 ./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w32 ./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w33
+TARGET	hotel	./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w37
+
+DSE	frienly	./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w13
+TARGET	the staff	./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w10 ./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w11
+
+DSE	frienly	./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w13
+TARGET	the	./opener_hotel/en/english00128_90fc6e46f29ed00f39500b55a9c8f202.kaf#w15
+
+DSE	There is no	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w28 ./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w29 ./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w30
+TARGET	sauna nor swimming pool	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w31 ./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w32 ./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w33 ./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w34
+
+DSE	There is no	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w28 ./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w29 ./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w30
+TARGET	sauna nor swimming pool	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w31 ./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w32 ./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w33 ./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w34
+
+DSE	ok	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w49
+TARGET	room mattress	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w46 ./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w47
+
+DSE	ok	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w49
+TARGET	it	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w51
+
+DSE	complaining	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w68
+TARGET	the	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w70
+
+DSE	with discovery	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w38 ./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w39
+TARGET	Flat	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w36
+
+DSE	no	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w41
+TARGET	HBO	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w42
+
+DSE	quite international	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w98 ./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w99
+TARGET	stuff	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w96
+
+DSE	very good	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w92 ./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w93
+TARGET	Service	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w86
+
+DSE	very good	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w92 ./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w93
+TARGET	the	./opener_hotel/en/english00073_4ec3ca101056f97554290430ff17c373.kaf#w95
+
+DSE	fantastic	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w4
+TARGET	Hotel	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w3
+
+DSE	fantastic	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w4
+TARGET	Food	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w5
+
+DSE	fantastic	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w4
+TARGET	Food	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w5
+
+DSE	friendly	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w22
+TARGET	The People	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w19 ./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w20
+
+DSE	fantastic	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w27
+TARGET	Food	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w25
+
+DSE	friendly	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w22
+TARGET	The People	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w19 ./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w20
+
+DSE	friendly	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w22
+TARGET	the Food	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w24 ./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w25
+
+DSE	Simply Good	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w6 ./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w7
+TARGET	Park	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w10
+
+DSE	stunning	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w15
+TARGET	Hotel	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w13
+
+DSE	stunning	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w15
+TARGET	charming	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w17
+
+DSE	stunning	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w15
+TARGET	Hotel	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w13
+
+DSE	very small	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w34 ./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w35
+TARGET	bathroom	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w36
+
+DSE	to pay extra	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w42 ./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w43 ./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w44
+TARGET	carparking	./opener_hotel/en/english00024_25d18c2dc122d4ea250466f6bea80fd6.kaf#w46
+
+DSE	Great	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w1
+TARGET	holiday	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w2
+
+DSE	Great	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w1
+TARGET	Beach Resort	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w5 ./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w6
+
+DSE	kind	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w49
+TARGET	food	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w51
+
+DSE	super	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w53
+TARGET	holiday	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w54
+
+DSE	kind	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w49
+TARGET	all	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w48
+
+DSE	kind	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w49
+TARGET	food	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w51
+
+DSE	super	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w53
+TARGET	holiday	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w54
+
+DSE	great	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w21
+TARGET	club	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w19
+
+DSE	great	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w21
+TARGET	club	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w19
+
+DSE	everything from fun to	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w29 ./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w30 ./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w31 ./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w32
+TARGET	everything	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w29
+
+DSE	best	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w11
+TARGET	it	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w7
+
+DSE	best	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w11
+TARGET	everybody	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w13
+
+DSE	great	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w21
+TARGET	club	./opener_hotel/en/english00135_cf437684333d2d7a16753ea12607b92d.kaf#w19
+
+DSE	very small	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w25 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w26
+TARGET	It	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w22
+
+DSE	very small	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w25 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w26
+TARGET	room	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w27
+
+DSE	very small	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w25 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w26
+TARGET	room	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w27
+
+DSE	clean	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w38
+TARGET	sheets	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w36
+
+DSE	clean	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w38
+TARGET	sheets	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w36
+
+DSE	comfy	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w42
+TARGET	bed	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w41
+
+DSE	clean	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w38
+TARGET	sheets	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w36
+
+DSE	clean	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w38
+TARGET	the	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w40
+
+DSE	cheapest available	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w15 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w16
+TARGET	room	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w11
+
+DSE	cheapest available	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w15 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w16
+TARGET	Park	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w19
+
+DSE	very steep	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w73 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w74
+TARGET	stairs	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w76
+
+DSE	very steep	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w73 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w74
+TARGET	stairs	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w76
+
+DSE	down	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w70
+TARGET	toilets	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w68
+
+DSE	very steep	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w73 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w74
+TARGET	) stairs	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w75 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w76
+
+DSE	down	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w70
+TARGET	toilets	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w68
+
+DSE	very steep	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w73 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w74
+TARGET	) stairs	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w75 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w76
+
+DSE	down	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w70
+TARGET	Shared	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w65
+
+DSE	down	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w70
+TARGET	toilets	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w68
+
+DSE	down	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w70
+TARGET	Shared	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w65
+
+DSE	down	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w70
+TARGET	toilets	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w68
+
+DSE	very steep	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w73 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w74
+TARGET	)	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w75
+
+DSE	very steep	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w73 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w74
+TARGET	)	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w75
+
+DSE	There is	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w44 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w45
+TARGET	washbasin	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w47
+
+DSE	just across the	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w109 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w110 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w111
+TARGET	street	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w112
+
+DSE	just across the	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w109 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w110 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w111
+TARGET	street	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w112
+
+DSE	very basic	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w114 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w115
+TARGET	continental with	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w116 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w117
+
+DSE	served	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w85
+TARGET	breakfast	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w83
+
+DSE	nothing extraordinary	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w91 ./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w92
+TARGET	it	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w89
+
+DSE	alright	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w98
+TARGET	price	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w97
+
+DSE	alright	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w98
+TARGET	alright	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w98
+
+DSE	alright	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w140
+TARGET	the	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w142
+
+DSE	you	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w144
+TARGET	breakfast	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w148
+
+DSE	special	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w152
+TARGET	·	./opener_hotel/en/english00037_29e678cc5c59153d2361d234e0313174.kaf#w153
+
+DSE	Best	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w1
+TARGET	hotel	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w2
+
+DSE	very clean	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w15 ./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w16
+TARGET	Everything	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w13
+
+DSE	very clean	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w15 ./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w16
+TARGET	Everything	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w13
+
+DSE	very friendly	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w24 ./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w25
+TARGET	Staff	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w22
+
+DSE	excellent	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w38
+TARGET	place	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w39
+
+DSE	very friendly	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w24 ./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w25
+TARGET	Staff	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w22
+
+DSE	helpfull	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w27
+TARGET	lots	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w29
+
+DSE	very friendly	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w24 ./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w25
+TARGET	Staff	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w22
+
+DSE	!	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w12
+TARGET	This hotel	./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w8 ./opener_hotel/en/english00027_212cc0ac0b2714f3896567c3f90b8083.kaf#w9
+
+DSE	great	./opener_hotel/en/english00056_4da74e0013851c14653a56c7edd06cd3.kaf#w2
+TARGET	location	./opener_hotel/en/english00056_4da74e0013851c14653a56c7edd06cd3.kaf#w3
+
+DSE	beautiful	./opener_hotel/en/english00056_4da74e0013851c14653a56c7edd06cd3.kaf#w21
+TARGET	it	./opener_hotel/en/english00056_4da74e0013851c14653a56c7edd06cd3.kaf#w17
+
+DSE	beautiful	./opener_hotel/en/english00056_4da74e0013851c14653a56c7edd06cd3.kaf#w21
+TARGET	position	./opener_hotel/en/english00056_4da74e0013851c14653a56c7edd06cd3.kaf#w22
+
+DSE	beautiful	./opener_hotel/en/english00056_4da74e0013851c14653a56c7edd06cd3.kaf#w21
+TARGET	it	./opener_hotel/en/english00056_4da74e0013851c14653a56c7edd06cd3.kaf#w17
+
+DSE	maintained	./opener_hotel/en/english00056_4da74e0013851c14653a56c7edd06cd3.kaf#w60
+TARGET	The	./opener_hotel/en/english00056_4da74e0013851c14653a56c7edd06cd3.kaf#w54
+
+DSE	maintained	./opener_hotel/en/english00056_4da74e0013851c14653a56c7edd06cd3.kaf#w60
+TARGET	The	./opener_hotel/en/english00056_4da74e0013851c14653a56c7edd06cd3.kaf#w54
+
+DSE	maintained	./opener_hotel/en/english00056_4da74e0013851c14653a56c7edd06cd3.kaf#w60
+TARGET	The	./opener_hotel/en/english00056_4da74e0013851c14653a56c7edd06cd3.kaf#w54
+
+DSE	never worth five stars !	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w2 ./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w3 ./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w4 ./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w5 ./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w6
+TARGET	Hotel	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w1
+
+DSE	will hear	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w83 ./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w84
+TARGET	the	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w85
+
+DSE	will hear	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w83 ./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w84
+TARGET	music	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w88
+
+DSE	will hear	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w83 ./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w84
+TARGET	the	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w85
+
+DSE	will hear	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w83 ./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w84
+TARGET	music	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w88
+
+DSE	working	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w62
+TARGET	bathroom	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w59
+
+DSE	working	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w62
+TARGET	bathroom	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w59
+
+DSE	covered with dust	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w44 ./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w45 ./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w46
+TARGET	The	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w39
+
+DSE	lights	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w53
+TARGET	like	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w52
+
+DSE	Never worth	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w96 ./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w97
+TARGET	the money	./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w98 ./opener_hotel/en/english00163_c6834d0bda8a1f9ab34b9f9f3d718d6e.kaf#w99
+
+DSE	nice	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w118
+TARGET	the whole experience	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w114 ./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w115 ./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w116
+
+DSE	nice	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w118
+TARGET	whole experience	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w115 ./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w116
+
+DSE	great !	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w3 ./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w4
+TARGET	Mamlouk	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w1
+
+DSE	great	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w8
+TARGET	Mamlouk resort	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w5 ./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w6
+
+DSE	really worth a visit	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w31 ./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w32 ./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w33 ./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w34
+TARGET	Sultana	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w28
+
+DSE	really kind	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w22 ./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w23
+TARGET	He	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w20
+
+DSE	really kind	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w22 ./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w23
+TARGET	service	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w25
+
+DSE	no	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w79
+TARGET	salesmen	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w75
+
+DSE	really bad	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w71 ./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w72
+TARGET	the shopping center	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w64 ./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w65 ./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w66
+
+DSE	really bad	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w71 ./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w72
+TARGET	hotel	./opener_hotel/en/english00140_a052f3702cce7297bc2aff92662d1db3.kaf#w69
+
+DSE	fresh	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w4
+TARGET	room	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w5
+
+DSE	fresh	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w4
+TARGET	room	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w5
+
+DSE	very well	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w24 ./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w25
+TARGET	The owners	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w19 ./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w20
+
+DSE	very well	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w24 ./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w25
+TARGET	the place	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w22 ./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w23
+
+DSE	very clean	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w14 ./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w15
+TARGET	This B &	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w7 ./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w8 ./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w9
+
+DSE	very clean	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w14 ./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w15
+TARGET	B	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w12
+
+DSE	very clean	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w14 ./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w15
+TARGET	This B	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w7 ./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w8
+
+DSE	very clean	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w14 ./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w15
+TARGET	B	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w12
+
+DSE	equipped with	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w35 ./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w36
+TARGET	Room	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w33
+
+DSE	warm	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w29
+TARGET	Beddings	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w27
+
+DSE	warm	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w29
+TARGET	Beddings	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w27
+
+DSE	very generous	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w78 ./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w79
+TARGET	Owners	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w76
+
+DSE	provided	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w61
+TARGET	towels	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w57
+
+DSE	provided	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w61
+TARGET	towels	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w57
+
+DSE	very helpful	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w87 ./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w88
+TARGET	Alphons	./opener_hotel/en/english00035_340af6662193972260b6e387d1a4e322.kaf#w85
+
+DSE	Excellent	./opener_hotel/en/english00055_4d655c9ba946f97054a68e96696600c4.kaf#w38
+TARGET	spot	./opener_hotel/en/english00055_4d655c9ba946f97054a68e96696600c4.kaf#w39
+
+DSE	brilliant	./opener_hotel/en/english00055_4d655c9ba946f97054a68e96696600c4.kaf#w42
+TARGET	holiday	./opener_hotel/en/english00055_4d655c9ba946f97054a68e96696600c4.kaf#w43
+
+DSE	Excellent	./opener_hotel/en/english00055_4d655c9ba946f97054a68e96696600c4.kaf#w38
+TARGET	spot	./opener_hotel/en/english00055_4d655c9ba946f97054a68e96696600c4.kaf#w39
+
+DSE	brilliant	./opener_hotel/en/english00055_4d655c9ba946f97054a68e96696600c4.kaf#w42
+TARGET	holiday	./opener_hotel/en/english00055_4d655c9ba946f97054a68e96696600c4.kaf#w43
+
+DSE	under renovation	./opener_hotel/en/english00055_4d655c9ba946f97054a68e96696600c4.kaf#w9 ./opener_hotel/en/english00055_4d655c9ba946f97054a68e96696600c4.kaf#w10
+TARGET	the hotel	./opener_hotel/en/english00055_4d655c9ba946f97054a68e96696600c4.kaf#w6 ./opener_hotel/en/english00055_4d655c9ba946f97054a68e96696600c4.kaf#w7
+
+DSE	unconfortable !	./opener_hotel/en/english00087_61399799c0d81497ff5651a93f79ce14.kaf#w78 ./opener_hotel/en/english00087_61399799c0d81497ff5651a93f79ce14.kaf#w79
+TARGET	The	./opener_hotel/en/english00087_61399799c0d81497ff5651a93f79ce14.kaf#w71
+
+DSE	unconfortable !	./opener_hotel/en/english00087_61399799c0d81497ff5651a93f79ce14.kaf#w78 ./opener_hotel/en/english00087_61399799c0d81497ff5651a93f79ce14.kaf#w79
+TARGET	the	./opener_hotel/en/english00087_61399799c0d81497ff5651a93f79ce14.kaf#w75
+
+DSE	unconfortable !	./opener_hotel/en/english00087_61399799c0d81497ff5651a93f79ce14.kaf#w78 ./opener_hotel/en/english00087_61399799c0d81497ff5651a93f79ce14.kaf#w79
+TARGET	The	./opener_hotel/en/english00087_61399799c0d81497ff5651a93f79ce14.kaf#w71
+
+DSE	unconfortable !	./opener_hotel/en/english00087_61399799c0d81497ff5651a93f79ce14.kaf#w78 ./opener_hotel/en/english00087_61399799c0d81497ff5651a93f79ce14.kaf#w79
+TARGET	the	./opener_hotel/en/english00087_61399799c0d81497ff5651a93f79ce14.kaf#w75
+
+DSE	Short drive	./opener_hotel/en/english00072_6b9301e0c6f1d065bff360b1426d7359.kaf#w29 ./opener_hotel/en/english00072_6b9301e0c6f1d065bff360b1426d7359.kaf#w30
+TARGET	Amsterdam	./opener_hotel/en/english00072_6b9301e0c6f1d065bff360b1426d7359.kaf#w32
+
+DSE	fine	./opener_hotel/en/english00072_6b9301e0c6f1d065bff360b1426d7359.kaf#w10
+TARGET	areas	./opener_hotel/en/english00072_6b9301e0c6f1d065bff360b1426d7359.kaf#w11
+
+DSE	very helpful	./opener_hotel/en/english00072_6b9301e0c6f1d065bff360b1426d7359.kaf#w43 ./opener_hotel/en/english00072_6b9301e0c6f1d065bff360b1426d7359.kaf#w44
+TARGET	Staff	./opener_hotel/en/english00072_6b9301e0c6f1d065bff360b1426d7359.kaf#w42
+
+DSE	Nice	./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w1
+TARGET	winter city	./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w2 ./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w3
+
+DSE	very nice	./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w10 ./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w11
+TARGET	weekend break	./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w12 ./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w13
+
+DSE	50	./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w66
+TARGET	parking	./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w61
+
+DSE	very comfortable	./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w47 ./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w48
+TARGET	place	./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w49
+
+DSE	very comfortable	./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w78 ./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w79
+TARGET	the rooms	./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w74 ./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w75
+
+DSE	excellent	./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w83
+TARGET	the	./opener_hotel/en/english00065_60ef16c15790a198184bfd267b7d9c76.kaf#w81
+
+DSE	absolutely perfect	./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w13 ./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w14
+TARGET	Everything	./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w11
+
+DSE	highly recommendable	./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w8 ./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w9
+TARGET	The Sheraton Hotel Jumeriah	./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w3 ./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w4 ./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w5 ./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w6
+
+DSE	helpful	./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w32
+TARGET	They	./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w30
+
+DSE	helpful	./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w32
+TARGET	They	./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w30
+
+DSE	absolutely wonderful	./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w19 ./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w20
+TARGET	The staff	./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w16 ./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w17
+
+DSE	absolutely wonderful	./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w19 ./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w20
+TARGET	nothing	./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w22
+
+DSE	such	./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w102
+TARGET	hotel	./opener_hotel/en/english00117_8523187c9a437e85989d599da4a3943a.kaf#w100
+
+DSE	never come back	./opener_hotel/en/english00141_a1049912305bfe5c61247438bc2866bd.kaf#w126 ./opener_hotel/en/english00141_a1049912305bfe5c61247438bc2866bd.kaf#w127 ./opener_hotel/en/english00141_a1049912305bfe5c61247438bc2866bd.kaf#w128
+TARGET	here	./opener_hotel/en/english00141_a1049912305bfe5c61247438bc2866bd.kaf#w129
+
+DSE	not safe	./opener_hotel/en/english00141_a1049912305bfe5c61247438bc2866bd.kaf#w133 ./opener_hotel/en/english00141_a1049912305bfe5c61247438bc2866bd.kaf#w134
+TARGET	here	./opener_hotel/en/english00141_a1049912305bfe5c61247438bc2866bd.kaf#w135
+
+DSE	Very dangerous	./opener_hotel/en/english00141_a1049912305bfe5c61247438bc2866bd.kaf#w7 ./opener_hotel/en/english00141_a1049912305bfe5c61247438bc2866bd.kaf#w8
+TARGET	area	./opener_hotel/en/english00141_a1049912305bfe5c61247438bc2866bd.kaf#w9
+
+DSE	fortunately understanding	./opener_hotel/en/english00141_a1049912305bfe5c61247438bc2866bd.kaf#w107 ./opener_hotel/en/english00141_a1049912305bfe5c61247438bc2866bd.kaf#w108
+TARGET	Busdriver	./opener_hotel/en/english00141_a1049912305bfe5c61247438bc2866bd.kaf#w103
+
+DSE	fortunately understanding	./opener_hotel/en/english00141_a1049912305bfe5c61247438bc2866bd.kaf#w107 ./opener_hotel/en/english00141_a1049912305bfe5c61247438bc2866bd.kaf#w108
+TARGET	Langhout	./opener_hotel/en/english00141_a1049912305bfe5c61247438bc2866bd.kaf#w105
+
+DSE	Terrible hotel	./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w7 ./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w8
+TARGET	hotel	./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w8
+
+DSE	not correspond	./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w20 ./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w21
+TARGET	Rooms	./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w18
+
+DSE	not correspond	./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w20 ./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w21
+TARGET	the	./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w23
+
+DSE	very old	./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w26 ./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w27
+TARGET	furniture	./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w28
+
+DSE	very old	./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w26 ./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w27
+TARGET	smell	./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w38
+
+DSE	very old	./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w26 ./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w27
+TARGET	linens	./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w31
+
+DSE	very old	./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w26 ./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w27
+TARGET	bed	./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w34
+
+DSE	not correspond	./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w20 ./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w21
+TARGET	Rooms	./opener_hotel/en/english00187_dd0dcb1721b8e90ddd81311297fb269f.kaf#w18
+
+DSE	great	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w4
+TARGET	people	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w5
+
+DSE	great	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w9
+TARGET	staff	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w11
+
+DSE	great	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w13
+TARGET	the food	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w14 ./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w15
+
+DSE	hope	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w35
+TARGET	the Grand	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w30 ./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w31
+
+DSE	great	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w9
+TARGET	staff	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w11
+
+DSE	great	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w13
+TARGET	the food	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w14 ./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w15
+
+DSE	great	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w13
+TARGET	food	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w15
+
+DSE	of private	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w21 ./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w22
+TARGET	areas	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w23
+
+DSE	great	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w9
+TARGET	time.The staff	./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w10 ./opener_hotel/en/english00015_18a9f5b73a668f8d4b7c7e3fe6bf039a.kaf#w11
+
+DSE	local	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w70
+TARGET	fish	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w71
+
+DSE	extra	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w75
+TARGET	ala	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w80
+
+DSE	local	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w70
+TARGET	fish	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w71
+
+DSE	extra	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w75
+TARGET	ala	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w80
+
+DSE	not	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w29
+TARGET	this	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w27
+
+DSE	does not include	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w59 ./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w60 ./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w61
+TARGET	sevice	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w56
+
+DSE	give	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w85
+TARGET	the ala carte menu	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w90 ./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w91 ./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w92 ./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w93
+
+DSE	nice	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w19
+TARGET	location	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w20
+
+DSE	nice	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w16
+TARGET	rooms	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w17
+
+DSE	no	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w129
+TARGET	liquires	./opener_hotel/en/english00088_7ec44bf4213be4f1226c04cb302f1b7b.kaf#w130
+
+DSE	very nice	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w2 ./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w3
+TARGET	holiday	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w4
+
+DSE	very nice	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w2 ./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w3
+TARGET	holiday	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w4
+
+DSE	very nice	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w24 ./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w25
+TARGET	The hotel	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w21 ./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w22
+
+DSE	very nice	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w24 ./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w25
+TARGET	The hotel	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w21 ./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w22
+
+DSE	would have	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w35 ./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w36
+TARGET	Some	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w34
+
+DSE	would have	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w35 ./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w36
+TARGET	it	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w39
+
+DSE	would have	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w35 ./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w36
+TARGET	Some	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w34
+
+DSE	would have	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w35 ./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w36
+TARGET	to	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w37
+
+DSE	rude	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w43
+TARGET	staff	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w44
+
+DSE	right	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w65
+TARGET	The atmosphere	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w62 ./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w63
+
+DSE	right	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w65
+TARGET	The atmosphere	./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w62 ./opener_hotel/en/english00136_cf8140e17a3855f7a4a38936d6193415.kaf#w63
+
+DSE	Best	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w1
+TARGET	place	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w2
+
+DSE	Very nice	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w11 ./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w12
+TARGET	hotel	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w13
+
+DSE	are many	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w61 ./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w62
+TARGET	many bars	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w62 ./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w63
+
+DSE	are many	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w61 ./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w62
+TARGET	many bars	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w62 ./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w63
+
+DSE	are many	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w61 ./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w62
+TARGET	many bars	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w62 ./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w63
+
+DSE	Seine	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w50
+TARGET	Seine	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w50
+
+DSE	Seine	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w50
+TARGET	Seine	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w50
+
+DSE	Seine	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w50
+TARGET	Seine	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w50
+
+DSE	Seine	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w50
+TARGET	Seine	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w50
+
+DSE	good	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w123
+TARGET	toaster	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w129
+
+DSE	good	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w123
+TARGET	toaster	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w129
+
+DSE	good	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w123
+TARGET	toaster	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w129
+
+DSE	good	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w123
+TARGET	toaster	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w129
+
+DSE	a view	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w109 ./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w110
+TARGET	Rooms	./opener_hotel/en/english00007_0959878b22835b4d4f2f67a29e4ddb17.kaf#w107
+
+DSE	not cozy	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w48 ./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w49
+TARGET	hotel	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w46
+
+DSE	looks like a huge	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w51 ./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w52 ./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w53 ./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w54
+TARGET	palace	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w55
+
+DSE	very clean	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w19 ./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w20
+TARGET	room	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w17
+
+DSE	very clean	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w19 ./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w20
+TARGET	the room	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w16 ./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w17
+
+DSE	liked	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w74
+TARGET	the	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w75
+
+DSE	liked	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w74
+TARGET	the	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w75
+
+DSE	liked	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w74
+TARGET	the	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w75
+
+DSE	spacious	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w76
+TARGET	pool area	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w77 ./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w78
+
+DSE	spacious	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w76
+TARGET	pool area	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w77 ./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w78
+
+DSE	spacious	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w76
+TARGET	pool area	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w77 ./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w78
+
+DSE	very nice	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w70 ./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w71
+TARGET	mountains	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w65
+
+DSE	Free	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w98
+TARGET	wifi	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w99
+
+DSE	Free	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w98
+TARGET	speed	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w104
+
+DSE	Free	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w98
+TARGET	wifi	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w99
+
+DSE	little far from city center	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w108 ./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w109 ./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w110 ./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w111 ./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w112
+TARGET	Location	./opener_hotel/en/english00139_a027bbcb73be1f46b42077b535cf955c.kaf#w106
+
+DSE	Great	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w1
+TARGET	value for money	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w2 ./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w3 ./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w4
+
+DSE	be taken	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w9 ./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w10
+TARGET	My room	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w5 ./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w6
+
+DSE	Great	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w37
+TARGET	room	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w38
+
+DSE	Great	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w37
+TARGET	room	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w38
+
+DSE	Great	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w37
+TARGET	room	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w38
+
+DSE	improved	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w31
+TARGET	the receptionist	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w25 ./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w26
+
+DSE	improved	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w31
+TARGET	room	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w32
+
+DSE	improved	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w31
+TARGET	the receptionist	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w25 ./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w26
+
+DSE	improved	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w31
+TARGET	the	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w25
+
+DSE	improved	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w31
+TARGET	room	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w32
+
+DSE	Perfect	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w44
+TARGET	stay	./opener_hotel/en/english00005_0de4e57838f243c67953cb70e70e693b.kaf#w45
+
+DSE	clean	./opener_hotel/en/english00144_a46bae1c25cf09ef3cce8d9e8969fb3c.kaf#w9
+TARGET	The rooms	./opener_hotel/en/english00144_a46bae1c25cf09ef3cce8d9e8969fb3c.kaf#w6 ./opener_hotel/en/english00144_a46bae1c25cf09ef3cce8d9e8969fb3c.kaf#w7
+
+DSE	clean	./opener_hotel/en/english00144_a46bae1c25cf09ef3cce8d9e8969fb3c.kaf#w9
+TARGET	The rooms	./opener_hotel/en/english00144_a46bae1c25cf09ef3cce8d9e8969fb3c.kaf#w6 ./opener_hotel/en/english00144_a46bae1c25cf09ef3cce8d9e8969fb3c.kaf#w7
+
+DSE	clean	./opener_hotel/en/english00144_a46bae1c25cf09ef3cce8d9e8969fb3c.kaf#w9
+TARGET	The rooms	./opener_hotel/en/english00144_a46bae1c25cf09ef3cce8d9e8969fb3c.kaf#w6 ./opener_hotel/en/english00144_a46bae1c25cf09ef3cce8d9e8969fb3c.kaf#w7
+
+DSE	Best	./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w1
+TARGET	holidays	./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w2
+
+DSE	enjoyed	./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w10
+TARGET	the time	./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w11 ./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w12
+
+DSE	enjoyed	./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w10
+TARGET	the time	./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w11 ./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w12
+
+DSE	excellent	./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w7
+TARGET	Everything	./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w5
+
+DSE	Great	./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w34
+TARGET	music	./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w35
+
+DSE	Great	./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w34
+TARGET	music	./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w35
+
+DSE	Fantastic	./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w25
+TARGET	food	./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w26
+
+DSE	breathtaken view	./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w28 ./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w29
+TARGET	view from	./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w29 ./opener_hotel/en/english00064_5fe84dfe3d4af6e6b8ef7b2ca8ac6c8f.kaf#w30
+
+DSE	would come again to visit	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w6 ./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w7 ./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w8 ./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w9 ./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w10
+TARGET	visit	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w10
+
+DSE	good	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w3
+TARGET	All	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w1
+
+DSE	very friendly	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w33 ./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w34
+TARGET	hotel	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w30
+
+DSE	very friendly	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w33 ./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w34
+TARGET	the	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w38
+
+DSE	very friendly	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w33 ./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w34
+TARGET	hotel	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w30
+
+DSE	very friendly	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w33 ./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w34
+TARGET	helpfull.	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w36
+
+DSE	alright	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w13
+TARGET	everything	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w11
+
+DSE	good	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w44
+TARGET	service	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w39
+
+DSE	good	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w44
+TARGET	the staff	./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w41 ./opener_hotel/en/english00144_d925927b775fb97d073da7e765ad0d3a.kaf#w42
+
+DSE	clean	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w121
+TARGET	Bath	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w118
+
+DSE	Horrible	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w1
+TARGET	Hotel	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w2
+
+DSE	don	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w46
+TARGET	The owners	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w44 ./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w45
+
+DSE	no	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w41
+TARGET	elevator	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w42
+
+DSE	Didn 't recieve	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w96 ./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w97 ./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w98
+TARGET	bill	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w100
+
+DSE	dirty	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w110
+TARGET	Rooms	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w109
+
+DSE	very loud	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w103 ./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w104
+TARGET	· Rooms	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w101 ./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w102
+
+DSE	very loud	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w103 ./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w104
+TARGET	Rooms	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w102
+
+DSE	very loud	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w103 ./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w104
+TARGET	winows	./opener_hotel/en/english00119_87592391676400841788a226180f257e.kaf#w107
+

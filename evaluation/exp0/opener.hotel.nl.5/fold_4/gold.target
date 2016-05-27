@@ -1,0 +1,525 @@
+TARGET	personeel	./opener_hotel/nl/dutch00092_8af269930f91fe6239f78851417f7b5d.kaf#w90
+TARGET	airco	./opener_hotel/nl/dutch00092_8af269930f91fe6239f78851417f7b5d.kaf#w12
+TARGET	Ontbijt	./opener_hotel/nl/dutch00092_8af269930f91fe6239f78851417f7b5d.kaf#w57
+TARGET	men	./opener_hotel/nl/dutch00092_8af269930f91fe6239f78851417f7b5d.kaf#w47
+TARGET	Kamers	./opener_hotel/nl/dutch00092_8af269930f91fe6239f78851417f7b5d.kaf#w85
+TARGET	het	./opener_hotel/nl/dutch00095_8874302a7d31fa797c5881dcf00ee015.kaf#w101
+TARGET	de vakantie	./opener_hotel/nl/dutch00095_8874302a7d31fa797c5881dcf00ee015.kaf#w88 ./opener_hotel/nl/dutch00095_8874302a7d31fa797c5881dcf00ee015.kaf#w90
+TARGET	eten	./opener_hotel/nl/dutch00095_8874302a7d31fa797c5881dcf00ee015.kaf#w43
+TARGET	personeel	./opener_hotel/nl/dutch00095_8874302a7d31fa797c5881dcf00ee015.kaf#w14
+TARGET	hotel	./opener_hotel/nl/dutch00095_8874302a7d31fa797c5881dcf00ee015.kaf#w3
+TARGET	.de dame	./opener_hotel/nl/dutch00095_8874302a7d31fa797c5881dcf00ee015.kaf#w20 ./opener_hotel/nl/dutch00095_8874302a7d31fa797c5881dcf00ee015.kaf#w22
+TARGET	service	./opener_hotel/nl/dutch00095_8874302a7d31fa797c5881dcf00ee015.kaf#w16
+TARGET	kamers	./opener_hotel/nl/dutch00095_8874302a7d31fa797c5881dcf00ee015.kaf#w7
+TARGET	brood	./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w2
+TARGET	crooisants	./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w90
+TARGET	fruit	./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w101
+TARGET	wandel mogelijkheden	./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w125 ./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w126
+TARGET	plakken brood	./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w94 ./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w95
+TARGET	ontbijt	./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w72
+TARGET	broodjes	./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w85
+TARGET	ham	./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w117
+TARGET	fricand	./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w112
+TARGET	.jus vuit pak	./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w118 ./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w119 ./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w120
+TARGET	.fiets mogelijkheden	./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w40 ./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w41
+TARGET	.wat	./opener_hotel/nl/dutch00070_a6080e0e20df5cdf020ad9cd677cf69b.kaf#w10
+TARGET	hotel	./opener_hotel/nl/dutch00025_37082053818ed790fb7540ad12819714.kaf#w2
+TARGET	ligging	./opener_hotel/nl/dutch00025_37082053818ed790fb7540ad12819714.kaf#w5
+TARGET	kamers	./opener_hotel/nl/dutch00025_37082053818ed790fb7540ad12819714.kaf#w13
+TARGET	hotel	./opener_hotel/nl/dutch00025_37082053818ed790fb7540ad12819714.kaf#w7
+TARGET	Kamers	./opener_hotel/nl/dutch00025_37082053818ed790fb7540ad12819714.kaf#w34
+TARGET	medewerkers	./opener_hotel/nl/dutch00025_37082053818ed790fb7540ad12819714.kaf#w32
+TARGET	Hotel	./opener_hotel/nl/dutch00108_cd4e370ea805c2d0bb9ad45862856a4c.kaf#w1
+TARGET	Het hotel	./opener_hotel/nl/dutch00108_cd4e370ea805c2d0bb9ad45862856a4c.kaf#w10 ./opener_hotel/nl/dutch00108_cd4e370ea805c2d0bb9ad45862856a4c.kaf#w11
+TARGET	de kamers	./opener_hotel/nl/dutch00108_cd4e370ea805c2d0bb9ad45862856a4c.kaf#w31 ./opener_hotel/nl/dutch00108_cd4e370ea805c2d0bb9ad45862856a4c.kaf#w32
+TARGET	de kamer	./opener_hotel/nl/dutch00108_cd4e370ea805c2d0bb9ad45862856a4c.kaf#w43 ./opener_hotel/nl/dutch00108_cd4e370ea805c2d0bb9ad45862856a4c.kaf#w44
+TARGET	Binnen	./opener_hotel/nl/dutch00108_cd4e370ea805c2d0bb9ad45862856a4c.kaf#w25
+TARGET	het ontbijt	./opener_hotel/nl/dutch00108_cd4e370ea805c2d0bb9ad45862856a4c.kaf#w55 ./opener_hotel/nl/dutch00108_cd4e370ea805c2d0bb9ad45862856a4c.kaf#w56
+TARGET	de broden	./opener_hotel/nl/dutch00108_cd4e370ea805c2d0bb9ad45862856a4c.kaf#w61 ./opener_hotel/nl/dutch00108_cd4e370ea805c2d0bb9ad45862856a4c.kaf#w62
+TARGET	fitness	./opener_hotel/nl/dutch00108_cd4e370ea805c2d0bb9ad45862856a4c.kaf#w51
+TARGET	zwembad	./opener_hotel/nl/dutch00108_cd4e370ea805c2d0bb9ad45862856a4c.kaf#w48
+TARGET	het hotel	./opener_hotel/nl/dutch00108_cd4e370ea805c2d0bb9ad45862856a4c.kaf#w70 ./opener_hotel/nl/dutch00108_cd4e370ea805c2d0bb9ad45862856a4c.kaf#w71
+TARGET	kamers	./opener_hotel/nl/dutch00027_3ccf51e4180b23226963a66a610b0e5c.kaf#w23
+TARGET	bediening	./opener_hotel/nl/dutch00027_3ccf51e4180b23226963a66a610b0e5c.kaf#w27
+TARGET	de kamer	./opener_hotel/nl/dutch00027_3ccf51e4180b23226963a66a610b0e5c.kaf#w36 ./opener_hotel/nl/dutch00027_3ccf51e4180b23226963a66a610b0e5c.kaf#w37
+TARGET	ligging	./opener_hotel/nl/dutch00027_3ccf51e4180b23226963a66a610b0e5c.kaf#w58
+TARGET	ontbijt	./opener_hotel/nl/dutch00027_3ccf51e4180b23226963a66a610b0e5c.kaf#w40
+TARGET	hotel	./opener_hotel/nl/dutch00027_3ccf51e4180b23226963a66a610b0e5c.kaf#w13
+TARGET	Hotel	./opener_hotel/nl/dutch00029_3ea939d59cc25362a2aa4eb9a3021106.kaf#w2
+TARGET	eten	./opener_hotel/nl/dutch00029_3ea939d59cc25362a2aa4eb9a3021106.kaf#w29
+TARGET	a la carte restaurants	./opener_hotel/nl/dutch00029_3ea939d59cc25362a2aa4eb9a3021106.kaf#w36 ./opener_hotel/nl/dutch00029_3ea939d59cc25362a2aa4eb9a3021106.kaf#w37 ./opener_hotel/nl/dutch00029_3ea939d59cc25362a2aa4eb9a3021106.kaf#w38 ./opener_hotel/nl/dutch00029_3ea939d59cc25362a2aa4eb9a3021106.kaf#w39
+TARGET	Wellness	./opener_hotel/nl/dutch00067_8512fc774b03799e7622d71a2b9d86a6.kaf#w66
+TARGET	zwembad gedeelte	./opener_hotel/nl/dutch00067_8512fc774b03799e7622d71a2b9d86a6.kaf#w68 ./opener_hotel/nl/dutch00067_8512fc774b03799e7622d71a2b9d86a6.kaf#w69
+TARGET	parkeergelegenheid	./opener_hotel/nl/dutch00067_8512fc774b03799e7622d71a2b9d86a6.kaf#w64
+TARGET	kamers	./opener_hotel/nl/dutch00067_8512fc774b03799e7622d71a2b9d86a6.kaf#w20
+TARGET	Meubilair	./opener_hotel/nl/dutch00067_8512fc774b03799e7622d71a2b9d86a6.kaf#w45
+TARGET	sanitair	./opener_hotel/nl/dutch00067_8512fc774b03799e7622d71a2b9d86a6.kaf#w47
+TARGET	Bedden	./opener_hotel/nl/dutch00067_8512fc774b03799e7622d71a2b9d86a6.kaf#w34
+TARGET	slaapbank	./opener_hotel/nl/dutch00067_8512fc774b03799e7622d71a2b9d86a6.kaf#w37
+TARGET	dinerbuffet	./opener_hotel/nl/dutch00067_8512fc774b03799e7622d71a2b9d86a6.kaf#w60
+TARGET	Ontbijt	./opener_hotel/nl/dutch00067_8512fc774b03799e7622d71a2b9d86a6.kaf#w57
+TARGET	Service	./opener_hotel/nl/dutch00067_8512fc774b03799e7622d71a2b9d86a6.kaf#w50
+TARGET	gastvrijheid personeel	./opener_hotel/nl/dutch00067_8512fc774b03799e7622d71a2b9d86a6.kaf#w52 ./opener_hotel/nl/dutch00067_8512fc774b03799e7622d71a2b9d86a6.kaf#w53
+TARGET	hotel	./opener_hotel/nl/dutch00045_c76d8672a02612a2e83fc55e52e06feb.kaf#w2
+TARGET	locatie	./opener_hotel/nl/dutch00045_c76d8672a02612a2e83fc55e52e06feb.kaf#w44
+TARGET	staf	./opener_hotel/nl/dutch00045_c76d8672a02612a2e83fc55e52e06feb.kaf#w32
+TARGET	hotel	./opener_hotel/nl/dutch00045_c76d8672a02612a2e83fc55e52e06feb.kaf#w12
+TARGET	alle zweedse vakantiegangers	./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w138 ./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w139 ./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w140
+TARGET	een telefoon	./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w112 ./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w113
+TARGET	oude man	./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w15 ./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w16
+TARGET	personeel achter de receptie	./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w10 ./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w11 ./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w12 ./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w13
+TARGET	de receptie	./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w56 ./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w57
+TARGET	desbetreffende man	./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w34 ./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w35
+TARGET	Kamers	./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w69
+TARGET	schotje tussen de twee bedden	./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w92 ./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w93 ./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w94 ./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w95 ./opener_hotel/nl/dutch00042_cba26569cfc2de0eba515feaae848316.kaf#w96
+TARGET	lift	./opener_hotel/nl/dutch00154_47b05bbcf604a65aa4942847108dbcdc.kaf#w18
+TARGET	gebouw	./opener_hotel/nl/dutch00154_47b05bbcf604a65aa4942847108dbcdc.kaf#w14
+TARGET	het ontbijt	./opener_hotel/nl/dutch00154_47b05bbcf604a65aa4942847108dbcdc.kaf#w87 ./opener_hotel/nl/dutch00154_47b05bbcf604a65aa4942847108dbcdc.kaf#w88
+TARGET	De bedden	./opener_hotel/nl/dutch00154_47b05bbcf604a65aa4942847108dbcdc.kaf#w74 ./opener_hotel/nl/dutch00154_47b05bbcf604a65aa4942847108dbcdc.kaf#w75
+TARGET	koelkastje	./opener_hotel/nl/dutch00154_47b05bbcf604a65aa4942847108dbcdc.kaf#w82
+TARGET	na een vermoeiende dag	./opener_hotel/nl/dutch00154_47b05bbcf604a65aa4942847108dbcdc.kaf#w61 ./opener_hotel/nl/dutch00154_47b05bbcf604a65aa4942847108dbcdc.kaf#w62 ./opener_hotel/nl/dutch00154_47b05bbcf604a65aa4942847108dbcdc.kaf#w63 ./opener_hotel/nl/dutch00154_47b05bbcf604a65aa4942847108dbcdc.kaf#w64
+TARGET	hotel Galatea	./opener_hotel/nl/dutch00154_47b05bbcf604a65aa4942847108dbcdc.kaf#w95 ./opener_hotel/nl/dutch00154_47b05bbcf604a65aa4942847108dbcdc.kaf#w96
+TARGET	de prijs	./opener_hotel/nl/dutch00154_47b05bbcf604a65aa4942847108dbcdc.kaf#w104 ./opener_hotel/nl/dutch00154_47b05bbcf604a65aa4942847108dbcdc.kaf#w105
+TARGET	een paar dagen weg geweest	./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w2 ./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w3 ./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w4 ./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w5 ./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w6
+TARGET	kamers	./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w15
+TARGET	hotel	./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w12
+TARGET	personeel	./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w39
+TARGET	Het eten in het restaurant	./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w17 ./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w18 ./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w19 ./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w20 ./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w21
+TARGET	de bar	./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w48 ./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w49
+TARGET	ontbijtbuffet	./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w42
+TARGET	de bar	./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w64 ./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w65
+TARGET	bij de receptie	./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w67 ./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w68 ./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w69
+TARGET	achterin de bar	./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w75 ./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w76 ./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w77
+TARGET	hotel	./opener_hotel/nl/dutch00072_a482a1ab4e283be80ec795de1116aeea.kaf#w2
+TARGET	Het ontbijt	./opener_hotel/nl/dutch00072_a482a1ab4e283be80ec795de1116aeea.kaf#w13 ./opener_hotel/nl/dutch00072_a482a1ab4e283be80ec795de1116aeea.kaf#w16
+TARGET	Ontbijtzaal	./opener_hotel/nl/dutch00072_a482a1ab4e283be80ec795de1116aeea.kaf#w7
+TARGET	Metro	./opener_hotel/nl/dutch00072_a482a1ab4e283be80ec795de1116aeea.kaf#w62
+TARGET	Het personeel	./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w164 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w165
+TARGET	gebakken aardappels / frites	./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w72 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w73 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w74 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w75
+TARGET	De schalen	./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w59 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w60
+TARGET	een diner buffet	./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w55 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w56 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w57
+TARGET	een 3 gangen diner	./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w44 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w45 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w46 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w47
+TARGET	gegeten	./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w110
+TARGET	uit kiezen	./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w116 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w118
+TARGET	een ander typisch Duits gerecht	./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w97 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w98 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w99 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w100 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w101
+TARGET	braadworst met kartoffel salade	./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w92 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w93 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w94 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w95
+TARGET	echte Duitse schnitzel	./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w88 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w89 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w90
+TARGET	de gang	./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w146 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w147
+TARGET	het ontbijtbuffet	./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w123 ./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w124
+TARGET	De bedden	./opener_hotel/nl/dutch00033_d495d31f92ed8090ac90b4ec111c6516.kaf#w58 ./opener_hotel/nl/dutch00033_d495d31f92ed8090ac90b4ec111c6516.kaf#w59
+TARGET	Het ontbijt	./opener_hotel/nl/dutch00033_d495d31f92ed8090ac90b4ec111c6516.kaf#w45 ./opener_hotel/nl/dutch00033_d495d31f92ed8090ac90b4ec111c6516.kaf#w46
+TARGET	douche	./opener_hotel/nl/dutch00033_d495d31f92ed8090ac90b4ec111c6516.kaf#w72
+TARGET	hotel	./opener_hotel/nl/dutch00055_6cea793d9ccc0c0476ffb846897cf339.kaf#w4
+TARGET	de kamers	./opener_hotel/nl/dutch00055_6cea793d9ccc0c0476ffb846897cf339.kaf#w16 ./opener_hotel/nl/dutch00055_6cea793d9ccc0c0476ffb846897cf339.kaf#w17
+TARGET	het	./opener_hotel/nl/dutch00055_6cea793d9ccc0c0476ffb846897cf339.kaf#w11
+TARGET	Ze	./opener_hotel/nl/dutch00055_6cea793d9ccc0c0476ffb846897cf339.kaf#w40
+TARGET	de airco	./opener_hotel/nl/dutch00055_6cea793d9ccc0c0476ffb846897cf339.kaf#w33 ./opener_hotel/nl/dutch00055_6cea793d9ccc0c0476ffb846897cf339.kaf#w34
+TARGET	deluxe hotel	./opener_hotel/nl/dutch00130_5ef9347ea3d36159fdc6510d0beca02d.kaf#w2 ./opener_hotel/nl/dutch00130_5ef9347ea3d36159fdc6510d0beca02d.kaf#w3
+TARGET	ligt het	./opener_hotel/nl/dutch00130_5ef9347ea3d36159fdc6510d0beca02d.kaf#w22 ./opener_hotel/nl/dutch00130_5ef9347ea3d36159fdc6510d0beca02d.kaf#w23
+TARGET	hotel	./opener_hotel/nl/dutch00130_5ef9347ea3d36159fdc6510d0beca02d.kaf#w11
+TARGET	sfeer	./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w121
+TARGET	tuin	./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w17
+TARGET	zwembad	./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w13
+TARGET	Kamers	./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w39
+TARGET	ze	./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w63
+TARGET	Het hele complex	./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w19 ./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w20 ./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w21
+TARGET	dat er ook maar iets op was of niet beschikbaar	./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w87 ./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w88 ./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w89 ./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w90 ./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w91 ./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w92 ./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w93 ./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w94 ./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w95 ./opener_hotel/nl/dutch00207_0373f0f2845097935d4730009e1f8d9b.kaf#w96
+TARGET	het	./opener_hotel/nl/dutch00155_45e4339a9a220bf1aba35f905e0e0dcd.kaf#w38
+TARGET	het eten	./opener_hotel/nl/dutch00155_45e4339a9a220bf1aba35f905e0e0dcd.kaf#w46 ./opener_hotel/nl/dutch00155_45e4339a9a220bf1aba35f905e0e0dcd.kaf#w47
+TARGET	vakantie	./opener_hotel/nl/dutch00169_31dab25dc0ea1d456355de43b0dc0ffb.kaf#w2
+TARGET	onderhoud van kamers	./opener_hotel/nl/dutch00169_31dab25dc0ea1d456355de43b0dc0ffb.kaf#w11 ./opener_hotel/nl/dutch00169_31dab25dc0ea1d456355de43b0dc0ffb.kaf#w12 ./opener_hotel/nl/dutch00169_31dab25dc0ea1d456355de43b0dc0ffb.kaf#w13
+TARGET	Inrichting	./opener_hotel/nl/dutch00169_31dab25dc0ea1d456355de43b0dc0ffb.kaf#w9
+TARGET	hotel	./opener_hotel/nl/dutch00169_31dab25dc0ea1d456355de43b0dc0ffb.kaf#w7
+TARGET	hoofdbadmeester	./opener_hotel/nl/dutch00169_31dab25dc0ea1d456355de43b0dc0ffb.kaf#w41
+TARGET	Zwembaden	./opener_hotel/nl/dutch00169_31dab25dc0ea1d456355de43b0dc0ffb.kaf#w34
+TARGET	Personeel	./opener_hotel/nl/dutch00169_31dab25dc0ea1d456355de43b0dc0ffb.kaf#w17
+TARGET	5 sterren	./opener_hotel/nl/dutch00169_31dab25dc0ea1d456355de43b0dc0ffb.kaf#w45 ./opener_hotel/nl/dutch00169_31dab25dc0ea1d456355de43b0dc0ffb.kaf#w46
+TARGET	dit hotel	./opener_hotel/nl/dutch00169_31dab25dc0ea1d456355de43b0dc0ffb.kaf#w102 ./opener_hotel/nl/dutch00169_31dab25dc0ea1d456355de43b0dc0ffb.kaf#w103
+TARGET	hier	./opener_hotel/nl/dutch00169_31dab25dc0ea1d456355de43b0dc0ffb.kaf#w96
+TARGET	het eten	./opener_hotel/nl/dutch00029_dbb38f44405e8d0ea69234c64fc278f6.kaf#w25 ./opener_hotel/nl/dutch00029_dbb38f44405e8d0ea69234c64fc278f6.kaf#w26
+TARGET	er	./opener_hotel/nl/dutch00029_dbb38f44405e8d0ea69234c64fc278f6.kaf#w113
+TARGET	ontbijt	./opener_hotel/nl/dutch00029_dbb38f44405e8d0ea69234c64fc278f6.kaf#w79
+TARGET	Dit	./opener_hotel/nl/dutch00029_dbb38f44405e8d0ea69234c64fc278f6.kaf#w60
+TARGET	aankleding van de kamers	./opener_hotel/nl/dutch00010_f23b8397543d3504e5a190b8806bb19f.kaf#w23 ./opener_hotel/nl/dutch00010_f23b8397543d3504e5a190b8806bb19f.kaf#w24 ./opener_hotel/nl/dutch00010_f23b8397543d3504e5a190b8806bb19f.kaf#w25 ./opener_hotel/nl/dutch00010_f23b8397543d3504e5a190b8806bb19f.kaf#w26
+TARGET	de airco	./opener_hotel/nl/dutch00010_f23b8397543d3504e5a190b8806bb19f.kaf#w70 ./opener_hotel/nl/dutch00010_f23b8397543d3504e5a190b8806bb19f.kaf#w71
+TARGET	De kamer	./opener_hotel/nl/dutch00010_f23b8397543d3504e5a190b8806bb19f.kaf#w49 ./opener_hotel/nl/dutch00010_f23b8397543d3504e5a190b8806bb19f.kaf#w50
+TARGET	Ontbijt	./opener_hotel/nl/dutch00011_1bc382a103b459a57f118c5aa1942656.kaf#w31
+TARGET	gelegen	./opener_hotel/nl/dutch00011_1bc382a103b459a57f118c5aa1942656.kaf#w8
+TARGET	badkamer	./opener_hotel/nl/dutch00011_1bc382a103b459a57f118c5aa1942656.kaf#w11
+TARGET	kamer	./opener_hotel/nl/dutch00011_1bc382a103b459a57f118c5aa1942656.kaf#w14
+TARGET	hotel	./opener_hotel/nl/dutch00011_1bc382a103b459a57f118c5aa1942656.kaf#w5
+TARGET	koelkastje	./opener_hotel/nl/dutch00011_1bc382a103b459a57f118c5aa1942656.kaf#w45
+TARGET	het uitzicht van onze kamer	./opener_hotel/nl/dutch00011_1bc382a103b459a57f118c5aa1942656.kaf#w51 ./opener_hotel/nl/dutch00011_1bc382a103b459a57f118c5aa1942656.kaf#w52 ./opener_hotel/nl/dutch00011_1bc382a103b459a57f118c5aa1942656.kaf#w53 ./opener_hotel/nl/dutch00011_1bc382a103b459a57f118c5aa1942656.kaf#w54 ./opener_hotel/nl/dutch00011_1bc382a103b459a57f118c5aa1942656.kaf#w55
+TARGET	het buitencomplex	./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w90 ./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w91
+TARGET	Dit	./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w65
+TARGET	personeel	./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w80
+TARGET	een aanrader	./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w120 ./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w121
+TARGET	Prijs / kwaliteitverhouding	./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w14 ./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w15 ./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w16
+TARGET	hotel	./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w12
+TARGET	Zwembaden	./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w28
+TARGET	hotel	./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w26
+TARGET	Het animatieteam	./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w39 ./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w40
+TARGET	Zwemplezier	./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w33
+TARGET	De manager	./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w48 ./opener_hotel/nl/dutch00146_4b5b2419bdb0e0cb16058c5e48111c7f.kaf#w49
+TARGET	hotel	./opener_hotel/nl/dutch00138_55deb9e9eacafd8ca54786fcc9b376df.kaf#w3
+TARGET	ze	./opener_hotel/nl/dutch00138_55deb9e9eacafd8ca54786fcc9b376df.kaf#w60
+TARGET	de manegers	./opener_hotel/nl/dutch00138_55deb9e9eacafd8ca54786fcc9b376df.kaf#w66 ./opener_hotel/nl/dutch00138_55deb9e9eacafd8ca54786fcc9b376df.kaf#w67
+TARGET	gewoone personeel	./opener_hotel/nl/dutch00138_55deb9e9eacafd8ca54786fcc9b376df.kaf#w70 ./opener_hotel/nl/dutch00138_55deb9e9eacafd8ca54786fcc9b376df.kaf#w71
+TARGET	hoofdrestaurants	./opener_hotel/nl/dutch00138_55deb9e9eacafd8ca54786fcc9b376df.kaf#w21
+TARGET	hotel	./opener_hotel/nl/dutch00138_55deb9e9eacafd8ca54786fcc9b376df.kaf#w47
+TARGET	het eten	./opener_hotel/nl/dutch00138_55deb9e9eacafd8ca54786fcc9b376df.kaf#w10 ./opener_hotel/nl/dutch00138_55deb9e9eacafd8ca54786fcc9b376df.kaf#w11
+TARGET	alles	./opener_hotel/nl/dutch00138_55deb9e9eacafd8ca54786fcc9b376df.kaf#w4
+TARGET	de poolbar	./opener_hotel/nl/dutch00138_55deb9e9eacafd8ca54786fcc9b376df.kaf#w40 ./opener_hotel/nl/dutch00138_55deb9e9eacafd8ca54786fcc9b376df.kaf#w41
+TARGET	bediening	./opener_hotel/nl/dutch00138_55deb9e9eacafd8ca54786fcc9b376df.kaf#w37
+TARGET	alles	./opener_hotel/nl/dutch00138_55deb9e9eacafd8ca54786fcc9b376df.kaf#w43
+TARGET	dakterras	./opener_hotel/nl/dutch00009_13f7a2437792cdaa4a965bd61b3c6f6a.kaf#w12
+TARGET	hotel	./opener_hotel/nl/dutch00009_13f7a2437792cdaa4a965bd61b3c6f6a.kaf#w5
+TARGET	ligging	./opener_hotel/nl/dutch00009_13f7a2437792cdaa4a965bd61b3c6f6a.kaf#w8
+TARGET	Diner	./opener_hotel/nl/dutch00009_13f7a2437792cdaa4a965bd61b3c6f6a.kaf#w28
+TARGET	Ontbijt	./opener_hotel/nl/dutch00009_13f7a2437792cdaa4a965bd61b3c6f6a.kaf#w24
+TARGET	kamer	./opener_hotel/nl/dutch00009_13f7a2437792cdaa4a965bd61b3c6f6a.kaf#w48
+TARGET	dit hotelletje	./opener_hotel/nl/dutch00078_9cdc2a84e07b27df25861884a12f8b8e.kaf#w58 ./opener_hotel/nl/dutch00078_9cdc2a84e07b27df25861884a12f8b8e.kaf#w60
+TARGET	ontbijtbuffet	./opener_hotel/nl/dutch00078_9cdc2a84e07b27df25861884a12f8b8e.kaf#w45
+TARGET	handdoeken	./opener_hotel/nl/dutch00078_9cdc2a84e07b27df25861884a12f8b8e.kaf#w20
+TARGET	een badkamer	./opener_hotel/nl/dutch00078_9cdc2a84e07b27df25861884a12f8b8e.kaf#w22 ./opener_hotel/nl/dutch00078_9cdc2a84e07b27df25861884a12f8b8e.kaf#w24
+TARGET	een kamer	./opener_hotel/nl/dutch00078_9cdc2a84e07b27df25861884a12f8b8e.kaf#w11 ./opener_hotel/nl/dutch00078_9cdc2a84e07b27df25861884a12f8b8e.kaf#w14
+TARGET	linnen	./opener_hotel/nl/dutch00078_9cdc2a84e07b27df25861884a12f8b8e.kaf#w17
+TARGET	Hotel	./opener_hotel/nl/dutch00103_80a489086813ca880200dbb6733a65c3.kaf#w27
+TARGET	Check · in	./opener_hotel/nl/dutch00103_80a489086813ca880200dbb6733a65c3.kaf#w54 ./opener_hotel/nl/dutch00103_80a489086813ca880200dbb6733a65c3.kaf#w55 ./opener_hotel/nl/dutch00103_80a489086813ca880200dbb6733a65c3.kaf#w56
+TARGET	front desk	./opener_hotel/nl/dutch00103_80a489086813ca880200dbb6733a65c3.kaf#w60 ./opener_hotel/nl/dutch00103_80a489086813ca880200dbb6733a65c3.kaf#w61
+TARGET	het hotel	./opener_hotel/nl/dutch00103_80a489086813ca880200dbb6733a65c3.kaf#w51 ./opener_hotel/nl/dutch00103_80a489086813ca880200dbb6733a65c3.kaf#w52
+TARGET	Kamer	./opener_hotel/nl/dutch00103_80a489086813ca880200dbb6733a65c3.kaf#w77
+TARGET	prijs	./opener_hotel/nl/dutch00032_3f7526b41235df433a2ce777ea139bef.kaf#w23
+TARGET	Dorint	./opener_hotel/nl/dutch00032_3f7526b41235df433a2ce777ea139bef.kaf#w15
+TARGET	de sauna ' s	./opener_hotel/nl/dutch00032_3f7526b41235df433a2ce777ea139bef.kaf#w41 ./opener_hotel/nl/dutch00032_3f7526b41235df433a2ce777ea139bef.kaf#w42 ./opener_hotel/nl/dutch00032_3f7526b41235df433a2ce777ea139bef.kaf#w43 ./opener_hotel/nl/dutch00032_3f7526b41235df433a2ce777ea139bef.kaf#w44
+TARGET	fitness	./opener_hotel/nl/dutch00032_3f7526b41235df433a2ce777ea139bef.kaf#w46
+TARGET	Het zwembad	./opener_hotel/nl/dutch00032_3f7526b41235df433a2ce777ea139bef.kaf#w31 ./opener_hotel/nl/dutch00032_3f7526b41235df433a2ce777ea139bef.kaf#w32
+TARGET	familiekamer	./opener_hotel/nl/dutch00032_3f7526b41235df433a2ce777ea139bef.kaf#w29
+TARGET	het ontbijt	./opener_hotel/nl/dutch00032_3f7526b41235df433a2ce777ea139bef.kaf#w70 ./opener_hotel/nl/dutch00032_3f7526b41235df433a2ce777ea139bef.kaf#w71
+TARGET	Het eten	./opener_hotel/nl/dutch00032_3f7526b41235df433a2ce777ea139bef.kaf#w51 ./opener_hotel/nl/dutch00032_3f7526b41235df433a2ce777ea139bef.kaf#w52
+TARGET	De pistes	./opener_hotel/nl/dutch00031_d68fc920e45fc0e7b8611f638f3531bf.kaf#w105 ./opener_hotel/nl/dutch00031_d68fc920e45fc0e7b8611f638f3531bf.kaf#w106
+TARGET	Geluidsoverlast	./opener_hotel/nl/dutch00031_d68fc920e45fc0e7b8611f638f3531bf.kaf#w1
+TARGET	Onze kamer	./opener_hotel/nl/dutch00031_d68fc920e45fc0e7b8611f638f3531bf.kaf#w40 ./opener_hotel/nl/dutch00031_d68fc920e45fc0e7b8611f638f3531bf.kaf#w41
+TARGET	het eten	./opener_hotel/nl/dutch00031_d68fc920e45fc0e7b8611f638f3531bf.kaf#w69 ./opener_hotel/nl/dutch00031_d68fc920e45fc0e7b8611f638f3531bf.kaf#w70
+TARGET	Personeel	./opener_hotel/nl/dutch00031_d68fc920e45fc0e7b8611f638f3531bf.kaf#w65
+TARGET	het	./opener_hotel/nl/dutch00031_d68fc920e45fc0e7b8611f638f3531bf.kaf#w61
+TARGET	de geluidsoverlast	./opener_hotel/nl/dutch00031_d68fc920e45fc0e7b8611f638f3531bf.kaf#w94 ./opener_hotel/nl/dutch00031_d68fc920e45fc0e7b8611f638f3531bf.kaf#w95
+TARGET	Onze kamer	./opener_hotel/nl/dutch00031_d68fc920e45fc0e7b8611f638f3531bf.kaf#w76 ./opener_hotel/nl/dutch00031_d68fc920e45fc0e7b8611f638f3531bf.kaf#w77
+TARGET	de man van de pizza	./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w69 ./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w70 ./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w71 ./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w72 ./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w73
+TARGET	Ze	./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w55
+TARGET	hoe het gebouw erbij ligt	./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w23 ./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w24 ./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w25 ./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w26 ./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w27
+TARGET	het eten	./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w41 ./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w42
+TARGET	de pizza	./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w52 ./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w53
+TARGET	het barpersoneel	./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w48 ./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w49
+TARGET	het	./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w13
+TARGET	Het animatie team	./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w82 ./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w83 ./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w84
+TARGET	ala , houssein oxana	./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w92 ./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w93 ./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w94 ./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w95
+TARGET	bilal	./opener_hotel/nl/dutch00180_25b7f24337c7883b40e038177416ce55.kaf#w99
+TARGET	de oude kamers	./opener_hotel/nl/dutch00017_eabc3f91e381a5956d63d08cfa07e8e7.kaf#w4 ./opener_hotel/nl/dutch00017_eabc3f91e381a5956d63d08cfa07e8e7.kaf#w6 ./opener_hotel/nl/dutch00017_eabc3f91e381a5956d63d08cfa07e8e7.kaf#w8
+TARGET	de rest	./opener_hotel/nl/dutch00017_eabc3f91e381a5956d63d08cfa07e8e7.kaf#w47 ./opener_hotel/nl/dutch00017_eabc3f91e381a5956d63d08cfa07e8e7.kaf#w48
+TARGET	TV toestel	./opener_hotel/nl/dutch00017_eabc3f91e381a5956d63d08cfa07e8e7.kaf#w33 ./opener_hotel/nl/dutch00017_eabc3f91e381a5956d63d08cfa07e8e7.kaf#w34
+TARGET	hotel	./opener_hotel/nl/dutch00017_eabc3f91e381a5956d63d08cfa07e8e7.kaf#w14
+TARGET	jullie	./opener_hotel/nl/dutch00017_eabc3f91e381a5956d63d08cfa07e8e7.kaf#w109
+TARGET	Hotel	./opener_hotel/nl/dutch00093_b465cef57d024e4a255c041bc3ecfba7.kaf#w2
+TARGET	ligging	./opener_hotel/nl/dutch00093_b465cef57d024e4a255c041bc3ecfba7.kaf#w5
+TARGET	naar dit Hotel	./opener_hotel/nl/dutch00093_b465cef57d024e4a255c041bc3ecfba7.kaf#w44 ./opener_hotel/nl/dutch00093_b465cef57d024e4a255c041bc3ecfba7.kaf#w45 ./opener_hotel/nl/dutch00093_b465cef57d024e4a255c041bc3ecfba7.kaf#w46
+TARGET	front desk medewerkers	./opener_hotel/nl/dutch00093_b465cef57d024e4a255c041bc3ecfba7.kaf#w9 ./opener_hotel/nl/dutch00093_b465cef57d024e4a255c041bc3ecfba7.kaf#w10 ./opener_hotel/nl/dutch00093_b465cef57d024e4a255c041bc3ecfba7.kaf#w11
+TARGET	zwembad	./opener_hotel/nl/dutch00057_b65112cce42aa0c5ac7b5735e6f72ba3.kaf#w48
+TARGET	de kamer	./opener_hotel/nl/dutch00057_b65112cce42aa0c5ac7b5735e6f72ba3.kaf#w19 ./opener_hotel/nl/dutch00057_b65112cce42aa0c5ac7b5735e6f72ba3.kaf#w20
+TARGET	die	./opener_hotel/nl/dutch00057_b65112cce42aa0c5ac7b5735e6f72ba3.kaf#w37
+TARGET	een föhn	./opener_hotel/nl/dutch00057_b65112cce42aa0c5ac7b5735e6f72ba3.kaf#w28 ./opener_hotel/nl/dutch00057_b65112cce42aa0c5ac7b5735e6f72ba3.kaf#w29
+TARGET	badjassen	./opener_hotel/nl/dutch00057_b65112cce42aa0c5ac7b5735e6f72ba3.kaf#w33
+TARGET	badslippers	./opener_hotel/nl/dutch00057_b65112cce42aa0c5ac7b5735e6f72ba3.kaf#w31
+TARGET	spa mogelijkheden	./opener_hotel/nl/dutch00057_b65112cce42aa0c5ac7b5735e6f72ba3.kaf#w51 ./opener_hotel/nl/dutch00057_b65112cce42aa0c5ac7b5735e6f72ba3.kaf#w52
+TARGET	Het hotel	./opener_hotel/nl/dutch00057_b65112cce42aa0c5ac7b5735e6f72ba3.kaf#w3 ./opener_hotel/nl/dutch00057_b65112cce42aa0c5ac7b5735e6f72ba3.kaf#w4
+TARGET	cappucino	./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w130
+TARGET	recreatiemogelijkheden	./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w2
+TARGET	Het ontbijt	./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w20 ./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w21
+TARGET	hotel	./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w14
+TARGET	Het diner	./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w44 ./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w45
+TARGET	beleg	./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w30
+TARGET	thee	./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w40
+TARGET	fruit	./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w36
+TARGET	alle soorten ei	./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w32 ./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w33 ./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w34
+TARGET	sapjes	./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w38
+TARGET	cerials	./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w42
+TARGET	brood	./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w28
+TARGET	Het personeel	./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w64 ./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w65
+TARGET	de kamer	./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w101 ./opener_hotel/nl/dutch00026_39b8832a0de053438560d600be532aa7.kaf#w102
+TARGET	kamer	./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w146
+TARGET	3 sterren hotel	./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w128 ./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w129 ./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w130
+TARGET	de receptie	./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w110 ./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w111
+TARGET	de douche	./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w14 ./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w15
+TARGET	Kamer	./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w4
+TARGET	de lakens	./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w34 ./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w35
+TARGET	de handoeken	./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w45 ./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w46
+TARGET	Het plafond	./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w40 ./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w41
+TARGET	het	./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w89
+TARGET	De foto ' s die het hotel plaatst	./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w62 ./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w63 ./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w64 ./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w65 ./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w66 ./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w67 ./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w68 ./opener_hotel/nl/dutch00069_a669a57bb5be1da3d2e1622950e24c77.kaf#w69
+TARGET	hotel	./opener_hotel/nl/dutch00103_c0036233a58783ccba8a8e7c9edd243d.kaf#w4
+TARGET	personeel	./opener_hotel/nl/dutch00103_c0036233a58783ccba8a8e7c9edd243d.kaf#w31
+TARGET	op de Rambla	./opener_hotel/nl/dutch00103_c0036233a58783ccba8a8e7c9edd243d.kaf#w8 ./opener_hotel/nl/dutch00103_c0036233a58783ccba8a8e7c9edd243d.kaf#w9 ./opener_hotel/nl/dutch00103_c0036233a58783ccba8a8e7c9edd243d.kaf#w10
+TARGET	dakterras	./opener_hotel/nl/dutch00103_c0036233a58783ccba8a8e7c9edd243d.kaf#w12
+TARGET	de drukte van de stad	./opener_hotel/nl/dutch00103_c0036233a58783ccba8a8e7c9edd243d.kaf#w21 ./opener_hotel/nl/dutch00103_c0036233a58783ccba8a8e7c9edd243d.kaf#w22 ./opener_hotel/nl/dutch00103_c0036233a58783ccba8a8e7c9edd243d.kaf#w23 ./opener_hotel/nl/dutch00103_c0036233a58783ccba8a8e7c9edd243d.kaf#w24 ./opener_hotel/nl/dutch00103_c0036233a58783ccba8a8e7c9edd243d.kaf#w25
+TARGET	Ontbijtbuffet	./opener_hotel/nl/dutch00103_c0036233a58783ccba8a8e7c9edd243d.kaf#w38
+TARGET	tapas	./opener_hotel/nl/dutch00103_c0036233a58783ccba8a8e7c9edd243d.kaf#w34
+TARGET	drinks	./opener_hotel/nl/dutch00103_c0036233a58783ccba8a8e7c9edd243d.kaf#w36
+TARGET	dat hotel	./opener_hotel/nl/dutch00103_c0036233a58783ccba8a8e7c9edd243d.kaf#w54 ./opener_hotel/nl/dutch00103_c0036233a58783ccba8a8e7c9edd243d.kaf#w55
+TARGET	vakantie	./opener_hotel/nl/dutch00209_02f51bb815f639f3f1b84edd4a8e26b9.kaf#w102
+TARGET	park	./opener_hotel/nl/dutch00209_02f51bb815f639f3f1b84edd4a8e26b9.kaf#w33
+TARGET	Het	./opener_hotel/nl/dutch00209_02f51bb815f639f3f1b84edd4a8e26b9.kaf#w22
+TARGET	de ligging	./opener_hotel/nl/dutch00209_02f51bb815f639f3f1b84edd4a8e26b9.kaf#w46 ./opener_hotel/nl/dutch00209_02f51bb815f639f3f1b84edd4a8e26b9.kaf#w47
+TARGET	Er	./opener_hotel/nl/dutch00209_02f51bb815f639f3f1b84edd4a8e26b9.kaf#w38
+TARGET	onze kamer	./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w93 ./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w94
+TARGET	een kamer	./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w109 ./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w110
+TARGET	kamers	./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w104
+TARGET	hotel	./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w2
+TARGET	hotelkamer	./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w12
+TARGET	airco	./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w9
+TARGET	dakterras	./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w45
+TARGET	Koffie en thee faciliteiten	./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w52 ./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w53 ./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w54 ./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w55
+TARGET	wifi	./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w50
+TARGET	overal in de stad	./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w77 ./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w78 ./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w79 ./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w80
+TARGET	Ontbijt	./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w69
+TARGET	schoonmaak	./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w64
+TARGET	handdoeken	./opener_hotel/nl/dutch00106_c9005615bf66f0617d58de9f332a1867.kaf#w67
+TARGET	daar	./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w150
+TARGET	bij het oude gedeelte van het hotel	./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w133 ./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w134 ./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w135 ./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w136 ./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w137 ./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w138 ./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w139
+TARGET	vakantie	./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w2
+TARGET	het eten	./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w37 ./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w38
+TARGET	Het zwembad	./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w21 ./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w22
+TARGET	kamer	./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w29
+TARGET	hier	./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w17
+TARGET	het themarestaurant	./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w44 ./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w45
+TARGET	het personeel	./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w49 ./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w50
+TARGET	De informatievoorziening	./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w81 ./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w82
+TARGET	Dat	./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w103
+TARGET	prijs / prestatieverhouding	./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w2 ./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w3 ./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w4
+TARGET	prijs / prestatieverhouding	./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w70 ./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w71 ./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w72
+TARGET	eenpersoonskamer	./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w31
+TARGET	ontbijtbuffet	./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w41
+TARGET	een * * * · hotel	./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w61 ./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w62 ./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w63 ./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w64 ./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w65 ./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w66
+TARGET	drie gangen	./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w80 ./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w81
+TARGET	Het a la cartemenu	./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w75 ./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w76 ./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w77 ./opener_hotel/nl/dutch00082_a243866918970b58e29faaf23c06ed18.kaf#w78
+TARGET	hotel	./opener_hotel/nl/dutch00018_e84bd119cb4bc2231077e365638aacee.kaf#w2
+TARGET	de Russen	./opener_hotel/nl/dutch00018_e84bd119cb4bc2231077e365638aacee.kaf#w67 ./opener_hotel/nl/dutch00018_e84bd119cb4bc2231077e365638aacee.kaf#w68
+TARGET	complex	./opener_hotel/nl/dutch00018_e84bd119cb4bc2231077e365638aacee.kaf#w12
+TARGET	het	./opener_hotel/nl/dutch00018_e84bd119cb4bc2231077e365638aacee.kaf#w100
+TARGET	Het hele complex	./opener_hotel/nl/dutch00018_e84bd119cb4bc2231077e365638aacee.kaf#w26 ./opener_hotel/nl/dutch00018_e84bd119cb4bc2231077e365638aacee.kaf#w27 ./opener_hotel/nl/dutch00018_e84bd119cb4bc2231077e365638aacee.kaf#w28
+TARGET	aan het hotel	./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w142 ./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w143 ./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w144
+TARGET	Hotspot	./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w1
+TARGET	naar een grotere kamer	./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w30 ./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w31 ./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w32 ./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w33
+TARGET	Het Nhow Hotel	./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w6 ./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w7 ./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w8
+TARGET	Het personeel	./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w50 ./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w51
+TARGET	Die	./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w35
+TARGET	Het hotel	./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w71 ./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w72
+TARGET	ze	./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w60
+TARGET	het	./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w122
+TARGET	het centrum	./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w114 ./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w115
+TARGET	buurt	./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w133
+TARGET	het metrostation	./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w93 ./opener_hotel/nl/dutch00168_36727fb1287d6c7d74b4b7057654d976.kaf#w94
+TARGET	Stacaravan	./opener_hotel/nl/dutch00073_a308227884d29871567d102cd08b146d.kaf#w20
+TARGET	Camping	./opener_hotel/nl/dutch00073_a308227884d29871567d102cd08b146d.kaf#w11
+TARGET	Zwembad	./opener_hotel/nl/dutch00073_a308227884d29871567d102cd08b146d.kaf#w61
+TARGET	je stacaravan of caravan	./opener_hotel/nl/dutch00073_a308227884d29871567d102cd08b146d.kaf#w34 ./opener_hotel/nl/dutch00073_a308227884d29871567d102cd08b146d.kaf#w35 ./opener_hotel/nl/dutch00073_a308227884d29871567d102cd08b146d.kaf#w36 ./opener_hotel/nl/dutch00073_a308227884d29871567d102cd08b146d.kaf#w37
+TARGET	afhaal	./opener_hotel/nl/dutch00073_a308227884d29871567d102cd08b146d.kaf#w87
+TARGET	restaurant	./opener_hotel/nl/dutch00073_a308227884d29871567d102cd08b146d.kaf#w82
+TARGET	Bar	./opener_hotel/nl/dutch00073_a308227884d29871567d102cd08b146d.kaf#w80
+TARGET	het	./opener_hotel/nl/dutch00073_a308227884d29871567d102cd08b146d.kaf#w119
+TARGET	het	./opener_hotel/nl/dutch00073_a308227884d29871567d102cd08b146d.kaf#w108
+TARGET	Het	./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w1
+TARGET	De kamer	./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w20 ./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w21
+TARGET	de terrassen	./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w10 ./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w11
+TARGET	eetzalen e.d.	./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w13 ./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w14
+TARGET	Het hotel	./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w5 ./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w6
+TARGET	Diner	./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w54
+TARGET	tijdens het afrekenen	./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w86 ./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w87 ./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w88
+TARGET	het personeel	./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w75 ./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w76
+TARGET	de kamer	./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w41 ./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w42
+TARGET	Bij aankomst	./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w29 ./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w30
+TARGET	de niet gekregen pakketten	./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w116 ./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w117 ./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w118 ./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w119
+TARGET	de receptioniste / gastvrouw	./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w106 ./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w107 ./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w108 ./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w109
+TARGET	De rekening	./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w95 ./opener_hotel/nl/dutch00041_543c948473e93e641ca1724003ae4fd2.kaf#w96
+TARGET	badkamer	./opener_hotel/nl/dutch00047_c2ff0eb45599b5d7a78d9cf480a6bc32.kaf#w24
+TARGET	De kamer	./opener_hotel/nl/dutch00047_c2ff0eb45599b5d7a78d9cf480a6bc32.kaf#w11 ./opener_hotel/nl/dutch00047_c2ff0eb45599b5d7a78d9cf480a6bc32.kaf#w12
+TARGET	Het onthaal	./opener_hotel/nl/dutch00047_c2ff0eb45599b5d7a78d9cf480a6bc32.kaf#w3 ./opener_hotel/nl/dutch00047_c2ff0eb45599b5d7a78d9cf480a6bc32.kaf#w4
+TARGET	de matras	./opener_hotel/nl/dutch00047_c2ff0eb45599b5d7a78d9cf480a6bc32.kaf#w52 ./opener_hotel/nl/dutch00047_c2ff0eb45599b5d7a78d9cf480a6bc32.kaf#w53
+TARGET	dit	./opener_hotel/nl/dutch00047_c2ff0eb45599b5d7a78d9cf480a6bc32.kaf#w61
+TARGET	Het ontbijt	./opener_hotel/nl/dutch00047_c2ff0eb45599b5d7a78d9cf480a6bc32.kaf#w40 ./opener_hotel/nl/dutch00047_c2ff0eb45599b5d7a78d9cf480a6bc32.kaf#w41
+TARGET	dit hotel	./opener_hotel/nl/dutch00047_c2ff0eb45599b5d7a78d9cf480a6bc32.kaf#w69 ./opener_hotel/nl/dutch00047_c2ff0eb45599b5d7a78d9cf480a6bc32.kaf#w70
+TARGET	hotel	./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w150
+TARGET	het ijsje	./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w64 ./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w65
+TARGET	kamer	./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w20
+TARGET	All inclusief	./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w45 ./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w46
+TARGET	kamers	./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w35
+TARGET	water	./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w38
+TARGET	Een hotel	./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w6 ./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w7
+TARGET	8 bakken voor 500 mensen	./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w74 ./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w75 ./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w76 ./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w77 ./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w78
+TARGET	Eten	./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w70
+TARGET	Het personeel	./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w138 ./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w139
+TARGET	hotel	./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w4
+TARGET	Dat	./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w41
+TARGET	Het NH Utrecht	./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w8 ./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w9 ./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w10
+TARGET	behang	./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w76
+TARGET	meubels	./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w72
+TARGET	badkamer	./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w82
+TARGET	De hotelkamer	./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w65 ./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w66
+TARGET	Het hotel	./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w51 ./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w52
+TARGET	De minibar	./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w84 ./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w85
+TARGET	een hotel	./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w103 ./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w104
+TARGET	centraal	./opener_hotel/nl/dutch00153_47e5b9df5c10f5c8c29fd44f8529b9f1.kaf#w114
+TARGET	1 persoonskamer	./opener_hotel/nl/dutch00088_a9f8cbd5fc8a2e0c514b599f4b38ed2f.kaf#w1 ./opener_hotel/nl/dutch00088_a9f8cbd5fc8a2e0c514b599f4b38ed2f.kaf#w2
+TARGET	ontbijt	./opener_hotel/nl/dutch00088_a9f8cbd5fc8a2e0c514b599f4b38ed2f.kaf#w43
+TARGET	de badkamer	./opener_hotel/nl/dutch00088_a9f8cbd5fc8a2e0c514b599f4b38ed2f.kaf#w23 ./opener_hotel/nl/dutch00088_a9f8cbd5fc8a2e0c514b599f4b38ed2f.kaf#w24
+TARGET	de kamers	./opener_hotel/nl/dutch00088_a9f8cbd5fc8a2e0c514b599f4b38ed2f.kaf#w7 ./opener_hotel/nl/dutch00088_a9f8cbd5fc8a2e0c514b599f4b38ed2f.kaf#w8
+TARGET	bed	./opener_hotel/nl/dutch00088_a9f8cbd5fc8a2e0c514b599f4b38ed2f.kaf#w35
+TARGET	hotel	./opener_hotel/nl/dutch00088_a9f8cbd5fc8a2e0c514b599f4b38ed2f.kaf#w78
+TARGET	de afstand tot zee	./opener_hotel/nl/dutch00084_9a0d94a687af3991c3e165200c91b0f7.kaf#w51 ./opener_hotel/nl/dutch00084_9a0d94a687af3991c3e165200c91b0f7.kaf#w52 ./opener_hotel/nl/dutch00084_9a0d94a687af3991c3e165200c91b0f7.kaf#w53 ./opener_hotel/nl/dutch00084_9a0d94a687af3991c3e165200c91b0f7.kaf#w54
+TARGET	zwembad	./opener_hotel/nl/dutch00084_9a0d94a687af3991c3e165200c91b0f7.kaf#w41
+TARGET	schaduw	./opener_hotel/nl/dutch00084_9a0d94a687af3991c3e165200c91b0f7.kaf#w38
+TARGET	de prijs	./opener_hotel/nl/dutch00084_9a0d94a687af3991c3e165200c91b0f7.kaf#w26 ./opener_hotel/nl/dutch00084_9a0d94a687af3991c3e165200c91b0f7.kaf#w27
+TARGET	De rust	./opener_hotel/nl/dutch00084_9a0d94a687af3991c3e165200c91b0f7.kaf#w85 ./opener_hotel/nl/dutch00084_9a0d94a687af3991c3e165200c91b0f7.kaf#w86
+TARGET	koelkast	./opener_hotel/nl/dutch00084_9a0d94a687af3991c3e165200c91b0f7.kaf#w105
+TARGET	het sanitair	./opener_hotel/nl/dutch00084_9a0d94a687af3991c3e165200c91b0f7.kaf#w78 ./opener_hotel/nl/dutch00084_9a0d94a687af3991c3e165200c91b0f7.kaf#w79
+TARGET	de extra service	./opener_hotel/nl/dutch00035_d3b342ade6e9d749e32b1aee74414d0d.kaf#w46 ./opener_hotel/nl/dutch00035_d3b342ade6e9d749e32b1aee74414d0d.kaf#w47 ./opener_hotel/nl/dutch00035_d3b342ade6e9d749e32b1aee74414d0d.kaf#w48
+TARGET	kamer	./opener_hotel/nl/dutch00035_d3b342ade6e9d749e32b1aee74414d0d.kaf#w28
+TARGET	service	./opener_hotel/nl/dutch00035_d3b342ade6e9d749e32b1aee74414d0d.kaf#w32
+TARGET	hotal	./opener_hotel/nl/dutch00035_d3b342ade6e9d749e32b1aee74414d0d.kaf#w65
+TARGET	lawaai van de weg	./opener_hotel/nl/dutch00035_d3b342ade6e9d749e32b1aee74414d0d.kaf#w96 ./opener_hotel/nl/dutch00035_d3b342ade6e9d749e32b1aee74414d0d.kaf#w97 ./opener_hotel/nl/dutch00035_d3b342ade6e9d749e32b1aee74414d0d.kaf#w98 ./opener_hotel/nl/dutch00035_d3b342ade6e9d749e32b1aee74414d0d.kaf#w99
+TARGET	hotel	./opener_hotel/nl/dutch00111_d0961b9825b2e6b212a915652085b555.kaf#w2
+TARGET	service	./opener_hotel/nl/dutch00111_d0961b9825b2e6b212a915652085b555.kaf#w13
+TARGET	kamer	./opener_hotel/nl/dutch00111_d0961b9825b2e6b212a915652085b555.kaf#w16
+TARGET	ontbijt	./opener_hotel/nl/dutch00111_d0961b9825b2e6b212a915652085b555.kaf#w19
+TARGET	Hotel 1898 in Barcelona	./opener_hotel/nl/dutch00111_d0961b9825b2e6b212a915652085b555.kaf#w3 ./opener_hotel/nl/dutch00111_d0961b9825b2e6b212a915652085b555.kaf#w4 ./opener_hotel/nl/dutch00111_d0961b9825b2e6b212a915652085b555.kaf#w5 ./opener_hotel/nl/dutch00111_d0961b9825b2e6b212a915652085b555.kaf#w6
+TARGET	dit	./opener_hotel/nl/dutch00111_d0961b9825b2e6b212a915652085b555.kaf#w53
+TARGET	het totaal · plaatje	./opener_hotel/nl/dutch00111_d0961b9825b2e6b212a915652085b555.kaf#w73 ./opener_hotel/nl/dutch00111_d0961b9825b2e6b212a915652085b555.kaf#w74 ./opener_hotel/nl/dutch00111_d0961b9825b2e6b212a915652085b555.kaf#w75 ./opener_hotel/nl/dutch00111_d0961b9825b2e6b212a915652085b555.kaf#w76
+TARGET	hotel	./opener_hotel/nl/dutch00088_8fe61dcece833c3b34170f7c54f85e62.kaf#w4
+TARGET	hotel	./opener_hotel/nl/dutch00088_8fe61dcece833c3b34170f7c54f85e62.kaf#w15
+TARGET	hotel	./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w2
+TARGET	De ( standaard ) kamer	./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w19 ./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w20 ./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w21 ./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w22 ./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w23
+TARGET	verblijf	./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w13
+TARGET	Het ontbijt	./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w70 ./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w71
+TARGET	dat	./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w64
+TARGET	geen vast tapijt , maar parket	./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w57 ./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w58 ./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w59 ./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w60 ./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w61 ./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w62
+TARGET	het pendelen	./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w112 ./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w113
+TARGET	Het restaurant	./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w78 ./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w79
+TARGET	er	./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w88
+TARGET	ligging	./opener_hotel/nl/dutch00105_7c5b891cba5b915b141859e584d03b51.kaf#w39
+TARGET	een hoteletje	./opener_hotel/nl/dutch00105_7c5b891cba5b915b141859e584d03b51.kaf#w22 ./opener_hotel/nl/dutch00105_7c5b891cba5b915b141859e584d03b51.kaf#w27
+TARGET	inrichting	./opener_hotel/nl/dutch00105_7c5b891cba5b915b141859e584d03b51.kaf#w73
+TARGET	het personeel	./opener_hotel/nl/dutch00105_7c5b891cba5b915b141859e584d03b51.kaf#w67 ./opener_hotel/nl/dutch00105_7c5b891cba5b915b141859e584d03b51.kaf#w70
+TARGET	die van het hotel	./opener_hotel/nl/dutch00105_7c5b891cba5b915b141859e584d03b51.kaf#w52 ./opener_hotel/nl/dutch00105_7c5b891cba5b915b141859e584d03b51.kaf#w53 ./opener_hotel/nl/dutch00105_7c5b891cba5b915b141859e584d03b51.kaf#w54 ./opener_hotel/nl/dutch00105_7c5b891cba5b915b141859e584d03b51.kaf#w55
+TARGET	ontbijt	./opener_hotel/nl/dutch00105_7c5b891cba5b915b141859e584d03b51.kaf#w98
+TARGET	kamers	./opener_hotel/nl/dutch00105_7c5b891cba5b915b141859e584d03b51.kaf#w87
+TARGET	kwaliteit vasn het restaurant	./opener_hotel/nl/dutch00105_7c5b891cba5b915b141859e584d03b51.kaf#w102 ./opener_hotel/nl/dutch00105_7c5b891cba5b915b141859e584d03b51.kaf#w103 ./opener_hotel/nl/dutch00105_7c5b891cba5b915b141859e584d03b51.kaf#w104 ./opener_hotel/nl/dutch00105_7c5b891cba5b915b141859e584d03b51.kaf#w105
+TARGET	resort	./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w11
+TARGET	eigenaar	./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w34
+TARGET	cottages	./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w66
+TARGET	meer dan een halve liter water	./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w104 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w105 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w106 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w107 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w108 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w109
+TARGET	water uit kraan / douche	./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w76 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w77 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w78 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w79 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w80
+TARGET	aircos	./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w69
+TARGET	extra koffie plakje kaas / worst bij ontbijt	./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w84 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w85 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w86 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w87 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w88 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w89 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w90 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w91
+TARGET	door barpersoneel aangeboden pindas	./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w95 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w96 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w97 ./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w98
+TARGET	grappen	./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w55
+TARGET	Eigenaar	./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w158
+TARGET	toeslag	./opener_hotel/nl/dutch00079_9cac8362dbb3a822823fa80668814a82.kaf#w127
+TARGET	De zwem en ontspannings faciliteiten	./opener_hotel/nl/dutch00027_dde70f6dea3052998d614f13973e0034.kaf#w43 ./opener_hotel/nl/dutch00027_dde70f6dea3052998d614f13973e0034.kaf#w44 ./opener_hotel/nl/dutch00027_dde70f6dea3052998d614f13973e0034.kaf#w45 ./opener_hotel/nl/dutch00027_dde70f6dea3052998d614f13973e0034.kaf#w46 ./opener_hotel/nl/dutch00027_dde70f6dea3052998d614f13973e0034.kaf#w47
+TARGET	service	./opener_hotel/nl/dutch00027_dde70f6dea3052998d614f13973e0034.kaf#w77
+TARGET	het eten	./opener_hotel/nl/dutch00027_dde70f6dea3052998d614f13973e0034.kaf#w26 ./opener_hotel/nl/dutch00027_dde70f6dea3052998d614f13973e0034.kaf#w27
+TARGET	dit een hotel	./opener_hotel/nl/dutch00027_dde70f6dea3052998d614f13973e0034.kaf#w7 ./opener_hotel/nl/dutch00027_dde70f6dea3052998d614f13973e0034.kaf#w8 ./opener_hotel/nl/dutch00027_dde70f6dea3052998d614f13973e0034.kaf#w9
+TARGET	de service	./opener_hotel/nl/dutch00027_dde70f6dea3052998d614f13973e0034.kaf#w19 ./opener_hotel/nl/dutch00027_dde70f6dea3052998d614f13973e0034.kaf#w20
+TARGET	hotel	./opener_hotel/nl/dutch00002_088635ba1b98f38ee37cd40efddf22d8.kaf#w2
+TARGET	hier	./opener_hotel/nl/dutch00002_088635ba1b98f38ee37cd40efddf22d8.kaf#w9
+TARGET	Ontbijt	./opener_hotel/nl/dutch00002_088635ba1b98f38ee37cd40efddf22d8.kaf#w43
+TARGET	pendelbussen	./opener_hotel/nl/dutch00002_088635ba1b98f38ee37cd40efddf22d8.kaf#w48
+TARGET	kamer	./opener_hotel/nl/dutch00002_088635ba1b98f38ee37cd40efddf22d8.kaf#w37
+TARGET	hotel	./opener_hotel/nl/dutch00063_7cf77f14cc72647f029844c16bd201df.kaf#w3
+TARGET	een service	./opener_hotel/nl/dutch00063_7cf77f14cc72647f029844c16bd201df.kaf#w20 ./opener_hotel/nl/dutch00063_7cf77f14cc72647f029844c16bd201df.kaf#w22
+TARGET	kamers	./opener_hotel/nl/dutch00063_7cf77f14cc72647f029844c16bd201df.kaf#w18
+TARGET	Het zwembad	./opener_hotel/nl/dutch00063_7cf77f14cc72647f029844c16bd201df.kaf#w40 ./opener_hotel/nl/dutch00063_7cf77f14cc72647f029844c16bd201df.kaf#w41
+TARGET	het eten	./opener_hotel/nl/dutch00063_7cf77f14cc72647f029844c16bd201df.kaf#w64 ./opener_hotel/nl/dutch00063_7cf77f14cc72647f029844c16bd201df.kaf#w65
+TARGET	hotel Dream Castle	./opener_hotel/nl/dutch00063_7cf77f14cc72647f029844c16bd201df.kaf#w136 ./opener_hotel/nl/dutch00063_7cf77f14cc72647f029844c16bd201df.kaf#w137 ./opener_hotel/nl/dutch00063_7cf77f14cc72647f029844c16bd201df.kaf#w138
+TARGET	whiskey	./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w95
+TARGET	brandy	./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w93
+TARGET	rum	./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w97
+TARGET	de dingen	./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w116 ./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w117
+TARGET	hierheen	./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w151
+TARGET	Ligging	./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w25
+TARGET	de dolmus	./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w35 ./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w36
+TARGET	personeel	./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w88
+TARGET	het eten	./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w53 ./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w54
+TARGET	katten	./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w63
+TARGET	tafelkleden	./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w83
+TARGET	Kwaliteit	./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w48
+TARGET	ramen	./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w58
+TARGET	plek	./opener_hotel/nl/dutch00090_b0f7ebc105a938a2543a56fbbf2cdb10.kaf#w2
+TARGET	kamer	./opener_hotel/nl/dutch00090_b0f7ebc105a938a2543a56fbbf2cdb10.kaf#w8
+TARGET	Central Park	./opener_hotel/nl/dutch00090_b0f7ebc105a938a2543a56fbbf2cdb10.kaf#w20 ./opener_hotel/nl/dutch00090_b0f7ebc105a938a2543a56fbbf2cdb10.kaf#w21
+TARGET	Fifth Avenue	./opener_hotel/nl/dutch00090_b0f7ebc105a938a2543a56fbbf2cdb10.kaf#w28 ./opener_hotel/nl/dutch00090_b0f7ebc105a938a2543a56fbbf2cdb10.kaf#w29
+TARGET	Broadway	./opener_hotel/nl/dutch00090_b0f7ebc105a938a2543a56fbbf2cdb10.kaf#w23
+TARGET	met het raam open slapen	./opener_hotel/nl/dutch00090_b0f7ebc105a938a2543a56fbbf2cdb10.kaf#w42 ./opener_hotel/nl/dutch00090_b0f7ebc105a938a2543a56fbbf2cdb10.kaf#w43 ./opener_hotel/nl/dutch00090_b0f7ebc105a938a2543a56fbbf2cdb10.kaf#w44 ./opener_hotel/nl/dutch00090_b0f7ebc105a938a2543a56fbbf2cdb10.kaf#w45 ./opener_hotel/nl/dutch00090_b0f7ebc105a938a2543a56fbbf2cdb10.kaf#w46
+TARGET	kamer	./opener_hotel/nl/dutch00090_b0f7ebc105a938a2543a56fbbf2cdb10.kaf#w38
+TARGET	gelegen	./opener_hotel/nl/dutch00090_b0f7ebc105a938a2543a56fbbf2cdb10.kaf#w13
+TARGET	plek	./opener_hotel/nl/dutch00090_b0f7ebc105a938a2543a56fbbf2cdb10.kaf#w54
+TARGET	de hogere kamers	./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w64 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w65 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w66
+TARGET	een kamer met de nr 001 tot 005	./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w55 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w56 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w57 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w58 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w59 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w60 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w61 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w62
+TARGET	we	./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w44
+TARGET	Het personeel	./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w104 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w105
+TARGET	de handdoeken die op de grond lagen	./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w88 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w89 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w90 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w91 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w92 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w93 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w94
+TARGET	Het verschonen van de handdoeken	./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w79 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w80 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w81 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w82 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w83
+TARGET	In het oude centrum	./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w114 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w115 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w116 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w117
+TARGET	zwembad	./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w112
+TARGET	Het oude centrum van Albufiera	./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w127 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w128 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w129 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w130 ./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w131
+TARGET	Alleen de banken op het terras	./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w102 ./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w103 ./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w104 ./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w105 ./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w106 ./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w107
+TARGET	Dit hotel	./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w1 ./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w2
+TARGET	personeel	./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w6
+TARGET	Carat Hotel	./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w7 ./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w8
+TARGET	Het personeel	./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w23 ./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w24
+TARGET	vandaar	./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w75
+TARGET	De speelhoek	./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w41 ./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w42
+TARGET	De bar	./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w94 ./opener_hotel/nl/dutch00119_690e00076df17ff325dfb1d2365f6525.kaf#w95
+TARGET	hotel	./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w2
+TARGET	verzorging	./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w4
+TARGET	netheid	./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w28
+TARGET	kamer	./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w10
+TARGET	ons zwembad	./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w24 ./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w25
+TARGET	aquapark	./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w61
+TARGET	eten	./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w34
+TARGET	restaurant waar alleeen volwassenen in mogen	./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w52 ./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w53 ./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w54 ./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w55 ./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w56 ./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w57
+TARGET	ook wat russen dit	./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w90 ./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w91 ./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w92 ./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w94
+TARGET	engelsen	./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w84
+TARGET	duitsers	./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w82
+TARGET	polen	./opener_hotel/nl/dutch00184_1a84e1a866da38d62f90645eef82f287.kaf#w86
+TARGET	hotel	./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w2
+TARGET	bedden	./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w36
+TARGET	badkamer	./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w48
+TARGET	kledingkast	./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w44
+TARGET	TV	./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w40
+TARGET	De kamers	./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w25 ./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w26
+TARGET	het trappenhuis naar de verdieping van kamer 23 en hoger	./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w72 ./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w73 ./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w74 ./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w75 ./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w76 ./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w77 ./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w78 ./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w79 ./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w80 ./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w81
+TARGET	minibar	./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w70
+TARGET	kluis op de kamer	./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w64 ./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w65 ./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w66 ./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w67
+TARGET	ontbijt	./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w57
+TARGET	dit hotel	./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w116 ./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w117
+TARGET	een lift	./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w94 ./opener_hotel/nl/dutch00109_7716eee7d9ca35196dad9459bd1d834a.kaf#w95
+TARGET	dit hotel	./opener_hotel/nl/dutch00006_f7402b68ec7d9bae22abbff6c4d60275.kaf#w6 ./opener_hotel/nl/dutch00006_f7402b68ec7d9bae22abbff6c4d60275.kaf#w7
+TARGET	Ahmed Hegazy met zijn mensen	./opener_hotel/nl/dutch00006_f7402b68ec7d9bae22abbff6c4d60275.kaf#w26 ./opener_hotel/nl/dutch00006_f7402b68ec7d9bae22abbff6c4d60275.kaf#w27 ./opener_hotel/nl/dutch00006_f7402b68ec7d9bae22abbff6c4d60275.kaf#w28 ./opener_hotel/nl/dutch00006_f7402b68ec7d9bae22abbff6c4d60275.kaf#w29 ./opener_hotel/nl/dutch00006_f7402b68ec7d9bae22abbff6c4d60275.kaf#w30
+TARGET	hier	./opener_hotel/nl/dutch00006_f7402b68ec7d9bae22abbff6c4d60275.kaf#w10
+TARGET	General Manager Mr. Alp	./opener_hotel/nl/dutch00006_f7402b68ec7d9bae22abbff6c4d60275.kaf#w83 ./opener_hotel/nl/dutch00006_f7402b68ec7d9bae22abbff6c4d60275.kaf#w84 ./opener_hotel/nl/dutch00006_f7402b68ec7d9bae22abbff6c4d60275.kaf#w85 ./opener_hotel/nl/dutch00006_f7402b68ec7d9bae22abbff6c4d60275.kaf#w86
+TARGET	Ibrahim met zijn mensen	./opener_hotel/nl/dutch00006_f7402b68ec7d9bae22abbff6c4d60275.kaf#w71 ./opener_hotel/nl/dutch00006_f7402b68ec7d9bae22abbff6c4d60275.kaf#w72 ./opener_hotel/nl/dutch00006_f7402b68ec7d9bae22abbff6c4d60275.kaf#w73 ./opener_hotel/nl/dutch00006_f7402b68ec7d9bae22abbff6c4d60275.kaf#w74
+TARGET	De boot en zijn bemanning	./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w163 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w164 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w165 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w166 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w167
+TARGET	Resort	./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w1
+TARGET	Het resort	./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w14 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w15
+TARGET	water uit de douche	./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w39 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w40 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w41 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w42
+TARGET	tropische tuin	./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w29 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w30
+TARGET	Het duikcentrum	./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w76 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w77
+TARGET	water om je spullen te spoelen	./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w83 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w84 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w85 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w86 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w87 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w88
+TARGET	De douche bij het zwembad	./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w64 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w65 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w66 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w67 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w68
+TARGET	Voor de echte mooie duikstekken	./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w136 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w137 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w138 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w139 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w140
+TARGET	de stukken koraal	./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w125 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w126 ./opener_hotel/nl/dutch00143_4cb107328798f3625655766bce9ae648.kaf#w127
+TARGET	schaduw	./opener_hotel/nl/dutch00015_ecd0f106bea6ce357826b08a91893bc6.kaf#w38
+TARGET	de afstand tot zee	./opener_hotel/nl/dutch00015_ecd0f106bea6ce357826b08a91893bc6.kaf#w51 ./opener_hotel/nl/dutch00015_ecd0f106bea6ce357826b08a91893bc6.kaf#w52 ./opener_hotel/nl/dutch00015_ecd0f106bea6ce357826b08a91893bc6.kaf#w53 ./opener_hotel/nl/dutch00015_ecd0f106bea6ce357826b08a91893bc6.kaf#w54
+TARGET	zwembad	./opener_hotel/nl/dutch00015_ecd0f106bea6ce357826b08a91893bc6.kaf#w41
+TARGET	de prijs	./opener_hotel/nl/dutch00015_ecd0f106bea6ce357826b08a91893bc6.kaf#w26 ./opener_hotel/nl/dutch00015_ecd0f106bea6ce357826b08a91893bc6.kaf#w27
+TARGET	veel vliegen	./opener_hotel/nl/dutch00015_ecd0f106bea6ce357826b08a91893bc6.kaf#w73 ./opener_hotel/nl/dutch00015_ecd0f106bea6ce357826b08a91893bc6.kaf#w74
+TARGET	het sanitair	./opener_hotel/nl/dutch00015_ecd0f106bea6ce357826b08a91893bc6.kaf#w78 ./opener_hotel/nl/dutch00015_ecd0f106bea6ce357826b08a91893bc6.kaf#w79

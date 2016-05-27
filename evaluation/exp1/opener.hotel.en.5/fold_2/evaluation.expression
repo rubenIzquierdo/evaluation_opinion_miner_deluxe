@@ -1,0 +1,562 @@
+##################################################
+Precision: 78.41 Total system: 917
+Most wrong on the system:
+	Freq: 5 --> good
+		['./opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w126']
+		['./opener_hotel/en/english00175_d1946c32cbf32bfe30fcc2714b64f184.kaf#w76']
+		['./opener_hotel/en/english00063_5fc74dff0ee1647aabf7db9976cfb3cf.kaf#w27']
+		['./opener_hotel/en/english00045_3f6f291af6eeef8270f1182d15e7b845.kaf#w80']
+		['./opener_hotel/en/english00093_86e07b81e3da168d0e7874582a818215.kaf#w122']
+	Freq: 4 --> there
+		['./opener_hotel/en/english00222_fd5bd3330c0b96b7ddc0ff8e0482a572.kaf#w54']
+		['./opener_hotel/en/english00164_c6d60bf75b0de8d72b7e1c575e04e314.kaf#w78']
+		['./opener_hotel/en/english00048_330a5ab04e60387e950ee841248466fb.kaf#w122']
+		['./opener_hotel/en/english00107_76be57e13ea17e1c2cc08cb3f5ab2240.kaf#w75']
+	Freq: 3 --> to
+		['./opener_hotel/en/english00036_29c5cdcccf3cb2bb0f38d4d1153d3d44.kaf#w97']
+		['./opener_hotel/en/english00001_0123ff23e0d0dc0177f9b71a1928b674.kaf#w89']
+		['./opener_hotel/en/english00104_71984ad55ab39a055733c8df9a48c72d.kaf#w55']
+	Freq: 3 --> would like
+		['./opener_hotel/en/english00115_8307a340e7d47fe68eb66c2a428ae88e.kaf#w104', './opener_hotel/en/english00115_8307a340e7d47fe68eb66c2a428ae88e.kaf#w105']
+		['./opener_hotel/en/english00128_c12e630c1e53da33fcd8888af3c9366c.kaf#w3', './opener_hotel/en/english00128_c12e630c1e53da33fcd8888af3c9366c.kaf#w4']
+		['./opener_hotel/en/english00116_ac10e737525bd5d17d46136365292387.kaf#w39', './opener_hotel/en/english00116_ac10e737525bd5d17d46136365292387.kaf#w40']
+	Freq: 3 --> !
+		['./opener_hotel/en/english00022_1954f2d7d3a473fbfe171642d4b2d5c3.kaf#w7']
+		['./opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w9']
+		['./opener_hotel/en/english00104_947bd677207447b46cf3fb52fec458f6.kaf#w6']
+	Freq: 3 --> the
+		['./opener_hotel/en/english00075_6ec3813631e401743488b9fcf0d114c0.kaf#w13']
+		['./opener_hotel/en/english00148_a8f22a1581a9321d3fcf61a4e058c4c7.kaf#w78']
+		['./opener_hotel/en/english00172_cee4504ab4cc06e93f44e33ed1e02b4f.kaf#w59']
+	Freq: 2 --> condition
+		['./opener_hotel/en/english00138_9f942cd30f42d0abad59c036950aef81.kaf#w57']
+		['./opener_hotel/en/english00104_71984ad55ab39a055733c8df9a48c72d.kaf#w17']
+	Freq: 2 --> old
+		['./opener_hotel/en/english00023_1aa3c5b4f003f6646e3d6f72045d4750.kaf#w32']
+		['./opener_hotel/en/english00093_86e07b81e3da168d0e7874582a818215.kaf#w109']
+	Freq: 2 --> for
+		['./opener_hotel/en/english00098_8d034b0d55c5dd6d5e4348f3e2753415.kaf#w12']
+		['./opener_hotel/en/english00104_71984ad55ab39a055733c8df9a48c72d.kaf#w58']
+	Freq: 2 --> didn 't
+		['./opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w124', './opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w125']
+		['./opener_hotel/en/english00219_fa68930c28a452677d4f82d9400ddf4a.kaf#w60', './opener_hotel/en/english00219_fa68930c28a452677d4f82d9400ddf4a.kaf#w61']
+	Freq: 2 --> English
+		['./opener_hotel/en/english00001_0123ff23e0d0dc0177f9b71a1928b674.kaf#w96']
+		['./opener_hotel/en/english00040_2bdfcdf199dcab6742b51f67af5d1973.kaf#w20']
+	Freq: 2 --> most
+		['./opener_hotel/en/english00093_86e07b81e3da168d0e7874582a818215.kaf#w72']
+		['./opener_hotel/en/english00107_76be57e13ea17e1c2cc08cb3f5ab2240.kaf#w17']
+	Freq: 2 --> to go
+		['./opener_hotel/en/english00148_ddb06f1e4ab012d85f9120c394168c48.kaf#w58', './opener_hotel/en/english00148_ddb06f1e4ab012d85f9120c394168c48.kaf#w59']
+		['./opener_hotel/en/english00116_ac10e737525bd5d17d46136365292387.kaf#w34', './opener_hotel/en/english00116_ac10e737525bd5d17d46136365292387.kaf#w35']
+	Freq: 2 --> for sure
+		['./opener_hotel/en/english00078_726dab247b93f8e93eeeabc72f74d655.kaf#w12', './opener_hotel/en/english00078_726dab247b93f8e93eeeabc72f74d655.kaf#w13']
+		['./opener_hotel/en/english00116_ac10e737525bd5d17d46136365292387.kaf#w61', './opener_hotel/en/english00116_ac10e737525bd5d17d46136365292387.kaf#w62']
+	Freq: 2 --> / quality
+		['./opener_hotel/en/english00020_1e08fbd09d0d194f477067636061b618.kaf#w3', './opener_hotel/en/english00020_1e08fbd09d0d194f477067636061b618.kaf#w4']
+		['./opener_hotel/en/english00020_1e08fbd09d0d194f477067636061b618.kaf#w11', './opener_hotel/en/english00020_1e08fbd09d0d194f477067636061b618.kaf#w12']
+	Freq: 2 --> average
+		['./opener_hotel/en/english00138_9f942cd30f42d0abad59c036950aef81.kaf#w109']
+		['./opener_hotel/en/english00145_db78c6e6fe3f04b1e4ace2f8475ae3a1.kaf#w17']
+	Freq: 2 --> in
+		['./opener_hotel/en/english00151_ad2e6a8bc55be7d227386457521f027e.kaf#w62']
+		['./opener_hotel/en/english00219_fa68930c28a452677d4f82d9400ddf4a.kaf#w38']
+	Freq: 2 --> nice
+		['./opener_hotel/en/english00063_5fc74dff0ee1647aabf7db9976cfb3cf.kaf#w29']
+		['./opener_hotel/en/english00093_86e07b81e3da168d0e7874582a818215.kaf#w142']
+	Freq: 2 --> a
+		['./opener_hotel/en/english00090_633c1851142ee07665c4396e7a3baa8b.kaf#w112']
+		['./opener_hotel/en/english00115_8307a340e7d47fe68eb66c2a428ae88e.kaf#w33']
+	Freq: 2 --> lower
+		['./opener_hotel/en/english00109_980df01db43f25bb4b91abc951dafb0b.kaf#w63']
+		['./opener_hotel/en/english00170_fe19919b11b7ac3480d3fe451afd15a7.kaf#w63']
+	Freq: 2 --> pleasure
+		['./opener_hotel/en/english00207_f2fc26b3ecad029099e91743f5f95b7c.kaf#w22']
+		['./opener_hotel/en/english00142_d783fa3d60130d9b6beb744f01eb80cc.kaf#w6']
+	Freq: 1 --> yearly
+		['./opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w150']
+	Freq: 1 --> meny back
+		['./opener_hotel/en/english00219_fa68930c28a452677d4f82d9400ddf4a.kaf#w64', './opener_hotel/en/english00219_fa68930c28a452677d4f82d9400ddf4a.kaf#w65']
+	Freq: 1 --> decent shops
+		['./opener_hotel/en/english00062_40a2ae7cfbde5d8abdb052d58035f957.kaf#w89', './opener_hotel/en/english00062_40a2ae7cfbde5d8abdb052d58035f957.kaf#w90']
+	Freq: 1 --> city center
+		['./opener_hotel/en/english00108_969b6d13d09fd3e34e2747d3e9a56968.kaf#w23', './opener_hotel/en/english00108_969b6d13d09fd3e34e2747d3e9a56968.kaf#w24']
+	Freq: 1 --> four
+		['./opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w60']
+	Freq: 1 --> catch
+		['./opener_hotel/en/english00114_81738fd5eabd2b44715d8f62cd43823c.kaf#w59']
+	Freq: 1 --> wouldn 't
+		['./opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w114', './opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w115']
+	Freq: 1 --> 95 €
+		['./opener_hotel/en/english00090_633c1851142ee07665c4396e7a3baa8b.kaf#w115', './opener_hotel/en/english00090_633c1851142ee07665c4396e7a3baa8b.kaf#w116']
+	Freq: 1 --> ottoman
+		['./opener_hotel/en/english00050_34bc77fca0b57cf4eeaa3621e1b4f2db.kaf#w37']
+	Freq: 1 --> 1300 euro per night
+		['./opener_hotel/en/english00219_fa68930c28a452677d4f82d9400ddf4a.kaf#w48', './opener_hotel/en/english00219_fa68930c28a452677d4f82d9400ddf4a.kaf#w49', './opener_hotel/en/english00219_fa68930c28a452677d4f82d9400ddf4a.kaf#w50', './opener_hotel/en/english00219_fa68930c28a452677d4f82d9400ddf4a.kaf#w51']
+	Freq: 1 --> not on
+		['./opener_hotel/en/english00107_76be57e13ea17e1c2cc08cb3f5ab2240.kaf#w37', './opener_hotel/en/english00107_76be57e13ea17e1c2cc08cb3f5ab2240.kaf#w38']
+	Freq: 1 --> find
+		['./opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w106']
+	Freq: 1 --> issues
+		['./opener_hotel/en/english00036_29c5cdcccf3cb2bb0f38d4d1153d3d44.kaf#w37']
+	Freq: 1 --> much more enjoyable
+		['./opener_hotel/en/english00142_d783fa3d60130d9b6beb744f01eb80cc.kaf#w83', './opener_hotel/en/english00142_d783fa3d60130d9b6beb744f01eb80cc.kaf#w84', './opener_hotel/en/english00142_d783fa3d60130d9b6beb744f01eb80cc.kaf#w85']
+	Freq: 1 --> in front
+		['./opener_hotel/en/english00001_0123ff23e0d0dc0177f9b71a1928b674.kaf#w16', './opener_hotel/en/english00001_0123ff23e0d0dc0177f9b71a1928b674.kaf#w17']
+	Freq: 1 --> only
+		['./opener_hotel/en/english00131_922600cc0b95f1bff86e963509495860.kaf#w55']
+	Freq: 1 --> drawback
+		['./opener_hotel/en/english00114_81738fd5eabd2b44715d8f62cd43823c.kaf#w103']
+	Freq: 1 --> attractive
+		['./opener_hotel/en/english00025_1eb659e9edfa7e12dfbe4892bea44787.kaf#w65']
+	Freq: 1 --> a 4
+		['./opener_hotel/en/english00093_86e07b81e3da168d0e7874582a818215.kaf#w104', './opener_hotel/en/english00093_86e07b81e3da168d0e7874582a818215.kaf#w105']
+	Freq: 1 --> years ago
+		['./opener_hotel/en/english00129_c316cb94cbdd2bc3463fbe45cfa473d6.kaf#w41', './opener_hotel/en/english00129_c316cb94cbdd2bc3463fbe45cfa473d6.kaf#w42']
+	Freq: 1 --> Now back
+		['./opener_hotel/en/english00036_29c5cdcccf3cb2bb0f38d4d1153d3d44.kaf#w57', './opener_hotel/en/english00036_29c5cdcccf3cb2bb0f38d4d1153d3d44.kaf#w58']
+	Freq: 1 --> couple
+		['./opener_hotel/en/english00010_0b12b9c2d6f132f14a463030ceb102ad.kaf#w47']
+	Freq: 1 --> would suggest
+		['./opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w89', './opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w90']
+	Freq: 1 --> a metro station
+		['./opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w25', './opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w26', './opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w27']
+	Freq: 1 --> a lot of noise
+		['./opener_hotel/en/english00169_cdca4d3b45b1dc9dad97f202253c68d9.kaf#w64', './opener_hotel/en/english00169_cdca4d3b45b1dc9dad97f202253c68d9.kaf#w65', './opener_hotel/en/english00169_cdca4d3b45b1dc9dad97f202253c68d9.kaf#w66', './opener_hotel/en/english00169_cdca4d3b45b1dc9dad97f202253c68d9.kaf#w67']
+	Freq: 1 --> not
+		['./opener_hotel/en/english00126_8d262261cbe86c413d821b2f979091d7.kaf#w44']
+	Freq: 1 --> walk
+		['./opener_hotel/en/english00093_86e07b81e3da168d0e7874582a818215.kaf#w146']
+	Freq: 1 --> cinema etc.
+		['./opener_hotel/en/english00115_8307a340e7d47fe68eb66c2a428ae88e.kaf#w52', './opener_hotel/en/english00115_8307a340e7d47fe68eb66c2a428ae88e.kaf#w53']
+	Freq: 1 --> going
+		['./opener_hotel/en/english00116_ac10e737525bd5d17d46136365292387.kaf#w66']
+	Freq: 1 --> very polite
+		['./opener_hotel/en/english00001_0123ff23e0d0dc0177f9b71a1928b674.kaf#w66', './opener_hotel/en/english00001_0123ff23e0d0dc0177f9b71a1928b674.kaf#w67']
+	Freq: 1 --> possible !
+		['./opener_hotel/en/english00078_726dab247b93f8e93eeeabc72f74d655.kaf#w32', './opener_hotel/en/english00078_726dab247b93f8e93eeeabc72f74d655.kaf#w33']
+	Freq: 1 --> conditions
+		['./opener_hotel/en/english00207_f2fc26b3ecad029099e91743f5f95b7c.kaf#w19']
+	Freq: 1 --> 'd like to
+		['./opener_hotel/en/english00107_76be57e13ea17e1c2cc08cb3f5ab2240.kaf#w138', './opener_hotel/en/english00107_76be57e13ea17e1c2cc08cb3f5ab2240.kaf#w139', './opener_hotel/en/english00107_76be57e13ea17e1c2cc08cb3f5ab2240.kaf#w140']
+	Freq: 1 --> 50
+		['./opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w116']
+	Freq: 1 --> a loud ticking noise
+		['./opener_hotel/en/english00132_92847948d918018135c3b8d9e0ba72d4.kaf#w64', './opener_hotel/en/english00132_92847948d918018135c3b8d9e0ba72d4.kaf#w65', './opener_hotel/en/english00132_92847948d918018135c3b8d9e0ba72d4.kaf#w66', './opener_hotel/en/english00132_92847948d918018135c3b8d9e0ba72d4.kaf#w67']
+	Freq: 1 --> 4 star
+		['./opener_hotel/en/english00092_659c376234420e5297db7984f9d974ac.kaf#w53', './opener_hotel/en/english00092_659c376234420e5297db7984f9d974ac.kaf#w54']
+	Freq: 1 --> walked
+		['./opener_hotel/en/english00107_76be57e13ea17e1c2cc08cb3f5ab2240.kaf#w69']
+	Freq: 1 --> lose
+		['./opener_hotel/en/english00114_81738fd5eabd2b44715d8f62cd43823c.kaf#w67']
+	Freq: 1 --> works
+		['./opener_hotel/en/english00175_d1946c32cbf32bfe30fcc2714b64f184.kaf#w60']
+	Freq: 1 --> not a big
+		['./opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w94', './opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w95', './opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w96']
+	Freq: 1 --> Again
+		['./opener_hotel/en/english00168_f8a6324a6b18e0f0fa9aecbf1b0ec2c0.kaf#w62']
+	Freq: 1 --> 5 star
+		['./opener_hotel/en/english00148_a8f22a1581a9321d3fcf61a4e058c4c7.kaf#w110', './opener_hotel/en/english00148_a8f22a1581a9321d3fcf61a4e058c4c7.kaf#w111']
+	Freq: 1 --> would be
+		['./opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w37', './opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w38']
+	Freq: 1 --> the distance from
+		['./opener_hotel/en/english00222_fd5bd3330c0b96b7ddc0ff8e0482a572.kaf#w42', './opener_hotel/en/english00222_fd5bd3330c0b96b7ddc0ff8e0482a572.kaf#w43', './opener_hotel/en/english00222_fd5bd3330c0b96b7ddc0ff8e0482a572.kaf#w44']
+	Freq: 1 --> enjoyed
+		['./opener_hotel/en/english00011_0b57ac0ca85693440968f8de6deb7ca4.kaf#w69']
+	Freq: 1 --> go
+		['./opener_hotel/en/english00114_81738fd5eabd2b44715d8f62cd43823c.kaf#w25']
+	Freq: 1 --> side street
+		['./opener_hotel/en/english00164_c6d60bf75b0de8d72b7e1c575e04e314.kaf#w19', './opener_hotel/en/english00164_c6d60bf75b0de8d72b7e1c575e04e314.kaf#w20']
+	Freq: 1 --> special
+		['./opener_hotel/en/english00128_c12e630c1e53da33fcd8888af3c9366c.kaf#w20']
+	Freq: 1 --> taking a
+		['./opener_hotel/en/english00132_92847948d918018135c3b8d9e0ba72d4.kaf#w48', './opener_hotel/en/english00132_92847948d918018135c3b8d9e0ba72d4.kaf#w49']
+	Freq: 1 --> shower
+		['./opener_hotel/en/english00164_c6d60bf75b0de8d72b7e1c575e04e314.kaf#w76']
+	Freq: 1 --> to choose
+		['./opener_hotel/en/english00045_3f6f291af6eeef8270f1182d15e7b845.kaf#w37', './opener_hotel/en/english00045_3f6f291af6eeef8270f1182d15e7b845.kaf#w38']
+	Freq: 1 --> step aerobic
+		['./opener_hotel/en/english00066_61fcc37bea97947889c9eda199e315bc.kaf#w48', './opener_hotel/en/english00066_61fcc37bea97947889c9eda199e315bc.kaf#w49']
+	Freq: 1 --> away
+		['./opener_hotel/en/english00093_86e07b81e3da168d0e7874582a818215.kaf#w57']
+	Freq: 1 --> all together
+		['./opener_hotel/en/english00126_8d262261cbe86c413d821b2f979091d7.kaf#w39', './opener_hotel/en/english00126_8d262261cbe86c413d821b2f979091d7.kaf#w40']
+	Freq: 1 --> melk
+		['./opener_hotel/en/english00132_92847948d918018135c3b8d9e0ba72d4.kaf#w82']
+	Freq: 1 --> every bit of
+		['./opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w23', './opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w24', './opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w25']
+	Freq: 1 --> minutes walk from main station
+		['./opener_hotel/en/english00163_f2de7a0618bb010682e1d91c2e554c63.kaf#w16', './opener_hotel/en/english00163_f2de7a0618bb010682e1d91c2e554c63.kaf#w17', './opener_hotel/en/english00163_f2de7a0618bb010682e1d91c2e554c63.kaf#w18', './opener_hotel/en/english00163_f2de7a0618bb010682e1d91c2e554c63.kaf#w19', './opener_hotel/en/english00163_f2de7a0618bb010682e1d91c2e554c63.kaf#w20']
+	Freq: 1 --> kinds of
+		['./opener_hotel/en/english00115_8307a340e7d47fe68eb66c2a428ae88e.kaf#w113', './opener_hotel/en/english00115_8307a340e7d47fe68eb66c2a428ae88e.kaf#w114']
+	Freq: 1 --> available
+		['./opener_hotel/en/english00148_a8f22a1581a9321d3fcf61a4e058c4c7.kaf#w103']
+	Freq: 1 --> be
+		['./opener_hotel/en/english00129_c316cb94cbdd2bc3463fbe45cfa473d6.kaf#w61']
+	Freq: 1 --> would like to have
+		['./opener_hotel/en/english00115_8307a340e7d47fe68eb66c2a428ae88e.kaf#w35', './opener_hotel/en/english00115_8307a340e7d47fe68eb66c2a428ae88e.kaf#w36', './opener_hotel/en/english00115_8307a340e7d47fe68eb66c2a428ae88e.kaf#w37', './opener_hotel/en/english00115_8307a340e7d47fe68eb66c2a428ae88e.kaf#w38']
+	Freq: 1 --> free
+		['./opener_hotel/en/english00104_71984ad55ab39a055733c8df9a48c72d.kaf#w46']
+	Freq: 1 --> Very important
+		['./opener_hotel/en/english00044_2ecca0681c3a7d60fe41fe44e1a8ba15.kaf#w68', './opener_hotel/en/english00044_2ecca0681c3a7d60fe41fe44e1a8ba15.kaf#w69']
+	Freq: 1 --> aircraft
+		['./opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w85']
+	Freq: 1 --> don 't like the worst
+		['./opener_hotel/en/english00126_8d262261cbe86c413d821b2f979091d7.kaf#w33', './opener_hotel/en/english00126_8d262261cbe86c413d821b2f979091d7.kaf#w34', './opener_hotel/en/english00126_8d262261cbe86c413d821b2f979091d7.kaf#w35', './opener_hotel/en/english00126_8d262261cbe86c413d821b2f979091d7.kaf#w36', './opener_hotel/en/english00126_8d262261cbe86c413d821b2f979091d7.kaf#w37']
+	Freq: 1 --> directions
+		['./opener_hotel/en/english00092_659c376234420e5297db7984f9d974ac.kaf#w20']
+	Freq: 1 --> bring new
+		['./opener_hotel/en/english00036_29c5cdcccf3cb2bb0f38d4d1153d3d44.kaf#w19', './opener_hotel/en/english00036_29c5cdcccf3cb2bb0f38d4d1153d3d44.kaf#w20']
+	Freq: 1 --> just walk
+		['./opener_hotel/en/english00089_80555a60f163a66a7c0dad88f37ee938.kaf#w17', './opener_hotel/en/english00089_80555a60f163a66a7c0dad88f37ee938.kaf#w18']
+	Freq: 1 --> great
+		['./opener_hotel/en/english00040_2bdfcdf199dcab6742b51f67af5d1973.kaf#w47']
+	Freq: 1 --> more careful
+		['./opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w94', './opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w95']
+	Freq: 1 --> nearby 300
+		['./opener_hotel/en/english00166_f7728afec332f1f0616df555ace9f3e3.kaf#w7', './opener_hotel/en/english00166_f7728afec332f1f0616df555ace9f3e3.kaf#w8']
+	Freq: 1 --> of
+		['./opener_hotel/en/english00082_7752a35e07ce26cba8b991bed66406cd.kaf#w30']
+	Freq: 1 --> will hear
+		['./opener_hotel/en/english00132_92847948d918018135c3b8d9e0ba72d4.kaf#w53', './opener_hotel/en/english00132_92847948d918018135c3b8d9e0ba72d4.kaf#w54']
+	Freq: 1 --> very beginning
+		['./opener_hotel/en/english00142_d783fa3d60130d9b6beb744f01eb80cc.kaf#w36', './opener_hotel/en/english00142_d783fa3d60130d9b6beb744f01eb80cc.kaf#w37']
+	Freq: 1 --> !!
+		['./opener_hotel/en/english00022_1954f2d7d3a473fbfe171642d4b2d5c3.kaf#w90']
+	Freq: 1 --> liked
+		['./opener_hotel/en/english00050_34bc77fca0b57cf4eeaa3621e1b4f2db.kaf#w31']
+	Freq: 1 --> features
+		['./opener_hotel/en/english00012_13287f4f9c645ff79357fe506a813696.kaf#w19']
+	Freq: 1 --> betting shops
+		['./opener_hotel/en/english00156_bceddd6fce4fdf6cc6c030fee377f4aa.kaf#w39', './opener_hotel/en/english00156_bceddd6fce4fdf6cc6c030fee377f4aa.kaf#w40']
+	Freq: 1 --> feel
+		['./opener_hotel/en/english00075_6ec3813631e401743488b9fcf0d114c0.kaf#w9']
+	Freq: 1 --> one
+		['./opener_hotel/en/english00093_86e07b81e3da168d0e7874582a818215.kaf#w91']
+	Freq: 1 --> for little
+		['./opener_hotel/en/english00092_659c376234420e5297db7984f9d974ac.kaf#w104', './opener_hotel/en/english00092_659c376234420e5297db7984f9d974ac.kaf#w105']
+	Freq: 1 --> your
+		['./opener_hotel/en/english00002_045366be21ab4ec0f94328a168da59db.kaf#w43']
+	Freq: 1 --> avoid disappointment
+		['./opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w166', './opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w167']
+	Freq: 1 --> rude mainly
+		['./opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w78', './opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w79']
+	Freq: 1 --> didn 't have
+		['./opener_hotel/en/english00164_c6d60bf75b0de8d72b7e1c575e04e314.kaf#w70', './opener_hotel/en/english00164_c6d60bf75b0de8d72b7e1c575e04e314.kaf#w71', './opener_hotel/en/english00164_c6d60bf75b0de8d72b7e1c575e04e314.kaf#w72']
+	Freq: 1 --> next
+		['./opener_hotel/en/english00093_86e07b81e3da168d0e7874582a818215.kaf#w136']
+	Freq: 1 --> cared
+		['./opener_hotel/en/english00089_80555a60f163a66a7c0dad88f37ee938.kaf#w24']
+	Freq: 1 --> needed
+		['./opener_hotel/en/english00022_1954f2d7d3a473fbfe171642d4b2d5c3.kaf#w20']
+	Freq: 1 --> could only be
+		['./opener_hotel/en/english00012_13287f4f9c645ff79357fe506a813696.kaf#w116', './opener_hotel/en/english00012_13287f4f9c645ff79357fe506a813696.kaf#w117', './opener_hotel/en/english00012_13287f4f9c645ff79357fe506a813696.kaf#w118']
+	Freq: 1 --> low
+		['./opener_hotel/en/english00098_8d034b0d55c5dd6d5e4348f3e2753415.kaf#w21']
+	Freq: 1 --> an hour of crazy
+		['./opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w86', './opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w87', './opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w88', './opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w89']
+	Freq: 1 --> seemed to
+		['./opener_hotel/en/english00090_633c1851142ee07665c4396e7a3baa8b.kaf#w60', './opener_hotel/en/english00090_633c1851142ee07665c4396e7a3baa8b.kaf#w61']
+	Freq: 1 --> lovely
+		['./opener_hotel/en/english00002_045366be21ab4ec0f94328a168da59db.kaf#w20']
+	Freq: 1 --> not present
+		['./opener_hotel/en/english00035_28fbd0aba5d9f03b5d85d12ee5131d78.kaf#w103', './opener_hotel/en/english00035_28fbd0aba5d9f03b5d85d12ee5131d78.kaf#w104']
+	Freq: 1 --> more
+		['./opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w72']
+	Freq: 1 --> ago
+		['./opener_hotel/en/english00131_922600cc0b95f1bff86e963509495860.kaf#w43']
+	Freq: 1 --> could easily
+		['./opener_hotel/en/english00050_34bc77fca0b57cf4eeaa3621e1b4f2db.kaf#w19', './opener_hotel/en/english00050_34bc77fca0b57cf4eeaa3621e1b4f2db.kaf#w20']
+	Freq: 1 --> relaxing
+		['./opener_hotel/en/english00002_045366be21ab4ec0f94328a168da59db.kaf#w18']
+	Freq: 1 --> offered
+		['./opener_hotel/en/english00121_892f5a094070c44e45e64e331624bd21.kaf#w29']
+	Freq: 1 --> where happy
+		['./opener_hotel/en/english00040_2bdfcdf199dcab6742b51f67af5d1973.kaf#w31', './opener_hotel/en/english00040_2bdfcdf199dcab6742b51f67af5d1973.kaf#w32']
+	Freq: 1 --> immediate
+		['./opener_hotel/en/english00107_76be57e13ea17e1c2cc08cb3f5ab2240.kaf#w128']
+	Freq: 1 --> delivery
+		['./opener_hotel/en/english00092_659c376234420e5297db7984f9d974ac.kaf#w47']
+	Freq: 1 --> 't look forward
+		['./opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w61', './opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w62', './opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w63']
+	Freq: 1 --> could have
+		['./opener_hotel/en/english00147_dd7fa7c7e3e989d44068a10739b6e75a.kaf#w35', './opener_hotel/en/english00147_dd7fa7c7e3e989d44068a10739b6e75a.kaf#w36']
+	Freq: 1 --> 3rds
+		['./opener_hotel/en/english00062_40a2ae7cfbde5d8abdb052d58035f957.kaf#w42']
+	Freq: 1 --> could not find
+		['./opener_hotel/en/english00010_0b12b9c2d6f132f14a463030ceb102ad.kaf#w66', './opener_hotel/en/english00010_0b12b9c2d6f132f14a463030ceb102ad.kaf#w67', './opener_hotel/en/english00010_0b12b9c2d6f132f14a463030ceb102ad.kaf#w68']
+	Freq: 1 --> to charge
+		['./opener_hotel/en/english00104_71984ad55ab39a055733c8df9a48c72d.kaf#w99', './opener_hotel/en/english00104_71984ad55ab39a055733c8df9a48c72d.kaf#w100']
+	Freq: 1 --> car
+		['./opener_hotel/en/english00108_969b6d13d09fd3e34e2747d3e9a56968.kaf#w46']
+	Freq: 1 --> work
+		['./opener_hotel/en/english00107_76be57e13ea17e1c2cc08cb3f5ab2240.kaf#w97']
+	Freq: 1 --> dust on
+		['./opener_hotel/en/english00062_40a2ae7cfbde5d8abdb052d58035f957.kaf#w73', './opener_hotel/en/english00062_40a2ae7cfbde5d8abdb052d58035f957.kaf#w74']
+	Freq: 1 --> Deira City Center
+		['./opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w15', './opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w16', './opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w17']
+	Freq: 1 --> can
+		['./opener_hotel/en/english00059_3f1e667b4e85710912b3c6b5f2f74982.kaf#w119']
+	Freq: 1 --> cancelled
+		['./opener_hotel/en/english00025_1eb659e9edfa7e12dfbe4892bea44787.kaf#w135']
+	Freq: 1 --> got back
+		['./opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w13', './opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w14']
+	Freq: 1 --> guaranteed tan
+		['./opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w136', './opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w137']
+	Freq: 1 --> helpfull
+		['./opener_hotel/en/english00001_0123ff23e0d0dc0177f9b71a1928b674.kaf#w69']
+	Freq: 1 --> a bad
+		['./opener_hotel/en/english00012_13287f4f9c645ff79357fe506a813696.kaf#w125', './opener_hotel/en/english00012_13287f4f9c645ff79357fe506a813696.kaf#w126']
+	Freq: 1 --> quiet
+		['./opener_hotel/en/english00045_3f6f291af6eeef8270f1182d15e7b845.kaf#w54']
+	Freq: 1 --> not responsible
+		['./opener_hotel/en/english00035_28fbd0aba5d9f03b5d85d12ee5131d78.kaf#w65', './opener_hotel/en/english00035_28fbd0aba5d9f03b5d85d12ee5131d78.kaf#w66']
+	Freq: 1 --> at
+		['./opener_hotel/en/english00175_d1946c32cbf32bfe30fcc2714b64f184.kaf#w65']
+	Freq: 1 --> have
+		['./opener_hotel/en/english00050_34bc77fca0b57cf4eeaa3621e1b4f2db.kaf#w33']
+	Freq: 1 --> arabic
+		['./opener_hotel/en/english00115_8307a340e7d47fe68eb66c2a428ae88e.kaf#w97']
+	Freq: 1 --> ready to sleep
+		['./opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w95', './opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w96', './opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w97']
+	Freq: 1 --> to charge Euro
+		['./opener_hotel/en/english00098_8d034b0d55c5dd6d5e4348f3e2753415.kaf#w8', './opener_hotel/en/english00098_8d034b0d55c5dd6d5e4348f3e2753415.kaf#w9', './opener_hotel/en/english00098_8d034b0d55c5dd6d5e4348f3e2753415.kaf#w10']
+	Freq: 1 --> again
+		['./opener_hotel/en/english00090_633c1851142ee07665c4396e7a3baa8b.kaf#w57']
+	Freq: 1 --> close inspection
+		['./opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w33', './opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w34']
+	Freq: 1 --> cannot speak
+		['./opener_hotel/en/english00148_a8f22a1581a9321d3fcf61a4e058c4c7.kaf#w97', './opener_hotel/en/english00148_a8f22a1581a9321d3fcf61a4e058c4c7.kaf#w98']
+	Freq: 1 --> 10 or
+		['./opener_hotel/en/english00129_c316cb94cbdd2bc3463fbe45cfa473d6.kaf#w38', './opener_hotel/en/english00129_c316cb94cbdd2bc3463fbe45cfa473d6.kaf#w39']
+	Freq: 1 --> reply much
+		['./opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w116', './opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w117']
+	Freq: 1 --> hot
+		['./opener_hotel/en/english00092_659c376234420e5297db7984f9d974ac.kaf#w61']
+	Freq: 1 --> strange
+		['./opener_hotel/en/english00175_d1946c32cbf32bfe30fcc2714b64f184.kaf#w40']
+	Freq: 1 --> build
+		['./opener_hotel/en/english00090_633c1851142ee07665c4396e7a3baa8b.kaf#w28']
+	Freq: 1 --> you
+		['./opener_hotel/en/english00108_969b6d13d09fd3e34e2747d3e9a56968.kaf#w43']
+	Freq: 1 --> not sure
+		['./opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w33', './opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w34']
+	Freq: 1 --> There are
+		['./opener_hotel/en/english00131_922600cc0b95f1bff86e963509495860.kaf#w6', './opener_hotel/en/english00131_922600cc0b95f1bff86e963509495860.kaf#w7']
+	Freq: 1 --> bars on
+		['./opener_hotel/en/english00207_f2fc26b3ecad029099e91743f5f95b7c.kaf#w31', './opener_hotel/en/english00207_f2fc26b3ecad029099e91743f5f95b7c.kaf#w32']
+	Freq: 1 --> a sunbed
+		['./opener_hotel/en/english00087_7e37d7718b8ccf612d92fb00430ce8d4.kaf#w73', './opener_hotel/en/english00087_7e37d7718b8ccf612d92fb00430ce8d4.kaf#w74']
+	Freq: 1 --> shaped like
+		['./opener_hotel/en/english00138_9f942cd30f42d0abad59c036950aef81.kaf#w77', './opener_hotel/en/english00138_9f942cd30f42d0abad59c036950aef81.kaf#w78']
+	Freq: 1 --> any problems
+		['./opener_hotel/en/english00107_76be57e13ea17e1c2cc08cb3f5ab2240.kaf#w101', './opener_hotel/en/english00107_76be57e13ea17e1c2cc08cb3f5ab2240.kaf#w102']
+	Freq: 1 --> a cheap
+		['./opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w119', './opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w120']
+	Freq: 1 --> easy to
+		['./opener_hotel/en/english00022_1954f2d7d3a473fbfe171642d4b2d5c3.kaf#w52', './opener_hotel/en/english00022_1954f2d7d3a473fbfe171642d4b2d5c3.kaf#w53']
+	Freq: 1 --> for golf
+		['./opener_hotel/en/english00011_0b57ac0ca85693440968f8de6deb7ca4.kaf#w3', './opener_hotel/en/english00011_0b57ac0ca85693440968f8de6deb7ca4.kaf#w4']
+	Freq: 1 --> cleaning
+		['./opener_hotel/en/english00066_61fcc37bea97947889c9eda199e315bc.kaf#w39']
+	Freq: 1 --> next hour
+		['./opener_hotel/en/english00132_92847948d918018135c3b8d9e0ba72d4.kaf#w61', './opener_hotel/en/english00132_92847948d918018135c3b8d9e0ba72d4.kaf#w62']
+	Freq: 1 --> age
+		['./opener_hotel/en/english00147_dd7fa7c7e3e989d44068a10739b6e75a.kaf#w63']
+	Freq: 1 --> could tell
+		['./opener_hotel/en/english00022_1954f2d7d3a473fbfe171642d4b2d5c3.kaf#w82', './opener_hotel/en/english00022_1954f2d7d3a473fbfe171642d4b2d5c3.kaf#w83']
+	Freq: 1 --> One
+		['./opener_hotel/en/english00175_d1946c32cbf32bfe30fcc2714b64f184.kaf#w49']
+Recall: 87.85 Total gold: 823
+Most missed from the gold:
+	Freq: 3 --> had
+		['./opener_hotel/en/english00010_0b12b9c2d6f132f14a463030ceb102ad.kaf#w38']
+		['./opener_hotel/en/english00010_0b12b9c2d6f132f14a463030ceb102ad.kaf#w14']
+		['./opener_hotel/en/english00010_0b12b9c2d6f132f14a463030ceb102ad.kaf#w27']
+	Freq: 3 --> some
+		['./opener_hotel/en/english00045_3f6f291af6eeef8270f1182d15e7b845.kaf#w49']
+		['./opener_hotel/en/english00045_3f6f291af6eeef8270f1182d15e7b845.kaf#w49']
+		['./opener_hotel/en/english00045_3f6f291af6eeef8270f1182d15e7b845.kaf#w49']
+	Freq: 3 --> there is
+		['./opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w123', './opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w124']
+		['./opener_hotel/en/english00022_1954f2d7d3a473fbfe171642d4b2d5c3.kaf#w84', './opener_hotel/en/english00022_1954f2d7d3a473fbfe171642d4b2d5c3.kaf#w85']
+		['./opener_hotel/en/english00108_969b6d13d09fd3e34e2747d3e9a56968.kaf#w48', './opener_hotel/en/english00108_969b6d13d09fd3e34e2747d3e9a56968.kaf#w49']
+	Freq: 2 --> organised
+		['./opener_hotel/en/english00011_0b57ac0ca85693440968f8de6deb7ca4.kaf#w23']
+		['./opener_hotel/en/english00011_0b57ac0ca85693440968f8de6deb7ca4.kaf#w23']
+	Freq: 2 --> Disadvantages
+		['./opener_hotel/en/english00138_9f942cd30f42d0abad59c036950aef81.kaf#w53']
+		['./opener_hotel/en/english00138_9f942cd30f42d0abad59c036950aef81.kaf#w53']
+	Freq: 2 --> out of order
+		['./opener_hotel/en/english00172_cee4504ab4cc06e93f44e33ed1e02b4f.kaf#w42', './opener_hotel/en/english00172_cee4504ab4cc06e93f44e33ed1e02b4f.kaf#w43', './opener_hotel/en/english00172_cee4504ab4cc06e93f44e33ed1e02b4f.kaf#w44']
+		['./opener_hotel/en/english00172_cee4504ab4cc06e93f44e33ed1e02b4f.kaf#w42', './opener_hotel/en/english00172_cee4504ab4cc06e93f44e33ed1e02b4f.kaf#w43', './opener_hotel/en/english00172_cee4504ab4cc06e93f44e33ed1e02b4f.kaf#w44']
+	Freq: 2 --> provides
+		['./opener_hotel/en/english00092_659c376234420e5297db7984f9d974ac.kaf#w103']
+		['./opener_hotel/en/english00092_659c376234420e5297db7984f9d974ac.kaf#w103']
+	Freq: 2 --> Quiet
+		['./opener_hotel/en/english00101_90926e7eb575a41b022144719db99336.kaf#w19']
+		['./opener_hotel/en/english00017_1c5a6b82b906abfab18d3a6f2822e5c7.kaf#w17']
+	Freq: 2 --> relaxing
+		['./opener_hotel/en/english00044_2ecca0681c3a7d60fe41fe44e1a8ba15.kaf#w40']
+		['./opener_hotel/en/english00002_045366be21ab4ec0f94328a168da59db.kaf#w6']
+	Freq: 2 --> Awesome
+		['./opener_hotel/en/english00148_ddb06f1e4ab012d85f9120c394168c48.kaf#w1']
+		['./opener_hotel/en/english00148_ddb06f1e4ab012d85f9120c394168c48.kaf#w1']
+	Freq: 2 --> had mold between some tiles
+		['./opener_hotel/en/english00109_980df01db43f25bb4b91abc951dafb0b.kaf#w49', './opener_hotel/en/english00109_980df01db43f25bb4b91abc951dafb0b.kaf#w50', './opener_hotel/en/english00109_980df01db43f25bb4b91abc951dafb0b.kaf#w51', './opener_hotel/en/english00109_980df01db43f25bb4b91abc951dafb0b.kaf#w52', './opener_hotel/en/english00109_980df01db43f25bb4b91abc951dafb0b.kaf#w53']
+		['./opener_hotel/en/english00170_fe19919b11b7ac3480d3fe451afd15a7.kaf#w49', './opener_hotel/en/english00170_fe19919b11b7ac3480d3fe451afd15a7.kaf#w50', './opener_hotel/en/english00170_fe19919b11b7ac3480d3fe451afd15a7.kaf#w51', './opener_hotel/en/english00170_fe19919b11b7ac3480d3fe451afd15a7.kaf#w52', './opener_hotel/en/english00170_fe19919b11b7ac3480d3fe451afd15a7.kaf#w53']
+	Freq: 1 --> may cause connection problems
+		['./opener_hotel/en/english00107_76be57e13ea17e1c2cc08cb3f5ab2240.kaf#w106', './opener_hotel/en/english00107_76be57e13ea17e1c2cc08cb3f5ab2240.kaf#w107', './opener_hotel/en/english00107_76be57e13ea17e1c2cc08cb3f5ab2240.kaf#w108', './opener_hotel/en/english00107_76be57e13ea17e1c2cc08cb3f5ab2240.kaf#w109']
+	Freq: 1 --> find
+		['./opener_hotel/en/english00115_8307a340e7d47fe68eb66c2a428ae88e.kaf#w111']
+	Freq: 1 --> welcomes
+		['./opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w36']
+	Freq: 1 --> Affordable
+		['./opener_hotel/en/english00145_db78c6e6fe3f04b1e4ace2f8475ae3a1.kaf#w2']
+	Freq: 1 --> Sun & relax for families
+		['./opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w1', './opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w2', './opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w3', './opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w4', './opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w5']
+	Freq: 1 --> offers
+		['./opener_hotel/en/english00011_0b57ac0ca85693440968f8de6deb7ca4.kaf#w54']
+	Freq: 1 --> lack of
+		['./opener_hotel/en/english00022_1954f2d7d3a473fbfe171642d4b2d5c3.kaf#w48', './opener_hotel/en/english00022_1954f2d7d3a473fbfe171642d4b2d5c3.kaf#w49']
+	Freq: 1 --> friendly
+		['./opener_hotel/en/english00075_6ec3813631e401743488b9fcf0d114c0.kaf#w18']
+	Freq: 1 --> was heated
+		['./opener_hotel/en/english00044_3efe4d8dbdd774d767ba1349e00ceeeb.kaf#w20', './opener_hotel/en/english00044_3efe4d8dbdd774d767ba1349e00ceeeb.kaf#w22']
+	Freq: 1 --> get
+		['./opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w83']
+	Freq: 1 --> restricted to Villa residents
+		['./opener_hotel/en/english00035_28fbd0aba5d9f03b5d85d12ee5131d78.kaf#w94', './opener_hotel/en/english00035_28fbd0aba5d9f03b5d85d12ee5131d78.kaf#w95', './opener_hotel/en/english00035_28fbd0aba5d9f03b5d85d12ee5131d78.kaf#w96', './opener_hotel/en/english00035_28fbd0aba5d9f03b5d85d12ee5131d78.kaf#w97']
+	Freq: 1 --> moved out
+		['./opener_hotel/en/english00219_fa68930c28a452677d4f82d9400ddf4a.kaf#w74', './opener_hotel/en/english00219_fa68930c28a452677d4f82d9400ddf4a.kaf#w75']
+	Freq: 1 --> as well as
+		['./opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w117', './opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w118', './opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w119']
+	Freq: 1 --> Go
+		['./opener_hotel/en/english00104_947bd677207447b46cf3fb52fec458f6.kaf#w1']
+	Freq: 1 --> Swiming in the pond
+		['./opener_hotel/en/english00089_80555a60f163a66a7c0dad88f37ee938.kaf#w1', './opener_hotel/en/english00089_80555a60f163a66a7c0dad88f37ee938.kaf#w3', './opener_hotel/en/english00089_80555a60f163a66a7c0dad88f37ee938.kaf#w4', './opener_hotel/en/english00089_80555a60f163a66a7c0dad88f37ee938.kaf#w5']
+	Freq: 1 --> need a car
+		['./opener_hotel/en/english00222_fd5bd3330c0b96b7ddc0ff8e0482a572.kaf#w49', './opener_hotel/en/english00222_fd5bd3330c0b96b7ddc0ff8e0482a572.kaf#w50', './opener_hotel/en/english00222_fd5bd3330c0b96b7ddc0ff8e0482a572.kaf#w51']
+	Freq: 1 --> loads of
+		['./opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w30', './opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w31']
+	Freq: 1 --> courtesious
+		['./opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w84']
+	Freq: 1 --> Noisy in the extreme
+		['./opener_hotel/en/english00148_a8f22a1581a9321d3fcf61a4e058c4c7.kaf#w51', './opener_hotel/en/english00148_a8f22a1581a9321d3fcf61a4e058c4c7.kaf#w52', './opener_hotel/en/english00148_a8f22a1581a9321d3fcf61a4e058c4c7.kaf#w53', './opener_hotel/en/english00148_a8f22a1581a9321d3fcf61a4e058c4c7.kaf#w54']
+	Freq: 1 --> have tea coffee making facilties
+		['./opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w22', './opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w23', './opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w24', './opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w25', './opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w26']
+	Freq: 1 --> Similar to
+		['./opener_hotel/en/english00042_3a43c28555e55bbf555b1c021553cb68.kaf#w3', './opener_hotel/en/english00042_3a43c28555e55bbf555b1c021553cb68.kaf#w4']
+	Freq: 1 --> Overpriced for the service
+		['./opener_hotel/en/english00146_a4aa51ac8842ebd8efb2ccfce3a1f4f4.kaf#w1', './opener_hotel/en/english00146_a4aa51ac8842ebd8efb2ccfce3a1f4f4.kaf#w2', './opener_hotel/en/english00146_a4aa51ac8842ebd8efb2ccfce3a1f4f4.kaf#w3', './opener_hotel/en/english00146_a4aa51ac8842ebd8efb2ccfce3a1f4f4.kaf#w4']
+	Freq: 1 --> 2 star
+		['./opener_hotel/en/english00025_1eb659e9edfa7e12dfbe4892bea44787.kaf#w6', './opener_hotel/en/english00025_1eb659e9edfa7e12dfbe4892bea44787.kaf#w7']
+	Freq: 1 --> may get surge of guests
+		['./opener_hotel/en/english00025_1eb659e9edfa7e12dfbe4892bea44787.kaf#w127', './opener_hotel/en/english00025_1eb659e9edfa7e12dfbe4892bea44787.kaf#w128', './opener_hotel/en/english00025_1eb659e9edfa7e12dfbe4892bea44787.kaf#w129', './opener_hotel/en/english00025_1eb659e9edfa7e12dfbe4892bea44787.kaf#w130', './opener_hotel/en/english00025_1eb659e9edfa7e12dfbe4892bea44787.kaf#w131']
+	Freq: 1 --> got
+		['./opener_hotel/en/english00078_726dab247b93f8e93eeeabc72f74d655.kaf#w35']
+	Freq: 1 --> rebuilding
+		['./opener_hotel/en/english00020_1e08fbd09d0d194f477067636061b618.kaf#w29']
+	Freq: 1 --> dirt
+		['./opener_hotel/en/english00020_1e08fbd09d0d194f477067636061b618.kaf#w57']
+	Freq: 1 --> park view
+		['./opener_hotel/en/english00089_80555a60f163a66a7c0dad88f37ee938.kaf#w7', './opener_hotel/en/english00089_80555a60f163a66a7c0dad88f37ee938.kaf#w8']
+	Freq: 1 --> Budget
+		['./opener_hotel/en/english00062_40a2ae7cfbde5d8abdb052d58035f957.kaf#w1']
+	Freq: 1 --> free
+		['./opener_hotel/en/english00012_13287f4f9c645ff79357fe506a813696.kaf#w102']
+	Freq: 1 --> there was
+		['./opener_hotel/en/english00138_9f942cd30f42d0abad59c036950aef81.kaf#w84', './opener_hotel/en/english00138_9f942cd30f42d0abad59c036950aef81.kaf#w85']
+	Freq: 1 --> d go
+		['./opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w161', './opener_hotel/en/english00174_d17101d1a57b02253f587545a889ecbe.kaf#w162']
+	Freq: 1 --> Excelent
+		['./opener_hotel/en/english00011_0b57ac0ca85693440968f8de6deb7ca4.kaf#w1']
+	Freq: 1 --> family
+		['./opener_hotel/en/english00040_2bdfcdf199dcab6742b51f67af5d1973.kaf#w2']
+	Freq: 1 --> profession
+		['./opener_hotel/en/english00156_bceddd6fce4fdf6cc6c030fee377f4aa.kaf#w63']
+	Freq: 1 --> no upgrade
+		['./opener_hotel/en/english00169_cdca4d3b45b1dc9dad97f202253c68d9.kaf#w36', './opener_hotel/en/english00169_cdca4d3b45b1dc9dad97f202253c68d9.kaf#w37']
+	Freq: 1 --> given
+		['./opener_hotel/en/english00022_1954f2d7d3a473fbfe171642d4b2d5c3.kaf#w17']
+	Freq: 1 --> Polite
+		['./opener_hotel/en/english00025_1eb659e9edfa7e12dfbe4892bea44787.kaf#w39']
+	Freq: 1 --> a city hotel with all the comforts
+		['./opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w73', './opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w74', './opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w75', './opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w76', './opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w77', './opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w78', './opener_hotel/en/english00152_af8d5bdcad72c3e0f0dc29930f2b11c4.kaf#w79']
+	Freq: 1 --> pool
+		['./opener_hotel/en/english00024_1b0ecaba814a19d19f168dd40cf3e453.kaf#w31']
+	Freq: 1 --> Nothing Grand
+		['./opener_hotel/en/english00148_a8f22a1581a9321d3fcf61a4e058c4c7.kaf#w1', './opener_hotel/en/english00148_a8f22a1581a9321d3fcf61a4e058c4c7.kaf#w2']
+	Freq: 1 --> 've stayed for 3 times last 12 month
+		['./opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w14', './opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w15', './opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w19', './opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w20', './opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w21', './opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w22', './opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w23', './opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w24']
+	Freq: 1 --> plenty of hot water
+		['./opener_hotel/en/english00148_a8f22a1581a9321d3fcf61a4e058c4c7.kaf#w72', './opener_hotel/en/english00148_a8f22a1581a9321d3fcf61a4e058c4c7.kaf#w73', './opener_hotel/en/english00148_a8f22a1581a9321d3fcf61a4e058c4c7.kaf#w74', './opener_hotel/en/english00148_a8f22a1581a9321d3fcf61a4e058c4c7.kaf#w75']
+	Freq: 1 --> invite
+		['./opener_hotel/en/english00116_ac10e737525bd5d17d46136365292387.kaf#w44']
+	Freq: 1 --> gym
+		['./opener_hotel/en/english00024_1b0ecaba814a19d19f168dd40cf3e453.kaf#w33']
+	Freq: 1 --> above average
+		['./opener_hotel/en/english00025_1eb659e9edfa7e12dfbe4892bea44787.kaf#w16', './opener_hotel/en/english00025_1eb659e9edfa7e12dfbe4892bea44787.kaf#w17']
+	Freq: 1 --> attentive
+		['./opener_hotel/en/english00114_81738fd5eabd2b44715d8f62cd43823c.kaf#w4']
+	Freq: 1 --> kind
+		['./opener_hotel/en/english00093_86e07b81e3da168d0e7874582a818215.kaf#w4']
+	Freq: 1 --> Old
+		['./opener_hotel/en/english00131_922600cc0b95f1bff86e963509495860.kaf#w1']
+	Freq: 1 --> silly
+		['./opener_hotel/en/english00098_8d034b0d55c5dd6d5e4348f3e2753415.kaf#w19']
+	Freq: 1 --> with all the things you want
+		['./opener_hotel/en/english00045_3f6f291af6eeef8270f1182d15e7b845.kaf#w19', './opener_hotel/en/english00045_3f6f291af6eeef8270f1182d15e7b845.kaf#w20', './opener_hotel/en/english00045_3f6f291af6eeef8270f1182d15e7b845.kaf#w21', './opener_hotel/en/english00045_3f6f291af6eeef8270f1182d15e7b845.kaf#w22', './opener_hotel/en/english00045_3f6f291af6eeef8270f1182d15e7b845.kaf#w23', './opener_hotel/en/english00045_3f6f291af6eeef8270f1182d15e7b845.kaf#w24']
+	Freq: 1 --> have
+		['./opener_hotel/en/english00025_1eb659e9edfa7e12dfbe4892bea44787.kaf#w68']
+	Freq: 1 --> all the evenings
+		['./opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w73', './opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w74', './opener_hotel/en/english00157_bcfcc098b104601f75bd86b8e9f87e9c.kaf#w75']
+	Freq: 1 --> Lots of
+		['./opener_hotel/en/english00045_3f6f291af6eeef8270f1182d15e7b845.kaf#w34', './opener_hotel/en/english00045_3f6f291af6eeef8270f1182d15e7b845.kaf#w35']
+	Freq: 1 --> experienced in making money
+		['./opener_hotel/en/english00132_92847948d918018135c3b8d9e0ba72d4.kaf#w111', './opener_hotel/en/english00132_92847948d918018135c3b8d9e0ba72d4.kaf#w112', './opener_hotel/en/english00132_92847948d918018135c3b8d9e0ba72d4.kaf#w113', './opener_hotel/en/english00132_92847948d918018135c3b8d9e0ba72d4.kaf#w114']
+	Freq: 1 --> except in the lobby area
+		['./opener_hotel/en/english00104_71984ad55ab39a055733c8df9a48c72d.kaf#w47', './opener_hotel/en/english00104_71984ad55ab39a055733c8df9a48c72d.kaf#w48', './opener_hotel/en/english00104_71984ad55ab39a055733c8df9a48c72d.kaf#w49', './opener_hotel/en/english00104_71984ad55ab39a055733c8df9a48c72d.kaf#w50', './opener_hotel/en/english00104_71984ad55ab39a055733c8df9a48c72d.kaf#w51']
+	Freq: 1 --> All comfort
+		['./opener_hotel/en/english00147_dd7fa7c7e3e989d44068a10739b6e75a.kaf#w1', './opener_hotel/en/english00147_dd7fa7c7e3e989d44068a10739b6e75a.kaf#w2']
+	Freq: 1 --> geared for families
+		['./opener_hotel/en/english00001_0123ff23e0d0dc0177f9b71a1928b674.kaf#w111', './opener_hotel/en/english00001_0123ff23e0d0dc0177f9b71a1928b674.kaf#w112', './opener_hotel/en/english00001_0123ff23e0d0dc0177f9b71a1928b674.kaf#w113']
+	Freq: 1 --> Dirty.our
+		['./opener_hotel/en/english00219_fa68930c28a452677d4f82d9400ddf4a.kaf#w25']
+	Freq: 1 --> no
+		['./opener_hotel/en/english00012_13287f4f9c645ff79357fe506a813696.kaf#w87']
+	Freq: 1 --> anything but grand !
+		['./opener_hotel/en/english00036_29c5cdcccf3cb2bb0f38d4d1153d3d44.kaf#w6', './opener_hotel/en/english00036_29c5cdcccf3cb2bb0f38d4d1153d3d44.kaf#w7', './opener_hotel/en/english00036_29c5cdcccf3cb2bb0f38d4d1153d3d44.kaf#w8', './opener_hotel/en/english00036_29c5cdcccf3cb2bb0f38d4d1153d3d44.kaf#w9']
+	Freq: 1 --> Friendy
+		['./opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w1']
+	Freq: 1 --> Disappointed
+		['./opener_hotel/en/english00042_3a43c28555e55bbf555b1c021553cb68.kaf#w1']
+	Freq: 1 --> used
+		['./opener_hotel/en/english00164_c6d60bf75b0de8d72b7e1c575e04e314.kaf#w86']
+	Freq: 1 --> stuck once you book
+		['./opener_hotel/en/english00036_29c5cdcccf3cb2bb0f38d4d1153d3d44.kaf#w44', './opener_hotel/en/english00036_29c5cdcccf3cb2bb0f38d4d1153d3d44.kaf#w45', './opener_hotel/en/english00036_29c5cdcccf3cb2bb0f38d4d1153d3d44.kaf#w46', './opener_hotel/en/english00036_29c5cdcccf3cb2bb0f38d4d1153d3d44.kaf#w47']
+	Freq: 1 --> polite
+		['./opener_hotel/en/english00147_dd7fa7c7e3e989d44068a10739b6e75a.kaf#w17']
+	Freq: 1 --> gaps in the wall
+		['./opener_hotel/en/english00062_40a2ae7cfbde5d8abdb052d58035f957.kaf#w55', './opener_hotel/en/english00062_40a2ae7cfbde5d8abdb052d58035f957.kaf#w56', './opener_hotel/en/english00062_40a2ae7cfbde5d8abdb052d58035f957.kaf#w57', './opener_hotel/en/english00062_40a2ae7cfbde5d8abdb052d58035f957.kaf#w58']
+	Freq: 1 --> no diversity
+		['./opener_hotel/en/english00172_cee4504ab4cc06e93f44e33ed1e02b4f.kaf#w76', './opener_hotel/en/english00172_cee4504ab4cc06e93f44e33ed1e02b4f.kaf#w77']
+	Freq: 1 --> mini fridge.
+		['./opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w28', './opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w29']
+	Freq: 1 --> incredible
+		['./opener_hotel/en/english00163_f2de7a0618bb010682e1d91c2e554c63.kaf#w45']
+	Freq: 1 --> expect them
+		['./opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w113', './opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w114']
+	Freq: 1 --> friendly.
+		['./opener_hotel/en/english00134_94658e39af0d72b00ead2ac314bf7074.kaf#w80']
+	Freq: 1 --> Thick
+		['./opener_hotel/en/english00131_922600cc0b95f1bff86e963509495860.kaf#w65']
+	Freq: 1 --> covered with constriction things
+		['./opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w60', './opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w61', './opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w62', './opener_hotel/en/english00190_e21978b83fc34738690f427f3d55e364.kaf#w63']
+	Freq: 1 --> 8th
+		['./opener_hotel/en/english00166_f7728afec332f1f0616df555ace9f3e3.kaf#w1']
+##################################################
+%%%<DATA>%%% (total_prec,ok_prec newline total_rec ok_rec
+917 719
+823 723
+%%%</DATA>%%% (type, or, wrong)

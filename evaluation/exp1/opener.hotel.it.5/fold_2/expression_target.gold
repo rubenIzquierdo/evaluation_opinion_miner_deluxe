@@ -1,0 +1,1545 @@
+DSE	in panne	./opener_hotel/it/italian00058_4e1dbb81f6ab0890b69e6adf845d7e35.kaf#w2 ./opener_hotel/it/italian00058_4e1dbb81f6ab0890b69e6adf845d7e35.kaf#w3
+TARGET	Ascensori	./opener_hotel/it/italian00058_4e1dbb81f6ab0890b69e6adf845d7e35.kaf#w1
+
+DSE	attendere dieci minuti di orologio	./opener_hotel/it/italian00058_4e1dbb81f6ab0890b69e6adf845d7e35.kaf#w34 ./opener_hotel/it/italian00058_4e1dbb81f6ab0890b69e6adf845d7e35.kaf#w37 ./opener_hotel/it/italian00058_4e1dbb81f6ab0890b69e6adf845d7e35.kaf#w38 ./opener_hotel/it/italian00058_4e1dbb81f6ab0890b69e6adf845d7e35.kaf#w39 ./opener_hotel/it/italian00058_4e1dbb81f6ab0890b69e6adf845d7e35.kaf#w40
+TARGET	ascensore	./opener_hotel/it/italian00058_4e1dbb81f6ab0890b69e6adf845d7e35.kaf#w36
+
+DSE	scarsa	./opener_hotel/it/italian00008_09b5804f2e5a07f2a636abf7f80ec9bc.kaf#w71
+TARGET	qualità prezzo	./opener_hotel/it/italian00008_09b5804f2e5a07f2a636abf7f80ec9bc.kaf#w69 ./opener_hotel/it/italian00008_09b5804f2e5a07f2a636abf7f80ec9bc.kaf#w70
+
+DSE	comprese nel prezzo	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w65 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w66 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w67
+TARGET	ombrelloni in spiaggia	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w57 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w58 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w59
+
+DSE	comprese nel prezzo	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w65 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w66 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w67
+TARGET	sdraio alla piscina	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w62 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w63 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w64
+
+DSE	buona posizione	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w14 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w15
+TARGET	hotel	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w12
+
+DSE	pochi passi	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w17 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w18
+TARGET	mare	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w20
+
+DSE	Grande attenzione alle	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w77 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w78 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w79
+TARGET	esigenze delle famiglie	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w80 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w81 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w82
+
+DSE	eccellente	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w48
+TARGET	Cortesia del personale	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w47 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w49 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w50
+
+DSE	A disposizione	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w84 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w85
+TARGET	miniclub	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w87
+
+DSE	in un solo hotel	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w8 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w9 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w10 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w11
+TARGET	piscina	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w3
+
+DSE	in un solo hotel	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w8 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w9 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w10 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w11
+TARGET	Mare	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w1
+
+DSE	in un solo hotel	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w8 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w9 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w10 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w11
+TARGET	spa	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w5
+
+DSE	in un solo hotel	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w8 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w9 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w10 ./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w11
+TARGET	relax	./opener_hotel/it/italian00139_ee5835a730a17d263b9fdaace01dc82c.kaf#w7
+
+DSE	un pò alti	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w123 ./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w124 ./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w125
+TARGET	prezzi	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w127
+
+DSE	grandi	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w75
+TARGET	camere	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w73
+
+DSE	finemente arredate	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w77 ./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w78
+TARGET	camere	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w73
+
+DSE	La struttura dispone	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w62 ./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w63 ./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w64
+TARGET	piscina all' aperto	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w68 ./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w69 ./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w70
+
+DSE	Buono	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w117
+TARGET	servizio	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w120
+
+DSE	accogliente	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w2
+TARGET	Hotel	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w1
+
+DSE	immerso nel verde	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w4 ./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w5 ./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w6
+TARGET	Hotel	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w1
+
+DSE	pochi minuti di auto	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w24 ./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w25 ./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w29 ./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w30
+TARGET	centro di Siena	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w32 ./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w33 ./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w34
+
+DSE	grande	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w39
+TARGET	parcheggio	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w40
+
+DSE	dispone di	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w36 ./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w37
+TARGET	parcheggio	./opener_hotel/it/italian00035_251c2279ffb1de6a665f85d64f9d3c39.kaf#w40
+
+DSE	normale	./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w65
+TARGET	colazione	./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w64
+
+DSE	non è ricca varia	./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w66 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w67 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w71 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w73
+TARGET	colazione	./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w64
+
+DSE	non è sicuramento di un hotel di primo livello	./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w43 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w44 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w45 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w46 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w47 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w48 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w49 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w50 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w51
+TARGET	servizio	./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w42
+
+DSE	buona	./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w25
+TARGET	tariffa	./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w26
+
+DSE	non è assolutamente da catalogarsi come quattro stelle	./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w32 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w33 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w34 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w35 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w36 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w37 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w38 ./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w39
+TARGET	albergo	./opener_hotel/it/italian00075_5785b2029a19c148c23cbab0c5fd4226.kaf#w31
+
+DSE	necessari in taxi	./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w5 ./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w7 ./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w8
+TARGET	spostamenti	./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w6
+
+DSE	molto curato	./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w13 ./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w14
+TARGET	hotel	./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w11
+
+DSE	molto curato	./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w13 ./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w14
+TARGET	camere	./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w18
+
+DSE	non è molto comoda	./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w29 ./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w30 ./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w31 ./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w32
+TARGET	posizione	./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w28
+
+DSE	abbondante	./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w25
+TARGET	colazione	./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w21
+
+DSE	varia	./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w23
+TARGET	colazione	./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w21
+
+DSE	molto curato	./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w2 ./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w3
+TARGET	Hotel	./opener_hotel/it/italian00047_3920dc90f309aa92f4a302e143d86b50.kaf#w1
+
+DSE	posizione incantevole	./opener_hotel/it/italian00079_876f7d90497831f9648b0a6106d02afb.kaf#w21 ./opener_hotel/it/italian00079_876f7d90497831f9648b0a6106d02afb.kaf#w22
+TARGET	maxicaravan	./opener_hotel/it/italian00079_876f7d90497831f9648b0a6106d02afb.kaf#w15
+
+DSE	molto tranquillo	./opener_hotel/it/italian00079_876f7d90497831f9648b0a6106d02afb.kaf#w42 ./opener_hotel/it/italian00079_876f7d90497831f9648b0a6106d02afb.kaf#w43
+TARGET	villaggio	./opener_hotel/it/italian00079_876f7d90497831f9648b0a6106d02afb.kaf#w40
+
+DSE	gratuita	./opener_hotel/it/italian00079_876f7d90497831f9648b0a6106d02afb.kaf#w50
+TARGET	navetta per la spiaggia	./opener_hotel/it/italian00079_876f7d90497831f9648b0a6106d02afb.kaf#w49 ./opener_hotel/it/italian00079_876f7d90497831f9648b0a6106d02afb.kaf#w51 ./opener_hotel/it/italian00079_876f7d90497831f9648b0a6106d02afb.kaf#w52 ./opener_hotel/it/italian00079_876f7d90497831f9648b0a6106d02afb.kaf#w53
+
+DSE	buona posizione	./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w9 ./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w10
+TARGET	centro di Lucca	./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w12 ./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w13 ./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w14
+
+DSE	dimensioni modeste	./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w32 ./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w33
+TARGET	camera	./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w24
+
+DSE	vecchia	./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w29
+TARGET	camera	./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w24
+
+DSE	disponibile	./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w17
+TARGET	Personale	./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w16
+
+DSE	nella media	./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w20 ./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w21
+TARGET	Colazione	./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w19
+
+DSE	senza troppe pretese	./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w53 ./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w54 ./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w55
+TARGET	ambiente	./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w52
+
+DSE	Buono	./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w57
+TARGET	prezzo	./opener_hotel/it/italian00084_5c61fb26dd0b06d0eb2bd8e2c443cfde.kaf#w59
+
+DSE	pulite	./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w88
+TARGET	camere	./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w86
+
+DSE	silenziose	./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w90
+TARGET	camere	./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w86
+
+DSE	3 minuti a piedi	./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w27 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w28 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w29 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w30
+TARGET	fermata Bastille linea 1	./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w33 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w34 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w35 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w36
+
+DSE	in 2 minuti	./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w107 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w108 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w109
+TARGET	Ceck · in	./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w103 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w104 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w105
+
+DSE	la possibilità di usare	./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w73 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w74 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w75 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w76
+TARGET	piccolo spazio cucina	./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w78 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w79 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w80
+
+DSE	un frigorifero	./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w82 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w83
+TARGET	piccolo spazio cucina	./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w78 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w79 ./opener_hotel/it/italian00206_e77f7793b11c87666fef02c664af5ac8.kaf#w80
+
+DSE	enorme	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w49
+TARGET	bagno	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w48
+
+DSE	affaccia su Las vegas strip	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w67 ./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w68 ./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w69 ./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w70 ./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w71
+TARGET	vetrata	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w65
+
+DSE	immersi nel verde	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w113 ./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w114 ./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w115
+TARGET	vialetti	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w112
+
+DSE	con	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w51
+TARGET	vasca	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w52
+
+DSE	con	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w51
+TARGET	doccia	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w54
+
+DSE	comodissimo	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w57
+TARGET	letto	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w56
+
+DSE	Ottimo	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w81
+TARGET	ristoranti	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w88
+
+DSE	Ottimo	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w81
+TARGET	casinò	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w83
+
+DSE	Molto spettacolare	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w129 ./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w130
+TARGET	cascata	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w134
+
+DSE	meravigliosa	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w107
+TARGET	zona comune	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w102 ./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w103
+
+DSE	lusso	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w2
+TARGET	hotel	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w4
+
+DSE	più lussoso	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w33 ./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w34
+TARGET	Wynn	./opener_hotel/it/italian00064_508ce40d5fa5bf5a48922741e0ff2d18.kaf#w30
+
+DSE	davvero un buco	./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w9 ./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w10 ./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w11
+TARGET	stanza singola	./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w4 ./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w5
+
+DSE	quasi diffcile muoversi	./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w14 ./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w15 ./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w16
+TARGET	stanza singola	./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w4 ./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w5
+
+DSE	molto pulita	./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w65 ./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w66
+TARGET	stanza	./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w60
+
+DSE	minuscole	./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w2
+TARGET	Stanze	./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w1
+
+DSE	era praticamente chiuso da una rete metallica	./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w44 ./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w45 ./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w46 ./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w47 ./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w48 ./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w49 ./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w50
+TARGET	terazzino	./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w28
+
+DSE	inquietante	./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w39
+TARGET	terazzino	./opener_hotel/it/italian00219_f6504f0332767c905cc46b98174e127d.kaf#w28
+
+DSE	c' è	./opener_hotel/it/italian00081_59d96f8bb5832249171f85ea62edc09b.kaf#w37 ./opener_hotel/it/italian00081_59d96f8bb5832249171f85ea62edc09b.kaf#w38
+TARGET	centro commerciale	./opener_hotel/it/italian00081_59d96f8bb5832249171f85ea62edc09b.kaf#w41 ./opener_hotel/it/italian00081_59d96f8bb5832249171f85ea62edc09b.kaf#w42
+
+DSE	piccolo	./opener_hotel/it/italian00081_59d96f8bb5832249171f85ea62edc09b.kaf#w40
+TARGET	centro commerciale	./opener_hotel/it/italian00081_59d96f8bb5832249171f85ea62edc09b.kaf#w41 ./opener_hotel/it/italian00081_59d96f8bb5832249171f85ea62edc09b.kaf#w42
+
+DSE	decoroso.	./opener_hotel/it/italian00081_59d96f8bb5832249171f85ea62edc09b.kaf#w24
+TARGET	hotel	./opener_hotel/it/italian00081_59d96f8bb5832249171f85ea62edc09b.kaf#w15
+
+DSE	pulito	./opener_hotel/it/italian00081_59d96f8bb5832249171f85ea62edc09b.kaf#w22
+TARGET	hotel	./opener_hotel/it/italian00081_59d96f8bb5832249171f85ea62edc09b.kaf#w15
+
+DSE	non offrè molte attrazioni	./opener_hotel/it/italian00081_59d96f8bb5832249171f85ea62edc09b.kaf#w16 ./opener_hotel/it/italian00081_59d96f8bb5832249171f85ea62edc09b.kaf#w17 ./opener_hotel/it/italian00081_59d96f8bb5832249171f85ea62edc09b.kaf#w18 ./opener_hotel/it/italian00081_59d96f8bb5832249171f85ea62edc09b.kaf#w19
+TARGET	hotel	./opener_hotel/it/italian00081_59d96f8bb5832249171f85ea62edc09b.kaf#w15
+
+DSE	ottimo	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w30
+TARGET	servizio	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w31
+
+DSE	Poco distante	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w64 ./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w65
+TARGET	centri benessere	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w68 ./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w69
+
+DSE	Ottima	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w41
+TARGET	prima colazione	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w43 ./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w44
+
+DSE	la distanza è breve	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w71 ./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w72 ./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w73 ./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w74
+TARGET	Siena	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w79
+
+DSE	la distanza è breve	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w71 ./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w72 ./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w73 ./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w74
+TARGET	Arezzo	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w76
+
+DSE	disponibili	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w26
+TARGET	propietario	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w17
+
+DSE	disponibili	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w26
+TARGET	la sua famiglia	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w19 ./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w20 ./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w21
+
+DSE	davvero simpatici	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w23 ./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w24
+TARGET	propietario	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w17
+
+DSE	davvero simpatici	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w23 ./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w24
+TARGET	la sua famiglia	./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w19 ./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w20 ./opener_hotel/it/italian00123_ca7341c8ea1ad74c33cf5714b5a3dddd.kaf#w21
+
+DSE	Anche se sembra nuova	./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w11 ./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w12 ./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w15 ./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w16
+TARGET	struttura	./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w14
+
+DSE	piccole	./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w22
+TARGET	camere	./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w21
+
+DSE	scarsa	./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w24
+TARGET	luminosità	./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w25
+
+DSE	sporco	./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w44
+TARGET	condizionatore	./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w38
+
+DSE	peggior provato	./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w6 ./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w9
+TARGET	Premier Inn	./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w7 ./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w8
+
+DSE	per poche macchine	./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w31 ./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w32 ./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w33
+TARGET	parcheggio	./opener_hotel/it/italian00042_309f9c63624e542b6f58606ffd6df545.kaf#w29
+
+DSE	uno dei più belli	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w8 ./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w9 ./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w10 ./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w11
+TARGET	esterno	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w13
+
+DSE	non mantiene le aspettative	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w15 ./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w16 ./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w17 ./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w18
+TARGET	camere	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w23
+
+DSE	abbastanza datato	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w82 ./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w83
+TARGET	arredamento	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w81
+
+DSE	Abbastanza buono	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w98 ./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w99
+TARGET	cibo	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w102
+
+DSE	gentilezza	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w94
+TARGET	personale	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w96
+
+DSE	sia per	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w106 ./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w107
+TARGET	colazione	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w111
+
+DSE	sia per	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w106 ./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w107
+TARGET	cena	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w114
+
+DSE	Buon	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w1
+TARGET	hotel	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w2
+
+DSE	niente di eccezionale	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w5 ./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w6 ./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w7
+TARGET	hotel	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w2
+
+DSE	pessima posizione	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w77 ./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w78
+TARGET	stanza	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w63
+
+DSE	abbastanza spaziosa	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w65 ./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w66
+TARGET	stanza	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w63
+
+DSE	abbastanza buia	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w73 ./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w74
+TARGET	stanza	./opener_hotel/it/italian00134_8ccce00b653b32421700cab9a89e305a.kaf#w63
+
+DSE	cambiavano continuamente le	./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w75 ./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w76 ./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w77
+TARGET	persone alla reception	./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w78 ./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w79 ./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w80
+
+DSE	meno	./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w38
+TARGET	servizio nelle camere	./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w40 ./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w41 ./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w42
+
+DSE	meno	./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w38
+TARGET	camera stessa.	./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w45 ./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w46
+
+DSE	non va bene	./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w51 ./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w52 ./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w53
+TARGET	4 stelle	./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w49 ./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w50
+
+DSE	non stava su	./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w60 ./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w61 ./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w62
+TARGET	doccia	./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w56
+
+DSE	inclusa	./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w23
+TARGET	colazione	./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w21
+
+DSE	ottima abbondante	./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w32 ./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w34
+TARGET	colazione	./opener_hotel/it/italian00011_0d159d873ad08dbedceb6902653d8eba.kaf#w31
+
+DSE	piccole	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w49
+TARGET	camere	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w47
+
+DSE	collega ai terminal ogni 30 minuti	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w21 ./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w22 ./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w23 ./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w24 ./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w25 ./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w26
+TARGET	navetta	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w18
+
+DSE	gratuita	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w19
+TARGET	navetta	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w18
+
+DSE	vuoto	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w55
+TARGET	frigo bar	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w52 ./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w53
+
+DSE	non è un granchè	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w41 ./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w42 ./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w43 ./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w44
+TARGET	hotel	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w40
+
+DSE	gentilezza	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w35
+TARGET	personale	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w37
+
+DSE	plus	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w78
+TARGET	Costa caffè	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w72 ./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w73
+
+DSE	forte odore di muffa	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w64 ./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w65 ./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w66 ./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w67
+TARGET	bagni	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w59
+
+DSE	piccoli	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w60
+TARGET	bagni	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w59
+
+DSE	vicino	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w5
+TARGET	aeroporto	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w7
+
+DSE	vicinissimo	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w12
+TARGET	aeroporto	./opener_hotel/it/italian00076_57865e09d9d4865af8a787e36be5e47f.kaf#w14
+
+DSE	bellissimo	./opener_hotel/it/italian00034_3d63a8cae114964d1fc203c2335413e4.kaf#w3
+TARGET	Hotel	./opener_hotel/it/italian00034_3d63a8cae114964d1fc203c2335413e4.kaf#w2
+
+DSE	con	./opener_hotel/it/italian00034_3d63a8cae114964d1fc203c2335413e4.kaf#w4
+TARGET	un percorso benessere	./opener_hotel/it/italian00034_3d63a8cae114964d1fc203c2335413e4.kaf#w11 ./opener_hotel/it/italian00034_3d63a8cae114964d1fc203c2335413e4.kaf#w12 ./opener_hotel/it/italian00034_3d63a8cae114964d1fc203c2335413e4.kaf#w13
+
+DSE	con	./opener_hotel/it/italian00034_3d63a8cae114964d1fc203c2335413e4.kaf#w4
+TARGET	intrattenimenti di vario tipo	./opener_hotel/it/italian00034_3d63a8cae114964d1fc203c2335413e4.kaf#w5 ./opener_hotel/it/italian00034_3d63a8cae114964d1fc203c2335413e4.kaf#w6 ./opener_hotel/it/italian00034_3d63a8cae114964d1fc203c2335413e4.kaf#w7 ./opener_hotel/it/italian00034_3d63a8cae114964d1fc203c2335413e4.kaf#w8
+
+DSE	con	./opener_hotel/it/italian00034_3d63a8cae114964d1fc203c2335413e4.kaf#w4
+TARGET	una serata danzante	./opener_hotel/it/italian00034_3d63a8cae114964d1fc203c2335413e4.kaf#w15 ./opener_hotel/it/italian00034_3d63a8cae114964d1fc203c2335413e4.kaf#w16 ./opener_hotel/it/italian00034_3d63a8cae114964d1fc203c2335413e4.kaf#w17
+
+DSE	accogliente	./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w110
+TARGET	personale	./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w103
+
+DSE	gentilissimo	./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w105
+TARGET	personale	./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w103
+
+DSE	sempre disponibile	./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w107 ./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w108
+TARGET	personale	./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w103
+
+DSE	indescrivibile	./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w51
+TARGET	panorama	./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w49
+
+DSE	lontano	./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w46
+TARGET	centro	./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w48
+
+DSE	con	./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w50
+TARGET	fermata del tram	./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w52 ./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w53 ./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w54
+
+DSE	fornisce	./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w29
+TARGET	servizio di transfer per l' aereoporto di Linate	./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w31 ./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w32 ./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w33 ./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w34 ./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w35 ./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w36 ./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w37 ./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w38
+
+DSE	pulite	./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w74
+TARGET	Camere	./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w73
+
+DSE	sufficientemente ampie	./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w76 ./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w77
+TARGET	Camere	./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w73
+
+DSE	nella media per un 4 stelle	./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w80 ./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w81 ./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w82 ./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w83 ./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w84 ./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w85
+TARGET	colazione	./opener_hotel/it/italian00178_c7dc27e4e6b5be4f232442305a7dc6c5.kaf#w79
+
+DSE	assenti o in copia unica	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w34 ./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w35 ./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w36 ./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w37 ./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w38
+TARGET	Quotidiani nazionali in omaggio	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w30 ./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w31 ./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w32 ./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w33
+
+DSE	triste	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w17
+TARGET	Arredamento	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w16
+
+DSE	obsoleto	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w19
+TARGET	Arredamento	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w16
+
+DSE	piccole	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w22
+TARGET	Camere	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w21
+
+DSE	poco accoglienti	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w24 ./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w25
+TARGET	Camere	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w21
+
+DSE	essenziale	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w28
+TARGET	Bagno	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w27
+
+DSE	scortese	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w41
+TARGET	Personale	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w40
+
+DSE	non professionale	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w43 ./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w44
+TARGET	Personale	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w40
+
+DSE	mescolato con l' acqua	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w58 ./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w59 ./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w60 ./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w61
+TARGET	succo d' arancia	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w55 ./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w56 ./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w57
+
+DSE	assolutamente anonima	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w48 ./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w49
+TARGET	colazione	./opener_hotel/it/italian00209_ea82f14f1a85d7e8c0ec8de66407322a.kaf#w47
+
+DSE	non certo	./opener_hotel/it/italian00143_97f59f1071cada6e5bc3f85e271546e4.kaf#w28 ./opener_hotel/it/italian00143_97f59f1071cada6e5bc3f85e271546e4.kaf#w29
+TARGET	design	./opener_hotel/it/italian00143_97f59f1071cada6e5bc3f85e271546e4.kaf#w31
+
+DSE	vivibili	./opener_hotel/it/italian00143_97f59f1071cada6e5bc3f85e271546e4.kaf#w37
+TARGET	camere	./opener_hotel/it/italian00143_97f59f1071cada6e5bc3f85e271546e4.kaf#w36
+
+DSE	spaziose	./opener_hotel/it/italian00143_97f59f1071cada6e5bc3f85e271546e4.kaf#w7
+TARGET	camere	./opener_hotel/it/italian00143_97f59f1071cada6e5bc3f85e271546e4.kaf#w6
+
+DSE	apprezzato	./opener_hotel/it/italian00143_97f59f1071cada6e5bc3f85e271546e4.kaf#w9
+TARGET	dimensione delle camere	./opener_hotel/it/italian00143_97f59f1071cada6e5bc3f85e271546e4.kaf#w14 ./opener_hotel/it/italian00143_97f59f1071cada6e5bc3f85e271546e4.kaf#w15 ./opener_hotel/it/italian00143_97f59f1071cada6e5bc3f85e271546e4.kaf#w16
+
+DSE	nelle vicinanze	./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w12 ./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w13
+TARGET	ristoranti	./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w11
+
+DSE	nelle vicinanze	./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w12 ./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w13
+TARGET	tante panetterie	./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w16 ./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w17
+
+DSE	nelle vicinanze	./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w12 ./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w13
+TARGET	supermercati	./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w19
+
+DSE	posizione centrale	./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w5 ./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w6
+TARGET	Residence	./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w3
+
+DSE	disponibile	./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w25
+TARGET	Personale della reception	./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w21 ./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w22 ./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w23
+
+DSE	non era molto luminoso	./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w44 ./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w45 ./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w46 ./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w47
+TARGET	appartamento	./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w40
+
+DSE	molto pulito	./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w55 ./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w56
+TARGET	appartamento	./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w40
+
+DSE	spazioso	./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w58
+TARGET	appartamento	./opener_hotel/it/italian00020_1e50ea90f1f8dd45e6dc293660c07c9b.kaf#w40
+
+DSE	poche centinaia di metri	./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w18 ./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w19 ./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w20 ./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w21
+TARGET	stazione Termini	./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w23 ./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w24
+
+DSE	appena sufficiente	./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w61 ./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w62
+TARGET	colazione	./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w59
+
+DSE	qualità mediocre	./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w68 ./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w69
+TARGET	colazione	./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w59
+
+DSE	poca varietà	./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w65 ./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w66
+TARGET	colazione	./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w59
+
+DSE	datata	./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w56
+TARGET	camera	./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w45
+
+DSE	per quanto pulita e spaziosa	./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w48 ./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w49 ./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w50 ./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w51 ./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w52
+TARGET	camera	./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w45
+
+DSE	abbastanza deludente	./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w88 ./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w89
+TARGET	questo	./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w83
+
+DSE	di fronte	./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w10 ./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w11
+TARGET	Teatro dell' Opera	./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w13 ./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w14 ./opener_hotel/it/italian00100_ac6efae08ff46eb88b1761a03ca02e24.kaf#w15
+
+DSE	da poter utilizzare	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w89 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w90 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w91
+TARGET	2 pc	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w87 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w88
+
+DSE	consiglio	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w143
+TARGET	hotel	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w145
+
+DSE	aperto fino a tarda notte	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w95 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w96 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w97 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w98 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w99
+TARGET	bar	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w94
+
+DSE	vicino	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w54
+TARGET	alla fermata di Sharaf DG Metro Station 2	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w55 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w56 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w57 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w58 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w59 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w60 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w61 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w62
+
+DSE	Ottima	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w101
+TARGET	pulizia	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w102
+
+DSE	cambio tutti i giorni	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w104 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w105 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w106 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w107
+TARGET	pulizia	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w102
+
+DSE	abbastanza grande	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w110 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w111
+TARGET	stanza	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w109
+
+DSE	ottimo	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w4
+TARGET	prezzo	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w5
+
+DSE	molto vicina	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w49 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w50
+TARGET	la metropolitana	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w46 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w47
+
+DSE	si raggiunge in max 10 minuti a piedi	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w36 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w37 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w38 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w39 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w40 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w41 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w42 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w43
+TARGET	centro commerciale Mall of the Emirates	./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w30 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w31 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w32 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w33 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w34 ./opener_hotel/it/italian00010_0bd8ae0fa6518f521c6dedecbdc00c35.kaf#w35
+
+DSE	ottima posizione	./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w3 ./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w4
+TARGET	Hotel	./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w1
+
+DSE	buon	./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w26
+TARGET	rapporto qualita ' prezzo	./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w27 ./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w28 ./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w29 ./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w30
+
+DSE	molto vicino	./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w36 ./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w37
+TARGET	stazione Termini	./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w45 ./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w46
+
+DSE	molto vicino	./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w36 ./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w37
+TARGET	principali siti turistici	./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w49 ./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w50 ./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w51
+
+DSE	molto vicino	./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w36 ./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w37
+TARGET	fermata del metro	./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w39 ./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w40 ./opener_hotel/it/italian00018_1b30ecdebea55dec214414ee4bbb05fa.kaf#w41
+
+DSE	ottima	./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w13
+TARGET	la colazione	./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w14 ./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w15
+
+DSE	ottima	./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w13
+TARGET	la pulizia degli ambienti	./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w17 ./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w18 ./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w19 ./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w20
+
+DSE	immerso nella	./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w28 ./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w29
+TARGET	quiete delle verdi colline Toscane	./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w30 ./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w31 ./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w32 ./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w33 ./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w34
+
+DSE	buon gusto	./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w23 ./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w24
+TARGET	delle camere	./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w25 ./opener_hotel/it/italian00060_64b25885c6ba3fb6a3cd7f0bf141cd1e.kaf#w26
+
+DSE	ottima	./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w60
+TARGET	posizione	./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w58
+
+DSE	pulita accogliente	./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w37 ./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w39
+TARGET	camera	./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w36
+
+DSE	un pochino piccola	./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w43 ./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w44 ./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w45
+TARGET	camera	./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w36
+
+DSE	ben riscaldata	./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w49 ./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w50
+TARGET	camera	./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w36
+
+DSE	ottimo albergo	./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w33 ./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w34
+TARGET	camera	./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w36
+
+DSE	ottimo	./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w52
+TARGET	scaldasalviette	./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w54
+
+DSE	vicinanza	./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w74
+TARGET	basilica del Sacre Coeur	./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w77 ./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w78 ./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w79 ./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w80
+
+DSE	cortese disponibile	./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w85 ./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w87
+TARGET	personale	./opener_hotel/it/italian00006_07b32c42a9d8a5c79112799a1825bb2f.kaf#w83
+
+DSE	Non lo consiglio	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w41 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w42 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w43
+TARGET	chi viaggia con bambini	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w45 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w46 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w47 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w48
+
+DSE	vicino	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w16
+TARGET	polo fieristico	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w18 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w19
+
+DSE	molto piccole	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w30 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w31
+TARGET	camere	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w28
+
+DSE	particolarmente tranquillo	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w24 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w25
+TARGET	quartiere	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w22
+
+DSE	con	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w55
+TARGET	cassaforte	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w58
+
+DSE	con	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w55
+TARGET	televisione	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w56
+
+DSE	con	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w55
+TARGET	aria	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w60
+
+DSE	buono	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w68
+TARGET	Rapporto qualità prezzo	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w63 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w64 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w65
+
+DSE	non ottimo	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w70 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w71
+TARGET	Rapporto qualità prezzo	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w63 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w64 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w65
+
+DSE	piccole	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w2
+TARGET	Camere	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w1
+
+DSE	5 minuti a piedi	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w7 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w8 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w9 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w10
+TARGET	fermata della metropolitana	./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w12 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w13 ./opener_hotel/it/italian00096_66e28699b4a0b83f3fa919047a5ed6e5.kaf#w14
+
+DSE	super	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w40
+TARGET	servizio di pulizia	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w41 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w42 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w43
+
+DSE	fuori mano	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w64 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w65
+TARGET	centro	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w68
+
+DSE	ho goduto di	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w20 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w21 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w22
+TARGET	macchinetta del caffe	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w30 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w31 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w32
+
+DSE	ho goduto di	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w20 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w21 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w22
+TARGET	internet wifi	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w46 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w47
+
+DSE	ho goduto di	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w20 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w21 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w22
+TARGET	espresso in camera	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w34 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w35 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w36
+
+DSE	sopperisce almeno in parte a questa lacuna	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w77 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w78 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w79 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w80 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w81 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w82 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w83
+TARGET	servizio navetta	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w72 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w73
+
+DSE	luminuse	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w88
+TARGET	camera	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w85
+
+DSE	grandi	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w86
+TARGET	camera	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w85
+
+DSE	piu ' che accessibile	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w16 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w17 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w18 ./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w19
+TARGET	prezzo	./opener_hotel/it/italian00208_e8e285c43455a9ae77b2e8e4a771b891.kaf#w15
+
+DSE	delusi	./opener_hotel/it/italian00098_6757dc45e9cbba4dcda39e32b3b14925.kaf#w18
+TARGET	struttura	./opener_hotel/it/italian00098_6757dc45e9cbba4dcda39e32b3b14925.kaf#w20
+
+DSE	mancnza di	./opener_hotel/it/italian00098_6757dc45e9cbba4dcda39e32b3b14925.kaf#w22 ./opener_hotel/it/italian00098_6757dc45e9cbba4dcda39e32b3b14925.kaf#w23
+TARGET	pulizia	./opener_hotel/it/italian00098_6757dc45e9cbba4dcda39e32b3b14925.kaf#w24
+
+DSE	freddezza	./opener_hotel/it/italian00098_6757dc45e9cbba4dcda39e32b3b14925.kaf#w27
+TARGET	personale.	./opener_hotel/it/italian00098_6757dc45e9cbba4dcda39e32b3b14925.kaf#w29
+
+DSE	dimenticare	./opener_hotel/it/italian00098_6757dc45e9cbba4dcda39e32b3b14925.kaf#w32
+TARGET	colazione	./opener_hotel/it/italian00098_6757dc45e9cbba4dcda39e32b3b14925.kaf#w30
+
+DSE	pulitissimi	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w42
+TARGET	servizi	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w35
+
+DSE	ottimo stato	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w39 ./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w40
+TARGET	servizi	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w35
+
+DSE	adatto	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w9
+TARGET	anziani	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w12
+
+DSE	adatto	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w9
+TARGET	bambini	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w15
+
+DSE	ben fornito	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w47 ./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w48
+TARGET	bar	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w45
+
+DSE	offre	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w17
+TARGET	ottimo divertimento	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w22 ./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w23
+
+DSE	offre	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w17
+TARGET	relax	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w18
+
+DSE	molto graziose	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w31 ./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w32
+TARGET	piazzole	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w26
+
+DSE	ben ombreggiate	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w28 ./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w29
+TARGET	piazzole	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w26
+
+DSE	due belle e pulitissime	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w64 ./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w65 ./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w66 ./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w67
+TARGET	piscine	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w68
+
+DSE	coperto dalla rete wi · fi gratuita	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w75 ./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w76 ./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w77 ./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w78 ./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w79 ./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w80 ./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w81
+TARGET	campeggio	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w73
+
+DSE	meraviglioso	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w2
+TARGET	Camping	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w3
+
+DSE	bellissimo	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w7
+TARGET	campeggio	./opener_hotel/it/italian00006_064e1f82d4b0d015350b9790b26c2256.kaf#w5
+
+DSE	molto piccolo	./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w11 ./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w12
+TARGET	hotel	./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w10
+
+DSE	interminabile	./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w25
+TARGET	check · in	./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w20 ./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w21 ./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w22
+
+DSE	sparita	./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w36
+TARGET	prenotazione	./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w34
+
+DSE	deserta dalle 22.00 alle 07.00	./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w86 ./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w87 ./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w88 ./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w89 ./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w90
+TARGET	reception	./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w84
+
+DSE	abbastanza centrale	./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w6 ./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w7
+TARGET	Zona	./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w5
+
+DSE	problemi con l' inglese	./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w39 ./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w42 ./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w43 ./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w44
+TARGET	receptionist	./opener_hotel/it/italian00001_006cf1a0cb215e46110a9e3f78ce30a6.kaf#w41
+
+DSE	simpatico	./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w68
+TARGET	Team di animazione	./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w65 ./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w66 ./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w67
+
+DSE	ha saputo proporre piatti creativi	./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w76 ./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w77 ./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w78 ./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w79 ./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w80
+TARGET	Staff di cucina e sala	./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w70 ./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w71 ./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w72 ./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w73 ./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w74
+
+DSE	competente	./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w99
+TARGET	Direttore	./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w98
+
+DSE	simpatico	./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w101
+TARGET	Direttore	./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w98
+
+DSE	buona professionalità	./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w58 ./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w59
+TARGET	Personale	./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w56
+
+DSE	corretto	./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w63
+TARGET	Personale	./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w56
+
+DSE	educato	./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w61
+TARGET	Personale	./opener_hotel/it/italian00087_9295e85eb5c4641679294b1e7eb6eda9.kaf#w56
+
+DSE	offre	./opener_hotel/it/italian00138_eb2179a5deb96186f13485428edefc5e.kaf#w13
+TARGET	buone opportunità di svago	./opener_hotel/it/italian00138_eb2179a5deb96186f13485428edefc5e.kaf#w29 ./opener_hotel/it/italian00138_eb2179a5deb96186f13485428edefc5e.kaf#w30 ./opener_hotel/it/italian00138_eb2179a5deb96186f13485428edefc5e.kaf#w31 ./opener_hotel/it/italian00138_eb2179a5deb96186f13485428edefc5e.kaf#w32
+
+DSE	disarmante disponibilità	./opener_hotel/it/italian00019_1bdfadb41c5d6741e97e09ce22cdb681.kaf#w38 ./opener_hotel/it/italian00019_1bdfadb41c5d6741e97e09ce22cdb681.kaf#w39
+TARGET	proprietario	./opener_hotel/it/italian00019_1bdfadb41c5d6741e97e09ce22cdb681.kaf#w41
+
+DSE	adatta per tutti i gusti	./opener_hotel/it/italian00019_1bdfadb41c5d6741e97e09ce22cdb681.kaf#w60 ./opener_hotel/it/italian00019_1bdfadb41c5d6741e97e09ce22cdb681.kaf#w61 ./opener_hotel/it/italian00019_1bdfadb41c5d6741e97e09ce22cdb681.kaf#w62 ./opener_hotel/it/italian00019_1bdfadb41c5d6741e97e09ce22cdb681.kaf#w63 ./opener_hotel/it/italian00019_1bdfadb41c5d6741e97e09ce22cdb681.kaf#w64
+TARGET	colazione	./opener_hotel/it/italian00019_1bdfadb41c5d6741e97e09ce22cdb681.kaf#w56
+
+DSE	variegata	./opener_hotel/it/italian00019_1bdfadb41c5d6741e97e09ce22cdb681.kaf#w58
+TARGET	colazione	./opener_hotel/it/italian00019_1bdfadb41c5d6741e97e09ce22cdb681.kaf#w56
+
+DSE	con gusto	./opener_hotel/it/italian00019_1bdfadb41c5d6741e97e09ce22cdb681.kaf#w18 ./opener_hotel/it/italian00019_1bdfadb41c5d6741e97e09ce22cdb681.kaf#w19
+TARGET	riconvertito e ristrutturato	./opener_hotel/it/italian00019_1bdfadb41c5d6741e97e09ce22cdb681.kaf#w15 ./opener_hotel/it/italian00019_1bdfadb41c5d6741e97e09ce22cdb681.kaf#w16 ./opener_hotel/it/italian00019_1bdfadb41c5d6741e97e09ce22cdb681.kaf#w17
+
+DSE	cortesia	./opener_hotel/it/italian00104_b3669b57f878aba942bb7649d238c951.kaf#w22
+TARGET	personale	./opener_hotel/it/italian00104_b3669b57f878aba942bb7649d238c951.kaf#w24
+
+DSE	gentilezza	./opener_hotel/it/italian00104_b3669b57f878aba942bb7649d238c951.kaf#w19
+TARGET	personale	./opener_hotel/it/italian00104_b3669b57f878aba942bb7649d238c951.kaf#w24
+
+DSE	incantevole	./opener_hotel/it/italian00104_b3669b57f878aba942bb7649d238c951.kaf#w7
+TARGET	luogo	./opener_hotel/it/italian00104_b3669b57f878aba942bb7649d238c951.kaf#w6
+
+DSE	sempre attento	./opener_hotel/it/italian00104_b3669b57f878aba942bb7649d238c951.kaf#w29 ./opener_hotel/it/italian00104_b3669b57f878aba942bb7649d238c951.kaf#w30
+TARGET	soddisfare le mie richieste	./opener_hotel/it/italian00104_b3669b57f878aba942bb7649d238c951.kaf#w32 ./opener_hotel/it/italian00104_b3669b57f878aba942bb7649d238c951.kaf#w33 ./opener_hotel/it/italian00104_b3669b57f878aba942bb7649d238c951.kaf#w34 ./opener_hotel/it/italian00104_b3669b57f878aba942bb7649d238c951.kaf#w35
+
+DSE	molto gentili	./opener_hotel/it/italian00044_4bcef0d5a76b51ef0a958a407623db6a.kaf#w37 ./opener_hotel/it/italian00044_4bcef0d5a76b51ef0a958a407623db6a.kaf#w38
+TARGET	persone	./opener_hotel/it/italian00044_4bcef0d5a76b51ef0a958a407623db6a.kaf#w34
+
+DSE	Buonissima	./opener_hotel/it/italian00044_4bcef0d5a76b51ef0a958a407623db6a.kaf#w23
+TARGET	cucina	./opener_hotel/it/italian00044_4bcef0d5a76b51ef0a958a407623db6a.kaf#w25
+
+DSE	molto comoda	./opener_hotel/it/italian00044_4bcef0d5a76b51ef0a958a407623db6a.kaf#w27 ./opener_hotel/it/italian00044_4bcef0d5a76b51ef0a958a407623db6a.kaf#w28
+TARGET	spiaggia	./opener_hotel/it/italian00044_4bcef0d5a76b51ef0a958a407623db6a.kaf#w30
+
+DSE	bellissime	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w46
+TARGET	camere	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w45
+
+DSE	molto elegante	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w36 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w37
+TARGET	hotel	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w29
+
+DSE	in fondo alla	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w19 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w20 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w21
+TARGET	" Palma " di Dubai	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w22 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w23 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w24 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w25 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w26
+
+DSE	sempre presente	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w52 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w53
+TARGET	personale	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w49
+
+DSE	gentile	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w50
+TARGET	personale	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w49
+
+DSE	Strepitosa	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w130
+TARGET	reception	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w132
+
+DSE	molto caro	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w106 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w107
+TARGET	ristorante Nobu	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w94 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w95
+
+DSE	ambiente giovane frizzante	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w98 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w99 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w101
+TARGET	ristorante Nobu	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w94 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w95
+
+DSE	cucina eccellente	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w103 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w104
+TARGET	ristorante Nobu	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w94 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w95
+
+DSE	posizione straordinaria	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w16 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w17
+TARGET	Atlantis The Palm	./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w10 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w11 ./opener_hotel/it/italian00007_08af9910fb6116930b289e5348836aff.kaf#w12
+
+DSE	eccezionale	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w20
+TARGET	cucina	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w19
+
+DSE	ottima	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w62
+TARGET	posizione	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w60
+
+DSE	gentilissimo	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w24
+TARGET	staff	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w23
+
+DSE	a due passi	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w63 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w64 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w65
+TARGET	mare	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w67
+
+DSE	accorgimenti speciali come	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w37 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w38 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w39
+TARGET	una cucina attrezzata per le mamme	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w40 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w41 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w42 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w43 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w44 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w45
+
+DSE	accorgimenti speciali come	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w37 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w38 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w39
+TARGET	staff del miniclub	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w55 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w56 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w57
+
+DSE	accorgimenti speciali come	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w37 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w38 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w39
+TARGET	una stanza per far giocare i bambini	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w47 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w48 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w49 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w50 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w51 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w52 ./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w53
+
+DSE	ottimo	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w4
+TARGET	hotel	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w5
+
+DSE	splendido	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w17
+TARGET	servizio	./opener_hotel/it/italian00101_ad02e0f1fa4890eea35fc5aa3223c161.kaf#w16
+
+DSE	ben arredata	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w9 ./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w10
+TARGET	Camere	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w6
+
+DSE	ampie	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w7
+TARGET	Camere	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w6
+
+DSE	un po trascurato	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w27 ./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w28 ./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w29
+TARGET	Hotel	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w26
+
+DSE	non all' altezza del prezzo	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w20 ./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w21 ./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w22 ./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w23 ./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w24
+TARGET	gestione	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w17
+
+DSE	media qualità	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w14 ./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w15
+TARGET	Personale	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w12
+
+DSE	Ottima	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w31
+TARGET	posizione	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w32
+
+DSE	vicino ai	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w34 ./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w35
+TARGET	piazza più bella di	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w39 ./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w40 ./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w41 ./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w42
+
+DSE	vicino ai	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w34 ./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w35
+TARGET	mezzi	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w36
+
+DSE	Bella	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w1
+TARGET	posizione	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w2
+
+DSE	trascurato	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w5
+TARGET	hotel	./opener_hotel/it/italian00017_11f5c344e4a58aba017478262d411106.kaf#w4
+
+DSE	molto sporco	./opener_hotel/it/italian00029_316136eb4a9fd737f878917512b0ca77.kaf#w28 ./opener_hotel/it/italian00029_316136eb4a9fd737f878917512b0ca77.kaf#w29
+TARGET	intorno al resort	./opener_hotel/it/italian00029_316136eb4a9fd737f878917512b0ca77.kaf#w24 ./opener_hotel/it/italian00029_316136eb4a9fd737f878917512b0ca77.kaf#w25 ./opener_hotel/it/italian00029_316136eb4a9fd737f878917512b0ca77.kaf#w26
+
+DSE	di buon livello	./opener_hotel/it/italian00029_316136eb4a9fd737f878917512b0ca77.kaf#w15 ./opener_hotel/it/italian00029_316136eb4a9fd737f878917512b0ca77.kaf#w16 ./opener_hotel/it/italian00029_316136eb4a9fd737f878917512b0ca77.kaf#w17
+TARGET	tutto	./opener_hotel/it/italian00029_316136eb4a9fd737f878917512b0ca77.kaf#w14
+
+DSE	si trova	./opener_hotel/it/italian00029_316136eb4a9fd737f878917512b0ca77.kaf#w33 ./opener_hotel/it/italian00029_316136eb4a9fd737f878917512b0ca77.kaf#w34
+TARGET	in centro a Parigi	./opener_hotel/it/italian00029_316136eb4a9fd737f878917512b0ca77.kaf#w35 ./opener_hotel/it/italian00029_316136eb4a9fd737f878917512b0ca77.kaf#w36 ./opener_hotel/it/italian00029_316136eb4a9fd737f878917512b0ca77.kaf#w37 ./opener_hotel/it/italian00029_316136eb4a9fd737f878917512b0ca77.kaf#w38
+
+DSE	gratuita	./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w11
+TARGET	navetta per il mare	./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w10 ./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w12 ./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w13 ./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w14
+
+DSE	buona	./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w8
+TARGET	navetta per il mare	./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w10 ./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w12 ./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w13 ./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w14
+
+DSE	.Simpaticissimo	./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w21
+TARGET	autista	./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w23
+
+DSE	carino per la tranquillità	./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w3 ./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w4 ./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w5 ./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w6
+TARGET	Posto	./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w2
+
+DSE	malfunzionamento	./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w38
+TARGET	impianto di climatizzazione	./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w40 ./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w41 ./opener_hotel/it/italian00025_2c5bcba41c23426c3659b063f67b23ff.kaf#w42
+
+DSE	non soddisfacenti.	./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w27 ./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w30
+TARGET	pulizia	./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w24
+
+DSE	non soddisfacenti.	./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w27 ./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w30
+TARGET	accoglienza	./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w21
+
+DSE	bellissima	./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w18
+TARGET	posizione	./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w16
+
+DSE	spero che in estate offra servizi migliori.	./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w6 ./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w7 ./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w8 ./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w9 ./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w12 ./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w13 ./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w14
+TARGET	questo hotel	./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w10 ./opener_hotel/it/italian00148_a08a5f6ff361b12fb0454bd36d13fa8b.kaf#w11
+
+DSE	eccellenti	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w67
+TARGET	servizi	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w65
+
+DSE	professionale	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w78
+TARGET	staff	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w70
+
+DSE	senza dubbi efficiente	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w72 ./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w73 ./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w74
+TARGET	staff	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w70
+
+DSE	cortese	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w76
+TARGET	staff	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w70
+
+DSE	al top	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w61 ./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w62
+TARGET	organizzazione	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w59
+
+DSE	meraviglioso	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w93
+TARGET	panorama	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w82
+
+DSE	presenza di	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w21 ./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w22
+TARGET	parco giochi	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w26 ./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w27
+
+DSE	presenza di	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w21 ./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w22
+TARGET	intrattenimento serale	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w29 ./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w30
+
+DSE	presenza di	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w21 ./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w22
+TARGET	due piscine	./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w23 ./opener_hotel/it/italian00137_ea994bbd684c022df3030e3a3beb4a10.kaf#w24
+
+DSE	da sola vale il soggiorno	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w51 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w52 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w53 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w54 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w55
+TARGET	terrazza	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w49
+
+DSE	Centro	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w18
+TARGET	bellissima Roma	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w20 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w21
+
+DSE	troppa	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w35
+TARGET	moquette	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w36
+
+DSE	necessiterebbero di un rinnovamento	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w28 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w29 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w30 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w31
+TARGET	stanze	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w24
+
+DSE	necessiterebbero di un rinnovamento	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w28 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w29 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w30 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w31
+TARGET	arredi	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w27
+
+DSE	potrebbe essere migliore	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w97 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w98 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w99
+TARGET	rapporto qualità · prezzo	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w93 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w94 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w95 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w96
+
+DSE	ci si aspetterebbe qualcosa di meglio	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w111 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w112 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w113 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w114 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w115 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w116
+TARGET	servizi	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w121
+
+DSE	ci si aspetterebbe qualcosa di meglio	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w111 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w112 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w113 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w114 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w115 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w116
+TARGET	interno	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w118
+
+DSE	potrebee essere un pò miglore	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w77 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w78 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w79 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w80 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w81
+TARGET	colazione	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w76
+
+DSE	Ottima	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w1
+TARGET	posizione	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w2
+
+DSE	necessita	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w4
+TARGET	un pò di rinnovamento	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w5 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w6 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w7 ./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w8
+
+DSE	ottima	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w13
+TARGET	posizione	./opener_hotel/it/italian00106_71e8b0da42fa4bbfd30b13845adf3a63.kaf#w11
+
+DSE	non parla italiano	./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w72 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w73 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w74
+TARGET	personale ai piani	./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w68 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w69 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w70
+
+DSE	ritardi	./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w63
+TARGET	reception	./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w58
+
+DSE	ritardi	./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w63
+TARGET	servizio in camera	./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w60 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w61 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w62
+
+DSE	incomprensioni	./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w65
+TARGET	reception	./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w58
+
+DSE	incomprensioni	./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w65
+TARGET	servizio in camera	./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w60 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w61 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w62
+
+DSE	inesistente	./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w82
+TARGET	Disponibilita ' e gentilezza del personale	./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w76 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w77 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w78 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w79 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w80 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w81
+
+DSE	al di sotto di qualsiasi standard europeo	./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w87 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w88 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w89 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w90 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w91 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w92 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w93
+TARGET	food and beverage	./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w84 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w85 ./opener_hotel/it/italian00166_b50d9f9c50ce47f00adfbc7fc4661c56.kaf#w86
+
+DSE	sorridente	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w37
+TARGET	personale	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w36
+
+DSE	due canali italiani	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w59 ./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w60 ./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w61
+TARGET	tv	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w57
+
+DSE	piccola	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w84
+TARGET	palestra	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w83
+
+DSE	rapidissimo	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w44
+TARGET	check in ed out	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w40 ./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w41 ./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w42 ./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w43
+
+DSE	da sogno	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w54 ./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w55
+TARGET	lenzuola copripiumoni	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w50 ./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w51
+
+DSE	da sogno	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w54 ./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w55
+TARGET	cuscini	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w53
+
+DSE	3 minuti a piedi	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w70 ./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w71 ./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w72 ./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w73
+TARGET	fermata union	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w74 ./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w75
+
+DSE	ricchissima	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w64
+TARGET	colazione	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w63
+
+DSE	efficiente	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w11
+TARGET	struttura	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w9
+
+DSE	competente	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w21
+TARGET	staff	./opener_hotel/it/italian00142_968f68b100fef5f4277f9466376bb177.kaf#w20
+
+DSE	a volontà	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w50 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w51
+TARGET	frutta	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w49
+
+DSE	Grande varietà	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w21 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w22
+TARGET	antipasti sia carne che pesce	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w24 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w26 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w27 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w28 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w29
+
+DSE	infinita distesa	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w32 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w33
+TARGET	verdure e insatate	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w35 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w36 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w37
+
+DSE	3	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w39
+TARGET	primi piatti	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w40 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w41
+
+DSE	5	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w53
+TARGET	dessert	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w54
+
+DSE	4	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w43
+TARGET	secondi	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w44
+
+DSE	buona	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w92
+TARGET	la qualità del cibo	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w87 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w88 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w89 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w90
+
+DSE	gogo	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w3
+TARGET	Buffet	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w1
+
+DSE	4	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w46
+TARGET	contorni	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w47
+
+DSE	informale	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w16
+TARGET	buffet serale	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w18 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w19
+
+DSE	ottimo	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w17
+TARGET	buffet serale	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w18 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w19
+
+DSE	corretto	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w133
+TARGET	rapporto qualità prezzo	./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w130 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w131 ./opener_hotel/it/italian00167_b6376ad7cd6f8d1e7db2bc58f00a2d2f.kaf#w132
+
+DSE	antichi	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w86
+TARGET	mobili	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w85
+
+DSE	curati	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w110
+TARGET	giardini	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w106
+
+DSE	ben tenuti	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w107 ./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w108
+TARGET	giardini	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w106
+
+DSE	pulizia	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w97
+TARGET	camere	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w99
+
+DSE	pulizia	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w97
+TARGET	locali comuni	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w102 ./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w103
+
+DSE	pregio	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w90
+TARGET	quadri	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w88
+
+DSE	accogliente	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w118
+TARGET	centro benessere	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w116 ./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w117
+
+DSE	efficiente	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w120
+TARGET	centro benessere	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w116 ./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w117
+
+DSE	gustose	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w128
+TARGET	ricette tradizionali	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w126 ./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w127
+
+DSE	accogliente	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w147
+TARGET	personale	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w144
+
+DSE	sempre pronto a consigli utili	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w149 ./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w150 ./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w151 ./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w152 ./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w153
+TARGET	personale	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w144
+
+DSE	gentile	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w146
+TARGET	personale	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w144
+
+DSE	Ottimo	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w122
+TARGET	ristorante	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w124
+
+DSE	super	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w114
+TARGET	Piscina interna	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w112 ./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w113
+
+DSE	ottimi prodotti	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w136 ./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w137
+TARGET	buffet	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w131
+
+DSE	ben fornito	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w139 ./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w140
+TARGET	buffet	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w131
+
+DSE	arricchiti	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w83
+TARGET	Interni	./opener_hotel/it/italian00120_7edc45117b48ab45522ec958fd70aea3.kaf#w82
+
+DSE	senza nessun	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w60 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w61
+TARGET	tocco di amorevolezza	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w62 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w63 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w64
+
+DSE	due passi	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w29 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w30
+TARGET	Ocean Drive	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w32 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w33
+
+DSE	pochi minuti a piedi	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w20 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w21 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w22 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w23
+TARGET	Lincoln Road	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w25 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w26
+
+DSE	piccolissima	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w45
+TARGET	prima colazione	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w46 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w47
+
+DSE	senza nessunissima pretesa	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w40 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w41 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w42
+TARGET	due stelle	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w36 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w37
+
+DSE	sufficientemente agibili	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w85 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w86
+TARGET	bagni	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w84
+
+DSE	molto molto disponibile	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w70 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w71 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w72
+TARGET	personale	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w69
+
+DSE	spartane agli estremi	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w80 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w81 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w82
+TARGET	Camere	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w79
+
+DSE	estremamente minimalista ed essenziale	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w74 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w75 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w76 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w77
+TARGET	ricevimento	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w67
+
+DSE	Piccolo	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w5
+TARGET	hotel	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w6
+
+DSE	Vecchio stampo	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w98 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w99
+TARGET	architettura	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w102
+
+DSE	Vecchio stampo	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w98 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w99
+TARGET	confort delle camere	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w105 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w106 ./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w107
+
+DSE	ottima	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w16
+TARGET	posizione	./opener_hotel/it/italian00025_199e54f684ac6c36d6e089ebe07e6fef.kaf#w17
+
+DSE	triste	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w83
+TARGET	Spa	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w82
+
+DSE	senza musica	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w84 ./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w85
+TARGET	Spa	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w82
+
+DSE	bel	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w18
+TARGET	bagno	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w19
+
+DSE	inadeguato per una spa	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w44 ./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w45 ./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w46 ./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w47
+TARGET	personale	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w43
+
+DSE	privo delle	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w93 ./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w94
+TARGET	frutta fresca	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w102 ./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w103
+
+DSE	privo delle	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w93 ./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w94
+TARGET	varie tisane	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w95 ./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w96
+
+DSE	privo delle	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w93 ./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w94
+TARGET	succhi di frutta	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w98 ./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w99 ./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w100
+
+DSE	incompetente	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w3
+TARGET	Personale massaggi	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w1 ./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w2
+
+DSE	bella	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w14
+TARGET	camera	./opener_hotel/it/italian00181_cb2ba1a367afc2e904fc61aa53278d18.kaf#w15
+
+DSE	molto cortesi	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w81 ./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w82
+TARGET	direttore	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w75
+
+DSE	molto cortesi	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w81 ./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w82
+TARGET	staff	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w78
+
+DSE	disponibili	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w84
+TARGET	direttore	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w75
+
+DSE	disponibili	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w84
+TARGET	staff	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w78
+
+DSE	perfettamente pulito	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w50 ./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w51
+TARGET	resort	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w39
+
+DSE	perfetto	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w41
+TARGET	resort	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w39
+
+DSE	in ordine	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w46 ./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w47
+TARGET	resort	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w39
+
+DSE	abbiamo trovato	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w56 ./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w57
+TARGET	omaggio della direzione	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w60 ./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w61 ./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w62
+
+DSE	veramente ottima.	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w124 ./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w125
+TARGET	qualitá	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w122
+
+DSE	molto luminoso	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w26 ./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w27
+TARGET	trilocale	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w23
+
+DSE	grandissimo	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w24
+TARGET	trilocale	./opener_hotel/it/italian00096_a12f942d1b461595aa42270efa35a1bd.kaf#w23
+
+DSE	delizioso	./opener_hotel/it/italian00002_026230e9ad3df2ccd90b5d18923da431.kaf#w78
+TARGET	tutto	./opener_hotel/it/italian00002_026230e9ad3df2ccd90b5d18923da431.kaf#w77
+
+DSE	complimenti	./opener_hotel/it/italian00002_026230e9ad3df2ccd90b5d18923da431.kaf#w71
+TARGET	staff del ristorante	./opener_hotel/it/italian00002_026230e9ad3df2ccd90b5d18923da431.kaf#w73 ./opener_hotel/it/italian00002_026230e9ad3df2ccd90b5d18923da431.kaf#w74 ./opener_hotel/it/italian00002_026230e9ad3df2ccd90b5d18923da431.kaf#w75
+
+DSE	cordiali	./opener_hotel/it/italian00002_026230e9ad3df2ccd90b5d18923da431.kaf#w81
+TARGET	tutti	./opener_hotel/it/italian00002_026230e9ad3df2ccd90b5d18923da431.kaf#w80
+
+DSE	si divertiva	./opener_hotel/it/italian00002_026230e9ad3df2ccd90b5d18923da431.kaf#w100 ./opener_hotel/it/italian00002_026230e9ad3df2ccd90b5d18923da431.kaf#w101
+TARGET	piscina	./opener_hotel/it/italian00002_026230e9ad3df2ccd90b5d18923da431.kaf#w112
+
+DSE	si divertiva	./opener_hotel/it/italian00002_026230e9ad3df2ccd90b5d18923da431.kaf#w100 ./opener_hotel/it/italian00002_026230e9ad3df2ccd90b5d18923da431.kaf#w101
+TARGET	parco giochi	./opener_hotel/it/italian00002_026230e9ad3df2ccd90b5d18923da431.kaf#w107 ./opener_hotel/it/italian00002_026230e9ad3df2ccd90b5d18923da431.kaf#w108
+
+DSE	da prima classe	./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w24 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w25 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w26
+TARGET	accoglienza	./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w19
+
+DSE	da prima classe	./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w24 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w25 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w26
+TARGET	servizi	./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w21
+
+DSE	da prima classe	./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w24 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w25 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w26
+TARGET	pulizia	./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w23
+
+DSE	da non trascurare	./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w29 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w30 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w31
+TARGET	aspetto enogastronomico	./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w33 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w34
+
+DSE	offre	./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w81
+TARGET	attività di ogni genere	./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w82 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w83 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w84 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w85
+
+DSE	riserva	./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w63
+TARGET	spazi di tranquillità e benessere	./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w64 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w65 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w66 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w67 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w68
+
+DSE	veramente particolare	./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w101 ./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w102
+TARGET	atmosfera	./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w100
+
+DSE	fantastico	./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w10
+TARGET	resort	./opener_hotel/it/italian00149_fcc33ae70a66700cc88e58c27b29a0ed.kaf#w9
+
+DSE	bello	./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w65
+TARGET	servizi offerti	./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w73 ./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w74
+
+DSE	bello	./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w65
+TARGET	piscine	./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w69
+
+DSE	bello	./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w65
+TARGET	parco	./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w67
+
+DSE	gentilezza	./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w55
+TARGET	di TUTTO IL PERSONALE	./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w56 ./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w57 ./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w58 ./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w59
+
+DSE	buona	./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w47
+TARGET	camera	./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w49
+
+DSE	buona	./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w47
+TARGET	pulizia	./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w52
+
+DSE	buona	./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w61
+TARGET	cucina	./opener_hotel/it/italian00090_96eb00aca3c59beb27e10d887384cfc6.kaf#w63
+
+DSE	molto cortese	./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w14 ./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w15
+TARGET	personale	./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w12
+
+DSE	accogliente	./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w17
+TARGET	personale	./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w12
+
+DSE	vi sono	./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w40 ./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w41
+TARGET	ristoranti	./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w43
+
+DSE	ottimo rapporto qualità prezzo	./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w46 ./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w47 ./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w48 ./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w49
+TARGET	ristoranti	./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w43
+
+DSE	molto efficiente	./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w8 ./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w9
+TARGET	servizio	./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w7
+
+DSE	ha una bella	./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w21 ./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w22 ./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w23
+TARGET	Spa	./opener_hotel/it/italian00107_7231ae3413c7c89e2ceb7f4c7ec6bafe.kaf#w24
+
+DSE	pulite	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w33
+TARGET	stanze	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w32
+
+DSE	costano di piu	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w125 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w126 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w127
+TARGET	loro auto	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w122 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w123
+
+DSE	benissimo	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w41
+TARGET	colazione	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w36
+
+DSE	per un italiano	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w37 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w38 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w39
+TARGET	colazione	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w36
+
+DSE	piu che accettabili	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w67 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w68 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w69
+TARGET	succhi	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w63
+
+DSE	piu che accettabili	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w67 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w68 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w69
+TARGET	frutta	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w61
+
+DSE	piu che accettabili	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w67 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w68 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w69
+TARGET	yogurt	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w59
+
+DSE	piu che accettabili	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w67 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w68 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w69
+TARGET	brioche al cioccolato	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w55 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w56 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w57
+
+DSE	piu che accettabili	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w67 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w68 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w69
+TARGET	caffè	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w65
+
+DSE	comoda	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w95
+TARGET	posizine	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w87
+
+DSE	non è delle piu belle	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w88 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w89 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w90 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w91 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w92
+TARGET	posizine	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w87
+
+DSE	Ottimo	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w1
+TARGET	rapporto qualità / prezzo	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w2 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w3 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w4 ./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w5
+
+DSE	comodi	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w29
+TARGET	letti	./opener_hotel/it/italian00139_9036b5ca110f508d51c38e4798d5eb32.kaf#w27
+
+DSE	pulite	./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w39
+TARGET	Camere	./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w33
+
+DSE	ben curate	./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w36 ./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w37
+TARGET	Camere	./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w33
+
+DSE	semplici	./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w34
+TARGET	Camere	./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w33
+
+DSE	impareggiabile	./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w31
+TARGET	cordialità	./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w23
+
+DSE	impareggiabile	./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w31
+TARGET	ospitalità del titolare Emanuele	./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w26 ./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w27 ./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w28 ./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w29
+
+DSE	veramente incantevole	./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w14 ./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w15
+TARGET	posto	./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w13
+
+DSE	tranquillo e fuori dal traffico	./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w50 ./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w51 ./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w52 ./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w53 ./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w54
+TARGET	posto	./opener_hotel/it/italian00084_90b58b50774192dbb60d4e37f5ea647a.kaf#w49
+
+DSE	molto bassi	./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w12 ./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w13
+TARGET	soffitti	./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w11
+
+DSE	se chiudete le finestre è accettabile	./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w48 ./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w49 ./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w50 ./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w51 ./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w54 ./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w55
+TARGET	rumore	./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w53
+
+DSE	molto vicino	./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w92 ./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w93
+TARGET	centro	./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w95
+
+DSE	ha tutto l' essenziale	./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w59 ./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w60 ./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w61 ./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w62
+TARGET	cucinare	./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w64
+
+DSE	ha tutto l' essenziale	./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w59 ./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w60 ./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w61 ./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w62
+TARGET	dormire	./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w66
+
+DSE	Piccolo	./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w4
+TARGET	appartamentino	./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w5
+
+DSE	molto ripide	./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w16 ./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w17
+TARGET	scale	./opener_hotel/it/italian00176_c6ae24a37cb07eb0a6168fde00c6977d.kaf#w15
+
+DSE	ottima	./opener_hotel/it/italian00095_9dee5aea580b85a330fd89427962e1b5.kaf#w26
+TARGET	piscina da 50 metri	./opener_hotel/it/italian00095_9dee5aea580b85a330fd89427962e1b5.kaf#w28 ./opener_hotel/it/italian00095_9dee5aea580b85a330fd89427962e1b5.kaf#w29 ./opener_hotel/it/italian00095_9dee5aea580b85a330fd89427962e1b5.kaf#w30 ./opener_hotel/it/italian00095_9dee5aea580b85a330fd89427962e1b5.kaf#w31
+
+DSE	comodo	./opener_hotel/it/italian00095_9dee5aea580b85a330fd89427962e1b5.kaf#w33
+TARGET	bar della piscina	./opener_hotel/it/italian00095_9dee5aea580b85a330fd89427962e1b5.kaf#w35 ./opener_hotel/it/italian00095_9dee5aea580b85a330fd89427962e1b5.kaf#w36 ./opener_hotel/it/italian00095_9dee5aea580b85a330fd89427962e1b5.kaf#w37
+
+DSE	ben tenuti	./opener_hotel/it/italian00095_9dee5aea580b85a330fd89427962e1b5.kaf#w38 ./opener_hotel/it/italian00095_9dee5aea580b85a330fd89427962e1b5.kaf#w39
+TARGET	campi da calcetto e tennis	./opener_hotel/it/italian00095_9dee5aea580b85a330fd89427962e1b5.kaf#w41 ./opener_hotel/it/italian00095_9dee5aea580b85a330fd89427962e1b5.kaf#w42 ./opener_hotel/it/italian00095_9dee5aea580b85a330fd89427962e1b5.kaf#w43 ./opener_hotel/it/italian00095_9dee5aea580b85a330fd89427962e1b5.kaf#w44 ./opener_hotel/it/italian00095_9dee5aea580b85a330fd89427962e1b5.kaf#w45
+
+DSE	senza	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w8
+TARGET	balcone	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w9
+
+DSE	non contemplano	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w57 ./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w58
+TARGET	esigenze per bimbi di età inferiore ai 2 anni	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w59 ./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w60 ./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w61 ./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w62 ./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w63 ./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w64 ./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w65 ./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w66 ./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w67
+
+DSE	abbastanza buona	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w35 ./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w36
+TARGET	pulizia	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w34
+
+DSE	senza	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w32
+TARGET	ascensore.	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w33
+
+DSE	PUZZAVA DI FUMO	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w44 ./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w45 ./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w46
+TARGET	il lettino bimbo	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w40 ./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w41 ./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w42
+
+DSE	norma	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w50
+TARGET	colazione	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w48
+
+DSE	buoni	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w53
+TARGET	pasti	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w52
+
+DSE	sciapi	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w55
+TARGET	pasti	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w52
+
+DSE	vecchia	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w4
+TARGET	struttura	./opener_hotel/it/italian00212_ee0d9fbccdfa5a0e46d80d16c46ca0d6.kaf#w3
+
+DSE	crea un lago	./opener_hotel/it/italian00065_50f384d65d7b975d8d0f399f710be531.kaf#w53 ./opener_hotel/it/italian00065_50f384d65d7b975d8d0f399f710be531.kaf#w54 ./opener_hotel/it/italian00065_50f384d65d7b975d8d0f399f710be531.kaf#w55
+TARGET	parcheggio	./opener_hotel/it/italian00065_50f384d65d7b975d8d0f399f710be531.kaf#w46
+
+DSE	fatto male	./opener_hotel/it/italian00065_50f384d65d7b975d8d0f399f710be531.kaf#w50 ./opener_hotel/it/italian00065_50f384d65d7b975d8d0f399f710be531.kaf#w51
+TARGET	parcheggio	./opener_hotel/it/italian00065_50f384d65d7b975d8d0f399f710be531.kaf#w46
+
+DSE	nel complesso siamo stati bene	./opener_hotel/it/italian00027_2d50810c51d94fb0c599e2f58023e18a.kaf#w35 ./opener_hotel/it/italian00027_2d50810c51d94fb0c599e2f58023e18a.kaf#w36 ./opener_hotel/it/italian00027_2d50810c51d94fb0c599e2f58023e18a.kaf#w37 ./opener_hotel/it/italian00027_2d50810c51d94fb0c599e2f58023e18a.kaf#w38 ./opener_hotel/it/italian00027_2d50810c51d94fb0c599e2f58023e18a.kaf#w39
+TARGET	camera	./opener_hotel/it/italian00027_2d50810c51d94fb0c599e2f58023e18a.kaf#w29
+
+DSE	un pò datata	./opener_hotel/it/italian00027_2d50810c51d94fb0c599e2f58023e18a.kaf#w31 ./opener_hotel/it/italian00027_2d50810c51d94fb0c599e2f58023e18a.kaf#w32 ./opener_hotel/it/italian00027_2d50810c51d94fb0c599e2f58023e18a.kaf#w33
+TARGET	camera	./opener_hotel/it/italian00027_2d50810c51d94fb0c599e2f58023e18a.kaf#w29
+
+DSE	comodissime	./opener_hotel/it/italian00194_d93e6a697dc701870c5a8c03b8d30018.kaf#w88
+TARGET	stanze	./opener_hotel/it/italian00194_d93e6a697dc701870c5a8c03b8d30018.kaf#w89
+
+DSE	molto accogliente	./opener_hotel/it/italian00194_d93e6a697dc701870c5a8c03b8d30018.kaf#w44 ./opener_hotel/it/italian00194_d93e6a697dc701870c5a8c03b8d30018.kaf#w45
+TARGET	hotel Royal Court	./opener_hotel/it/italian00194_d93e6a697dc701870c5a8c03b8d30018.kaf#w40 ./opener_hotel/it/italian00194_d93e6a697dc701870c5a8c03b8d30018.kaf#w41 ./opener_hotel/it/italian00194_d93e6a697dc701870c5a8c03b8d30018.kaf#w42
+
+DSE	distinto	./opener_hotel/it/italian00194_d93e6a697dc701870c5a8c03b8d30018.kaf#w47
+TARGET	hotel Royal Court	./opener_hotel/it/italian00194_d93e6a697dc701870c5a8c03b8d30018.kaf#w40 ./opener_hotel/it/italian00194_d93e6a697dc701870c5a8c03b8d30018.kaf#w41 ./opener_hotel/it/italian00194_d93e6a697dc701870c5a8c03b8d30018.kaf#w42
+
+DSE	con	./opener_hotel/it/italian00194_d93e6a697dc701870c5a8c03b8d30018.kaf#w49
+TARGET	parcheggio	./opener_hotel/it/italian00194_d93e6a697dc701870c5a8c03b8d30018.kaf#w50
+
+DSE	ben curato	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w22 ./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w23
+TARGET	ogni dettaglio	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w19 ./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w20
+
+DSE	molto accogliente	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w28 ./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w29
+TARGET	lounge	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w26
+
+DSE	via cavo	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w44 ./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w45
+TARGET	connessione	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w43
+
+DSE	che wifi	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w46 ./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w47
+TARGET	connessione	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w43
+
+DSE	morbidi	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w31
+TARGET	divani	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w32
+
+DSE	vicino alla	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w83 ./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w84
+TARGET	Starbuks	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w89
+
+DSE	vicino alla	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w83 ./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w84
+TARGET	tube station	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w85 ./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w86
+
+DSE	pulite	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w59
+TARGET	camere	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w57
+
+DSE	eleganti	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w61
+TARGET	camere	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w57
+
+DSE	moderno	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w68
+TARGET	bagno	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w64
+
+DSE	pulito	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w70
+TARGET	bagno	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w64
+
+DSE	cordiale	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w52
+TARGET	personale	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w50
+
+DSE	disponibile	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w54
+TARGET	personale	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w50
+
+DSE	a disposizione	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w74 ./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w75
+TARGET	tutti i comfort necessari	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w76 ./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w77 ./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w78 ./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w79
+
+DSE	strategica	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w82
+TARGET	Posizione	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w81
+
+DSE	ottima	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w4
+TARGET	posizione	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w5
+
+DSE	fiabesca	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w2
+TARGET	Atmosfera	./opener_hotel/it/italian00093_650a465809f2376fbf9d07223f5fa20d.kaf#w1
+
+DSE	ottima	./opener_hotel/it/italian00067_7084b8d7fc64dccf99e975eb9921f64e.kaf#w65
+TARGET	accoglienza	./opener_hotel/it/italian00067_7084b8d7fc64dccf99e975eb9921f64e.kaf#w66
+
+DSE	buona	./opener_hotel/it/italian00067_7084b8d7fc64dccf99e975eb9921f64e.kaf#w68
+TARGET	cucina	./opener_hotel/it/italian00067_7084b8d7fc64dccf99e975eb9921f64e.kaf#w69
+
+DSE	molto distanti	./opener_hotel/it/italian00067_7084b8d7fc64dccf99e975eb9921f64e.kaf#w22 ./opener_hotel/it/italian00067_7084b8d7fc64dccf99e975eb9921f64e.kaf#w23
+TARGET	centro di firenze	./opener_hotel/it/italian00067_7084b8d7fc64dccf99e975eb9921f64e.kaf#w25 ./opener_hotel/it/italian00067_7084b8d7fc64dccf99e975eb9921f64e.kaf#w26 ./opener_hotel/it/italian00067_7084b8d7fc64dccf99e975eb9921f64e.kaf#w27
+
+DSE	Consiglierei	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w51
+TARGET	chi vuol spendere poco	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w55 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w56 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w57 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w58
+
+DSE	non c'	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w120 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w121
+TARGET	tanto rumore	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w123 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w124
+
+DSE	disponibilità	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w36
+TARGET	personale	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w38
+
+DSE	gentilezza	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w34
+TARGET	personale	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w38
+
+DSE	simpatia	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w32
+TARGET	personale	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w38
+
+DSE	direttamente sul canale	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w45 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w46 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w47
+TARGET	vista	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w41
+
+DSE	Fantastica	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w49
+TARGET	vista	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w41
+
+DSE	senso di sporco	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w136 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w137 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w138
+TARGET	camera	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w133
+
+DSE	pur non essendola	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w140 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w141 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w142
+TARGET	camera	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w133
+
+DSE	vicinissimo	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w79
+TARGET	fermate di bus	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w84 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w85 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w86
+
+DSE	vicinissimo	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w79
+TARGET	metro	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w90
+
+DSE	vicinissimo	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w79
+TARGET	centro	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w81
+
+DSE	vicinissimo	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w79
+TARGET	tram	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w88
+
+DSE	a scelta tra	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w151 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w152 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w153
+TARGET	colazione	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w149
+
+DSE	a scelta tra	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w151 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w152 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w153
+TARGET	qualche fetta di pane con burro e marmellata	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w154 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w155 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w156 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w157 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w158 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w159 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w160 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w161
+
+DSE	a scelta tra	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w151 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w152 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w153
+TARGET	Latte e caffè	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w170 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w171 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w172
+
+DSE	a scelta tra	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w151 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w152 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w153
+TARGET	uova con 2 fettine di bacon	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w163 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w164 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w165 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w166 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w167 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w168
+
+DSE	vicinissima	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w17
+TARGET	quartiere a luci rosse	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w26 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w27 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w28 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w29
+
+DSE	vicinissima	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w17
+TARGET	centro	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w23
+
+DSE	vicinissima	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w17
+TARGET	Stazione Centrale	./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w19 ./opener_hotel/it/italian00127_85b308ba6dd97a0f6e4e8d06af7f8588.kaf#w20
+
+DSE	rimodernata	./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w57
+TARGET	struttura	./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w54
+
+DSE	ottime	./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w98
+TARGET	colazioni	./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w97
+
+DSE	ottime	./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w98
+TARGET	Mangiare	./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w95
+
+DSE	a pochi passi	./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w75 ./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w76 ./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w77
+TARGET	paesino	./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w73
+
+DSE	molto gentile	./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w101 ./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w102
+TARGET	personale	./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w100
+
+DSE	disponibile	./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w104
+TARGET	personale	./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w100
+
+DSE	eccezionale	./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w5
+TARGET	vista	./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w4
+
+DSE	si trova	./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w8 ./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w9
+TARGET	sulla spiaggia del paesino di Campese	./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w11 ./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w12 ./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w13 ./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w14 ./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w15 ./opener_hotel/it/italian00224_fb47ad8e47eab887a44d7b0d50151315.kaf#w16
+

@@ -1,0 +1,25 @@
+##################################################
+EVALUATION FOR: opener.hotel.en.5 with 5 folds
+Entity Evaluation:
+	expression
+		Precision: 87.73
+		Recall:    77.49
+		F:    82.29
+	target
+		Precision: 80.41
+		Recall:    88.29
+		F:    84.17
+	holder
+		Precision: 90.13
+		Recall:    93.42
+		F:    91.74
+Relation Evaluation
+	expression_target
+		Precision: 73.42
+		Recall:    73.17
+		F:    73.29
+	expression_holder
+		Precision: 78.24
+		Recall:    73.12
+		F:    75.59
+##################################################

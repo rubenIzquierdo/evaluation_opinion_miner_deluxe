@@ -1,0 +1,231 @@
+LOADED 8761 from the file /home/izquierdo/ruben_github/opinion_miner_deluxePP/polarity_lexicons/DE-lexicon/germanLex.txt
+CRF++: Yet Another CRF Tool Kit
+Copyright (C) 2005-2013 Taku Kudo, All rights reserved.
+
+reading training data: 100.. 200.. 
+Done!0.04 s
+
+Number of sentences: 260
+Number of features:  16232
+Number of thread(s): 8
+Freq:                1
+eta:                 0.00010
+C:                   1.00000
+shrinking size:      20
+iter=0 terr=0.84155 serr=1.00000 act=16232 obj=2825.96106 diff=1.00000
+iter=1 terr=0.15845 serr=1.00000 act=16232 obj=1532.55714 diff=0.45769
+iter=2 terr=0.15796 serr=1.00000 act=16232 obj=1474.31392 diff=0.03800
+iter=3 terr=0.12215 serr=0.81154 act=16232 obj=1315.49446 diff=0.10772
+iter=4 terr=0.12019 serr=0.80385 act=16232 obj=1226.04844 diff=0.06799
+iter=5 terr=0.11405 serr=0.76923 act=16232 obj=1138.27887 diff=0.07159
+iter=6 terr=0.10228 serr=0.73077 act=16232 obj=1054.04516 diff=0.07400
+iter=7 terr=0.09590 serr=0.71154 act=16232 obj=986.22462 diff=0.06434
+iter=8 terr=0.09051 serr=0.71154 act=16232 obj=937.04247 diff=0.04987
+iter=9 terr=0.08658 serr=0.69231 act=16232 obj=903.22217 diff=0.03609
+iter=10 terr=0.07849 serr=0.64231 act=16232 obj=836.72157 diff=0.07363
+iter=11 terr=0.06549 serr=0.55385 act=16232 obj=774.27717 diff=0.07463
+iter=12 terr=0.04709 serr=0.42692 act=16232 obj=723.56967 diff=0.06549
+iter=13 terr=0.04341 serr=0.40385 act=16232 obj=692.72034 diff=0.04263
+iter=14 terr=0.04023 serr=0.36538 act=16232 obj=676.85373 diff=0.02290
+iter=15 terr=0.03262 serr=0.36154 act=16232 obj=667.86635 diff=0.01328
+iter=16 terr=0.03606 serr=0.38462 act=16232 obj=655.10418 diff=0.01911
+iter=17 terr=0.03532 serr=0.36923 act=16232 obj=651.65680 diff=0.00526
+iter=18 terr=0.03360 serr=0.35769 act=16232 obj=642.15870 diff=0.01458
+iter=19 terr=0.03140 serr=0.35385 act=16232 obj=635.03562 diff=0.01109
+iter=20 terr=0.02723 serr=0.31538 act=16232 obj=629.75315 diff=0.00832
+iter=21 terr=0.02281 serr=0.25769 act=16232 obj=627.18692 diff=0.00407
+iter=22 terr=0.02600 serr=0.30385 act=16232 obj=624.90740 diff=0.00363
+iter=23 terr=0.02502 serr=0.28462 act=16232 obj=623.90438 diff=0.00161
+iter=24 terr=0.02502 serr=0.28462 act=16232 obj=623.07908 diff=0.00132
+iter=25 terr=0.02551 serr=0.29231 act=16232 obj=622.03024 diff=0.00168
+iter=26 terr=0.02526 serr=0.28846 act=16232 obj=621.12828 diff=0.00145
+iter=27 terr=0.02477 serr=0.27692 act=16232 obj=619.53643 diff=0.00256
+iter=28 terr=0.02575 serr=0.27692 act=16232 obj=619.45264 diff=0.00014
+iter=29 terr=0.02477 serr=0.27692 act=16232 obj=618.74407 diff=0.00114
+iter=30 terr=0.02379 serr=0.26538 act=16232 obj=617.86363 diff=0.00142
+iter=31 terr=0.02428 serr=0.27692 act=16232 obj=617.25532 diff=0.00098
+iter=32 terr=0.02453 serr=0.28077 act=16232 obj=616.94787 diff=0.00050
+iter=33 terr=0.02477 serr=0.28077 act=16232 obj=616.42971 diff=0.00084
+iter=34 terr=0.02379 serr=0.27308 act=16232 obj=615.92596 diff=0.00082
+iter=35 terr=0.02208 serr=0.25000 act=16232 obj=615.57355 diff=0.00057
+iter=36 terr=0.02085 serr=0.23462 act=16232 obj=615.59949 diff=0.00004
+iter=37 terr=0.02183 serr=0.24615 act=16232 obj=615.43222 diff=0.00027
+iter=38 terr=0.02281 serr=0.25385 act=16232 obj=615.33230 diff=0.00016
+iter=39 terr=0.02232 serr=0.25000 act=16232 obj=615.28319 diff=0.00008
+iter=40 terr=0.02208 serr=0.24615 act=16232 obj=615.25478 diff=0.00005
+iter=41 terr=0.02232 serr=0.24615 act=16232 obj=615.20924 diff=0.00007
+
+Done!0.29 s
+
+LOADED 8761 from the file /home/izquierdo/ruben_github/opinion_miner_deluxePP/polarity_lexicons/DE-lexicon/germanLex.txt
+CRF++: Yet Another CRF Tool Kit
+Copyright (C) 2005-2013 Taku Kudo, All rights reserved.
+
+reading training data: 100.. 200.. 300.. 400.. 
+Done!0.09 s
+
+Number of sentences: 409
+Number of features:  15956
+Number of thread(s): 8
+Freq:                1
+eta:                 0.00010
+C:                   1.00000
+shrinking size:      20
+iter=0 terr=0.14550 serr=1.00000 act=15956 obj=4873.51783 diff=1.00000
+iter=1 terr=0.14550 serr=1.00000 act=15956 obj=3010.72058 diff=0.38223
+iter=2 terr=0.14550 serr=1.00000 act=15956 obj=2873.34313 diff=0.04563
+iter=3 terr=0.14550 serr=1.00000 act=15956 obj=2696.85212 diff=0.06142
+iter=4 terr=0.14550 serr=1.00000 act=15956 obj=2606.05408 diff=0.03367
+iter=5 terr=0.13910 serr=0.97800 act=15956 obj=2362.37358 diff=0.09351
+iter=6 terr=0.13142 serr=0.90709 act=15956 obj=2233.27509 diff=0.05465
+iter=7 terr=0.12260 serr=0.82152 act=15956 obj=2107.31507 diff=0.05640
+iter=8 terr=0.11464 serr=0.79707 act=15956 obj=1955.93820 diff=0.07183
+iter=9 terr=0.12502 serr=0.83374 act=15956 obj=2054.57150 diff=0.05043
+iter=10 terr=0.11136 serr=0.75306 act=15956 obj=1889.40731 diff=0.08039
+iter=11 terr=0.10710 serr=0.75550 act=15956 obj=1803.96359 diff=0.04522
+iter=12 terr=0.10425 serr=0.74572 act=15956 obj=1770.42288 diff=0.01859
+iter=13 terr=0.09728 serr=0.72861 act=15956 obj=1695.37610 diff=0.04239
+iter=14 terr=0.09074 serr=0.67482 act=15956 obj=1632.66114 diff=0.03699
+iter=15 terr=0.08719 serr=0.65037 act=15956 obj=1608.59724 diff=0.01474
+iter=16 terr=0.08377 serr=0.64792 act=15956 obj=1581.22047 diff=0.01702
+iter=17 terr=0.08150 serr=0.63814 act=15956 obj=1548.05053 diff=0.02098
+iter=18 terr=0.07936 serr=0.64548 act=15956 obj=1553.97996 diff=0.00383
+iter=19 terr=0.07979 serr=0.63325 act=15956 obj=1528.17192 diff=0.01661
+iter=20 terr=0.07837 serr=0.63081 act=15956 obj=1505.79506 diff=0.01464
+iter=21 terr=0.07623 serr=0.60880 act=15956 obj=1485.85567 diff=0.01324
+iter=22 terr=0.07396 serr=0.58191 act=15956 obj=1468.34423 diff=0.01179
+iter=23 terr=0.06870 serr=0.53790 act=15956 obj=1428.04206 diff=0.02745
+iter=24 terr=0.06400 serr=0.52567 act=15956 obj=1406.00888 diff=0.01543
+iter=25 terr=0.06471 serr=0.53790 act=15956 obj=1394.29326 diff=0.00833
+iter=26 terr=0.06599 serr=0.54523 act=15956 obj=1384.43856 diff=0.00707
+iter=27 terr=0.06699 serr=0.55746 act=15956 obj=1374.31467 diff=0.00731
+iter=28 terr=0.06571 serr=0.53790 act=15956 obj=1354.86726 diff=0.01415
+iter=29 terr=0.06912 serr=0.58435 act=15956 obj=1378.65656 diff=0.01756
+iter=30 terr=0.06486 serr=0.53545 act=15956 obj=1346.42171 diff=0.02338
+iter=31 terr=0.06059 serr=0.50122 act=15956 obj=1328.94208 diff=0.01298
+iter=32 terr=0.05988 serr=0.49633 act=15956 obj=1319.91454 diff=0.00679
+iter=33 terr=0.05575 serr=0.45721 act=15956 obj=1308.14156 diff=0.00892
+iter=34 terr=0.05803 serr=0.46455 act=15956 obj=1312.03142 diff=0.00297
+iter=35 terr=0.05703 serr=0.45721 act=15956 obj=1303.67484 diff=0.00637
+iter=36 terr=0.05533 serr=0.44010 act=15956 obj=1298.98483 diff=0.00360
+iter=37 terr=0.05305 serr=0.42054 act=15956 obj=1292.36898 diff=0.00509
+iter=38 terr=0.05447 serr=0.44010 act=15956 obj=1289.69559 diff=0.00207
+iter=39 terr=0.05433 serr=0.44254 act=15956 obj=1286.38506 diff=0.00257
+iter=40 terr=0.05390 serr=0.43276 act=15956 obj=1280.02031 diff=0.00495
+iter=41 terr=0.05049 serr=0.41076 act=15956 obj=1275.27620 diff=0.00371
+iter=42 terr=0.05035 serr=0.40342 act=15956 obj=1271.43561 diff=0.00301
+iter=43 terr=0.05078 serr=0.41320 act=15956 obj=1267.44040 diff=0.00314
+iter=44 terr=0.05220 serr=0.41809 act=15956 obj=1263.67311 diff=0.00297
+iter=45 terr=0.05291 serr=0.42054 act=15956 obj=1258.70066 diff=0.00393
+iter=46 terr=0.05092 serr=0.42054 act=15956 obj=1254.54324 diff=0.00330
+iter=47 terr=0.05078 serr=0.40831 act=15956 obj=1253.10380 diff=0.00115
+iter=48 terr=0.05006 serr=0.40831 act=15956 obj=1251.41259 diff=0.00135
+iter=49 terr=0.04893 serr=0.39120 act=15956 obj=1249.23271 diff=0.00174
+iter=50 terr=0.04807 serr=0.38631 act=15956 obj=1245.30303 diff=0.00315
+iter=51 terr=0.04850 serr=0.38875 act=15956 obj=1242.44744 diff=0.00229
+iter=52 terr=0.04807 serr=0.38386 act=15956 obj=1240.54278 diff=0.00153
+iter=53 terr=0.04807 serr=0.38386 act=15956 obj=1239.85147 diff=0.00056
+iter=54 terr=0.04807 serr=0.38631 act=15956 obj=1239.12956 diff=0.00058
+iter=55 terr=0.04779 serr=0.38386 act=15956 obj=1237.49799 diff=0.00132
+iter=56 terr=0.04722 serr=0.37897 act=15956 obj=1236.51701 diff=0.00079
+iter=57 terr=0.04694 serr=0.37653 act=15956 obj=1235.49273 diff=0.00083
+iter=58 terr=0.04694 serr=0.38142 act=15956 obj=1234.68713 diff=0.00065
+iter=59 terr=0.04608 serr=0.37164 act=15956 obj=1232.82481 diff=0.00151
+iter=60 terr=0.04765 serr=0.38386 act=15956 obj=1232.66831 diff=0.00013
+iter=61 terr=0.04694 serr=0.37408 act=15956 obj=1231.46584 diff=0.00098
+iter=62 terr=0.04665 serr=0.37164 act=15956 obj=1231.28895 diff=0.00014
+iter=63 terr=0.04679 serr=0.37897 act=15956 obj=1230.91239 diff=0.00031
+iter=64 terr=0.04694 serr=0.37164 act=15956 obj=1230.63718 diff=0.00022
+iter=65 terr=0.04679 serr=0.37653 act=15956 obj=1230.37940 diff=0.00021
+iter=66 terr=0.04665 serr=0.37897 act=15956 obj=1230.28509 diff=0.00008
+iter=67 terr=0.04637 serr=0.37408 act=15956 obj=1230.04262 diff=0.00020
+iter=68 terr=0.04750 serr=0.38631 act=15956 obj=1230.70416 diff=0.00054
+iter=69 terr=0.04694 serr=0.38386 act=15956 obj=1229.91674 diff=0.00064
+iter=70 terr=0.04708 serr=0.37653 act=15956 obj=1229.75284 diff=0.00013
+iter=71 terr=0.04708 serr=0.37408 act=15956 obj=1229.54653 diff=0.00017
+iter=72 terr=0.04708 serr=0.37408 act=15956 obj=1229.37448 diff=0.00014
+iter=73 terr=0.04722 serr=0.37897 act=15956 obj=1230.06027 diff=0.00056
+iter=74 terr=0.04765 serr=0.38142 act=15956 obj=1229.30144 diff=0.00062
+iter=75 terr=0.04750 serr=0.38386 act=15956 obj=1229.17888 diff=0.00010
+iter=76 terr=0.04750 serr=0.37897 act=15956 obj=1229.08341 diff=0.00008
+iter=77 terr=0.04694 serr=0.37408 act=15956 obj=1229.17202 diff=0.00007
+
+Done!0.66 s
+
+opener.news.de.5/fold_0/training.holder
+CRF++: Yet Another CRF Tool Kit
+Copyright (C) 2005-2013 Taku Kudo, All rights reserved.
+
+reading training data: 100.. 200.. 
+Done!0.04 s
+
+Number of sentences: 285
+Number of features:  13608
+Number of thread(s): 8
+Freq:                1
+eta:                 0.00010
+C:                   1.00000
+shrinking size:      20
+iter=0 terr=0.88139 serr=1.00000 act=13608 obj=3360.37753 diff=1.00000
+iter=1 terr=0.11861 serr=1.00000 act=13608 obj=1721.74966 diff=0.48763
+iter=2 terr=0.11861 serr=1.00000 act=13608 obj=1639.41133 diff=0.04782
+iter=3 terr=0.09963 serr=0.67368 act=13608 obj=1347.42214 diff=0.17811
+iter=4 terr=0.09468 serr=0.65965 act=13608 obj=1213.99620 diff=0.09902
+iter=5 terr=0.09571 serr=0.69123 act=13608 obj=1141.43795 diff=0.05977
+iter=6 terr=0.09282 serr=0.65614 act=13608 obj=1074.90153 diff=0.05829
+iter=7 terr=0.08663 serr=0.64211 act=13608 obj=1006.81935 diff=0.06334
+iter=8 terr=0.07632 serr=0.57193 act=13608 obj=914.16224 diff=0.09203
+iter=9 terr=0.07219 serr=0.55439 act=13608 obj=846.05548 diff=0.07450
+iter=10 terr=0.06498 serr=0.49825 act=13608 obj=775.81762 diff=0.08302
+iter=11 terr=0.06126 serr=0.48421 act=13608 obj=728.09757 diff=0.06151
+iter=12 terr=0.05734 serr=0.45965 act=13608 obj=705.58635 diff=0.03092
+iter=13 terr=0.05342 serr=0.45614 act=13608 obj=679.89071 diff=0.03642
+iter=14 terr=0.04785 serr=0.41053 act=13608 obj=634.92239 diff=0.06614
+iter=15 terr=0.04538 serr=0.39649 act=13608 obj=616.98455 diff=0.02825
+iter=16 terr=0.04249 serr=0.35789 act=13608 obj=599.26069 diff=0.02873
+iter=17 terr=0.04125 serr=0.34035 act=13608 obj=591.87372 diff=0.01233
+iter=18 terr=0.03857 serr=0.32982 act=13608 obj=591.68259 diff=0.00032
+iter=19 terr=0.03878 serr=0.32982 act=13608 obj=587.47769 diff=0.00711
+iter=20 terr=0.03837 serr=0.31930 act=13608 obj=581.99157 diff=0.00934
+iter=21 terr=0.03713 serr=0.30877 act=13608 obj=577.19152 diff=0.00825
+iter=22 terr=0.03733 serr=0.30877 act=13608 obj=573.58538 diff=0.00625
+iter=23 terr=0.03610 serr=0.29825 act=13608 obj=565.70475 diff=0.01374
+iter=24 terr=0.03383 serr=0.27719 act=13608 obj=555.90860 diff=0.01732
+iter=25 terr=0.03073 serr=0.25965 act=13608 obj=561.31531 diff=0.00973
+iter=26 terr=0.03156 serr=0.25263 act=13608 obj=552.72190 diff=0.01531
+iter=27 terr=0.03073 serr=0.24561 act=13608 obj=549.26652 diff=0.00625
+iter=28 terr=0.03135 serr=0.25965 act=13608 obj=547.48551 diff=0.00324
+iter=29 terr=0.03156 serr=0.25614 act=13608 obj=544.91685 diff=0.00469
+iter=30 terr=0.03135 serr=0.25614 act=13608 obj=542.99317 diff=0.00353
+iter=31 terr=0.02929 serr=0.23860 act=13608 obj=539.86097 diff=0.00577
+iter=32 terr=0.02888 serr=0.23860 act=13608 obj=538.11792 diff=0.00323
+iter=33 terr=0.02888 serr=0.23860 act=13608 obj=537.26981 diff=0.00158
+iter=34 terr=0.02908 serr=0.24211 act=13608 obj=536.16186 diff=0.00206
+iter=35 terr=0.02847 serr=0.23509 act=13608 obj=535.74058 diff=0.00079
+iter=36 terr=0.02847 serr=0.23509 act=13608 obj=535.25054 diff=0.00091
+iter=37 terr=0.02867 serr=0.23158 act=13608 obj=534.26613 diff=0.00184
+iter=38 terr=0.02805 serr=0.22456 act=13608 obj=534.19382 diff=0.00014
+iter=39 terr=0.02867 serr=0.23158 act=13608 obj=533.62208 diff=0.00107
+iter=40 terr=0.02888 serr=0.23158 act=13608 obj=533.12789 diff=0.00093
+iter=41 terr=0.02867 serr=0.22807 act=13608 obj=532.27072 diff=0.00161
+iter=42 terr=0.02929 serr=0.23509 act=13608 obj=532.13320 diff=0.00026
+iter=43 terr=0.02929 serr=0.23509 act=13608 obj=531.91315 diff=0.00041
+iter=44 terr=0.02826 serr=0.23509 act=13608 obj=531.99478 diff=0.00015
+iter=45 terr=0.02888 serr=0.23509 act=13608 obj=531.72652 diff=0.00050
+iter=46 terr=0.02908 serr=0.23509 act=13608 obj=531.49326 diff=0.00044
+iter=47 terr=0.02908 serr=0.23509 act=13608 obj=531.24598 diff=0.00047
+iter=48 terr=0.02888 serr=0.23509 act=13608 obj=531.23226 diff=0.00003
+iter=49 terr=0.02888 serr=0.23509 act=13608 obj=531.14679 diff=0.00016
+iter=50 terr=0.02888 serr=0.23509 act=13608 obj=531.07653 diff=0.00013
+iter=51 terr=0.02867 serr=0.23509 act=13608 obj=530.97800 diff=0.00019
+iter=52 terr=0.02888 serr=0.23509 act=13608 obj=530.88240 diff=0.00018
+iter=53 terr=0.02908 serr=0.23509 act=13608 obj=530.76807 diff=0.00022
+iter=54 terr=0.02826 serr=0.23158 act=13608 obj=530.77906 diff=0.00002
+iter=55 terr=0.02867 serr=0.23509 act=13608 obj=530.70182 diff=0.00015
+iter=56 terr=0.02867 serr=0.23509 act=13608 obj=530.65354 diff=0.00009
+iter=57 terr=0.02826 serr=0.23158 act=13608 obj=530.62194 diff=0.00006
+iter=58 terr=0.02826 serr=0.23158 act=13608 obj=530.61179 diff=0.00002
+
+Done!0.42 s
+
+opener.news.de.5/fold_0/testing.holder

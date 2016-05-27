@@ -1,0 +1,24 @@
+Parameters saved to file opener.news.de.5/parameters.expression
+Traceback (most recent call last):
+  File "extract_features_expression.py", line 611, in <module>
+    main(args.inputfile,args.type, args.folder, overall_parameters)
+  File "extract_features_expression.py", line 445, in main
+    fin = open(inputfile,'r')
+IOError: [Errno 2] No such file or directory: 'opener.news.de.5//train'
+The line search routine mcsrch failed: error code:0
+routine stops with unexpected error
+CRF_L2 execute error
+
+Traceback (most recent call last):
+  File "extract_features_expression.py", line 611, in <module>
+    main(args.inputfile,args.type, args.folder, overall_parameters)
+  File "extract_features_expression.py", line 470, in main
+    fin = open(inputfile,'r')
+IOError: [Errno 2] No such file or directory: 'opener.news.de.5//test'
+feature_index.cpp(193) [mmap_.open(model_filename)] mmap.h(153) [(fd = ::open(filename, flag | O_BINARY)) >= 0] open failed: opener.news.de.5//model.expression
+Traceback (most recent call last):
+  File "./evaluate_entities.py", line 50, in <module>
+    gold_data = load_data(gold_filename)
+  File "./evaluate_entities.py", line 9, in load_data
+    fd = open(filename,'r')
+IOError: [Errno 2] No such file or directory: 'opener.news.de.5//gold.expression'

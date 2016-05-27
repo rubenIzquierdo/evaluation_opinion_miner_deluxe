@@ -1,0 +1,46 @@
+##################################################
+Precision: 87.88 Total system: 66
+Most wrong on the system:
+	Freq: 4 --> we
+		['./opener_hotel/nl/dutch00095_8874302a7d31fa797c5881dcf00ee015.kaf#w91']
+		['./opener_hotel/nl/dutch00093_b465cef57d024e4a255c041bc3ecfba7.kaf#w36']
+		['./opener_hotel/nl/dutch00027_dde70f6dea3052998d614f13973e0034.kaf#w66']
+		['./opener_hotel/nl/dutch00197_0eef2fc76ff5f46b3dbc2c9b6d0a21a7.kaf#w36']
+	Freq: 1 --> ons
+		['./opener_hotel/nl/dutch00035_d3b342ade6e9d749e32b1aee74414d0d.kaf#w81']
+	Freq: 1 --> Wij
+		['./opener_hotel/nl/dutch00057_b65112cce42aa0c5ac7b5735e6f72ba3.kaf#w12']
+	Freq: 1 --> ik
+		['./opener_hotel/nl/dutch00111_d0961b9825b2e6b212a915652085b555.kaf#w26']
+	Freq: 1 --> wij
+		['./opener_hotel/nl/dutch00073_a308227884d29871567d102cd08b146d.kaf#w123']
+Recall: 77.36 Total gold: 53
+Most missed from the gold:
+	Freq: 2 --> mij
+		['./opener_hotel/nl/dutch00111_d0961b9825b2e6b212a915652085b555.kaf#w8']
+		['./opener_hotel/nl/dutch00111_d0961b9825b2e6b212a915652085b555.kaf#w22']
+	Freq: 1 --> We
+		['./opener_hotel/nl/dutch00029_3ea939d59cc25362a2aa4eb9a3021106.kaf#w6']
+	Freq: 1 --> een hoop mensen
+		['./opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w27', './opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w28', './opener_hotel/nl/dutch00020_e7bef04292084da2ad3b64bd89ef1c5e.kaf#w29']
+	Freq: 1 --> ons
+		['./opener_hotel/nl/dutch00165_39e4911c077d9aedec2eaa0db18772eb.kaf#w37']
+	Freq: 1 --> Wij
+		['./opener_hotel/nl/dutch00029_3ea939d59cc25362a2aa4eb9a3021106.kaf#w85']
+	Freq: 1 --> wij
+		['./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w133']
+	Freq: 1 --> heb
+		['./opener_hotel/nl/dutch00190_16909bd9fa95c6c90454c1f4068d63db.kaf#w87']
+	Freq: 1 --> Ons
+		['./opener_hotel/nl/dutch00133_5c50d697617155ec01578c6b525dce7e.kaf#w41']
+	Freq: 1 --> onze
+		['./opener_hotel/nl/dutch00171_2e93eefb42c9c6a85f969fe5755a40ec.kaf#w28']
+	Freq: 1 --> je
+		['./opener_hotel/nl/dutch00096_b6ff9414be4cf0ddf8a3bde39d9cc4c8.kaf#w85']
+	Freq: 1 --> wy
+		['./opener_hotel/nl/dutch00095_8874302a7d31fa797c5881dcf00ee015.kaf#w100']
+##################################################
+%%%<DATA>%%% (total_prec,ok_prec newline total_rec ok_rec
+66 58
+53 41
+%%%</DATA>%%% (type, or, wrong)

@@ -1,0 +1,40 @@
+##################################################
+Precision: 90.54 Total system: 74
+Most wrong on the system:
+	Freq: 2 --> wij
+		['./opener_hotel/nl/dutch00083_a3a8ac7d3fbe99fed863e61f8555e8ee.kaf#w43']
+		['./opener_hotel/nl/dutch00083_a3a8ac7d3fbe99fed863e61f8555e8ee.kaf#w43']
+	Freq: 1 --> We
+		['./opener_hotel/nl/dutch00160_3efd8e3adac4a1ee4d63ea3776214dbf.kaf#w121']
+	Freq: 1 --> we
+		['./opener_hotel/nl/dutch00191_15e24dd09e7556833cb396a3dd6e23bc.kaf#w113']
+	Freq: 1 --> ik
+		['./opener_hotel/nl/dutch00124_e3770ecc726d005cad3892c3d4837fed.kaf#w78']
+	Freq: 1 --> ons
+		['./opener_hotel/nl/dutch00144_4b73d128d43260618a514aae003ee58f.kaf#w60']
+	Freq: 1 --> je
+		['./opener_hotel/nl/dutch00202_0b095b8a3282a7aa7f53734a80e161bd.kaf#w46']
+Recall: 85.29 Total gold: 68
+Most missed from the gold:
+	Freq: 3 --> we
+		['./opener_hotel/nl/dutch00134_5c078e6e6f5a5fc7f0ae89191604ae8d.kaf#w80']
+		['./opener_hotel/nl/dutch00200_0c51583dfe4f60a65ede3e53aa0a851c.kaf#w25']
+		['./opener_hotel/nl/dutch00083_a3a8ac7d3fbe99fed863e61f8555e8ee.kaf#w111']
+	Freq: 2 --> mij
+		['./opener_hotel/nl/dutch00086_9907874d532d15d145e5d957177d2777.kaf#w105']
+		['./opener_hotel/nl/dutch00075_94feb4ea33c459955f84e90116121e6c.kaf#w160']
+	Freq: 1 --> Wij
+		['./opener_hotel/nl/dutch00134_5c078e6e6f5a5fc7f0ae89191604ae8d.kaf#w5']
+	Freq: 1 --> onze
+		['./opener_hotel/nl/dutch00083_a3a8ac7d3fbe99fed863e61f8555e8ee.kaf#w87']
+	Freq: 1 --> ik
+		['./opener_hotel/nl/dutch00086_9907874d532d15d145e5d957177d2777.kaf#w125']
+	Freq: 1 --> niemand
+		['./opener_hotel/nl/dutch00195_1067b369d52d88aa3c2a29ecba4f724c.kaf#w90']
+	Freq: 1 --> in mijn ogen
+		['./opener_hotel/nl/dutch00047_5a3618d80fb27dff64163524c626a0b4.kaf#w13', './opener_hotel/nl/dutch00047_5a3618d80fb27dff64163524c626a0b4.kaf#w14', './opener_hotel/nl/dutch00047_5a3618d80fb27dff64163524c626a0b4.kaf#w15']
+##################################################
+%%%<DATA>%%% (total_prec,ok_prec newline total_rec ok_rec
+74 67
+68 58
+%%%</DATA>%%% (type, or, wrong)

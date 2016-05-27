@@ -1,0 +1,12 @@
+Parameters saved to file opener.hotel.it.5/fold_2/parameters.expression
+Gold standard in the file opener.hotel.it.5/fold_2/gold.expression
+Parameters saved to file opener.hotel.it.5/fold_2/parameters.target
+Gold standard in the file opener.hotel.it.5/fold_2/gold.target
+Parameters saved to file opener.hotel.it.5/fold_2/parameters.holder
+Gold standard in the file opener.hotel.it.5/fold_2/gold.holder
+Traceback (most recent call last):
+  File "./evaluate_opinion_relation.py", line 105, in <module>
+    system_relations = load_relations(system_filename)
+  File "./evaluate_opinion_relation.py", line 40, in load_relations
+    line1 = all_lines[idx].strip()
+IndexError: list index out of range

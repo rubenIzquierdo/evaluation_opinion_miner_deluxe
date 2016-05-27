@@ -1,0 +1,18 @@
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w151	Io	io	Q	-1	-	NP	O	HOLDER	O
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w152	lo	lo	Q	0	-	NP	DSE	O	O
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w153	consiglio	consigliare	V	0	-	NP	DSE	O	O
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w154	fortemente	fortemente	A	0	-	NP	DSE	O	O
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w155	e	e	Q	0	-	S	O	O	O
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w156	se	se	Q	0	-	S	O	O	O
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w157	dovessi	dovere	V	1	-	NP	O	O	O
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w158	tornare	tornare	V	1	-	VP	O	O	O
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w159	in	in	P	1	-	PP	O	O	O
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w160	Toscana	toscana	R	2	-	NP	O	O	O
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w161	non	non	A	2	-	ADVP	O	O	O
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w162	mancherò	mancherò	O	2	-	VP	O	O	O
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w163	di	di	P	3	-	PP	O	O	O
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w164	soggiornare	soggiornare	V	3	-	VP	O	O	O
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w165	nuovamente	nuovamente	A	3	-	ADVP	O	O	O
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w166	lì	lì	N	4	-	ADVP	O	O	O
+./opener_hotel/it/italian00221_f8e971a6cfb7ae0cf33583528202b2a1.kaf#w167	!	!	O	4	-	S	O	O	O
+

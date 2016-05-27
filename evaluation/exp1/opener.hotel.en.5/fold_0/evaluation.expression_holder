@@ -1,0 +1,1219 @@
+Len sys relations 73
+Len gold relations 77
+##################################################
+System relation
+[[DSE]] ==> ['would', 'like']
+   Tokens: set(['./opener_hotel/en/english00026_26166c1c770097c59c592245ac16bca3.kaf#w2', './opener_hotel/en/english00026_26166c1c770097c59c592245ac16bca3.kaf#w3'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00026_26166c1c770097c59c592245ac16bca3.kaf#w1'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['would', 'like', 'to', 'go', 'byack']
+   Tokens: set(['./opener_hotel/en/english00026_26166c1c770097c59c592245ac16bca3.kaf#w4', './opener_hotel/en/english00026_26166c1c770097c59c592245ac16bca3.kaf#w5', './opener_hotel/en/english00026_26166c1c770097c59c592245ac16bca3.kaf#w6', './opener_hotel/en/english00026_26166c1c770097c59c592245ac16bca3.kaf#w2', './opener_hotel/en/english00026_26166c1c770097c59c592245ac16bca3.kaf#w3'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00026_26166c1c770097c59c592245ac16bca3.kaf#w1'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['received']
+   Tokens: set(['./opener_hotel/en/english00100_8fd838178289a9843ec4ef6b682583c7.kaf#w85'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00100_8fd838178289a9843ec4ef6b682583c7.kaf#w84'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['received']
+   Tokens: set(['./opener_hotel/en/english00100_8fd838178289a9843ec4ef6b682583c7.kaf#w85'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00100_8fd838178289a9843ec4ef6b682583c7.kaf#w84'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['could', 'relax']
+   Tokens: set(['./opener_hotel/en/english00100_8fd838178289a9843ec4ef6b682583c7.kaf#w94', './opener_hotel/en/english00100_8fd838178289a9843ec4ef6b682583c7.kaf#w95'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00100_8fd838178289a9843ec4ef6b682583c7.kaf#w93'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['could', 'relax']
+   Tokens: set(['./opener_hotel/en/english00100_8fd838178289a9843ec4ef6b682583c7.kaf#w94', './opener_hotel/en/english00100_8fd838178289a9843ec4ef6b682583c7.kaf#w95'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00100_8fd838178289a9843ec4ef6b682583c7.kaf#w93'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['received']
+   Tokens: set(['./opener_hotel/en/english00100_8fd838178289a9843ec4ef6b682583c7.kaf#w85'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00100_8fd838178289a9843ec4ef6b682583c7.kaf#w84'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['received']
+   Tokens: set(['./opener_hotel/en/english00100_8fd838178289a9843ec4ef6b682583c7.kaf#w85'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00100_8fd838178289a9843ec4ef6b682583c7.kaf#w84'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['will', 'choose']
+   Tokens: set(['./opener_hotel/en/english00027_26d6594c56d4b49217cbe8f914a026ee.kaf#w48', './opener_hotel/en/english00027_26d6594c56d4b49217cbe8f914a026ee.kaf#w47'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00027_26d6594c56d4b49217cbe8f914a026ee.kaf#w43'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['will', 'choose']
+   Tokens: set(['./opener_hotel/en/english00027_26d6594c56d4b49217cbe8f914a026ee.kaf#w48', './opener_hotel/en/english00027_26d6594c56d4b49217cbe8f914a026ee.kaf#w47'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00027_26d6594c56d4b49217cbe8f914a026ee.kaf#w46'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['will', 'choose']
+   Tokens: set(['./opener_hotel/en/english00027_26d6594c56d4b49217cbe8f914a026ee.kaf#w48', './opener_hotel/en/english00027_26d6594c56d4b49217cbe8f914a026ee.kaf#w47'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00027_26d6594c56d4b49217cbe8f914a026ee.kaf#w46'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['never', 'have']
+   Tokens: set(['./opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w83', './opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w84'])
+
+[[HOLDER]] ==> ['me']
+   Tokens: set(['./opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w85'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['never', 'have', 'as', 'a', 'guest', 'again']
+   Tokens: set(['./opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w83', './opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w87', './opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w86', './opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w84', './opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w89', './opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w88'])
+
+[[HOLDER]] ==> ['me']
+   Tokens: set(['./opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w85'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['will', 'NOT', 'recommend']
+   Tokens: set(['./opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w74', './opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w72', './opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w73'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w71'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['will', 'NOT', 'recommend']
+   Tokens: set(['./opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w74', './opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w72', './opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w73'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00159_c122b85a40104c3bb6a2810fce4278ca.kaf#w71'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['enjoyed']
+   Tokens: set(['./opener_hotel/en/english00134_cf0b613b563d8d3fa345137e27c51db0.kaf#w26'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00134_cf0b613b563d8d3fa345137e27c51db0.kaf#w25'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['enjoyed']
+   Tokens: set(['./opener_hotel/en/english00134_cf0b613b563d8d3fa345137e27c51db0.kaf#w26'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00134_cf0b613b563d8d3fa345137e27c51db0.kaf#w25'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['enjoyed', 'very', 'much']
+   Tokens: set(['./opener_hotel/en/english00134_cf0b613b563d8d3fa345137e27c51db0.kaf#w10', './opener_hotel/en/english00134_cf0b613b563d8d3fa345137e27c51db0.kaf#w11', './opener_hotel/en/english00134_cf0b613b563d8d3fa345137e27c51db0.kaf#w12'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00134_cf0b613b563d8d3fa345137e27c51db0.kaf#w9'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['enjoyed', 'very', 'much']
+   Tokens: set(['./opener_hotel/en/english00134_cf0b613b563d8d3fa345137e27c51db0.kaf#w10', './opener_hotel/en/english00134_cf0b613b563d8d3fa345137e27c51db0.kaf#w11', './opener_hotel/en/english00134_cf0b613b563d8d3fa345137e27c51db0.kaf#w12'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00134_cf0b613b563d8d3fa345137e27c51db0.kaf#w9'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['ever']
+   Tokens: set(['./opener_hotel/en/english00057_5407ee0ce68f6d8dca6b6ffbd67fa2d8.kaf#w4'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00057_5407ee0ce68f6d8dca6b6ffbd67fa2d8.kaf#w6'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['the', 'best']
+   Tokens: set(['./opener_hotel/en/english00057_5407ee0ce68f6d8dca6b6ffbd67fa2d8.kaf#w14', './opener_hotel/en/english00057_5407ee0ce68f6d8dca6b6ffbd67fa2d8.kaf#w13'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00057_5407ee0ce68f6d8dca6b6ffbd67fa2d8.kaf#w16'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['absolutely', 'nothing']
+   Tokens: set(['./opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w39', './opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w40'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w37'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['absolutely', 'nothing', 'to', 'complain', 'about']
+   Tokens: set(['./opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w39', './opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w42', './opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w43', './opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w40', './opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w41'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w37'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['absolutely', 'nothing']
+   Tokens: set(['./opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w39', './opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w40'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w37'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['absolutely', 'nothing', 'to', 'complain', 'about']
+   Tokens: set(['./opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w39', './opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w42', './opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w43', './opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w40', './opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w41'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00049_3456bf89884d70b0a573c0e4564a68d7.kaf#w37'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['spending']
+   Tokens: set(['./opener_hotel/en/english00127_be6853eb63a85dfd91663b64efaaf60b.kaf#w16'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00127_be6853eb63a85dfd91663b64efaaf60b.kaf#w14'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['spending', 'holidays', 'in', 'this', 'hotel']
+   Tokens: set(['./opener_hotel/en/english00127_be6853eb63a85dfd91663b64efaaf60b.kaf#w18', './opener_hotel/en/english00127_be6853eb63a85dfd91663b64efaaf60b.kaf#w19', './opener_hotel/en/english00127_be6853eb63a85dfd91663b64efaaf60b.kaf#w16', './opener_hotel/en/english00127_be6853eb63a85dfd91663b64efaaf60b.kaf#w17', './opener_hotel/en/english00127_be6853eb63a85dfd91663b64efaaf60b.kaf#w20'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00127_be6853eb63a85dfd91663b64efaaf60b.kaf#w14'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['treated', 'like']
+   Tokens: set(['./opener_hotel/en/english00151_de21bc4aef573cf6ec1065b90fd89128.kaf#w4', './opener_hotel/en/english00151_de21bc4aef573cf6ec1065b90fd89128.kaf#w3'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00151_de21bc4aef573cf6ec1065b90fd89128.kaf#w1'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['treated', 'like', 'royalty']
+   Tokens: set(['./opener_hotel/en/english00151_de21bc4aef573cf6ec1065b90fd89128.kaf#w4', './opener_hotel/en/english00151_de21bc4aef573cf6ec1065b90fd89128.kaf#w5', './opener_hotel/en/english00151_de21bc4aef573cf6ec1065b90fd89128.kaf#w3'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00151_de21bc4aef573cf6ec1065b90fd89128.kaf#w1'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['couldn', "'t"]
+   Tokens: set(['./opener_hotel/en/english00041_2d00f34ba5740320fabcdf32af67b83b.kaf#w19', './opener_hotel/en/english00041_2d00f34ba5740320fabcdf32af67b83b.kaf#w18'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00041_2d00f34ba5740320fabcdf32af67b83b.kaf#w17'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['couldn', "'t", 'find', 'anything', 'interesting']
+   Tokens: set(['./opener_hotel/en/english00041_2d00f34ba5740320fabcdf32af67b83b.kaf#w20', './opener_hotel/en/english00041_2d00f34ba5740320fabcdf32af67b83b.kaf#w21', './opener_hotel/en/english00041_2d00f34ba5740320fabcdf32af67b83b.kaf#w22', './opener_hotel/en/english00041_2d00f34ba5740320fabcdf32af67b83b.kaf#w19', './opener_hotel/en/english00041_2d00f34ba5740320fabcdf32af67b83b.kaf#w18'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00041_2d00f34ba5740320fabcdf32af67b83b.kaf#w17'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['never', 'needed']
+   Tokens: set(['./opener_hotel/en/english00063_42d4204c80a4c1c2cb4b8532830a6eef.kaf#w88', './opener_hotel/en/english00063_42d4204c80a4c1c2cb4b8532830a6eef.kaf#w87'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00063_42d4204c80a4c1c2cb4b8532830a6eef.kaf#w86'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['never', 'needed']
+   Tokens: set(['./opener_hotel/en/english00063_42d4204c80a4c1c2cb4b8532830a6eef.kaf#w88', './opener_hotel/en/english00063_42d4204c80a4c1c2cb4b8532830a6eef.kaf#w87'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00063_42d4204c80a4c1c2cb4b8532830a6eef.kaf#w86'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['feel', 'happy']
+   Tokens: set(['./opener_hotel/en/english00106_95e12d763c34248a2836b2b210c1cbd1.kaf#w57', './opener_hotel/en/english00106_95e12d763c34248a2836b2b210c1cbd1.kaf#w58'])
+
+[[HOLDER]] ==> ['you']
+   Tokens: set(['./opener_hotel/en/english00106_95e12d763c34248a2836b2b210c1cbd1.kaf#w56'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['feel', 'happy']
+   Tokens: set(['./opener_hotel/en/english00106_95e12d763c34248a2836b2b210c1cbd1.kaf#w57', './opener_hotel/en/english00106_95e12d763c34248a2836b2b210c1cbd1.kaf#w58'])
+
+[[HOLDER]] ==> ['you']
+   Tokens: set(['./opener_hotel/en/english00106_95e12d763c34248a2836b2b210c1cbd1.kaf#w56'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['enjoyed']
+   Tokens: set(['./opener_hotel/en/english00106_95e12d763c34248a2836b2b210c1cbd1.kaf#w68'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00106_95e12d763c34248a2836b2b210c1cbd1.kaf#w67'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['enjoyed']
+   Tokens: set(['./opener_hotel/en/english00106_95e12d763c34248a2836b2b210c1cbd1.kaf#w68'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00106_95e12d763c34248a2836b2b210c1cbd1.kaf#w67'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['can', 'recommend']
+   Tokens: set(['./opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w34', './opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w33'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w31'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['recommend']
+   Tokens: set(['./opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w34'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w31'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['miss']
+   Tokens: set(['./opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w17'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w22'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['will', 'come', 'back']
+   Tokens: set(['./opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w64', './opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w62', './opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w63'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w61'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['will', 'come', 'back', 'for', 'sure']
+   Tokens: set(['./opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w66', './opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w64', './opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w65', './opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w62', './opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w63'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00041_37f671242a697924c4d5d3f1c748e17d.kaf#w61'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['going', 'to', 'visit']
+   Tokens: set(['./opener_hotel/en/english00101_6f72b7c2e06d83567bef5cab29f706b4.kaf#w145', './opener_hotel/en/english00101_6f72b7c2e06d83567bef5cab29f706b4.kaf#w147', './opener_hotel/en/english00101_6f72b7c2e06d83567bef5cab29f706b4.kaf#w146'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00101_6f72b7c2e06d83567bef5cab29f706b4.kaf#w143'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['visit', 'again']
+   Tokens: set(['./opener_hotel/en/english00101_6f72b7c2e06d83567bef5cab29f706b4.kaf#w149', './opener_hotel/en/english00101_6f72b7c2e06d83567bef5cab29f706b4.kaf#w147'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00101_6f72b7c2e06d83567bef5cab29f706b4.kaf#w143'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['find']
+   Tokens: set(['./opener_hotel/en/english00003_0726ad8554ba78a391080a2d6c705f2d.kaf#w11'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00003_0726ad8554ba78a391080a2d6c705f2d.kaf#w9'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['cannot', 'find']
+   Tokens: set(['./opener_hotel/en/english00003_0726ad8554ba78a391080a2d6c705f2d.kaf#w10', './opener_hotel/en/english00003_0726ad8554ba78a391080a2d6c705f2d.kaf#w11'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00003_0726ad8554ba78a391080a2d6c705f2d.kaf#w9'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['at', 'home']
+   Tokens: set(['./opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w26', './opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w25'])
+
+[[HOLDER]] ==> ['us']
+   Tokens: set(['./opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w20'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['feel', 'like', 'at', 'home']
+   Tokens: set(['./opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w22', './opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w21', './opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w26', './opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w25'])
+
+[[HOLDER]] ==> ['us']
+   Tokens: set(['./opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w20'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['at', 'home']
+   Tokens: set(['./opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w26', './opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w25'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w23'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['very', 'welcome']
+   Tokens: set(['./opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w45', './opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w46'])
+
+[[HOLDER]] ==> ['us']
+   Tokens: set(['./opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w43'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['feel', 'very', 'welcome']
+   Tokens: set(['./opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w44', './opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w45', './opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w46'])
+
+[[HOLDER]] ==> ['us']
+   Tokens: set(['./opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w43'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['definitely', 'the', 'best']
+   Tokens: set(['./opener_hotel/en/english00167_cc796a2ecc444b13f812e5ff758ba063.kaf#w34', './opener_hotel/en/english00167_cc796a2ecc444b13f812e5ff758ba063.kaf#w32', './opener_hotel/en/english00167_cc796a2ecc444b13f812e5ff758ba063.kaf#w33'])
+
+[[HOLDER]] ==> ['me']
+   Tokens: set(['./opener_hotel/en/english00167_cc796a2ecc444b13f812e5ff758ba063.kaf#w28'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['definitely', 'the', 'best']
+   Tokens: set(['./opener_hotel/en/english00167_cc796a2ecc444b13f812e5ff758ba063.kaf#w34', './opener_hotel/en/english00167_cc796a2ecc444b13f812e5ff758ba063.kaf#w32', './opener_hotel/en/english00167_cc796a2ecc444b13f812e5ff758ba063.kaf#w33'])
+
+[[HOLDER]] ==> ['me']
+   Tokens: set(['./opener_hotel/en/english00167_cc796a2ecc444b13f812e5ff758ba063.kaf#w28'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['will', 'be', 'better']
+   Tokens: set(['./opener_hotel/en/english00120_88e1e5f479d88d91230051420b9fbce5.kaf#w129', './opener_hotel/en/english00120_88e1e5f479d88d91230051420b9fbce5.kaf#w131', './opener_hotel/en/english00120_88e1e5f479d88d91230051420b9fbce5.kaf#w130'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00120_88e1e5f479d88d91230051420b9fbce5.kaf#w134'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['would', 'have', 'preferred']
+   Tokens: set(['./opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w67', './opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w68', './opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w69'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w66'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['would', 'have', 'preferred']
+   Tokens: set(['./opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w67', './opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w68', './opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w69'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w66'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['no', 'problem']
+   Tokens: set(['./opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w99', './opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w100'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w88'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['no', 'problem']
+   Tokens: set(['./opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w99', './opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w100'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w88'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['no', 'problem']
+   Tokens: set(['./opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w99', './opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w100'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w88'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['no', 'problem']
+   Tokens: set(['./opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w99', './opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w100'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00026_1f075091a5037f3c954406e022417330.kaf#w88'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['will', 'not']
+   Tokens: set(['./opener_hotel/en/english00072_4cc2e9801df78f120125f41eac84ee35.kaf#w68', './opener_hotel/en/english00072_4cc2e9801df78f120125f41eac84ee35.kaf#w67'])
+
+[[HOLDER]] ==> ['i']
+   Tokens: set(['./opener_hotel/en/english00072_4cc2e9801df78f120125f41eac84ee35.kaf#w66'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['will', 'not', 'stay', 'in', 'Again']
+   Tokens: set(['./opener_hotel/en/english00072_4cc2e9801df78f120125f41eac84ee35.kaf#w68', './opener_hotel/en/english00072_4cc2e9801df78f120125f41eac84ee35.kaf#w69', './opener_hotel/en/english00072_4cc2e9801df78f120125f41eac84ee35.kaf#w70', './opener_hotel/en/english00072_4cc2e9801df78f120125f41eac84ee35.kaf#w73', './opener_hotel/en/english00072_4cc2e9801df78f120125f41eac84ee35.kaf#w67'])
+
+[[HOLDER]] ==> ['i']
+   Tokens: set(['./opener_hotel/en/english00072_4cc2e9801df78f120125f41eac84ee35.kaf#w66'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['no', 'cost']
+   Tokens: set(['./opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w37', './opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w36'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w28'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['at', 'no', 'cost']
+   Tokens: set(['./opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w35', './opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w37', './opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w36'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w28'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['no', 'cost']
+   Tokens: set(['./opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w37', './opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w36'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w28'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['at', 'no', 'cost']
+   Tokens: set(['./opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w35', './opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w37', './opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w36'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w28'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['impressed']
+   Tokens: set(['./opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w49'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w47'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['was', 'impressed']
+   Tokens: set(['./opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w48', './opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w49'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00118_aea36867626915cb3f94bc7c17ec5bb9.kaf#w47'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['elegant']
+   Tokens: set(['./opener_hotel/en/english00176_d23ed68b8036a845070c093b47eac5bd.kaf#w65'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00176_d23ed68b8036a845070c093b47eac5bd.kaf#w68'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['elegant']
+   Tokens: set(['./opener_hotel/en/english00176_d23ed68b8036a845070c093b47eac5bd.kaf#w65'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00176_d23ed68b8036a845070c093b47eac5bd.kaf#w68'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['booked']
+   Tokens: set(['./opener_hotel/en/english00146_dc6ed17346231f40aed08dcb4c1e24ae.kaf#w40'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00146_dc6ed17346231f40aed08dcb4c1e24ae.kaf#w29'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['booked']
+   Tokens: set(['./opener_hotel/en/english00146_dc6ed17346231f40aed08dcb4c1e24ae.kaf#w40'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00146_dc6ed17346231f40aed08dcb4c1e24ae.kaf#w38'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['booked', 'again']
+   Tokens: set(['./opener_hotel/en/english00146_dc6ed17346231f40aed08dcb4c1e24ae.kaf#w40', './opener_hotel/en/english00146_dc6ed17346231f40aed08dcb4c1e24ae.kaf#w41'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00146_dc6ed17346231f40aed08dcb4c1e24ae.kaf#w38'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['booked']
+   Tokens: set(['./opener_hotel/en/english00146_dc6ed17346231f40aed08dcb4c1e24ae.kaf#w40'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00146_dc6ed17346231f40aed08dcb4c1e24ae.kaf#w29'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['full', 'of']
+   Tokens: set(['./opener_hotel/en/english00169_fd7a241c56820c1c7dd771101b6215aa.kaf#w38', './opener_hotel/en/english00169_fd7a241c56820c1c7dd771101b6215aa.kaf#w37'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00169_fd7a241c56820c1c7dd771101b6215aa.kaf#w41'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ["'ll", 'come', 'back']
+   Tokens: set(['./opener_hotel/en/english00048_444ac740f7b3674e41e70582d55d0059.kaf#w73', './opener_hotel/en/english00048_444ac740f7b3674e41e70582d55d0059.kaf#w74', './opener_hotel/en/english00048_444ac740f7b3674e41e70582d55d0059.kaf#w75'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00048_444ac740f7b3674e41e70582d55d0059.kaf#w72'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ["'ll", 'come', 'back']
+   Tokens: set(['./opener_hotel/en/english00048_444ac740f7b3674e41e70582d55d0059.kaf#w73', './opener_hotel/en/english00048_444ac740f7b3674e41e70582d55d0059.kaf#w74', './opener_hotel/en/english00048_444ac740f7b3674e41e70582d55d0059.kaf#w75'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00048_444ac740f7b3674e41e70582d55d0059.kaf#w72'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['will', 'definitely', 'be', 'returning']
+   Tokens: set(['./opener_hotel/en/english00074_6d1b93872766b77fb33d3a9ba5c2391b.kaf#w107', './opener_hotel/en/english00074_6d1b93872766b77fb33d3a9ba5c2391b.kaf#w106', './opener_hotel/en/english00074_6d1b93872766b77fb33d3a9ba5c2391b.kaf#w105', './opener_hotel/en/english00074_6d1b93872766b77fb33d3a9ba5c2391b.kaf#w104'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00074_6d1b93872766b77fb33d3a9ba5c2391b.kaf#w103'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['will', 'definitely', 'be', 'returning']
+   Tokens: set(['./opener_hotel/en/english00074_6d1b93872766b77fb33d3a9ba5c2391b.kaf#w107', './opener_hotel/en/english00074_6d1b93872766b77fb33d3a9ba5c2391b.kaf#w106', './opener_hotel/en/english00074_6d1b93872766b77fb33d3a9ba5c2391b.kaf#w105', './opener_hotel/en/english00074_6d1b93872766b77fb33d3a9ba5c2391b.kaf#w104'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00074_6d1b93872766b77fb33d3a9ba5c2391b.kaf#w103'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['ever']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w25'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w18'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['best', 'ever']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w22', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w25'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w18'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['like']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w65'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w63'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['would', 'like', 'to', 'stress']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w65', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w64', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w67', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w66'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w63'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['like']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w65'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w63'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['would', 'like', 'to', 'stress']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w65', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w64', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w67', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w66'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w63'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['very', 'plaesantly', 'surprised']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w34', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w35', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w33'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w30'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['very', 'plaesantly', 'surprised']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w34', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w35', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w33'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w30'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['very', 'plaesantly', 'surprised']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w34', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w35', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w33'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w30'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['very', 'plaesantly', 'surprised']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w34', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w35', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w33'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w30'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['liked']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w38'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w37'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['liked']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w38'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w37'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['very', 'plaesantly', 'surprised']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w34', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w35', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w33'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w30'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['very', 'plaesantly', 'surprised']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w34', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w35', './opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w33'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w30'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['liked']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w38'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w37'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['liked']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w38'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00186_dc77db487ecc3ad5d7d91223a8601077.kaf#w37'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['liked']
+   Tokens: set(['./opener_hotel/en/english00110_99033cf126f0a6096484660f340288ae.kaf#w32'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00110_99033cf126f0a6096484660f340288ae.kaf#w31'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['liked']
+   Tokens: set(['./opener_hotel/en/english00110_99033cf126f0a6096484660f340288ae.kaf#w32'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00110_99033cf126f0a6096484660f340288ae.kaf#w31'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['would']
+   Tokens: set(['./opener_hotel/en/english00110_99033cf126f0a6096484660f340288ae.kaf#w51'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00110_99033cf126f0a6096484660f340288ae.kaf#w50'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['would', 'like']
+   Tokens: set(['./opener_hotel/en/english00110_99033cf126f0a6096484660f340288ae.kaf#w53', './opener_hotel/en/english00110_99033cf126f0a6096484660f340288ae.kaf#w51'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00110_99033cf126f0a6096484660f340288ae.kaf#w50'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['One', 'note']
+   Tokens: set(['./opener_hotel/en/english00110_99033cf126f0a6096484660f340288ae.kaf#w36', './opener_hotel/en/english00110_99033cf126f0a6096484660f340288ae.kaf#w37'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00110_99033cf126f0a6096484660f340288ae.kaf#w39'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['missed']
+   Tokens: set(['./opener_hotel/en/english00158_e80b20738a00d8196bb957c3ee679485.kaf#w138'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00158_e80b20738a00d8196bb957c3ee679485.kaf#w137'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['missed']
+   Tokens: set(['./opener_hotel/en/english00158_e80b20738a00d8196bb957c3ee679485.kaf#w138'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00158_e80b20738a00d8196bb957c3ee679485.kaf#w137'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['missed']
+   Tokens: set(['./opener_hotel/en/english00158_e80b20738a00d8196bb957c3ee679485.kaf#w138'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00158_e80b20738a00d8196bb957c3ee679485.kaf#w137'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['missed']
+   Tokens: set(['./opener_hotel/en/english00158_e80b20738a00d8196bb957c3ee679485.kaf#w138'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00158_e80b20738a00d8196bb957c3ee679485.kaf#w137'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['missed']
+   Tokens: set(['./opener_hotel/en/english00158_e80b20738a00d8196bb957c3ee679485.kaf#w138'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00158_e80b20738a00d8196bb957c3ee679485.kaf#w137'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['missed']
+   Tokens: set(['./opener_hotel/en/english00158_e80b20738a00d8196bb957c3ee679485.kaf#w138'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00158_e80b20738a00d8196bb957c3ee679485.kaf#w137'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['really', 'underwhelmed']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w18', './opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w17'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w15'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['really', 'underwhelmed']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w18', './opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w17'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w15'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['excellent']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w11'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w2'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['there', 'to']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w102', './opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w103'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w110'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['would', 'have']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w82', './opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w83'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w81'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['would', 'have', 'booked', 'a', 'better', 'hotel']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w82', './opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w83', './opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w84', './opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w85', './opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w86', './opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w87'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w81'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['would', 'have']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w82', './opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w83'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w77'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['would', 'have']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w82', './opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w83'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w81'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['would', 'have', 'booked', 'a', 'better', 'hotel']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w82', './opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w83', './opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w84', './opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w85', './opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w86', './opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w87'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w81'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['would', 'not', 'recommend']
+   Tokens: set(['./opener_hotel/en/english00054_383c9bd9d83d938ba9cc5d84d2d07b90.kaf#w71', './opener_hotel/en/english00054_383c9bd9d83d938ba9cc5d84d2d07b90.kaf#w70', './opener_hotel/en/english00054_383c9bd9d83d938ba9cc5d84d2d07b90.kaf#w69'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00054_383c9bd9d83d938ba9cc5d84d2d07b90.kaf#w68'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['would', 'not', 'recommend']
+   Tokens: set(['./opener_hotel/en/english00054_383c9bd9d83d938ba9cc5d84d2d07b90.kaf#w71', './opener_hotel/en/english00054_383c9bd9d83d938ba9cc5d84d2d07b90.kaf#w70', './opener_hotel/en/english00054_383c9bd9d83d938ba9cc5d84d2d07b90.kaf#w69'])
+
+[[HOLDER]] ==> ['I']
+   Tokens: set(['./opener_hotel/en/english00054_383c9bd9d83d938ba9cc5d84d2d07b90.kaf#w68'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['would', 'certainly']
+   Tokens: set(['./opener_hotel/en/english00124_ba956e0b6ec97a87d5125f0ef40160fa.kaf#w116', './opener_hotel/en/english00124_ba956e0b6ec97a87d5125f0ef40160fa.kaf#w115'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00124_ba956e0b6ec97a87d5125f0ef40160fa.kaf#w114'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['would', 'certainly', 'stay', 'again']
+   Tokens: set(['./opener_hotel/en/english00124_ba956e0b6ec97a87d5125f0ef40160fa.kaf#w116', './opener_hotel/en/english00124_ba956e0b6ec97a87d5125f0ef40160fa.kaf#w117', './opener_hotel/en/english00124_ba956e0b6ec97a87d5125f0ef40160fa.kaf#w121', './opener_hotel/en/english00124_ba956e0b6ec97a87d5125f0ef40160fa.kaf#w115'])
+
+[[HOLDER]] ==> ['we']
+   Tokens: set(['./opener_hotel/en/english00124_ba956e0b6ec97a87d5125f0ef40160fa.kaf#w114'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['keep']
+   Tokens: set(['./opener_hotel/en/english00205_f195ccdc0ccd520524bd7073cee0da55.kaf#w2'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00205_f195ccdc0ccd520524bd7073cee0da55.kaf#w1'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['keep', 'coming', 'back']
+   Tokens: set(['./opener_hotel/en/english00205_f195ccdc0ccd520524bd7073cee0da55.kaf#w3', './opener_hotel/en/english00205_f195ccdc0ccd520524bd7073cee0da55.kaf#w2', './opener_hotel/en/english00205_f195ccdc0ccd520524bd7073cee0da55.kaf#w4'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00205_f195ccdc0ccd520524bd7073cee0da55.kaf#w1'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['Not']
+   Tokens: set(['./opener_hotel/en/english00143_a1ec3eba7f3fa0420d4d2fed1bca5701.kaf#w1'])
+
+[[HOLDER]] ==> ['me']
+   Tokens: set(['./opener_hotel/en/english00143_a1ec3eba7f3fa0420d4d2fed1bca5701.kaf#w3'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['Not']
+   Tokens: set(['./opener_hotel/en/english00143_a1ec3eba7f3fa0420d4d2fed1bca5701.kaf#w1'])
+
+[[HOLDER]] ==> ['me']
+   Tokens: set(['./opener_hotel/en/english00143_a1ec3eba7f3fa0420d4d2fed1bca5701.kaf#w3'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['NOT']
+   Tokens: set(['./opener_hotel/en/english00143_a1ec3eba7f3fa0420d4d2fed1bca5701.kaf#w52'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00143_a1ec3eba7f3fa0420d4d2fed1bca5701.kaf#w50'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['NOT', 'to', 'eat', 'in', 'the', 'buffet', 'restaurant']
+   Tokens: set(['./opener_hotel/en/english00143_a1ec3eba7f3fa0420d4d2fed1bca5701.kaf#w56', './opener_hotel/en/english00143_a1ec3eba7f3fa0420d4d2fed1bca5701.kaf#w57', './opener_hotel/en/english00143_a1ec3eba7f3fa0420d4d2fed1bca5701.kaf#w54', './opener_hotel/en/english00143_a1ec3eba7f3fa0420d4d2fed1bca5701.kaf#w55', './opener_hotel/en/english00143_a1ec3eba7f3fa0420d4d2fed1bca5701.kaf#w52', './opener_hotel/en/english00143_a1ec3eba7f3fa0420d4d2fed1bca5701.kaf#w53', './opener_hotel/en/english00143_a1ec3eba7f3fa0420d4d2fed1bca5701.kaf#w58'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00143_a1ec3eba7f3fa0420d4d2fed1bca5701.kaf#w50'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['unfriendly']
+   Tokens: set(['./opener_hotel/en/english00018_129a2fc635f44e3c1d843eaf805d70fe.kaf#w126'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00018_129a2fc635f44e3c1d843eaf805d70fe.kaf#w118'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['unfriendly']
+   Tokens: set(['./opener_hotel/en/english00018_129a2fc635f44e3c1d843eaf805d70fe.kaf#w126'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00018_129a2fc635f44e3c1d843eaf805d70fe.kaf#w118'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['unfriendly']
+   Tokens: set(['./opener_hotel/en/english00018_129a2fc635f44e3c1d843eaf805d70fe.kaf#w126'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00018_129a2fc635f44e3c1d843eaf805d70fe.kaf#w118'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['unfriendly']
+   Tokens: set(['./opener_hotel/en/english00018_129a2fc635f44e3c1d843eaf805d70fe.kaf#w126'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00018_129a2fc635f44e3c1d843eaf805d70fe.kaf#w118'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['unfriendly']
+   Tokens: set(['./opener_hotel/en/english00018_129a2fc635f44e3c1d843eaf805d70fe.kaf#w126'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00018_129a2fc635f44e3c1d843eaf805d70fe.kaf#w118'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['unfriendly']
+   Tokens: set(['./opener_hotel/en/english00018_129a2fc635f44e3c1d843eaf805d70fe.kaf#w126'])
+
+[[HOLDER]] ==> ['We']
+   Tokens: set(['./opener_hotel/en/english00018_129a2fc635f44e3c1d843eaf805d70fe.kaf#w118'])
+
+##################################################
+
+############################################################
+PREC: 79.45
+REC: 75.32
+F: 77.33
+############################################################
+%%%<DATA>%%% ok wrong total
+58 15 77
+%%%</DATA>%%% ok wrong total

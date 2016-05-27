@@ -1,0 +1,66 @@
+LOADED 8761 from the file /home/izquierdo/ruben_github/opinion_miner_deluxePP/polarity_lexicons/DE-lexicon/germanLex.txt
+CRF++: Yet Another CRF Tool Kit
+Copyright (C) 2005-2013 Taku Kudo, All rights reserved.
+
+reading training data: 100.. 200.. 
+Done!0.03 s
+
+Number of sentences: 259
+Number of features:  16078
+Number of thread(s): 8
+Freq:                1
+eta:                 0.00010
+C:                   1.00000
+shrinking size:      20
+iter=0 terr=0.83478 serr=1.00000 act=16078 obj=2802.39405 diff=1.00000
+iter=1 terr=0.16522 serr=1.00000 act=16078 obj=1552.02244 diff=0.44618
+iter=2 terr=0.16349 serr=0.99614 act=16078 obj=1491.86624 diff=0.03876
+iter=3 terr=0.12639 serr=0.79923 act=16078 obj=1307.76755 diff=0.12340
+iter=4 terr=0.12367 serr=0.78378 act=16078 obj=1212.30584 diff=0.07300
+iter=5 terr=0.11378 serr=0.71429 act=16078 obj=1108.14210 diff=0.08592
+iter=6 terr=0.10339 serr=0.68726 act=16078 obj=1008.16377 diff=0.09022
+iter=7 terr=0.08855 serr=0.67181 act=16078 obj=931.02141 diff=0.07652
+iter=8 terr=0.07717 serr=0.61776 act=16078 obj=836.82401 diff=0.10118
+iter=9 terr=0.06703 serr=0.59073 act=16078 obj=827.97861 diff=0.01057
+iter=10 terr=0.06555 serr=0.55598 act=16078 obj=779.15690 diff=0.05896
+iter=11 terr=0.06431 serr=0.54440 act=16078 obj=763.13185 diff=0.02057
+iter=12 terr=0.06035 serr=0.51737 act=16078 obj=740.44189 diff=0.02973
+iter=13 terr=0.05046 serr=0.44402 act=16078 obj=696.96389 diff=0.05872
+iter=14 terr=0.03166 serr=0.34749 act=16078 obj=667.31372 diff=0.04254
+iter=15 terr=0.03512 serr=0.36680 act=16078 obj=648.02294 diff=0.02891
+iter=16 terr=0.03314 serr=0.35135 act=16078 obj=640.44056 diff=0.01170
+iter=17 terr=0.02844 serr=0.31274 act=16078 obj=636.63648 diff=0.00594
+iter=18 terr=0.02869 serr=0.32046 act=16078 obj=631.47747 diff=0.00810
+iter=19 terr=0.02820 serr=0.30116 act=16078 obj=627.58864 diff=0.00616
+iter=20 terr=0.02671 serr=0.28185 act=16078 obj=624.42905 diff=0.00503
+iter=21 terr=0.02473 serr=0.25869 act=16078 obj=619.41399 diff=0.00803
+iter=22 terr=0.02449 serr=0.26641 act=16078 obj=617.71450 diff=0.00274
+iter=23 terr=0.02300 serr=0.24710 act=16078 obj=611.83882 diff=0.00951
+iter=24 terr=0.02325 serr=0.25097 act=16078 obj=610.66535 diff=0.00192
+iter=25 terr=0.02102 serr=0.23166 act=16078 obj=608.62142 diff=0.00335
+iter=26 terr=0.02424 serr=0.26641 act=16078 obj=608.42818 diff=0.00032
+iter=27 terr=0.02251 serr=0.25097 act=16078 obj=607.39783 diff=0.00169
+iter=28 terr=0.02201 serr=0.24710 act=16078 obj=606.40611 diff=0.00163
+iter=29 terr=0.02053 serr=0.22780 act=16078 obj=605.34816 diff=0.00174
+iter=30 terr=0.02053 serr=0.22394 act=16078 obj=604.72790 diff=0.00102
+iter=31 terr=0.02102 serr=0.23166 act=16078 obj=603.82333 diff=0.00150
+iter=32 terr=0.02003 serr=0.21622 act=16078 obj=603.24721 diff=0.00095
+iter=33 terr=0.02028 serr=0.22008 act=16078 obj=602.92361 diff=0.00054
+iter=34 terr=0.02028 serr=0.22008 act=16078 obj=602.59765 diff=0.00054
+iter=35 terr=0.01979 serr=0.22008 act=16078 obj=602.33448 diff=0.00044
+iter=36 terr=0.02003 serr=0.22008 act=16078 obj=601.73569 diff=0.00099
+iter=37 terr=0.02003 serr=0.22008 act=16078 obj=601.53656 diff=0.00033
+iter=38 terr=0.02003 serr=0.22008 act=16078 obj=601.47528 diff=0.00010
+iter=39 terr=0.01954 serr=0.21236 act=16078 obj=601.37437 diff=0.00017
+iter=40 terr=0.02003 serr=0.21236 act=16078 obj=601.43638 diff=0.00010
+iter=41 terr=0.01954 serr=0.21236 act=16078 obj=601.35008 diff=0.00014
+iter=42 terr=0.01954 serr=0.21236 act=16078 obj=601.31744 diff=0.00005
+iter=43 terr=0.01979 serr=0.21622 act=16078 obj=601.25389 diff=0.00011
+iter=44 terr=0.02003 serr=0.22008 act=16078 obj=601.22194 diff=0.00005
+iter=45 terr=0.02003 serr=0.22008 act=16078 obj=601.18998 diff=0.00005
+iter=46 terr=0.02003 serr=0.22008 act=16078 obj=601.16323 diff=0.00004
+
+Done!0.31 s
+
+LOADED 8761 from the file /home/izquierdo/ruben_github/opinion_miner_deluxePP/polarity_lexicons/DE-lexicon/germanLex.txt
+opener.news.de.5/fold_4/evaluation.expression

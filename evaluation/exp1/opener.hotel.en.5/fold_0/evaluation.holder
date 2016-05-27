@@ -1,0 +1,26 @@
+##################################################
+Precision: 94.67 Total system: 75
+Most wrong on the system:
+	Freq: 2 --> I
+		['./opener_hotel/en/english00027_26d6594c56d4b49217cbe8f914a026ee.kaf#w43']
+		['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w77']
+	Freq: 1 --> We
+		['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w2']
+	Freq: 1 --> we
+		['./opener_hotel/en/english00052_4a4cd207a2954456032448bba8ffd94a.kaf#w23']
+Recall: 90.16 Total gold: 61
+Most missed from the gold:
+	Freq: 3 --> we
+		['./opener_hotel/en/english00072_4cc2e9801df78f120125f41eac84ee35.kaf#w35']
+		['./opener_hotel/en/english00196_e7d4797e483d05b860e7352beca00906.kaf#w22']
+		['./opener_hotel/en/english00205_f195ccdc0ccd520524bd7073cee0da55.kaf#w104']
+	Freq: 2 --> us
+		['./opener_hotel/en/english00100_8fd838178289a9843ec4ef6b682583c7.kaf#w16']
+		['./opener_hotel/en/english00178_d36c81d471425aaacd8b4b7e919a98d2.kaf#w70']
+	Freq: 1 --> the guests
+		['./opener_hotel/en/english00106_95e12d763c34248a2836b2b210c1cbd1.kaf#w25', './opener_hotel/en/english00106_95e12d763c34248a2836b2b210c1cbd1.kaf#w26']
+##################################################
+%%%<DATA>%%% (total_prec,ok_prec newline total_rec ok_rec
+75 71
+61 55
+%%%</DATA>%%% (type, or, wrong)

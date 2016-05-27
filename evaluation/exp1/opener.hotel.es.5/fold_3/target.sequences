@@ -1,0 +1,817 @@
+TARGET	Hotel	./opener_hotel/es/spanish00150_b214f374ada4dd0b12319c2c25a88ce0.kaf#w2
+TARGET	Hotel	./opener_hotel/es/spanish00150_b214f374ada4dd0b12319c2c25a88ce0.kaf#w2
+TARGET	personal	./opener_hotel/es/spanish00150_b214f374ada4dd0b12319c2c25a88ce0.kaf#w22
+TARGET	Hotel	./opener_hotel/es/spanish00150_b214f374ada4dd0b12319c2c25a88ce0.kaf#w18
+TARGET	personal	./opener_hotel/es/spanish00150_b214f374ada4dd0b12319c2c25a88ce0.kaf#w22
+TARGET	Hotel	./opener_hotel/es/spanish00150_b214f374ada4dd0b12319c2c25a88ce0.kaf#w18
+TARGET	personal	./opener_hotel/es/spanish00150_b214f374ada4dd0b12319c2c25a88ce0.kaf#w22
+TARGET	situacion	./opener_hotel/es/spanish00150_b214f374ada4dd0b12319c2c25a88ce0.kaf#w38
+TARGET	Pisa	./opener_hotel/es/spanish00150_b214f374ada4dd0b12319c2c25a88ce0.kaf#w46
+TARGET	relación calidad	./opener_hotel/es/spanish00031_218e191f2d48823c5e45c938d526e64a.kaf#w2 ./opener_hotel/es/spanish00031_218e191f2d48823c5e45c938d526e64a.kaf#w3
+TARGET	precio	./opener_hotel/es/spanish00031_218e191f2d48823c5e45c938d526e64a.kaf#w5
+TARGET	Camp Nou	./opener_hotel/es/spanish00031_218e191f2d48823c5e45c938d526e64a.kaf#w12 ./opener_hotel/es/spanish00031_218e191f2d48823c5e45c938d526e64a.kaf#w13
+TARGET	varios	./opener_hotel/es/spanish00031_218e191f2d48823c5e45c938d526e64a.kaf#w17
+TARGET	bar	./opener_hotel/es/spanish00031_218e191f2d48823c5e45c938d526e64a.kaf#w23
+TARGET	Mario	./opener_hotel/es/spanish00031_218e191f2d48823c5e45c938d526e64a.kaf#w25
+TARGET	un	./opener_hotel/es/spanish00031_218e191f2d48823c5e45c938d526e64a.kaf#w7
+TARGET	Camp Nou	./opener_hotel/es/spanish00031_218e191f2d48823c5e45c938d526e64a.kaf#w12 ./opener_hotel/es/spanish00031_218e191f2d48823c5e45c938d526e64a.kaf#w13
+TARGET	la estación	./opener_hotel/es/spanish00031_218e191f2d48823c5e45c938d526e64a.kaf#w75 ./opener_hotel/es/spanish00031_218e191f2d48823c5e45c938d526e64a.kaf#w76
+TARGET	trenes	./opener_hotel/es/spanish00031_218e191f2d48823c5e45c938d526e64a.kaf#w78
+TARGET	bingo	./opener_hotel/es/spanish00031_218e191f2d48823c5e45c938d526e64a.kaf#w46
+TARGET	hotel	./opener_hotel/es/spanish00153_d6542714f263e978fe55b9f2cbd923a5.kaf#w2
+TARGET	lugares	./opener_hotel/es/spanish00153_d6542714f263e978fe55b9f2cbd923a5.kaf#w31
+TARGET	instalaciones	./opener_hotel/es/spanish00153_d6542714f263e978fe55b9f2cbd923a5.kaf#w36
+TARGET	las noches	./opener_hotel/es/spanish00153_d6542714f263e978fe55b9f2cbd923a5.kaf#w27 ./opener_hotel/es/spanish00153_d6542714f263e978fe55b9f2cbd923a5.kaf#w28
+TARGET	varios lugares	./opener_hotel/es/spanish00153_d6542714f263e978fe55b9f2cbd923a5.kaf#w30 ./opener_hotel/es/spanish00153_d6542714f263e978fe55b9f2cbd923a5.kaf#w31
+TARGET	varios	./opener_hotel/es/spanish00153_d6542714f263e978fe55b9f2cbd923a5.kaf#w18
+TARGET	las noches	./opener_hotel/es/spanish00153_d6542714f263e978fe55b9f2cbd923a5.kaf#w27 ./opener_hotel/es/spanish00153_d6542714f263e978fe55b9f2cbd923a5.kaf#w28
+TARGET	servicio	./opener_hotel/es/spanish00153_d6542714f263e978fe55b9f2cbd923a5.kaf#w5
+TARGET	Hotel	./opener_hotel/es/spanish00222_f82122f491ab9032712295b4e3c35f89.kaf#w1
+TARGET	La	./opener_hotel/es/spanish00222_f82122f491ab9032712295b4e3c35f89.kaf#w14
+TARGET	Hotel	./opener_hotel/es/spanish00222_f82122f491ab9032712295b4e3c35f89.kaf#w4
+TARGET	Hotel	./opener_hotel/es/spanish00222_f82122f491ab9032712295b4e3c35f89.kaf#w4
+TARGET	un	./opener_hotel/es/spanish00222_f82122f491ab9032712295b4e3c35f89.kaf#w10
+TARGET	Personal	./opener_hotel/es/spanish00222_f82122f491ab9032712295b4e3c35f89.kaf#w39
+TARGET	este hotel	./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w32 ./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w33
+TARGET	este hotel	./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w32 ./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w33
+TARGET	este hotel	./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w32 ./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w33
+TARGET	los	./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w7
+TARGET	fachada	./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w100
+TARGET	hotel	./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w102
+TARGET	las	./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w104
+TARGET	dejar	./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w87
+TARGET	dejar	./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w87
+TARGET	dejar	./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w87
+TARGET	pubs	./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w77
+TARGET	pubs	./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w77
+TARGET	vistas hay	./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w122 ./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w123
+TARGET	pasarela	./opener_hotel/es/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37.kaf#w127
+TARGET	WIFI	./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w15
+TARGET	las habitaciones	./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w18 ./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w19
+TARGET	el	./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w25
+TARGET	el baño	./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w25 ./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w26
+TARGET	el desayuno	./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w34 ./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w35
+TARGET	el desayuno	./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w34 ./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w35
+TARGET	WIFI	./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w15
+TARGET	las	./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w18
+TARGET	lo	./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w81
+TARGET	la ubicación	./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w56 ./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w57
+TARGET	linea de	./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w65 ./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w66
+TARGET	playa	./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w67
+TARGET	la	./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w56
+TARGET	de	./opener_hotel/es/spanish00003_0345b9bf71dd687bd10a7c48e48dcb55.kaf#w74
+TARGET	todo	./opener_hotel/es/spanish00144_cb31fc812f8eb2182133eddb0a916aa0.kaf#w3
+TARGET	ubicación	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w2
+TARGET	toda	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w41
+TARGET	acondicionado	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w19
+TARGET	WIFI	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w21
+TARGET	Las habitaciones	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w3 ./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w4
+TARGET	una TV	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w9 ./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w10
+TARGET	Las habitaciones	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w3 ./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w4
+TARGET	una TV	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w9 ./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w10
+TARGET	Las habitaciones	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w3 ./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w4
+TARGET	una TV	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w9 ./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w10
+TARGET	Las habitaciones	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w3 ./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w4
+TARGET	acceso al	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w66 ./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w67
+TARGET	público	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w69
+TARGET	acceso al	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w66 ./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w67
+TARGET	público	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w69
+TARGET	acceso al	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w66 ./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w67
+TARGET	público	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w69
+TARGET	acceso al	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w66 ./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w67
+TARGET	público	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w69
+TARGET	American	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w61
+TARGET	American	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w61
+TARGET	una	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w92
+TARGET	de fitness	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w95 ./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w96
+TARGET	una	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w92
+TARGET	de fitness	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w95 ./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w96
+TARGET	de fitness	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w95 ./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w96
+TARGET	una piscina	./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w98 ./opener_hotel/es/spanish00017_105e46a49ddc58866edbc37d32e9db31.kaf#w99
+TARGET	calidad / precio	./opener_hotel/es/spanish00069_4c149aaa9611a25a5c7e36552a70ec41.kaf#w3 ./opener_hotel/es/spanish00069_4c149aaa9611a25a5c7e36552a70ec41.kaf#w4 ./opener_hotel/es/spanish00069_4c149aaa9611a25a5c7e36552a70ec41.kaf#w5
+TARGET	Las habitaciones	./opener_hotel/es/spanish00069_4c149aaa9611a25a5c7e36552a70ec41.kaf#w40 ./opener_hotel/es/spanish00069_4c149aaa9611a25a5c7e36552a70ec41.kaf#w41
+TARGET	El hotel	./opener_hotel/es/spanish00069_4c149aaa9611a25a5c7e36552a70ec41.kaf#w6 ./opener_hotel/es/spanish00069_4c149aaa9611a25a5c7e36552a70ec41.kaf#w7
+TARGET	centro	./opener_hotel/es/spanish00069_4c149aaa9611a25a5c7e36552a70ec41.kaf#w12
+TARGET	duomo	./opener_hotel/es/spanish00069_4c149aaa9611a25a5c7e36552a70ec41.kaf#w38
+TARGET	la situacion	./opener_hotel/es/spanish00069_4c149aaa9611a25a5c7e36552a70ec41.kaf#w27 ./opener_hotel/es/spanish00069_4c149aaa9611a25a5c7e36552a70ec41.kaf#w28
+TARGET	la estacion central	./opener_hotel/es/spanish00069_4c149aaa9611a25a5c7e36552a70ec41.kaf#w18 ./opener_hotel/es/spanish00069_4c149aaa9611a25a5c7e36552a70ec41.kaf#w19 ./opener_hotel/es/spanish00069_4c149aaa9611a25a5c7e36552a70ec41.kaf#w20
+TARGET	El desayuno	./opener_hotel/es/spanish00069_4c149aaa9611a25a5c7e36552a70ec41.kaf#w46 ./opener_hotel/es/spanish00069_4c149aaa9611a25a5c7e36552a70ec41.kaf#w47
+TARGET	canales	./opener_hotel/es/spanish00172_eb874ef381a1f454d77c742f3f8dfdbc.kaf#w26
+TARGET	dos	./opener_hotel/es/spanish00172_eb874ef381a1f454d77c742f3f8dfdbc.kaf#w33
+TARGET	playa	./opener_hotel/es/spanish00172_eb874ef381a1f454d77c742f3f8dfdbc.kaf#w52
+TARGET	dos	./opener_hotel/es/spanish00172_eb874ef381a1f454d77c742f3f8dfdbc.kaf#w33
+TARGET	detalles el	./opener_hotel/es/spanish00172_eb874ef381a1f454d77c742f3f8dfdbc.kaf#w35 ./opener_hotel/es/spanish00172_eb874ef381a1f454d77c742f3f8dfdbc.kaf#w36
+TARGET	trato	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w2
+TARGET	trato	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w2
+TARGET	situación del	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w5 ./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w6
+TARGET	cama	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w60
+TARGET	todo	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w35
+TARGET	de	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w12
+TARGET	la habitación	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w15 ./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w16
+TARGET	hotel	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w22
+TARGET	la	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w15
+TARGET	hotel	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w22
+TARGET	hotel	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w22
+TARGET	hotel	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w22
+TARGET	una	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w52
+TARGET	habitación	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w54
+TARGET	Gran Via	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w108 ./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w109
+TARGET	El metro	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w88 ./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w89
+TARGET	El personal de recepción	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w63 ./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w64 ./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w65 ./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w66
+TARGET	El personal	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w63 ./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w64
+TARGET	varias entradas	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w72 ./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w73
+TARGET	varias	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w72
+TARGET	espectáculos	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w75
+TARGET	El hotel	./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w133 ./opener_hotel/es/spanish00163_ba231ec60843f04782f00ec9502688f4.kaf#w134
+TARGET	El hotel	./opener_hotel/es/spanish00136_a37a59100b282467e805ca0a8111a109.kaf#w3 ./opener_hotel/es/spanish00136_a37a59100b282467e805ca0a8111a109.kaf#w4
+TARGET	El	./opener_hotel/es/spanish00136_a37a59100b282467e805ca0a8111a109.kaf#w29
+TARGET	La gente	./opener_hotel/es/spanish00136_a37a59100b282467e805ca0a8111a109.kaf#w15 ./opener_hotel/es/spanish00136_a37a59100b282467e805ca0a8111a109.kaf#w16
+TARGET	recepción	./opener_hotel/es/spanish00136_a37a59100b282467e805ca0a8111a109.kaf#w18
+TARGET	todo	./opener_hotel/es/spanish00168_bc642a37cb7cc88004be5eaeadb1a1d3.kaf#w8
+TARGET	Hotel	./opener_hotel/es/spanish00168_bc642a37cb7cc88004be5eaeadb1a1d3.kaf#w1
+TARGET	del hotel	./opener_hotel/es/spanish00168_bc642a37cb7cc88004be5eaeadb1a1d3.kaf#w102 ./opener_hotel/es/spanish00168_bc642a37cb7cc88004be5eaeadb1a1d3.kaf#w103
+TARGET	una parada	./opener_hotel/es/spanish00168_bc642a37cb7cc88004be5eaeadb1a1d3.kaf#w105 ./opener_hotel/es/spanish00168_bc642a37cb7cc88004be5eaeadb1a1d3.kaf#w106
+TARGET	habitaciones	./opener_hotel/es/spanish00168_bc642a37cb7cc88004be5eaeadb1a1d3.kaf#w116
+TARGET	madrid	./opener_hotel/es/spanish00168_bc642a37cb7cc88004be5eaeadb1a1d3.kaf#w24
+TARGET	madrid	./opener_hotel/es/spanish00168_bc642a37cb7cc88004be5eaeadb1a1d3.kaf#w24
+TARGET	madrid	./opener_hotel/es/spanish00168_bc642a37cb7cc88004be5eaeadb1a1d3.kaf#w24
+TARGET	madrid	./opener_hotel/es/spanish00168_bc642a37cb7cc88004be5eaeadb1a1d3.kaf#w24
+TARGET	madrid	./opener_hotel/es/spanish00168_bc642a37cb7cc88004be5eaeadb1a1d3.kaf#w24
+TARGET	una de	./opener_hotel/es/spanish00168_bc642a37cb7cc88004be5eaeadb1a1d3.kaf#w18 ./opener_hotel/es/spanish00168_bc642a37cb7cc88004be5eaeadb1a1d3.kaf#w19
+TARGET	un	./opener_hotel/es/spanish00087_6ab4822343682092d6601161f862022c.kaf#w11
+TARGET	opción	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w2
+TARGET	opción	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w2
+TARGET	de	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w16
+TARGET	la ciudad	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w21 ./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w22
+TARGET	las artes	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w24 ./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w25
+TARGET	el spa	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w75 ./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w76
+TARGET	el spa	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w75 ./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w76
+TARGET	el	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w75
+TARGET	el	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w75
+TARGET	La experiencia	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w51 ./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w52
+TARGET	La experiencia	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w51 ./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w52
+TARGET	una	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w59
+TARGET	habitación	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w61
+TARGET	lo	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w126
+TARGET	todo	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w116
+TARGET	el	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w89
+TARGET	ocupadas	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w100
+TARGET	mesas	./opener_hotel/es/spanish00160_b91aac116f5b4a16b33d63987a641d53.kaf#w98
+TARGET	los camareros	./opener_hotel/es/spanish00066_4b308eeee2420b21b5d1dc72998e4e4b.kaf#w16 ./opener_hotel/es/spanish00066_4b308eeee2420b21b5d1dc72998e4e4b.kaf#w17
+TARGET	todo	./opener_hotel/es/spanish00066_4b308eeee2420b21b5d1dc72998e4e4b.kaf#w21
+TARGET	restaurantes temáticos	./opener_hotel/es/spanish00066_4b308eeee2420b21b5d1dc72998e4e4b.kaf#w31 ./opener_hotel/es/spanish00066_4b308eeee2420b21b5d1dc72998e4e4b.kaf#w32
+TARGET	la piscina	./opener_hotel/es/spanish00066_4b308eeee2420b21b5d1dc72998e4e4b.kaf#w44 ./opener_hotel/es/spanish00066_4b308eeee2420b21b5d1dc72998e4e4b.kaf#w45
+TARGET	El servicio	./opener_hotel/es/spanish00066_4b308eeee2420b21b5d1dc72998e4e4b.kaf#w3 ./opener_hotel/es/spanish00066_4b308eeee2420b21b5d1dc72998e4e4b.kaf#w4
+TARGET	el personal del hotel	./opener_hotel/es/spanish00078_5b62c3ad0ebce0b8075a16bf4ee84f09.kaf#w48 ./opener_hotel/es/spanish00078_5b62c3ad0ebce0b8075a16bf4ee84f09.kaf#w49 ./opener_hotel/es/spanish00078_5b62c3ad0ebce0b8075a16bf4ee84f09.kaf#w50 ./opener_hotel/es/spanish00078_5b62c3ad0ebce0b8075a16bf4ee84f09.kaf#w51
+TARGET	las camas	./opener_hotel/es/spanish00078_5b62c3ad0ebce0b8075a16bf4ee84f09.kaf#w20 ./opener_hotel/es/spanish00078_5b62c3ad0ebce0b8075a16bf4ee84f09.kaf#w21
+TARGET	hotel	./opener_hotel/es/spanish00078_5b62c3ad0ebce0b8075a16bf4ee84f09.kaf#w13
+TARGET	las	./opener_hotel/es/spanish00078_5b62c3ad0ebce0b8075a16bf4ee84f09.kaf#w20
+TARGET	los	./opener_hotel/es/spanish00170_ea730c49db69201d0d295b7812a95a9a.kaf#w20
+TARGET	todo	./opener_hotel/es/spanish00170_ea730c49db69201d0d295b7812a95a9a.kaf#w38
+TARGET	El hotel	./opener_hotel/es/spanish00170_ea730c49db69201d0d295b7812a95a9a.kaf#w27 ./opener_hotel/es/spanish00170_ea730c49db69201d0d295b7812a95a9a.kaf#w28
+TARGET	almohadas	./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w78
+TARGET	Las habitaciones	./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w59 ./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w60
+TARGET	Las habitaciones	./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w59 ./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w60
+TARGET	las	./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w68
+TARGET	las	./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w68
+TARGET	Gran	./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w51
+TARGET	El hotel	./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w42 ./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w43
+TARGET	El bufet	./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w90 ./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w91
+TARGET	El bufet	./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w90 ./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w91
+TARGET	El trato del personal del	./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w82 ./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w83 ./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w84 ./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w85 ./opener_hotel/es/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64.kaf#w86
+TARGET	el hotel	./opener_hotel/es/spanish00123_982f413408102fb2dbd475a403015553.kaf#w3 ./opener_hotel/es/spanish00123_982f413408102fb2dbd475a403015553.kaf#w4
+TARGET	este	./opener_hotel/es/spanish00123_982f413408102fb2dbd475a403015553.kaf#w34
+TARGET	unas vistas	./opener_hotel/es/spanish00123_982f413408102fb2dbd475a403015553.kaf#w12 ./opener_hotel/es/spanish00123_982f413408102fb2dbd475a403015553.kaf#w13
+TARGET	el	./opener_hotel/es/spanish00123_982f413408102fb2dbd475a403015553.kaf#w19
+TARGET	la comida	./opener_hotel/es/spanish00123_982f413408102fb2dbd475a403015553.kaf#w23 ./opener_hotel/es/spanish00123_982f413408102fb2dbd475a403015553.kaf#w24
+TARGET	hotel	./opener_hotel/es/spanish00123_982f413408102fb2dbd475a403015553.kaf#w35
+TARGET	hotel	./opener_hotel/es/spanish00123_982f413408102fb2dbd475a403015553.kaf#w7
+TARGET	del personal	./opener_hotel/es/spanish00035_23cb84b546ee2a0419379c4914341985.kaf#w28 ./opener_hotel/es/spanish00035_23cb84b546ee2a0419379c4914341985.kaf#w29
+TARGET	el mobiliario	./opener_hotel/es/spanish00035_23cb84b546ee2a0419379c4914341985.kaf#w33 ./opener_hotel/es/spanish00035_23cb84b546ee2a0419379c4914341985.kaf#w34
+TARGET	mobiliario	./opener_hotel/es/spanish00035_23cb84b546ee2a0419379c4914341985.kaf#w34
+TARGET	·	./opener_hotel/es/spanish00035_23cb84b546ee2a0419379c4914341985.kaf#w8
+TARGET	el	./opener_hotel/es/spanish00035_23cb84b546ee2a0419379c4914341985.kaf#w11
+TARGET	la	./opener_hotel/es/spanish00035_23cb84b546ee2a0419379c4914341985.kaf#w21
+TARGET	localización	./opener_hotel/es/spanish00209_eb5e9c148854747300a514fc5d52b554.kaf#w4
+TARGET	Localización	./opener_hotel/es/spanish00209_eb5e9c148854747300a514fc5d52b554.kaf#w19
+TARGET	Duomo	./opener_hotel/es/spanish00209_eb5e9c148854747300a514fc5d52b554.kaf#w32
+TARGET	la estación de tren	./opener_hotel/es/spanish00209_eb5e9c148854747300a514fc5d52b554.kaf#w10 ./opener_hotel/es/spanish00209_eb5e9c148854747300a514fc5d52b554.kaf#w11 ./opener_hotel/es/spanish00209_eb5e9c148854747300a514fc5d52b554.kaf#w12 ./opener_hotel/es/spanish00209_eb5e9c148854747300a514fc5d52b554.kaf#w13
+TARGET	la estación de tren	./opener_hotel/es/spanish00209_eb5e9c148854747300a514fc5d52b554.kaf#w10 ./opener_hotel/es/spanish00209_eb5e9c148854747300a514fc5d52b554.kaf#w11 ./opener_hotel/es/spanish00209_eb5e9c148854747300a514fc5d52b554.kaf#w12 ./opener_hotel/es/spanish00209_eb5e9c148854747300a514fc5d52b554.kaf#w13
+TARGET	equipaje	./opener_hotel/es/spanish00209_eb5e9c148854747300a514fc5d52b554.kaf#w67
+TARGET	personal	./opener_hotel/es/spanish00209_eb5e9c148854747300a514fc5d52b554.kaf#w62
+TARGET	aire	./opener_hotel/es/spanish00209_eb5e9c148854747300a514fc5d52b554.kaf#w35
+TARGET	al Camp Nou	./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w2 ./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w3 ./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w4
+TARGET	Camp Nou	./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w3 ./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w4
+TARGET	Zona	./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w14
+TARGET	calidad ·	./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w9 ./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w10
+TARGET	calidad · precio	./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w9 ./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w10 ./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w11
+TARGET	acceso desdel el	./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w24 ./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w25 ./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w26
+TARGET	el taxi	./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w47 ./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w48
+TARGET	Metro	./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w17
+TARGET	cercano	./opener_hotel/es/spanish00111_a0b26a0f335f1c26828e1e80a088ffb2.kaf#w18
+TARGET	El hotel	./opener_hotel/es/spanish00008_08449c5282653ca7847b2918bbce3c25.kaf#w17 ./opener_hotel/es/spanish00008_08449c5282653ca7847b2918bbce3c25.kaf#w18
+TARGET	Estancia	./opener_hotel/es/spanish00008_08449c5282653ca7847b2918bbce3c25.kaf#w2
+TARGET	Estancia	./opener_hotel/es/spanish00008_08449c5282653ca7847b2918bbce3c25.kaf#w2
+TARGET	Estancia	./opener_hotel/es/spanish00008_08449c5282653ca7847b2918bbce3c25.kaf#w2
+TARGET	Estancia	./opener_hotel/es/spanish00008_08449c5282653ca7847b2918bbce3c25.kaf#w2
+TARGET	cama	./opener_hotel/es/spanish00008_08449c5282653ca7847b2918bbce3c25.kaf#w12
+TARGET	Nuestra estancia	./opener_hotel/es/spanish00184_d12300c0c9e98abee3c43bfa1c35c5f8.kaf#w34 ./opener_hotel/es/spanish00184_d12300c0c9e98abee3c43bfa1c35c5f8.kaf#w35
+TARGET	piscina	./opener_hotel/es/spanish00184_d12300c0c9e98abee3c43bfa1c35c5f8.kaf#w70
+TARGET	piscina	./opener_hotel/es/spanish00184_d12300c0c9e98abee3c43bfa1c35c5f8.kaf#w74
+TARGET	un oasis	./opener_hotel/es/spanish00184_d12300c0c9e98abee3c43bfa1c35c5f8.kaf#w123 ./opener_hotel/es/spanish00184_d12300c0c9e98abee3c43bfa1c35c5f8.kaf#w124
+TARGET	de aparcamiento	./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w36 ./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w37
+TARGET	precio	./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w83
+TARGET	Sevilla	./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w46
+TARGET	pueblo	./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w53
+TARGET	Sevilla	./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w46
+TARGET	pueblo	./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w53
+TARGET	todos los empleados	./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w16 ./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w17 ./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w18
+TARGET	Sevilla	./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w46
+TARGET	de	./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w36
+TARGET	ruidos	./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w41
+TARGET	Sevilla	./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w46
+TARGET	de aparcamiento	./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w36 ./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w37
+TARGET	ruidos	./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w41
+TARGET	Sevilla	./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w46
+TARGET	Relación calidad precio	./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w7 ./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w8 ./opener_hotel/es/spanish00146_cd49456e6e7ba91e3bf6e734376f33fc.kaf#w9
+TARGET	La habitación	./opener_hotel/es/spanish00175_c5581fcdc2ea4acce334b2d183e32a0f.kaf#w11 ./opener_hotel/es/spanish00175_c5581fcdc2ea4acce334b2d183e32a0f.kaf#w12
+TARGET	La habitación	./opener_hotel/es/spanish00175_c5581fcdc2ea4acce334b2d183e32a0f.kaf#w11 ./opener_hotel/es/spanish00175_c5581fcdc2ea4acce334b2d183e32a0f.kaf#w12
+TARGET	aire acondicionado	./opener_hotel/es/spanish00175_c5581fcdc2ea4acce334b2d183e32a0f.kaf#w17 ./opener_hotel/es/spanish00175_c5581fcdc2ea4acce334b2d183e32a0f.kaf#w18
+TARGET	recepción	./opener_hotel/es/spanish00175_c5581fcdc2ea4acce334b2d183e32a0f.kaf#w8
+TARGET	ciudades	./opener_hotel/es/spanish00175_c5581fcdc2ea4acce334b2d183e32a0f.kaf#w51
+TARGET	pena	./opener_hotel/es/spanish00175_c5581fcdc2ea4acce334b2d183e32a0f.kaf#w59
+TARGET	pena	./opener_hotel/es/spanish00175_c5581fcdc2ea4acce334b2d183e32a0f.kaf#w59
+TARGET	El desayuno	./opener_hotel/es/spanish00175_c5581fcdc2ea4acce334b2d183e32a0f.kaf#w35 ./opener_hotel/es/spanish00175_c5581fcdc2ea4acce334b2d183e32a0f.kaf#w36
+TARGET	El baño	./opener_hotel/es/spanish00175_c5581fcdc2ea4acce334b2d183e32a0f.kaf#w20 ./opener_hotel/es/spanish00175_c5581fcdc2ea4acce334b2d183e32a0f.kaf#w21
+TARGET	vacaciones	./opener_hotel/es/spanish00102_7a53ce1ab4f87ebceed38bcff3a685eb.kaf#w2
+TARGET	restaurantes	./opener_hotel/es/spanish00102_7a53ce1ab4f87ebceed38bcff3a685eb.kaf#w42
+TARGET	unas vacaciones	./opener_hotel/es/spanish00102_7a53ce1ab4f87ebceed38bcff3a685eb.kaf#w28 ./opener_hotel/es/spanish00102_7a53ce1ab4f87ebceed38bcff3a685eb.kaf#w29
+TARGET	vacaciones	./opener_hotel/es/spanish00102_7a53ce1ab4f87ebceed38bcff3a685eb.kaf#w29
+TARGET	Este hotel	./opener_hotel/es/spanish00106_812457aa48fd6d31e41fcc8290b7e205.kaf#w11 ./opener_hotel/es/spanish00106_812457aa48fd6d31e41fcc8290b7e205.kaf#w12
+TARGET	eleccion	./opener_hotel/es/spanish00106_812457aa48fd6d31e41fcc8290b7e205.kaf#w18
+TARGET	comida	./opener_hotel/es/spanish00106_812457aa48fd6d31e41fcc8290b7e205.kaf#w85
+TARGET	comida	./opener_hotel/es/spanish00106_812457aa48fd6d31e41fcc8290b7e205.kaf#w85
+TARGET	comida	./opener_hotel/es/spanish00106_812457aa48fd6d31e41fcc8290b7e205.kaf#w85
+TARGET	unas ofertas	./opener_hotel/es/spanish00106_812457aa48fd6d31e41fcc8290b7e205.kaf#w59 ./opener_hotel/es/spanish00106_812457aa48fd6d31e41fcc8290b7e205.kaf#w60
+TARGET	cursos	./opener_hotel/es/spanish00106_812457aa48fd6d31e41fcc8290b7e205.kaf#w64
+TARGET	precios	./opener_hotel/es/spanish00106_812457aa48fd6d31e41fcc8290b7e205.kaf#w39
+TARGET	hotel	./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w2
+TARGET	de	./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w6
+TARGET	cadena be	./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w72 ./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w73
+TARGET	la playa	./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w13 ./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w14
+TARGET	el	./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w19
+TARGET	sabanas	./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w36
+TARGET	toallas	./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w40
+TARGET	servicio del	./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w20 ./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w21
+TARGET	aspectos	./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w27
+TARGET	habitaciones	./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w32
+TARGET	habitaciones	./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w32
+TARGET	sabanas	./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w36
+TARGET	el servicio	./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w60 ./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w61
+TARGET	de	./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w66
+TARGET	sup	./opener_hotel/es/spanish00075_53cfce87414fd55c63ccbea3cfa5e6cc.kaf#w69
+TARGET	un restaurante	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w65 ./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w66
+TARGET	para cenar	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w68 ./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w69
+TARGET	relacion	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w74
+TARGET	precio.el	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w76
+TARGET	hotel	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w63
+TARGET	restaurante	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w66
+TARGET	cenar	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w69
+TARGET	de	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w32
+TARGET	el	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w34
+TARGET	chica de	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w83 ./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w84
+TARGET	mañana	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w86
+TARGET	chica de	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w83 ./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w84
+TARGET	mañana	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w86
+TARGET	chica de	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w83 ./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w84
+TARGET	mañana	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w86
+TARGET	todo	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w133
+TARGET	todo	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w133
+TARGET	todo	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w133
+TARGET	la	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w111
+TARGET	para cenar	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w68 ./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w69
+TARGET	relacion calidad precio.el	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w74 ./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w75 ./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w76
+TARGET	el	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w20
+TARGET	al cliente	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w105 ./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w106
+TARGET	hablemos	./opener_hotel/es/spanish00019_1357f8354a7de64724b5a42c802152eb.kaf#w109
+TARGET	Ubicación	./opener_hotel/es/spanish00128_9c8e6c57ae18569202da64208f028103.kaf#w11
+TARGET	servicio	./opener_hotel/es/spanish00128_9c8e6c57ae18569202da64208f028103.kaf#w6
+TARGET	calidad	./opener_hotel/es/spanish00128_9c8e6c57ae18569202da64208f028103.kaf#w8
+TARGET	servicio	./opener_hotel/es/spanish00128_9c8e6c57ae18569202da64208f028103.kaf#w6
+TARGET	calidad	./opener_hotel/es/spanish00128_9c8e6c57ae18569202da64208f028103.kaf#w8
+TARGET	Sofitel	./opener_hotel/es/spanish00128_9c8e6c57ae18569202da64208f028103.kaf#w9
+TARGET	Tranquilo	./opener_hotel/es/spanish00128_9c8e6c57ae18569202da64208f028103.kaf#w30
+TARGET	una terraza	./opener_hotel/es/spanish00128_9c8e6c57ae18569202da64208f028103.kaf#w35 ./opener_hotel/es/spanish00128_9c8e6c57ae18569202da64208f028103.kaf#w36
+TARGET	vista del	./opener_hotel/es/spanish00128_9c8e6c57ae18569202da64208f028103.kaf#w26 ./opener_hotel/es/spanish00128_9c8e6c57ae18569202da64208f028103.kaf#w27
+TARGET	Elección	./opener_hotel/es/spanish00128_9c8e6c57ae18569202da64208f028103.kaf#w39
+TARGET	calidad · precio	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w2 ./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w3 ./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w4
+TARGET	un comedor	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w37 ./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w38
+TARGET	cocina	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w41
+TARGET	un comedor	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w37 ./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w38
+TARGET	cocina	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w41
+TARGET	un comedor	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w37 ./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w38
+TARGET	cocina	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w41
+TARGET	un comedor	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w37 ./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w38
+TARGET	cocina	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w41
+TARGET	apartamentos	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w11
+TARGET	su precio	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w15 ./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w16
+TARGET	apartamentos	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w11
+TARGET	oferta	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w21
+TARGET	internet	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w25
+TARGET	estos apartamentos	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w10 ./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w11
+TARGET	la parada de autobús	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w54 ./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w55 ./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w56 ./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w57
+TARGET	Pisa	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w75
+TARGET	autobús	./opener_hotel/es/spanish00230_ff37d2c19e35bff0b856ecd59fae7e89.kaf#w78
+TARGET	Estancia	./opener_hotel/es/spanish00098_7815a0ced14790cec1b63bb7edef6a65.kaf#w1
+TARGET	ruido	./opener_hotel/es/spanish00098_7815a0ced14790cec1b63bb7edef6a65.kaf#w5
+TARGET	Estancia	./opener_hotel/es/spanish00098_7815a0ced14790cec1b63bb7edef6a65.kaf#w1
+TARGET	ruido	./opener_hotel/es/spanish00098_7815a0ced14790cec1b63bb7edef6a65.kaf#w5
+TARGET	Estancia	./opener_hotel/es/spanish00098_7815a0ced14790cec1b63bb7edef6a65.kaf#w1
+TARGET	ruido	./opener_hotel/es/spanish00098_7815a0ced14790cec1b63bb7edef6a65.kaf#w5
+TARGET	tapones	./opener_hotel/es/spanish00098_7815a0ced14790cec1b63bb7edef6a65.kaf#w48
+TARGET	donde	./opener_hotel/es/spanish00098_7815a0ced14790cec1b63bb7edef6a65.kaf#w72
+TARGET	las persianas	./opener_hotel/es/spanish00098_7815a0ced14790cec1b63bb7edef6a65.kaf#w98 ./opener_hotel/es/spanish00098_7815a0ced14790cec1b63bb7edef6a65.kaf#w99
+TARGET	las máscaras	./opener_hotel/es/spanish00098_7815a0ced14790cec1b63bb7edef6a65.kaf#w90 ./opener_hotel/es/spanish00098_7815a0ced14790cec1b63bb7edef6a65.kaf#w91
+TARGET	servicio	./opener_hotel/es/spanish00090_8c9edb1aa6d61a6469d83af55c5e962b.kaf#w2
+TARGET	este	./opener_hotel/es/spanish00090_8c9edb1aa6d61a6469d83af55c5e962b.kaf#w35
+TARGET	la calefacción	./opener_hotel/es/spanish00090_8c9edb1aa6d61a6469d83af55c5e962b.kaf#w58 ./opener_hotel/es/spanish00090_8c9edb1aa6d61a6469d83af55c5e962b.kaf#w59
+TARGET	Las habitaciones	./opener_hotel/es/spanish00090_8c9edb1aa6d61a6469d83af55c5e962b.kaf#w51 ./opener_hotel/es/spanish00090_8c9edb1aa6d61a6469d83af55c5e962b.kaf#w52
+TARGET	punto	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w2
+TARGET	ruidos	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w30
+TARGET	las noches	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w32 ./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w33
+TARGET	silencio	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w35
+TARGET	habitacion	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w27
+TARGET	ruidos	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w30
+TARGET	las noches	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w32 ./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w33
+TARGET	cafetera	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w20
+TARGET	cafetera	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w20
+TARGET	minibar	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w22
+TARGET	la habitacion	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w14 ./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w15
+TARGET	Los espacios	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w81 ./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w82
+TARGET	estancia	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w130
+TARGET	hotel	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w133
+TARGET	la estancia	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w129 ./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w130
+TARGET	parking	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w102
+TARGET	para	./opener_hotel/es/spanish00139_c316a763ce17f22144ae66a16aba8143.kaf#w119
+TARGET	la plaza	./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w48 ./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w49
+TARGET	la plaza	./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w48 ./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w49
+TARGET	La ubicación del hotel	./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w36 ./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w37 ./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w38 ./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w39
+TARGET	con ella	./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w33 ./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w34
+TARGET	los trabajadores	./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w59 ./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w60
+TARGET	hotel	./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w62
+TARGET	las	./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w67
+TARGET	habitaciones	./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w68
+TARGET	este hotel	./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w133 ./opener_hotel/es/spanish00159_b86a874820c8688f4e9095647e9dda72.kaf#w134
+TARGET	Hotel	./opener_hotel/es/spanish00089_8bd6d4f821febdd78c091a964d839ec7.kaf#w1
+TARGET	El hotel	./opener_hotel/es/spanish00089_8bd6d4f821febdd78c091a964d839ec7.kaf#w21 ./opener_hotel/es/spanish00089_8bd6d4f821febdd78c091a964d839ec7.kaf#w22
+TARGET	metro	./opener_hotel/es/spanish00089_8bd6d4f821febdd78c091a964d839ec7.kaf#w27
+TARGET	las camas	./opener_hotel/es/spanish00089_8bd6d4f821febdd78c091a964d839ec7.kaf#w84 ./opener_hotel/es/spanish00089_8bd6d4f821febdd78c091a964d839ec7.kaf#w85
+TARGET	nuestra	./opener_hotel/es/spanish00089_8bd6d4f821febdd78c091a964d839ec7.kaf#w71
+TARGET	el desayuno	./opener_hotel/es/spanish00089_8bd6d4f821febdd78c091a964d839ec7.kaf#w60 ./opener_hotel/es/spanish00089_8bd6d4f821febdd78c091a964d839ec7.kaf#w61
+TARGET	Spa	./opener_hotel/es/spanish00089_8bd6d4f821febdd78c091a964d839ec7.kaf#w54
+TARGET	el desayuno	./opener_hotel/es/spanish00089_8bd6d4f821febdd78c091a964d839ec7.kaf#w60 ./opener_hotel/es/spanish00089_8bd6d4f821febdd78c091a964d839ec7.kaf#w61
+TARGET	del Spa	./opener_hotel/es/spanish00089_8bd6d4f821febdd78c091a964d839ec7.kaf#w53 ./opener_hotel/es/spanish00089_8bd6d4f821febdd78c091a964d839ec7.kaf#w54
+TARGET	comodas	./opener_hotel/es/spanish00038_2e1aa42e31b48ac566f96ebe2628f963.kaf#w20
+TARGET	el	./opener_hotel/es/spanish00038_2e1aa42e31b48ac566f96ebe2628f963.kaf#w10
+TARGET	camino	./opener_hotel/es/spanish00038_2e1aa42e31b48ac566f96ebe2628f963.kaf#w41
+TARGET	La comida	./opener_hotel/es/spanish00038_2e1aa42e31b48ac566f96ebe2628f963.kaf#w22 ./opener_hotel/es/spanish00038_2e1aa42e31b48ac566f96ebe2628f963.kaf#w23
+TARGET	La comida	./opener_hotel/es/spanish00038_2e1aa42e31b48ac566f96ebe2628f963.kaf#w22 ./opener_hotel/es/spanish00038_2e1aa42e31b48ac566f96ebe2628f963.kaf#w23
+TARGET	todo pensado	./opener_hotel/es/spanish00038_2e1aa42e31b48ac566f96ebe2628f963.kaf#w28 ./opener_hotel/es/spanish00038_2e1aa42e31b48ac566f96ebe2628f963.kaf#w29
+TARGET	zona	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w6
+TARGET	Hotel	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w1
+TARGET	el metro	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w28 ./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w29
+TARGET	el metro	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w28 ./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w29
+TARGET	La situción	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w14 ./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w15
+TARGET	Las habitaciones	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w52 ./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w53
+TARGET	varios	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w59
+TARGET	varios detalles	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w59 ./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w60
+TARGET	habitación	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w70
+TARGET	un restaurante	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w37 ./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w38
+TARGET	el	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w47
+TARGET	un restaurante	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w37 ./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w38
+TARGET	un restaurante	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w37 ./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w38
+TARGET	el personal	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w47 ./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w48
+TARGET	El baño	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w140 ./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w141
+TARGET	la	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w143
+TARGET	El baño	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w140 ./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w141
+TARGET	la	./opener_hotel/es/spanish00203_e5e4a15da16ce20119b3a4ac5b6f0d36.kaf#w143
+TARGET	todo	./opener_hotel/es/spanish00060_5926791520174519ad5789f77c186191.kaf#w10
+TARGET	lo	./opener_hotel/es/spanish00060_5926791520174519ad5789f77c186191.kaf#w37
+TARGET	todo	./opener_hotel/es/spanish00060_5926791520174519ad5789f77c186191.kaf#w10
+TARGET	el personal	./opener_hotel/es/spanish00173_ec866c3aef718cd4ebf899cb1ec2433c.kaf#w19 ./opener_hotel/es/spanish00173_ec866c3aef718cd4ebf899cb1ec2433c.kaf#w20
+TARGET	todas	./opener_hotel/es/spanish00173_ec866c3aef718cd4ebf899cb1ec2433c.kaf#w31
+TARGET	El Spa	./opener_hotel/es/spanish00173_ec866c3aef718cd4ebf899cb1ec2433c.kaf#w2 ./opener_hotel/es/spanish00173_ec866c3aef718cd4ebf899cb1ec2433c.kaf#w3
+TARGET	Gran	./opener_hotel/es/spanish00173_ec866c3aef718cd4ebf899cb1ec2433c.kaf#w52
+TARGET	de	./opener_hotel/es/spanish00173_ec866c3aef718cd4ebf899cb1ec2433c.kaf#w54
+TARGET	de	./opener_hotel/es/spanish00173_ec866c3aef718cd4ebf899cb1ec2433c.kaf#w54
+TARGET	relación calidad	./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w3 ./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w4
+TARGET	precio	./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w6
+TARGET	lobby	./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w16
+TARGET	Hotel	./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w18
+TARGET	habitaciones	./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w27
+TARGET	habitaciones	./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w27
+TARGET	el desayuno	./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w47 ./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w48
+TARGET	un minibar	./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w38 ./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w39
+TARGET	un minibar	./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w38 ./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w39
+TARGET	el desayuno	./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w47 ./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w48
+TARGET	el	./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w8
+TARGET	lobby	./opener_hotel/es/spanish00116_a5f962e8d54e00dc24de0075b70e983d.kaf#w16
+TARGET	La habitación	./opener_hotel/es/spanish00116_8e13c243838e8810fbba3ac179d6eb59.kaf#w19 ./opener_hotel/es/spanish00116_8e13c243838e8810fbba3ac179d6eb59.kaf#w20
+TARGET	insonorización	./opener_hotel/es/spanish00116_8e13c243838e8810fbba3ac179d6eb59.kaf#w27
+TARGET	El personal	./opener_hotel/es/spanish00116_8e13c243838e8810fbba3ac179d6eb59.kaf#w8 ./opener_hotel/es/spanish00116_8e13c243838e8810fbba3ac179d6eb59.kaf#w9
+TARGET	hotel	./opener_hotel/es/spanish00116_8e13c243838e8810fbba3ac179d6eb59.kaf#w11
+TARGET	estación	./opener_hotel/es/spanish00116_8e13c243838e8810fbba3ac179d6eb59.kaf#w40
+TARGET	parada de	./opener_hotel/es/spanish00116_8e13c243838e8810fbba3ac179d6eb59.kaf#w55 ./opener_hotel/es/spanish00116_8e13c243838e8810fbba3ac179d6eb59.kaf#w56
+TARGET	habitación	./opener_hotel/es/spanish00196_dba3a9bd1f6f0d5a8aa1a870bfc7572f.kaf#w22
+TARGET	El hotel	./opener_hotel/es/spanish00196_dba3a9bd1f6f0d5a8aa1a870bfc7572f.kaf#w4 ./opener_hotel/es/spanish00196_dba3a9bd1f6f0d5a8aa1a870bfc7572f.kaf#w5
+TARGET	hotel	./opener_hotel/es/spanish00196_dba3a9bd1f6f0d5a8aa1a870bfc7572f.kaf#w5
+TARGET	El hotel	./opener_hotel/es/spanish00196_dba3a9bd1f6f0d5a8aa1a870bfc7572f.kaf#w4 ./opener_hotel/es/spanish00196_dba3a9bd1f6f0d5a8aa1a870bfc7572f.kaf#w5
+TARGET	servicio	./opener_hotel/es/spanish00196_dba3a9bd1f6f0d5a8aa1a870bfc7572f.kaf#w57
+TARGET	habitaciones	./opener_hotel/es/spanish00196_dba3a9bd1f6f0d5a8aa1a870bfc7572f.kaf#w59
+TARGET	este	./opener_hotel/es/spanish00196_dba3a9bd1f6f0d5a8aa1a870bfc7572f.kaf#w50
+TARGET	El trato	./opener_hotel/es/spanish00196_dba3a9bd1f6f0d5a8aa1a870bfc7572f.kaf#w33 ./opener_hotel/es/spanish00196_dba3a9bd1f6f0d5a8aa1a870bfc7572f.kaf#w34
+TARGET	recepción	./opener_hotel/es/spanish00196_dba3a9bd1f6f0d5a8aa1a870bfc7572f.kaf#w36
+TARGET	hotel	./opener_hotel/es/spanish00196_dba3a9bd1f6f0d5a8aa1a870bfc7572f.kaf#w118
+TARGET	hidromasaje	./opener_hotel/es/spanish00005_041241d87b92a96194dfa0744fb2a76c.kaf#w29
+TARGET	la azotea	./opener_hotel/es/spanish00005_041241d87b92a96194dfa0744fb2a76c.kaf#w31 ./opener_hotel/es/spanish00005_041241d87b92a96194dfa0744fb2a76c.kaf#w32
+TARGET	la tele	./opener_hotel/es/spanish00005_041241d87b92a96194dfa0744fb2a76c.kaf#w20 ./opener_hotel/es/spanish00005_041241d87b92a96194dfa0744fb2a76c.kaf#w21
+TARGET	la tele	./opener_hotel/es/spanish00005_041241d87b92a96194dfa0744fb2a76c.kaf#w20 ./opener_hotel/es/spanish00005_041241d87b92a96194dfa0744fb2a76c.kaf#w21
+TARGET	tele	./opener_hotel/es/spanish00005_041241d87b92a96194dfa0744fb2a76c.kaf#w21
+TARGET	la tele	./opener_hotel/es/spanish00005_041241d87b92a96194dfa0744fb2a76c.kaf#w20 ./opener_hotel/es/spanish00005_041241d87b92a96194dfa0744fb2a76c.kaf#w21
+TARGET	instalaciones	./opener_hotel/es/spanish00005_041241d87b92a96194dfa0744fb2a76c.kaf#w9
+TARGET	El wifi	./opener_hotel/es/spanish00005_041241d87b92a96194dfa0744fb2a76c.kaf#w43 ./opener_hotel/es/spanish00005_041241d87b92a96194dfa0744fb2a76c.kaf#w44
+TARGET	El SPA	./opener_hotel/es/spanish00005_041241d87b92a96194dfa0744fb2a76c.kaf#w53 ./opener_hotel/es/spanish00005_041241d87b92a96194dfa0744fb2a76c.kaf#w54
+TARGET	El hotel	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w41 ./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w42
+TARGET	de la	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w51 ./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w52
+TARGET	teatro	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w61
+TARGET	teatro	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w61
+TARGET	teatro	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w61
+TARGET	una	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w22
+TARGET	una	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w22
+TARGET	una	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w22
+TARGET	El hotel	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w5 ./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w6
+TARGET	azotea	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w28
+TARGET	hotel	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w30
+TARGET	unas	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w34
+TARGET	unas	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w34
+TARGET	El Spa del hotel	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w86 ./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w87 ./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w88 ./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w89
+TARGET	El Spa	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w86 ./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w87
+TARGET	ningún ruido	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w79 ./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w80
+TARGET	Las habitaciones	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w69 ./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w70
+TARGET	Las habitaciones	./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w69 ./opener_hotel/es/spanish00058_57c69b12817b06bd3e15ed62b7832c72.kaf#w70
+TARGET	hotel	./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w2
+TARGET	Servicio Red Level de lujo	./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w17 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w18 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w19 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w20 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w21
+TARGET	Servicio Red Level de lujo	./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w17 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w18 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w19 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w20 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w21
+TARGET	Servicio Red Level de lujo	./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w17 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w18 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w19 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w20 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w21
+TARGET	Servicio Red Level de lujo	./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w17 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w18 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w19 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w20 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w21
+TARGET	Servicio Red Level de lujo	./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w17 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w18 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w19 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w20 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w21
+TARGET	Servicio Red Level	./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w17 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w18 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w19
+TARGET	acceso	./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w23
+TARGET	una situación	./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w44 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w45
+TARGET	hotel	./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w39
+TARGET	una	./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w44
+TARGET	la habitación	./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w6 ./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w7
+TARGET	Servicio	./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w3
+TARGET	la	./opener_hotel/es/spanish00006_05ec7e73d35976800a636d95a990fe1d.kaf#w6
+TARGET	ruido	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w22
+TARGET	La	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w7
+TARGET	La habitación	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w57 ./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w58
+TARGET	Todo	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w88
+TARGET	Todo	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w88
+TARGET	un	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w76
+TARGET	un	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w76
+TARGET	baño	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w80
+TARGET	habitación	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w84
+TARGET	El desayuno	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w116 ./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w117
+TARGET	El desayuno	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w116 ./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w117
+TARGET	bollería	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w124
+TARGET	El desayuno	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w116 ./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w117
+TARGET	bollería	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w124
+TARGET	El desayuno	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w116 ./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w117
+TARGET	bollería	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w124
+TARGET	El desayuno	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w116 ./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w117
+TARGET	bollería	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w124
+TARGET	El desayuno	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w116 ./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w117
+TARGET	bollería	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w124
+TARGET	relación calidad precio	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w142 ./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w143 ./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w144
+TARGET	Los dueños	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w96 ./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w97
+TARGET	unas personas	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w99 ./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w100
+TARGET	Los	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w96
+TARGET	unas personas	./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w99 ./opener_hotel/es/spanish00179_c979608c748bf9aefbb7dd5bc98bb536.kaf#w100
+TARGET	nuestra	./opener_hotel/es/spanish00138_a63d89d6552f34a6ba09b69bffd8b9bb.kaf#w38
+TARGET	las habitacione	./opener_hotel/es/spanish00138_a63d89d6552f34a6ba09b69bffd8b9bb.kaf#w29 ./opener_hotel/es/spanish00138_a63d89d6552f34a6ba09b69bffd8b9bb.kaf#w30
+TARGET	habitacione	./opener_hotel/es/spanish00138_a63d89d6552f34a6ba09b69bffd8b9bb.kaf#w30
+TARGET	nuestra	./opener_hotel/es/spanish00138_a63d89d6552f34a6ba09b69bffd8b9bb.kaf#w38
+TARGET	El	./opener_hotel/es/spanish00138_a63d89d6552f34a6ba09b69bffd8b9bb.kaf#w22
+TARGET	las	./opener_hotel/es/spanish00138_a63d89d6552f34a6ba09b69bffd8b9bb.kaf#w29
+TARGET	apartamentos	./opener_hotel/es/spanish00138_a63d89d6552f34a6ba09b69bffd8b9bb.kaf#w3
+TARGET	estancia en	./opener_hotel/es/spanish00138_a63d89d6552f34a6ba09b69bffd8b9bb.kaf#w8 ./opener_hotel/es/spanish00138_a63d89d6552f34a6ba09b69bffd8b9bb.kaf#w9
+TARGET	Son apartamentos	./opener_hotel/es/spanish00138_a63d89d6552f34a6ba09b69bffd8b9bb.kaf#w2 ./opener_hotel/es/spanish00138_a63d89d6552f34a6ba09b69bffd8b9bb.kaf#w3
+TARGET	trato	./opener_hotel/es/spanish00138_a63d89d6552f34a6ba09b69bffd8b9bb.kaf#w61
+TARGET	localización	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w131
+TARGET	/ precio	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w24 ./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w25
+TARGET	estancia	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w5
+TARGET	comida	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w67
+TARGET	comida	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w67
+TARGET	Un	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w77
+TARGET	las habitaciones	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w80 ./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w81
+TARGET	comida	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w67
+TARGET	las habitaciones	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w69 ./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w70
+TARGET	Las habitaciones	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w32 ./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w33
+TARGET	las camas	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w37 ./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w38
+TARGET	las camas	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w37 ./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w38
+TARGET	el	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w46
+TARGET	el cuarto de	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w46 ./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w47 ./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w48
+TARGET	Un	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w96
+TARGET	el desayuno	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w99 ./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w100
+TARGET	El desayuno	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w83 ./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w84
+TARGET	El	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w83
+TARGET	personal del hotel	./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w106 ./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w107 ./opener_hotel/es/spanish00083_65f1250d1bf450de170a6882671473c0.kaf#w108
+TARGET	Un	./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w1
+TARGET	Paris	./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w7
+TARGET	Un	./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w1
+TARGET	un servicio	./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w14 ./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w15
+TARGET	Un	./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w8
+TARGET	Un	./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w8
+TARGET	un	./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w14
+TARGET	el barrio	./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w30 ./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w31
+TARGET	el	./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w30
+TARGET	restaurantes	./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w36
+TARGET	cafés	./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w38
+TARGET	El hotel	./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w78 ./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w79
+TARGET	centro	./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w86
+TARGET	una parada de metro	./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w90 ./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w91 ./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w92 ./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w93
+TARGET	Las habitaciones	./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w68 ./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w69
+TARGET	varios autobuses	./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w106 ./opener_hotel/es/spanish00177_c7993af8befc2c094026d97aa5a3e8b1.kaf#w107
+TARGET	familiar	./opener_hotel/es/spanish00202_e59641ac917a4ddb5186b19a73aea279.kaf#w6
+TARGET	todo	./opener_hotel/es/spanish00202_e59641ac917a4ddb5186b19a73aea279.kaf#w14
+TARGET	El hotel	./opener_hotel/es/spanish00202_e59641ac917a4ddb5186b19a73aea279.kaf#w7 ./opener_hotel/es/spanish00202_e59641ac917a4ddb5186b19a73aea279.kaf#w8
+TARGET	todo	./opener_hotel/es/spanish00202_e59641ac917a4ddb5186b19a73aea279.kaf#w14
+TARGET	la ubicación	./opener_hotel/es/spanish00202_e59641ac917a4ddb5186b19a73aea279.kaf#w79 ./opener_hotel/es/spanish00202_e59641ac917a4ddb5186b19a73aea279.kaf#w80
+TARGET	La ubicación	./opener_hotel/es/spanish00202_e59641ac917a4ddb5186b19a73aea279.kaf#w36 ./opener_hotel/es/spanish00202_e59641ac917a4ddb5186b19a73aea279.kaf#w37
+TARGET	entrada	./opener_hotel/es/spanish00202_e59641ac917a4ddb5186b19a73aea279.kaf#w42
+TARGET	sitio	./opener_hotel/es/spanish00202_e59641ac917a4ddb5186b19a73aea279.kaf#w73
+TARGET	La ubicación	./opener_hotel/es/spanish00202_e59641ac917a4ddb5186b19a73aea279.kaf#w36 ./opener_hotel/es/spanish00202_e59641ac917a4ddb5186b19a73aea279.kaf#w37
+TARGET	de la	./opener_hotel/es/spanish00202_e59641ac917a4ddb5186b19a73aea279.kaf#w43 ./opener_hotel/es/spanish00202_e59641ac917a4ddb5186b19a73aea279.kaf#w44
+TARGET	duomo	./opener_hotel/es/spanish00202_e59641ac917a4ddb5186b19a73aea279.kaf#w47
+TARGET	Todo	./opener_hotel/es/spanish00130_9d998d0ac310e9aa5c643de2f594b848.kaf#w1
+TARGET	Todo	./opener_hotel/es/spanish00130_9d998d0ac310e9aa5c643de2f594b848.kaf#w1
+TARGET	el	./opener_hotel/es/spanish00130_9d998d0ac310e9aa5c643de2f594b848.kaf#w32
+TARGET	actividades	./opener_hotel/es/spanish00130_9d998d0ac310e9aa5c643de2f594b848.kaf#w40
+TARGET	el personal	./opener_hotel/es/spanish00130_9d998d0ac310e9aa5c643de2f594b848.kaf#w32 ./opener_hotel/es/spanish00130_9d998d0ac310e9aa5c643de2f594b848.kaf#w33
+TARGET	restaurantes	./opener_hotel/es/spanish00130_9d998d0ac310e9aa5c643de2f594b848.kaf#w16
+TARGET	limpieza	./opener_hotel/es/spanish00130_9d998d0ac310e9aa5c643de2f594b848.kaf#w27
+TARGET	limpieza	./opener_hotel/es/spanish00130_9d998d0ac310e9aa5c643de2f594b848.kaf#w27
+TARGET	el	./opener_hotel/es/spanish00092_8dec41bff6768e19ab2868ceecbbf103.kaf#w40
+TARGET	el	./opener_hotel/es/spanish00092_8dec41bff6768e19ab2868ceecbbf103.kaf#w40
+TARGET	el	./opener_hotel/es/spanish00092_8dec41bff6768e19ab2868ceecbbf103.kaf#w40
+TARGET	Apartamentos	./opener_hotel/es/spanish00092_8dec41bff6768e19ab2868ceecbbf103.kaf#w4
+TARGET	en	./opener_hotel/es/spanish00092_8dec41bff6768e19ab2868ceecbbf103.kaf#w7
+TARGET	El precio	./opener_hotel/es/spanish00028_1ea3b04cbd98d6a1514c544024cd25cb.kaf#w12 ./opener_hotel/es/spanish00028_1ea3b04cbd98d6a1514c544024cd25cb.kaf#w13
+TARGET	la	./opener_hotel/es/spanish00028_1ea3b04cbd98d6a1514c544024cd25cb.kaf#w17
+TARGET	El	./opener_hotel/es/spanish00028_1ea3b04cbd98d6a1514c544024cd25cb.kaf#w12
+TARGET	la calidad	./opener_hotel/es/spanish00028_1ea3b04cbd98d6a1514c544024cd25cb.kaf#w17 ./opener_hotel/es/spanish00028_1ea3b04cbd98d6a1514c544024cd25cb.kaf#w18
+TARGET	este	./opener_hotel/es/spanish00028_1ea3b04cbd98d6a1514c544024cd25cb.kaf#w6
+TARGET	de Madrid	./opener_hotel/es/spanish00028_1ea3b04cbd98d6a1514c544024cd25cb.kaf#w9 ./opener_hotel/es/spanish00028_1ea3b04cbd98d6a1514c544024cd25cb.kaf#w10
+TARGET	tipo de	./opener_hotel/es/spanish00028_1ea3b04cbd98d6a1514c544024cd25cb.kaf#w26 ./opener_hotel/es/spanish00028_1ea3b04cbd98d6a1514c544024cd25cb.kaf#w27
+TARGET	La habitación	./opener_hotel/es/spanish00028_1ea3b04cbd98d6a1514c544024cd25cb.kaf#w22 ./opener_hotel/es/spanish00028_1ea3b04cbd98d6a1514c544024cd25cb.kaf#w23
+TARGET	hotel	./opener_hotel/es/spanish00120_94ffc2ae2b49e658b811654f1b2ab2ad.kaf#w2
+TARGET	centro	./opener_hotel/es/spanish00120_94ffc2ae2b49e658b811654f1b2ab2ad.kaf#w5
+TARGET	hotel	./opener_hotel/es/spanish00120_94ffc2ae2b49e658b811654f1b2ab2ad.kaf#w2
+TARGET	Las habitaciones	./opener_hotel/es/spanish00120_94ffc2ae2b49e658b811654f1b2ab2ad.kaf#w27 ./opener_hotel/es/spanish00120_94ffc2ae2b49e658b811654f1b2ab2ad.kaf#w28
+TARGET	Las habitaciones	./opener_hotel/es/spanish00120_94ffc2ae2b49e658b811654f1b2ab2ad.kaf#w27 ./opener_hotel/es/spanish00120_94ffc2ae2b49e658b811654f1b2ab2ad.kaf#w28
+TARGET	el personal	./opener_hotel/es/spanish00120_94ffc2ae2b49e658b811654f1b2ab2ad.kaf#w41 ./opener_hotel/es/spanish00120_94ffc2ae2b49e658b811654f1b2ab2ad.kaf#w42
+TARGET	el	./opener_hotel/es/spanish00120_94ffc2ae2b49e658b811654f1b2ab2ad.kaf#w41
+TARGET	una zona	./opener_hotel/es/spanish00120_94ffc2ae2b49e658b811654f1b2ab2ad.kaf#w61 ./opener_hotel/es/spanish00120_94ffc2ae2b49e658b811654f1b2ab2ad.kaf#w62
+TARGET	centro	./opener_hotel/es/spanish00120_94ffc2ae2b49e658b811654f1b2ab2ad.kaf#w66
+TARGET	la zona	./opener_hotel/es/spanish00120_94ffc2ae2b49e658b811654f1b2ab2ad.kaf#w82 ./opener_hotel/es/spanish00120_94ffc2ae2b49e658b811654f1b2ab2ad.kaf#w83
+TARGET	nada	./opener_hotel/es/spanish00120_94ffc2ae2b49e658b811654f1b2ab2ad.kaf#w87
+TARGET	hotel	./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w2
+TARGET	Camp	./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w6
+TARGET	Camp	./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w57
+TARGET	limpieza	./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w26
+TARGET	el desayuno	./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w30 ./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w31
+TARGET	El	./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w8
+TARGET	ocho plantas	./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w12 ./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w13
+TARGET	de habitaciones	./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w22 ./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w23
+TARGET	La limpieza	./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w25 ./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w26
+TARGET	buffet	./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w33
+TARGET	La limpieza	./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w25 ./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w26
+TARGET	el desayuno	./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w30 ./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w31
+TARGET	buffet	./opener_hotel/es/spanish00145_cb759f0c83445611c480895d0e80b364.kaf#w33
+TARGET	hotel	./opener_hotel/es/spanish00014_0ec2f31d4afba1051eb93f0e284ca237.kaf#w3
+TARGET	playa	./opener_hotel/es/spanish00014_0ec2f31d4afba1051eb93f0e284ca237.kaf#w36
+TARGET	bares	./opener_hotel/es/spanish00014_0ec2f31d4afba1051eb93f0e284ca237.kaf#w39
+TARGET	comida	./opener_hotel/es/spanish00014_0ec2f31d4afba1051eb93f0e284ca237.kaf#w50
+TARGET	unos bares	./opener_hotel/es/spanish00014_0ec2f31d4afba1051eb93f0e284ca237.kaf#w38 ./opener_hotel/es/spanish00014_0ec2f31d4afba1051eb93f0e284ca237.kaf#w39
+TARGET	un	./opener_hotel/es/spanish00014_0ec2f31d4afba1051eb93f0e284ca237.kaf#w42
+TARGET	comida	./opener_hotel/es/spanish00014_0ec2f31d4afba1051eb93f0e284ca237.kaf#w50
+TARGET	bares	./opener_hotel/es/spanish00014_0ec2f31d4afba1051eb93f0e284ca237.kaf#w39
+TARGET	bares	./opener_hotel/es/spanish00014_0ec2f31d4afba1051eb93f0e284ca237.kaf#w39
+TARGET	un personal	./opener_hotel/es/spanish00014_0ec2f31d4afba1051eb93f0e284ca237.kaf#w42 ./opener_hotel/es/spanish00014_0ec2f31d4afba1051eb93f0e284ca237.kaf#w43
+TARGET	lugar	./opener_hotel/es/spanish00014_0ec2f31d4afba1051eb93f0e284ca237.kaf#w56
+TARGET	relación calidad precio	./opener_hotel/es/spanish00134_a12288b61bcb4d1c11e9bc5b71293207.kaf#w2 ./opener_hotel/es/spanish00134_a12288b61bcb4d1c11e9bc5b71293207.kaf#w3 ./opener_hotel/es/spanish00134_a12288b61bcb4d1c11e9bc5b71293207.kaf#w4
+TARGET	La relación	./opener_hotel/es/spanish00134_a12288b61bcb4d1c11e9bc5b71293207.kaf#w13 ./opener_hotel/es/spanish00134_a12288b61bcb4d1c11e9bc5b71293207.kaf#w14
+TARGET	precio	./opener_hotel/es/spanish00134_a12288b61bcb4d1c11e9bc5b71293207.kaf#w16
+TARGET	buffet libre	./opener_hotel/es/spanish00134_a12288b61bcb4d1c11e9bc5b71293207.kaf#w72 ./opener_hotel/es/spanish00134_a12288b61bcb4d1c11e9bc5b71293207.kaf#w73
+TARGET	mañana	./opener_hotel/es/spanish00134_a12288b61bcb4d1c11e9bc5b71293207.kaf#w78
+TARGET	La habitación	./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w39 ./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w40
+TARGET	habitación	./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w40
+TARGET	Gran	./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w23
+TARGET	el acceso	./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w30 ./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w31
+TARGET	Gran	./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w23
+TARGET	el acceso	./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w30 ./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w31
+TARGET	Gran	./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w23
+TARGET	el acceso	./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w30 ./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w31
+TARGET	este	./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w13
+TARGET	de la	./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w21 ./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w22
+TARGET	Las vistas	./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w62 ./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w63
+TARGET	la terraza	./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w65 ./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w66
+TARGET	La amabilidad del personal	./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w48 ./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w49 ./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w50 ./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w51
+TARGET	la limpieza	./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w55 ./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w56
+TARGET	amabilidad	./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w49
+TARGET	la limpieza	./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w55 ./opener_hotel/es/spanish00154_d76c0f4bbd80ebf97b069cbcaed538e8.kaf#w56
+TARGET	La ubicación	./opener_hotel/es/spanish00210_ebcdfd84cdf559716cce82043dad2121.kaf#w32 ./opener_hotel/es/spanish00210_ebcdfd84cdf559716cce82043dad2121.kaf#w33
+TARGET	un entorno	./opener_hotel/es/spanish00210_ebcdfd84cdf559716cce82043dad2121.kaf#w37 ./opener_hotel/es/spanish00210_ebcdfd84cdf559716cce82043dad2121.kaf#w38
+TARGET	La ubicación	./opener_hotel/es/spanish00210_ebcdfd84cdf559716cce82043dad2121.kaf#w32 ./opener_hotel/es/spanish00210_ebcdfd84cdf559716cce82043dad2121.kaf#w33
+TARGET	un entorno	./opener_hotel/es/spanish00210_ebcdfd84cdf559716cce82043dad2121.kaf#w37 ./opener_hotel/es/spanish00210_ebcdfd84cdf559716cce82043dad2121.kaf#w38
+TARGET	el servicio de	./opener_hotel/es/spanish00210_ebcdfd84cdf559716cce82043dad2121.kaf#w65 ./opener_hotel/es/spanish00210_ebcdfd84cdf559716cce82043dad2121.kaf#w66 ./opener_hotel/es/spanish00210_ebcdfd84cdf559716cce82043dad2121.kaf#w67
+TARGET	servicio de	./opener_hotel/es/spanish00210_ebcdfd84cdf559716cce82043dad2121.kaf#w66 ./opener_hotel/es/spanish00210_ebcdfd84cdf559716cce82043dad2121.kaf#w67
+TARGET	La limpieza	./opener_hotel/es/spanish00210_ebcdfd84cdf559716cce82043dad2121.kaf#w91 ./opener_hotel/es/spanish00210_ebcdfd84cdf559716cce82043dad2121.kaf#w92
+TARGET	Los desayunos	./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w21 ./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w22
+TARGET	las	./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w27
+TARGET	Los desayunos	./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w21 ./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w22
+TARGET	habitaciones	./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w28
+TARGET	Los desayunos	./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w21 ./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w22
+TARGET	las habitaciones	./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w27 ./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w28
+TARGET	al metro	./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w16 ./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w17
+TARGET	Roma	./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w19
+TARGET	muchas tiendas	./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w40 ./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w41
+TARGET	muchas tiendas	./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w40 ./opener_hotel/es/spanish00182_cfcb5709d70b220be597df9c362f22a0.kaf#w41
+TARGET	Unas	./opener_hotel/es/spanish00184_fd764b971d55a098208df69cde05ef60.kaf#w1
+TARGET	vacaciones	./opener_hotel/es/spanish00184_fd764b971d55a098208df69cde05ef60.kaf#w3
+TARGET	el personal	./opener_hotel/es/spanish00184_fd764b971d55a098208df69cde05ef60.kaf#w36 ./opener_hotel/es/spanish00184_fd764b971d55a098208df69cde05ef60.kaf#w37
+TARGET	las	./opener_hotel/es/spanish00184_fd764b971d55a098208df69cde05ef60.kaf#w46
+TARGET	las	./opener_hotel/es/spanish00184_fd764b971d55a098208df69cde05ef60.kaf#w46
+TARGET	comodidades del	./opener_hotel/es/spanish00184_fd764b971d55a098208df69cde05ef60.kaf#w48 ./opener_hotel/es/spanish00184_fd764b971d55a098208df69cde05ef60.kaf#w49
+TARGET	Senator	./opener_hotel/es/spanish00184_fd764b971d55a098208df69cde05ef60.kaf#w22
+TARGET	Hotel	./opener_hotel/es/spanish00184_fd764b971d55a098208df69cde05ef60.kaf#w25
+TARGET	elección	./opener_hotel/es/spanish00184_fd764b971d55a098208df69cde05ef60.kaf#w32
+TARGET	unos	./opener_hotel/es/spanish00184_fd764b971d55a098208df69cde05ef60.kaf#w58
+TARGET	servicio	./opener_hotel/es/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a.kaf#w2
+TARGET	servicio	./opener_hotel/es/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a.kaf#w2
+TARGET	situación	./opener_hotel/es/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a.kaf#w5
+TARGET	personal	./opener_hotel/es/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a.kaf#w24
+TARGET	la	./opener_hotel/es/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a.kaf#w29
+TARGET	sus habitaciones	./opener_hotel/es/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a.kaf#w32 ./opener_hotel/es/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a.kaf#w33
+TARGET	este	./opener_hotel/es/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a.kaf#w9
+TARGET	atención	./opener_hotel/es/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a.kaf#w21
+TARGET	su personal	./opener_hotel/es/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a.kaf#w23 ./opener_hotel/es/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a.kaf#w24
+TARGET	la	./opener_hotel/es/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a.kaf#w29
+TARGET	una zona	./opener_hotel/es/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a.kaf#w15 ./opener_hotel/es/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a.kaf#w16
+TARGET	la	./opener_hotel/es/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a.kaf#w20
+TARGET	el desayuno	./opener_hotel/es/spanish00161_dde65b9bafc35b5dc8dbc362a2d76ca4.kaf#w14 ./opener_hotel/es/spanish00161_dde65b9bafc35b5dc8dbc362a2d76ca4.kaf#w15
+TARGET	la	./opener_hotel/es/spanish00161_dde65b9bafc35b5dc8dbc362a2d76ca4.kaf#w20
+TARGET	habitacion	./opener_hotel/es/spanish00161_dde65b9bafc35b5dc8dbc362a2d76ca4.kaf#w21
+TARGET	las ventanas	./opener_hotel/es/spanish00161_dde65b9bafc35b5dc8dbc362a2d76ca4.kaf#w26 ./opener_hotel/es/spanish00161_dde65b9bafc35b5dc8dbc362a2d76ca4.kaf#w27
+TARGET	las ventanas	./opener_hotel/es/spanish00161_dde65b9bafc35b5dc8dbc362a2d76ca4.kaf#w26 ./opener_hotel/es/spanish00161_dde65b9bafc35b5dc8dbc362a2d76ca4.kaf#w27
+TARGET	la	./opener_hotel/es/spanish00161_dde65b9bafc35b5dc8dbc362a2d76ca4.kaf#w33
+TARGET	hotel	./opener_hotel/es/spanish00161_dde65b9bafc35b5dc8dbc362a2d76ca4.kaf#w5
+TARGET	el	./opener_hotel/es/spanish00161_dde65b9bafc35b5dc8dbc362a2d76ca4.kaf#w14
+TARGET	precio	./opener_hotel/es/spanish00108_9efedc9e4058c0e426c93359b92a0786.kaf#w41
+TARGET	limpieza	./opener_hotel/es/spanish00108_9efedc9e4058c0e426c93359b92a0786.kaf#w22
+TARGET	limpieza	./opener_hotel/es/spanish00108_9efedc9e4058c0e426c93359b92a0786.kaf#w22
+TARGET	precio	./opener_hotel/es/spanish00108_9efedc9e4058c0e426c93359b92a0786.kaf#w41
+TARGET	lo	./opener_hotel/es/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143.kaf#w106
+TARGET	lo	./opener_hotel/es/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143.kaf#w106
+TARGET	Campamento base	./opener_hotel/es/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143.kaf#w2 ./opener_hotel/es/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143.kaf#w3
+TARGET	la ubicación	./opener_hotel/es/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143.kaf#w30 ./opener_hotel/es/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143.kaf#w31
+TARGET	la estancia	./opener_hotel/es/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143.kaf#w26 ./opener_hotel/es/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143.kaf#w27
+TARGET	Las habitaciones	./opener_hotel/es/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143.kaf#w45 ./opener_hotel/es/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143.kaf#w46
+TARGET	El trato	./opener_hotel/es/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143.kaf#w67 ./opener_hotel/es/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143.kaf#w68
+TARGET	El trato	./opener_hotel/es/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143.kaf#w67 ./opener_hotel/es/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143.kaf#w68
+TARGET	El desayuno	./opener_hotel/es/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143.kaf#w56 ./opener_hotel/es/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143.kaf#w57
+TARGET	relación calidad	./opener_hotel/es/spanish00021_15865d824d46e98d9522f78f0b79948f.kaf#w3 ./opener_hotel/es/spanish00021_15865d824d46e98d9522f78f0b79948f.kaf#w4
+TARGET	precio	./opener_hotel/es/spanish00021_15865d824d46e98d9522f78f0b79948f.kaf#w6
+TARGET	Personal	./opener_hotel/es/spanish00021_15865d824d46e98d9522f78f0b79948f.kaf#w19
+TARGET	infusiones	./opener_hotel/es/spanish00021_15865d824d46e98d9522f78f0b79948f.kaf#w35
+TARGET	café en la habitación	./opener_hotel/es/spanish00021_15865d824d46e98d9522f78f0b79948f.kaf#w37 ./opener_hotel/es/spanish00021_15865d824d46e98d9522f78f0b79948f.kaf#w38 ./opener_hotel/es/spanish00021_15865d824d46e98d9522f78f0b79948f.kaf#w39 ./opener_hotel/es/spanish00021_15865d824d46e98d9522f78f0b79948f.kaf#w40
+TARGET	ruido	./opener_hotel/es/spanish00021_15865d824d46e98d9522f78f0b79948f.kaf#w56
+TARGET	línea de metro	./opener_hotel/es/spanish00021_15865d824d46e98d9522f78f0b79948f.kaf#w59 ./opener_hotel/es/spanish00021_15865d824d46e98d9522f78f0b79948f.kaf#w60 ./opener_hotel/es/spanish00021_15865d824d46e98d9522f78f0b79948f.kaf#w61
+TARGET	la	./opener_hotel/es/spanish00021_15865d824d46e98d9522f78f0b79948f.kaf#w12
+TARGET	precio	./opener_hotel/es/spanish00021_15865d824d46e98d9522f78f0b79948f.kaf#w15
+TARGET	instalaciones	./opener_hotel/es/spanish00048_48f6669c0284cb702bc513a116936e69.kaf#w7
+TARGET	el	./opener_hotel/es/spanish00048_48f6669c0284cb702bc513a116936e69.kaf#w11
+TARGET	servicio	./opener_hotel/es/spanish00048_48f6669c0284cb702bc513a116936e69.kaf#w17
+TARGET	Hotel	./opener_hotel/es/spanish00109_a02a2d35e3e735fe2d9368d496f520f5.kaf#w1
+TARGET	precios	./opener_hotel/es/spanish00109_a02a2d35e3e735fe2d9368d496f520f5.kaf#w4
+TARGET	Hotel	./opener_hotel/es/spanish00109_a02a2d35e3e735fe2d9368d496f520f5.kaf#w1
+TARGET	precios	./opener_hotel/es/spanish00109_a02a2d35e3e735fe2d9368d496f520f5.kaf#w4
+TARGET	limpieza	./opener_hotel/es/spanish00109_a02a2d35e3e735fe2d9368d496f520f5.kaf#w42
+TARGET	limpieza	./opener_hotel/es/spanish00109_a02a2d35e3e735fe2d9368d496f520f5.kaf#w42
+TARGET	una limpieza	./opener_hotel/es/spanish00109_a02a2d35e3e735fe2d9368d496f520f5.kaf#w41 ./opener_hotel/es/spanish00109_a02a2d35e3e735fe2d9368d496f520f5.kaf#w42
+TARGET	Suermercados	./opener_hotel/es/spanish00109_a02a2d35e3e735fe2d9368d496f520f5.kaf#w30
+TARGET	hotel	./opener_hotel/es/spanish00109_a02a2d35e3e735fe2d9368d496f520f5.kaf#w7
+TARGET	lo	./opener_hotel/es/spanish00109_a02a2d35e3e735fe2d9368d496f520f5.kaf#w48
+TARGET	El hotel	./opener_hotel/es/spanish00091_8d1f866f0f62993fd8433ef7a70842b8.kaf#w1 ./opener_hotel/es/spanish00091_8d1f866f0f62993fd8433ef7a70842b8.kaf#w2
+TARGET	Museos	./opener_hotel/es/spanish00091_8d1f866f0f62993fd8433ef7a70842b8.kaf#w35
+TARGET	Museos	./opener_hotel/es/spanish00091_8d1f866f0f62993fd8433ef7a70842b8.kaf#w35
+TARGET	Museos	./opener_hotel/es/spanish00091_8d1f866f0f62993fd8433ef7a70842b8.kaf#w35
+TARGET	Museos	./opener_hotel/es/spanish00091_8d1f866f0f62993fd8433ef7a70842b8.kaf#w35
+TARGET	estancia	./opener_hotel/es/spanish00091_8d1f866f0f62993fd8433ef7a70842b8.kaf#w11
+TARGET	situacion	./opener_hotel/es/spanish00091_8d1f866f0f62993fd8433ef7a70842b8.kaf#w19
+TARGET	todo	./opener_hotel/es/spanish00091_8d1f866f0f62993fd8433ef7a70842b8.kaf#w53
+TARGET	unas vistas	./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w38 ./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w39
+TARGET	vistas preciosas	./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w39 ./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w40
+TARGET	mantenimiento	./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w115
+TARGET	un hotel	./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w5 ./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w6
+TARGET	un hotel	./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w5 ./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w6
+TARGET	las habitaciones	./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w68 ./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w69
+TARGET	precio	./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w77
+TARGET	hotel	./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w103
+TARGET	un lavado	./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w107 ./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w108
+TARGET	hotel	./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w103
+TARGET	un lavado	./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w107 ./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w108
+TARGET	personal	./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w21
+TARGET	mobiliario	./opener_hotel/es/spanish00172_bf69ca6910c0aa687b0eab91d0353fd1.kaf#w129
+TARGET	parking	./opener_hotel/es/spanish00011_0b31903c2b34197d5c820594cd3ba016.kaf#w78
+TARGET	Lo	./opener_hotel/es/spanish00011_0b31903c2b34197d5c820594cd3ba016.kaf#w67
+TARGET	todo	./opener_hotel/es/spanish00011_0b31903c2b34197d5c820594cd3ba016.kaf#w70
+TARGET	garaje	./opener_hotel/es/spanish00011_0b31903c2b34197d5c820594cd3ba016.kaf#w74
+TARGET	parking	./opener_hotel/es/spanish00011_0b31903c2b34197d5c820594cd3ba016.kaf#w78
+TARGET	variedad	./opener_hotel/es/spanish00011_0b31903c2b34197d5c820594cd3ba016.kaf#w43
+TARGET	el	./opener_hotel/es/spanish00011_0b31903c2b34197d5c820594cd3ba016.kaf#w49
+TARGET	el spa	./opener_hotel/es/spanish00011_0b31903c2b34197d5c820594cd3ba016.kaf#w49 ./opener_hotel/es/spanish00011_0b31903c2b34197d5c820594cd3ba016.kaf#w50
+TARGET	la experiencia	./opener_hotel/es/spanish00011_0b31903c2b34197d5c820594cd3ba016.kaf#w18 ./opener_hotel/es/spanish00011_0b31903c2b34197d5c820594cd3ba016.kaf#w19
+TARGET	el	./opener_hotel/es/spanish00011_0b31903c2b34197d5c820594cd3ba016.kaf#w25
+TARGET	de metro	./opener_hotel/es/spanish00114_a2592552b4130ba3dd89438b48f85d30.kaf#w13 ./opener_hotel/es/spanish00114_a2592552b4130ba3dd89438b48f85d30.kaf#w14
+TARGET	metro	./opener_hotel/es/spanish00114_a2592552b4130ba3dd89438b48f85d30.kaf#w14
+TARGET	puerta	./opener_hotel/es/spanish00114_a2592552b4130ba3dd89438b48f85d30.kaf#w17
+TARGET	teatro	./opener_hotel/es/spanish00114_a2592552b4130ba3dd89438b48f85d30.kaf#w21
+TARGET	punto	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w2
+TARGET	habitacion	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w27
+TARGET	ruidos	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w30
+TARGET	las noches	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w32 ./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w33
+TARGET	ruidos	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w30
+TARGET	las noches	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w32 ./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w33
+TARGET	silencio	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w35
+TARGET	cafetera	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w20
+TARGET	minibar	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w22
+TARGET	la habitacion	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w14 ./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w15
+TARGET	Los espacios	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w81 ./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w82
+TARGET	estancia	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w130
+TARGET	hotel	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w133
+TARGET	la estancia	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w129 ./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w130
+TARGET	parking	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w102
+TARGET	El coche	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w96 ./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w97
+TARGET	club	./opener_hotel/es/spanish00173_c316a763ce17f22144ae66a16aba8143.kaf#w107
+TARGET	La limpieza	./opener_hotel/es/spanish00029_1f64649ab1a66811fbed9de432799ad3.kaf#w27 ./opener_hotel/es/spanish00029_1f64649ab1a66811fbed9de432799ad3.kaf#w28
+TARGET	el	./opener_hotel/es/spanish00029_1f64649ab1a66811fbed9de432799ad3.kaf#w31
+TARGET	el desayuno	./opener_hotel/es/spanish00029_1f64649ab1a66811fbed9de432799ad3.kaf#w31 ./opener_hotel/es/spanish00029_1f64649ab1a66811fbed9de432799ad3.kaf#w32
+TARGET	La limpieza	./opener_hotel/es/spanish00029_1f64649ab1a66811fbed9de432799ad3.kaf#w27 ./opener_hotel/es/spanish00029_1f64649ab1a66811fbed9de432799ad3.kaf#w28
+TARGET	el desayuno	./opener_hotel/es/spanish00029_1f64649ab1a66811fbed9de432799ad3.kaf#w31 ./opener_hotel/es/spanish00029_1f64649ab1a66811fbed9de432799ad3.kaf#w32
+TARGET	Gran	./opener_hotel/es/spanish00029_1f64649ab1a66811fbed9de432799ad3.kaf#w55
+TARGET	Gran Via	./opener_hotel/es/spanish00029_1f64649ab1a66811fbed9de432799ad3.kaf#w55 ./opener_hotel/es/spanish00029_1f64649ab1a66811fbed9de432799ad3.kaf#w56
+TARGET	ruidos	./opener_hotel/es/spanish00029_1f64649ab1a66811fbed9de432799ad3.kaf#w59
+TARGET	Gran Via	./opener_hotel/es/spanish00029_1f64649ab1a66811fbed9de432799ad3.kaf#w55 ./opener_hotel/es/spanish00029_1f64649ab1a66811fbed9de432799ad3.kaf#w56
+TARGET	lo	./opener_hotel/es/spanish00029_1f64649ab1a66811fbed9de432799ad3.kaf#w22
+TARGET	Un	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w1
+TARGET	todo	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w5
+TARGET	Un lugar	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w1 ./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w2
+TARGET	todo	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w5
+TARGET	la	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w39
+TARGET	un	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w19
+TARGET	de nuestra estancia	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w11 ./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w12 ./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w13
+TARGET	apartamentos	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w16
+TARGET	Los apartamentos	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w42 ./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w43
+TARGET	Los apartamentos	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w42 ./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w43
+TARGET	una	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w48
+TARGET	las barbacoas	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w82 ./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w83
+TARGET	vistas de	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w87 ./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w88
+TARGET	una terraza	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w97 ./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w98
+TARGET	donde por la noches	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w100 ./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w101 ./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w102 ./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w103
+TARGET	unos apartamentos	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w149 ./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w150
+TARGET	una estancia	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w154 ./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w155
+TARGET	apartamentos	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w150
+TARGET	estancia	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w155
+TARGET	apartamentos	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w150
+TARGET	estancia	./opener_hotel/es/spanish00054_3ec5470f2900a98af32da15f06b77a4f.kaf#w155
+TARGET	las facilidades	./opener_hotel/es/spanish00206_e943aa7420f77bb225611c0cdd2babee.kaf#w19 ./opener_hotel/es/spanish00206_e943aa7420f77bb225611c0cdd2babee.kaf#w20
+TARGET	facilidades	./opener_hotel/es/spanish00206_e943aa7420f77bb225611c0cdd2babee.kaf#w20
+TARGET	facilidades	./opener_hotel/es/spanish00206_e943aa7420f77bb225611c0cdd2babee.kaf#w20
+TARGET	las atenciones	./opener_hotel/es/spanish00206_e943aa7420f77bb225611c0cdd2babee.kaf#w6 ./opener_hotel/es/spanish00206_e943aa7420f77bb225611c0cdd2babee.kaf#w7
+TARGET	las comidas	./opener_hotel/es/spanish00206_e943aa7420f77bb225611c0cdd2babee.kaf#w10 ./opener_hotel/es/spanish00206_e943aa7420f77bb225611c0cdd2babee.kaf#w11
+TARGET	comidas	./opener_hotel/es/spanish00206_e943aa7420f77bb225611c0cdd2babee.kaf#w11
+TARGET	las facilidades	./opener_hotel/es/spanish00206_e943aa7420f77bb225611c0cdd2babee.kaf#w19 ./opener_hotel/es/spanish00206_e943aa7420f77bb225611c0cdd2babee.kaf#w20
+TARGET	las	./opener_hotel/es/spanish00206_e943aa7420f77bb225611c0cdd2babee.kaf#w6
+TARGET	las comidas	./opener_hotel/es/spanish00206_e943aa7420f77bb225611c0cdd2babee.kaf#w10 ./opener_hotel/es/spanish00206_e943aa7420f77bb225611c0cdd2babee.kaf#w11
+TARGET	bienestar	./opener_hotel/es/spanish00140_c8b0416e9712b01b6cc94da872ef8899.kaf#w5
+TARGET	de	./opener_hotel/es/spanish00140_c8b0416e9712b01b6cc94da872ef8899.kaf#w2
+TARGET	la	./opener_hotel/es/spanish00140_c8b0416e9712b01b6cc94da872ef8899.kaf#w32
+TARGET	multitud de	./opener_hotel/es/spanish00140_c8b0416e9712b01b6cc94da872ef8899.kaf#w38 ./opener_hotel/es/spanish00140_c8b0416e9712b01b6cc94da872ef8899.kaf#w39
+TARGET	la	./opener_hotel/es/spanish00140_c8b0416e9712b01b6cc94da872ef8899.kaf#w32
+TARGET	de posibilidades	./opener_hotel/es/spanish00140_c8b0416e9712b01b6cc94da872ef8899.kaf#w39 ./opener_hotel/es/spanish00140_c8b0416e9712b01b6cc94da872ef8899.kaf#w40
+TARGET	Un	./opener_hotel/es/spanish00140_c8b0416e9712b01b6cc94da872ef8899.kaf#w6
+TARGET	Un hotel	./opener_hotel/es/spanish00140_c8b0416e9712b01b6cc94da872ef8899.kaf#w6 ./opener_hotel/es/spanish00140_c8b0416e9712b01b6cc94da872ef8899.kaf#w7
+TARGET	la vista	./opener_hotel/es/spanish00140_c8b0416e9712b01b6cc94da872ef8899.kaf#w32 ./opener_hotel/es/spanish00140_c8b0416e9712b01b6cc94da872ef8899.kaf#w33
+TARGET	la vista	./opener_hotel/es/spanish00140_c8b0416e9712b01b6cc94da872ef8899.kaf#w32 ./opener_hotel/es/spanish00140_c8b0416e9712b01b6cc94da872ef8899.kaf#w33

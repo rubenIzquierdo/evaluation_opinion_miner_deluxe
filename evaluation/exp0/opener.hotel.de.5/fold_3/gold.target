@@ -1,0 +1,603 @@
+TARGET	Hotel	./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w8
+TARGET	eine Suite	./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w43 ./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w44
+TARGET	Doppelzimmer	./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w19
+TARGET	Ein einfaches DZ	./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w85 ./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w86 ./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w87
+TARGET	Wohnung	./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w58
+TARGET	Bad	./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w79
+TARGET	Das Frühstück	./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w94 ./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w95
+TARGET	die Art und Weise wie es angeboten wird	./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w105 ./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w106 ./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w107 ./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w108 ./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w110 ./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w111 ./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w112 ./opener_hotel/de/german00169_b67ea58987a0debfd15a4047461438d1.kaf#w113
+TARGET	Strecken	./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w105
+TARGET	Das Essen	./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w17 ./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w18
+TARGET	Die Lage	./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w30 ./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w31
+TARGET	Terrasse	./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w22
+TARGET	San Miniato	./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w57 ./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w58
+TARGET	Montopoli	./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w55
+TARGET	Vinci	./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w40
+TARGET	Florenz	./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w38
+TARGET	Pisa	./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w36
+TARGET	Lucca	./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w34
+TARGET	Pool	./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w86
+TARGET	Die Besitzer	./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w64 ./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w65
+TARGET	Joggen	./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w96
+TARGET	Bahnen	./opener_hotel/de/german00147_9f762ef77218055d3be658ed40936d3b.kaf#w89
+TARGET	Vom Zimmer · Balkon	./opener_hotel/de/german00090_8e8d2bd07d07aeba3907987373a377c1.kaf#w1 ./opener_hotel/de/german00090_8e8d2bd07d07aeba3907987373a377c1.kaf#w2 ./opener_hotel/de/german00090_8e8d2bd07d07aeba3907987373a377c1.kaf#w3 ./opener_hotel/de/german00090_8e8d2bd07d07aeba3907987373a377c1.kaf#w4
+TARGET	die Zimmer im 3. Stock	./opener_hotel/de/german00090_8e8d2bd07d07aeba3907987373a377c1.kaf#w48 ./opener_hotel/de/german00090_8e8d2bd07d07aeba3907987373a377c1.kaf#w49 ./opener_hotel/de/german00090_8e8d2bd07d07aeba3907987373a377c1.kaf#w50 ./opener_hotel/de/german00090_8e8d2bd07d07aeba3907987373a377c1.kaf#w51 ./opener_hotel/de/german00090_8e8d2bd07d07aeba3907987373a377c1.kaf#w52
+TARGET	Balkon	./opener_hotel/de/german00090_8e8d2bd07d07aeba3907987373a377c1.kaf#w58
+TARGET	Hotel	./opener_hotel/de/german00090_8e8d2bd07d07aeba3907987373a377c1.kaf#w22
+TARGET	Das Hotel	./opener_hotel/de/german00090_8e8d2bd07d07aeba3907987373a377c1.kaf#w10 ./opener_hotel/de/german00090_8e8d2bd07d07aeba3907987373a377c1.kaf#w11
+TARGET	bei dem	./opener_hotel/de/german00090_8e8d2bd07d07aeba3907987373a377c1.kaf#w26 ./opener_hotel/de/german00090_8e8d2bd07d07aeba3907987373a377c1.kaf#w27
+TARGET	Zimmer	./opener_hotel/de/german00080_55bb22e61eebf171d70a50dfea2ab9d3.kaf#w32
+TARGET	Bad	./opener_hotel/de/german00080_55bb22e61eebf171d70a50dfea2ab9d3.kaf#w38
+TARGET	Hotel	./opener_hotel/de/german00080_55bb22e61eebf171d70a50dfea2ab9d3.kaf#w12
+TARGET	Frühstück	./opener_hotel/de/german00080_55bb22e61eebf171d70a50dfea2ab9d3.kaf#w93
+TARGET	oberste Etagen	./opener_hotel/de/german00080_55bb22e61eebf171d70a50dfea2ab9d3.kaf#w76 ./opener_hotel/de/german00080_55bb22e61eebf171d70a50dfea2ab9d3.kaf#w77
+TARGET	Preis / leistungsverhältnis	./opener_hotel/de/german00080_55bb22e61eebf171d70a50dfea2ab9d3.kaf#w108 ./opener_hotel/de/german00080_55bb22e61eebf171d70a50dfea2ab9d3.kaf#w109 ./opener_hotel/de/german00080_55bb22e61eebf171d70a50dfea2ab9d3.kaf#w110
+TARGET	Poolbereich	./opener_hotel/de/german00080_55bb22e61eebf171d70a50dfea2ab9d3.kaf#w104
+TARGET	die	./opener_hotel/de/german00226_f80f8548972b33b4cf634bd3822242ee.kaf#w32
+TARGET	beschallung	./opener_hotel/de/german00226_f80f8548972b33b4cf634bd3822242ee.kaf#w19
+TARGET	die teure suite	./opener_hotel/de/german00226_f80f8548972b33b4cf634bd3822242ee.kaf#w70 ./opener_hotel/de/german00226_f80f8548972b33b4cf634bd3822242ee.kaf#w71 ./opener_hotel/de/german00226_f80f8548972b33b4cf634bd3822242ee.kaf#w72
+TARGET	der	./opener_hotel/de/german00226_f80f8548972b33b4cf634bd3822242ee.kaf#w83
+TARGET	lärm	./opener_hotel/de/german00226_f80f8548972b33b4cf634bd3822242ee.kaf#w76
+TARGET	Anlage	./opener_hotel/de/german00037_2bad0f10438782c6f3861d9e22d5ff5d.kaf#w4
+TARGET	Parkplatz	./opener_hotel/de/german00037_2bad0f10438782c6f3861d9e22d5ff5d.kaf#w25
+TARGET	Hof	./opener_hotel/de/german00037_2bad0f10438782c6f3861d9e22d5ff5d.kaf#w23
+TARGET	Gastgeber	./opener_hotel/de/german00037_2bad0f10438782c6f3861d9e22d5ff5d.kaf#w36
+TARGET	Gäste	./opener_hotel/de/german00037_2bad0f10438782c6f3861d9e22d5ff5d.kaf#w33
+TARGET	Sauberkeit	./opener_hotel/de/german00037_2bad0f10438782c6f3861d9e22d5ff5d.kaf#w40
+TARGET	zum Paris Nord Bahnhofs	./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w29 ./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w30 ./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w31 ./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w32
+TARGET	Paris	./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w34
+TARGET	zum Bahnhof bevorzugt	./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w10 ./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w11 ./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w12
+TARGET	hier	./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w23
+TARGET	Zum Bahnhof	./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w75 ./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w76
+TARGET	Essen im Hotel	./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w61 ./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w62 ./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w63
+TARGET	Budgets	./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w54
+TARGET	Das Frühstücks Angebot	./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w114 ./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w115 ./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w116
+TARGET	die Zimmer	./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w95 ./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w96
+TARGET	von Ibis	./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w111 ./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w112
+TARGET	Das Hotel	./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w85 ./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w86
+TARGET	die Umgebung	./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w128 ./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w129
+TARGET	Taschendiebe	./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w136
+TARGET	für kurze Trips	./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w152 ./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w153 ./opener_hotel/de/german00187_cc077f3c51fabb7bee9efdbc474477ea.kaf#w154
+TARGET	Chefin	./opener_hotel/de/german00061_4280cba4ff560c0efbca901877566fbb.kaf#w91
+TARGET	Rezeption	./opener_hotel/de/german00061_4280cba4ff560c0efbca901877566fbb.kaf#w85
+TARGET	Pleite	./opener_hotel/de/german00061_4280cba4ff560c0efbca901877566fbb.kaf#w2
+TARGET	Strand	./opener_hotel/de/german00061_4280cba4ff560c0efbca901877566fbb.kaf#w7
+TARGET	Hotelanlage	./opener_hotel/de/german00061_4280cba4ff560c0efbca901877566fbb.kaf#w3
+TARGET	Zimmer	./opener_hotel/de/german00061_4280cba4ff560c0efbca901877566fbb.kaf#w12
+TARGET	Salz · und PfefferSteuer	./opener_hotel/de/german00061_4280cba4ff560c0efbca901877566fbb.kaf#w33 ./opener_hotel/de/german00061_4280cba4ff560c0efbca901877566fbb.kaf#w34 ./opener_hotel/de/german00061_4280cba4ff560c0efbca901877566fbb.kaf#w35 ./opener_hotel/de/german00061_4280cba4ff560c0efbca901877566fbb.kaf#w36
+TARGET	Das Reiniguns · und Bedienungspersonal	./opener_hotel/de/german00061_4280cba4ff560c0efbca901877566fbb.kaf#w56 ./opener_hotel/de/german00061_4280cba4ff560c0efbca901877566fbb.kaf#w57 ./opener_hotel/de/german00061_4280cba4ff560c0efbca901877566fbb.kaf#w58 ./opener_hotel/de/german00061_4280cba4ff560c0efbca901877566fbb.kaf#w59 ./opener_hotel/de/german00061_4280cba4ff560c0efbca901877566fbb.kaf#w60
+TARGET	Entspannung	./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w104
+TARGET	Gäste · Komfort	./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w106 ./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w107 ./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w108
+TARGET	Die Größe des Bads	./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w16 ./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w17 ./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w18 ./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w19
+TARGET	WLAN	./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w42
+TARGET	Klimaanlage	./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w36
+TARGET	dieses Hotel	./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w7 ./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w8
+TARGET	mit der VISA Karte zahlen	./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w72 ./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w73 ./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w74 ./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w75 ./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w76
+TARGET	WLAN	./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w59
+TARGET	PCs	./opener_hotel/de/german00151_a3aeec06d3ae6a47d90eae9d10dd9979.kaf#w50
+TARGET	Die Zimmer	./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w21 ./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w22
+TARGET	Der Plattenbau	./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w8 ./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w9
+TARGET	Das Holz · Mobiliar	./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w38 ./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w39 ./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w40 ./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w41
+TARGET	die Vorhänge	./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w45 ./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w46
+TARGET	Der Wellness · Bereich	./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w69 ./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w71 ./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w72 ./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w73
+TARGET	eine Sauna	./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w79 ./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w81
+TARGET	das Bad	./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w60 ./opener_hotel/de/german00082_86041571733641d16eb59c899223fe7e.kaf#w61
+TARGET	Das Hotel	./opener_hotel/de/german00112_c03808d79a965f8b3afe1fe0634e0bf5.kaf#w82 ./opener_hotel/de/german00112_c03808d79a965f8b3afe1fe0634e0bf5.kaf#w83
+TARGET	Alles	./opener_hotel/de/german00112_c03808d79a965f8b3afe1fe0634e0bf5.kaf#w22
+TARGET	der dazugehörigen Einrichtungen	./opener_hotel/de/german00112_c03808d79a965f8b3afe1fe0634e0bf5.kaf#w14 ./opener_hotel/de/german00112_c03808d79a965f8b3afe1fe0634e0bf5.kaf#w15 ./opener_hotel/de/german00112_c03808d79a965f8b3afe1fe0634e0bf5.kaf#w16
+TARGET	Der Zustand des Hotels	./opener_hotel/de/german00112_c03808d79a965f8b3afe1fe0634e0bf5.kaf#w9 ./opener_hotel/de/german00112_c03808d79a965f8b3afe1fe0634e0bf5.kaf#w10 ./opener_hotel/de/german00112_c03808d79a965f8b3afe1fe0634e0bf5.kaf#w11 ./opener_hotel/de/german00112_c03808d79a965f8b3afe1fe0634e0bf5.kaf#w12
+TARGET	Helferlein	./opener_hotel/de/german00112_c03808d79a965f8b3afe1fe0634e0bf5.kaf#w44
+TARGET	WLAN	./opener_hotel/de/german00112_c03808d79a965f8b3afe1fe0634e0bf5.kaf#w72
+TARGET	Verbindung	./opener_hotel/de/german00112_c03808d79a965f8b3afe1fe0634e0bf5.kaf#w75
+TARGET	den Hausanlagen	./opener_hotel/de/german00118_7f8e27c2a6fed3d13b8547e529d8e971.kaf#w27 ./opener_hotel/de/german00118_7f8e27c2a6fed3d13b8547e529d8e971.kaf#w28
+TARGET	Das Hotel	./opener_hotel/de/german00118_7f8e27c2a6fed3d13b8547e529d8e971.kaf#w17 ./opener_hotel/de/german00118_7f8e27c2a6fed3d13b8547e529d8e971.kaf#w18
+TARGET	die Dächer	./opener_hotel/de/german00118_7f8e27c2a6fed3d13b8547e529d8e971.kaf#w35 ./opener_hotel/de/german00118_7f8e27c2a6fed3d13b8547e529d8e971.kaf#w36
+TARGET	der Putz	./opener_hotel/de/german00118_7f8e27c2a6fed3d13b8547e529d8e971.kaf#w30 ./opener_hotel/de/german00118_7f8e27c2a6fed3d13b8547e529d8e971.kaf#w31
+TARGET	Gesamte Hotelanlage	./opener_hotel/de/german00118_7f8e27c2a6fed3d13b8547e529d8e971.kaf#w8 ./opener_hotel/de/german00118_7f8e27c2a6fed3d13b8547e529d8e971.kaf#w9
+TARGET	Lage	./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w2
+TARGET	Restaurants	./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w19
+TARGET	Zimmer	./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w17
+TARGET	der Pool	./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w24 ./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w25
+TARGET	Die Lage des Hotels	./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w8 ./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w9 ./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w10 ./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w11
+TARGET	Das Haus	./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w51 ./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w52
+TARGET	Frühstück	./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w45
+TARGET	Abendessen	./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w47
+TARGET	Geruch aus der Dusche	./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w86 ./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w87 ./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w88 ./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w89
+TARGET	Das Zimmer	./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w62 ./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w63
+TARGET	Parkplätze	./opener_hotel/de/german00005_0b5ef7e9cb43dd80e651ae56024cd720.kaf#w104
+TARGET	AI · Leistungen	./opener_hotel/de/german00008_0b875f3d634ac079ea5e890967967385.kaf#w10 ./opener_hotel/de/german00008_0b875f3d634ac079ea5e890967967385.kaf#w11 ./opener_hotel/de/german00008_0b875f3d634ac079ea5e890967967385.kaf#w12
+TARGET	Hotel	./opener_hotel/de/german00008_0b875f3d634ac079ea5e890967967385.kaf#w7
+TARGET	Familien mit Kleinkindern	./opener_hotel/de/german00008_0b875f3d634ac079ea5e890967967385.kaf#w54 ./opener_hotel/de/german00008_0b875f3d634ac079ea5e890967967385.kaf#w55 ./opener_hotel/de/german00008_0b875f3d634ac079ea5e890967967385.kaf#w56
+TARGET	Restaurants	./opener_hotel/de/german00008_0b875f3d634ac079ea5e890967967385.kaf#w23
+TARGET	Alles	./opener_hotel/de/german00221_f4c1faf9e2515ef75ae200bb9bc1a367.kaf#w38
+TARGET	Anlage	./opener_hotel/de/german00221_f4c1faf9e2515ef75ae200bb9bc1a367.kaf#w27
+TARGET	2 Wohnungen	./opener_hotel/de/german00221_f4c1faf9e2515ef75ae200bb9bc1a367.kaf#w72 ./opener_hotel/de/german00221_f4c1faf9e2515ef75ae200bb9bc1a367.kaf#w73
+TARGET	Beim Frühstück	./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w97 ./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w98
+TARGET	ein Gläschen Deinhard Sekt direkt aus der Kellerei in Koblenz	./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w107 ./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w108 ./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w109 ./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w110 ./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w111 ./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w112 ./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w113 ./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w114 ./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w115 ./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w116
+TARGET	Frühstück	./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w19
+TARGET	Das Wochenende in Koblenz	./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w5 ./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w6 ./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w7 ./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w8
+TARGET	des tollen Hotels	./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w15 ./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w16 ./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w17
+TARGET	die Speisekarte	./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w91 ./opener_hotel/de/german00148_fbe288dcff629f0a733901fc8d7cf991.kaf#w92
+TARGET	einen Kurztripp	./opener_hotel/de/german00002_016e55d67e207b0300dc53ae96d69018.kaf#w3 ./opener_hotel/de/german00002_016e55d67e207b0300dc53ae96d69018.kaf#w4
+TARGET	Insel	./opener_hotel/de/german00096_9fae205070cf47d1ad2951c9e4166ed8.kaf#w6
+TARGET	Hotel	./opener_hotel/de/german00096_9fae205070cf47d1ad2951c9e4166ed8.kaf#w4
+TARGET	Alles	./opener_hotel/de/german00096_9fae205070cf47d1ad2951c9e4166ed8.kaf#w34
+TARGET	Garten	./opener_hotel/de/german00096_9fae205070cf47d1ad2951c9e4166ed8.kaf#w40
+TARGET	Pool	./opener_hotel/de/german00096_9fae205070cf47d1ad2951c9e4166ed8.kaf#w42
+TARGET	Häusern	./opener_hotel/de/german00096_9fae205070cf47d1ad2951c9e4166ed8.kaf#w21
+TARGET	Das Hotel	./opener_hotel/de/german00096_9fae205070cf47d1ad2951c9e4166ed8.kaf#w7 ./opener_hotel/de/german00096_9fae205070cf47d1ad2951c9e4166ed8.kaf#w8
+TARGET	Hotelklotz wie die meisten	./opener_hotel/de/german00096_9fae205070cf47d1ad2951c9e4166ed8.kaf#w25 ./opener_hotel/de/german00096_9fae205070cf47d1ad2951c9e4166ed8.kaf#w26 ./opener_hotel/de/german00096_9fae205070cf47d1ad2951c9e4166ed8.kaf#w28 ./opener_hotel/de/german00096_9fae205070cf47d1ad2951c9e4166ed8.kaf#w29
+TARGET	hier	./opener_hotel/de/german00096_9fae205070cf47d1ad2951c9e4166ed8.kaf#w95
+TARGET	der Ruhe	./opener_hotel/de/german00030_245f9b3fcb0679e4ceb74953e5097696.kaf#w138 ./opener_hotel/de/german00030_245f9b3fcb0679e4ceb74953e5097696.kaf#w139
+TARGET	Das Harrah	./opener_hotel/de/german00030_245f9b3fcb0679e4ceb74953e5097696.kaf#w4 ./opener_hotel/de/german00030_245f9b3fcb0679e4ceb74953e5097696.kaf#w5
+TARGET	der Preis	./opener_hotel/de/german00030_245f9b3fcb0679e4ceb74953e5097696.kaf#w63 ./opener_hotel/de/german00030_245f9b3fcb0679e4ceb74953e5097696.kaf#w64
+TARGET	diesem Hotel	./opener_hotel/de/german00030_245f9b3fcb0679e4ceb74953e5097696.kaf#w42 ./opener_hotel/de/german00030_245f9b3fcb0679e4ceb74953e5097696.kaf#w43
+TARGET	Die Parkgarage	./opener_hotel/de/german00030_245f9b3fcb0679e4ceb74953e5097696.kaf#w80 ./opener_hotel/de/german00030_245f9b3fcb0679e4ceb74953e5097696.kaf#w81
+TARGET	Die Zimmer	./opener_hotel/de/german00030_245f9b3fcb0679e4ceb74953e5097696.kaf#w119 ./opener_hotel/de/german00030_245f9b3fcb0679e4ceb74953e5097696.kaf#w120
+TARGET	Das Casino	./opener_hotel/de/german00030_245f9b3fcb0679e4ceb74953e5097696.kaf#w99 ./opener_hotel/de/german00030_245f9b3fcb0679e4ceb74953e5097696.kaf#w100
+TARGET	die Pläbe für die Kunden	./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w118 ./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w119 ./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w120 ./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w121 ./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w122
+TARGET	Das Hotel	./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w111 ./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w112
+TARGET	Pool	./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w106
+TARGET	Das Personal	./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w132 ./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w133
+TARGET	Pools	./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w130
+TARGET	Personal	./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w7
+TARGET	Goldbarock angeschlagenes Echtholz	./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w19 ./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w21 ./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w22
+TARGET	Hotel	./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w9
+TARGET	Armaturen	./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w36
+TARGET	Bad	./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w30
+TARGET	Shuttle	./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w58
+TARGET	Klimaanlage	./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w45
+TARGET	WLAN	./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w89
+TARGET	Restaurant	./opener_hotel/de/german00010_0ca7389f6e85fe5445bfe79ebe36483b.kaf#w64
+TARGET	Kurzurlaub	./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w2
+TARGET	die neue Lounge	./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w38 ./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w39 ./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w40
+TARGET	Essen	./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w32
+TARGET	Weine	./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w34
+TARGET	im Diehls Hotel	./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w17 ./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w18 ./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w19
+TARGET	das Personal	./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w76 ./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w77
+TARGET	Die Zimmer	./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w50 ./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w51
+TARGET	das Diehls	./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w133 ./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w134
+TARGET	die	./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w112
+TARGET	sehr guten Englischkenntnissen der Bedienungen im Restaurant	./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w104 ./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w105 ./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w106 ./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w107 ./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w108 ./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w109 ./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w110
+TARGET	dieses Hotel	./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w159 ./opener_hotel/de/german00117_c9fb4f6a2e4d9a8afffe824c56576901.kaf#w160
+TARGET	Die Sauberkeit	./opener_hotel/de/german00079_81d58c67af7730cf53998cdd3bec3b56.kaf#w38 ./opener_hotel/de/german00079_81d58c67af7730cf53998cdd3bec3b56.kaf#w39
+TARGET	den Betten	./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w51 ./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w55
+TARGET	die Zimmer	./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w48 ./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w49
+TARGET	Auschecken	./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w96
+TARGET	ein	./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w94
+TARGET	Frühstück für 12,50	./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w64 ./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w65 ./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w66
+TARGET	die Frühmogentliche Fahrstuhl Jazz Musik beim Frühstück	./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w85 ./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w86 ./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w87 ./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w88 ./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w89 ./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w90 ./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w91
+TARGET	Räume	./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w69
+TARGET	Das Personal	./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w100 ./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w101
+TARGET	die Zimmer	./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w32 ./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w33
+TARGET	die Parkplätze	./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w16 ./opener_hotel/de/german00088_5d0c0aab03be35e3440e098b1c959f1e.kaf#w17
+TARGET	Lage	./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w1
+TARGET	Zimmer	./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w4
+TARGET	Das Zimmer	./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w14 ./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w15
+TARGET	Aussicht	./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w26
+TARGET	Das Badezimmer	./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w32 ./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w33
+TARGET	alle Badeinrichtungen	./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w58 ./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w59
+TARGET	Duschbrause	./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w41
+TARGET	Waschbecken	./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w47
+TARGET	alle Dichtungen	./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w49 ./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w50
+TARGET	Die Lichtverhältnisse im Zimmer	./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w95 ./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w96 ./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w97 ./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w98
+TARGET	Kleiderschrank welcher	./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w106 ./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w108
+TARGET	ein separater abgeschlossener Raum im Zimmer	./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w81 ./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w82 ./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w83 ./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w84 ./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w85 ./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w86
+TARGET	Frühstück	./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w124
+TARGET	Aussicht	./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w127
+TARGET	Peronal	./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w132
+TARGET	Das sonstige Hotel	./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w116 ./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w117 ./opener_hotel/de/german00119_cc056623826a53f9d393ac5258f4cc75.kaf#w118
+TARGET	Hotel	./opener_hotel/de/german00059_5b3b32693f8fca26ff4d647c1a85b289.kaf#w2
+TARGET	Strandlage	./opener_hotel/de/german00059_5b3b32693f8fca26ff4d647c1a85b289.kaf#w5
+TARGET	alles	./opener_hotel/de/german00059_5b3b32693f8fca26ff4d647c1a85b289.kaf#w15
+TARGET	Kellner	./opener_hotel/de/german00059_5b3b32693f8fca26ff4d647c1a85b289.kaf#w55
+TARGET	HP	./opener_hotel/de/german00059_5b3b32693f8fca26ff4d647c1a85b289.kaf#w63
+TARGET	Buffet	./opener_hotel/de/german00059_5b3b32693f8fca26ff4d647c1a85b289.kaf#w65
+TARGET	Fahrradverleih	./opener_hotel/de/german00059_5b3b32693f8fca26ff4d647c1a85b289.kaf#w42
+TARGET	Service der Räder	./opener_hotel/de/german00059_5b3b32693f8fca26ff4d647c1a85b289.kaf#w44 ./opener_hotel/de/german00059_5b3b32693f8fca26ff4d647c1a85b289.kaf#w45 ./opener_hotel/de/german00059_5b3b32693f8fca26ff4d647c1a85b289.kaf#w46
+TARGET	Hotel	./opener_hotel/de/german00059_5b3b32693f8fca26ff4d647c1a85b289.kaf#w38
+TARGET	des gesamten Personals	./opener_hotel/de/german00042_46ca3b4b49eef0bd6eee41f78b077671.kaf#w65 ./opener_hotel/de/german00042_46ca3b4b49eef0bd6eee41f78b077671.kaf#w66 ./opener_hotel/de/german00042_46ca3b4b49eef0bd6eee41f78b077671.kaf#w67
+TARGET	Poolbereich	./opener_hotel/de/german00042_46ca3b4b49eef0bd6eee41f78b077671.kaf#w58
+TARGET	Essen	./opener_hotel/de/german00042_46ca3b4b49eef0bd6eee41f78b077671.kaf#w54
+TARGET	Lage des Hotels	./opener_hotel/de/german00042_46ca3b4b49eef0bd6eee41f78b077671.kaf#w45 ./opener_hotel/de/german00042_46ca3b4b49eef0bd6eee41f78b077671.kaf#w46 ./opener_hotel/de/german00042_46ca3b4b49eef0bd6eee41f78b077671.kaf#w47
+TARGET	Preis	./opener_hotel/de/german00042_46ca3b4b49eef0bd6eee41f78b077671.kaf#w32
+TARGET	Zaubertrank	./opener_hotel/de/german00042_46ca3b4b49eef0bd6eee41f78b077671.kaf#w94
+TARGET	Der Bananenkaffee	./opener_hotel/de/german00042_46ca3b4b49eef0bd6eee41f78b077671.kaf#w90 ./opener_hotel/de/german00042_46ca3b4b49eef0bd6eee41f78b077671.kaf#w91
+TARGET	Holiday In in Leiden	./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w4 ./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w5 ./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w6 ./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w7
+TARGET	Die Zimmer	./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w17 ./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w18
+TARGET	diesem Hote	./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w14 ./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w15
+TARGET	den Spelbereichen	./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w38 ./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w39
+TARGET	die Auswahlt	./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w27 ./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w28
+TARGET	Das Essen	./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w22 ./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w23
+TARGET	Der Pool	./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w47 ./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w48
+TARGET	Den Hag	./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w107 ./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w108
+TARGET	Strand	./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w102
+TARGET	nach Amsterdam	./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w104 ./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w105
+TARGET	den Zimmern	./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w90 ./opener_hotel/de/german00117_7ec95ad8cb14f84f8d1331701e569824.kaf#w91
+TARGET	Verkehrsanbindung	./opener_hotel/de/german00114_c60120eb22c309f53c866794add27c17.kaf#w2
+TARGET	U	./opener_hotel/de/german00114_c60120eb22c309f53c866794add27c17.kaf#w13
+TARGET	Straba	./opener_hotel/de/german00114_c60120eb22c309f53c866794add27c17.kaf#w16
+TARGET	Stadthotel	./opener_hotel/de/german00114_c60120eb22c309f53c866794add27c17.kaf#w4
+TARGET	im Preis inbegriffen	./opener_hotel/de/german00114_c60120eb22c309f53c866794add27c17.kaf#w34 ./opener_hotel/de/german00114_c60120eb22c309f53c866794add27c17.kaf#w35 ./opener_hotel/de/german00114_c60120eb22c309f53c866794add27c17.kaf#w36
+TARGET	Supermarkt	./opener_hotel/de/german00114_c60120eb22c309f53c866794add27c17.kaf#w45
+TARGET	Der Komfort	./opener_hotel/de/german00114_c60120eb22c309f53c866794add27c17.kaf#w23 ./opener_hotel/de/german00114_c60120eb22c309f53c866794add27c17.kaf#w24
+TARGET	Hotel	./opener_hotel/de/german00015_108d158272f92a0144d0e4dff5206c3e.kaf#w4
+TARGET	der Nacht	./opener_hotel/de/german00015_108d158272f92a0144d0e4dff5206c3e.kaf#w79 ./opener_hotel/de/german00015_108d158272f92a0144d0e4dff5206c3e.kaf#w80
+TARGET	Felsenstrand	./opener_hotel/de/german00015_108d158272f92a0144d0e4dff5206c3e.kaf#w108
+TARGET	Abendessen	./opener_hotel/de/german00002_02a54038111555928960b3c9d67e4049.kaf#w38
+TARGET	Frühstück	./opener_hotel/de/german00002_02a54038111555928960b3c9d67e4049.kaf#w36
+TARGET	Lage	./opener_hotel/de/german00002_02a54038111555928960b3c9d67e4049.kaf#w5
+TARGET	Zimmer	./opener_hotel/de/german00002_02a54038111555928960b3c9d67e4049.kaf#w66
+TARGET	das Buffet	./opener_hotel/de/german00002_02a54038111555928960b3c9d67e4049.kaf#w59 ./opener_hotel/de/german00002_02a54038111555928960b3c9d67e4049.kaf#w60
+TARGET	Speisen	./opener_hotel/de/german00002_02a54038111555928960b3c9d67e4049.kaf#w53
+TARGET	Auswahl beim Abendessen	./opener_hotel/de/german00002_02a54038111555928960b3c9d67e4049.kaf#w44 ./opener_hotel/de/german00002_02a54038111555928960b3c9d67e4049.kaf#w45 ./opener_hotel/de/german00002_02a54038111555928960b3c9d67e4049.kaf#w46
+TARGET	Hotel	./opener_hotel/de/german00044_4a2a8ee734956c770e1b205ab4d673b4.kaf#w1
+TARGET	Das Badezimmer	./opener_hotel/de/german00044_4a2a8ee734956c770e1b205ab4d673b4.kaf#w28 ./opener_hotel/de/german00044_4a2a8ee734956c770e1b205ab4d673b4.kaf#w29
+TARGET	der Pool	./opener_hotel/de/german00044_4a2a8ee734956c770e1b205ab4d673b4.kaf#w20 ./opener_hotel/de/german00044_4a2a8ee734956c770e1b205ab4d673b4.kaf#w21
+TARGET	Dieses Hotel	./opener_hotel/de/german00044_4a2a8ee734956c770e1b205ab4d673b4.kaf#w8 ./opener_hotel/de/german00044_4a2a8ee734956c770e1b205ab4d673b4.kaf#w9
+TARGET	es	./opener_hotel/de/german00044_4a2a8ee734956c770e1b205ab4d673b4.kaf#w46
+TARGET	Personals	./opener_hotel/de/german00066_4602a585563f56a71a966492f3a7745f.kaf#w21
+TARGET	Hotel	./opener_hotel/de/german00066_4602a585563f56a71a966492f3a7745f.kaf#w6
+TARGET	die Gartenanlage	./opener_hotel/de/german00066_4602a585563f56a71a966492f3a7745f.kaf#w57 ./opener_hotel/de/german00066_4602a585563f56a71a966492f3a7745f.kaf#w58
+TARGET	Die Anlage	./opener_hotel/de/german00066_4602a585563f56a71a966492f3a7745f.kaf#w44 ./opener_hotel/de/german00066_4602a585563f56a71a966492f3a7745f.kaf#w45
+TARGET	das Personal	./opener_hotel/de/german00066_4602a585563f56a71a966492f3a7745f.kaf#w32 ./opener_hotel/de/german00066_4602a585563f56a71a966492f3a7745f.kaf#w33
+TARGET	Diese Anlage	./opener_hotel/de/german00066_4602a585563f56a71a966492f3a7745f.kaf#w92 ./opener_hotel/de/german00066_4602a585563f56a71a966492f3a7745f.kaf#w93
+TARGET	dieses Personal	./opener_hotel/de/german00066_4602a585563f56a71a966492f3a7745f.kaf#w95 ./opener_hotel/de/german00066_4602a585563f56a71a966492f3a7745f.kaf#w96
+TARGET	Bruno	./opener_hotel/de/german00066_4602a585563f56a71a966492f3a7745f.kaf#w106
+TARGET	Brigitte	./opener_hotel/de/german00066_4602a585563f56a71a966492f3a7745f.kaf#w104
+TARGET	Spa · Bereich	./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w126 ./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w127 ./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w128
+TARGET	Fitness bereich	./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w131 ./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w132
+TARGET	der Nähe	./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w114 ./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w115
+TARGET	es	./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w143
+TARGET	die Duschmöglichkeiten	./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w136 ./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w137
+TARGET	Lage	./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w8
+TARGET	Strand	./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w5
+TARGET	Hotel	./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w2
+TARGET	Freundlichkeit	./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w27
+TARGET	Service	./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w29
+TARGET	das Hotel	./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w48 ./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w49
+TARGET	Die Zimmer	./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w55 ./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w56
+TARGET	Restaurants in Dubai	./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w104 ./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w105 ./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w106
+TARGET	Frühstück	./opener_hotel/de/german00055_3e41e894200a0f6407e57507f9179461.kaf#w89
+TARGET	einen Aufenthalt	./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w4 ./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w5
+TARGET	Zimmer	./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w26
+TARGET	die öffentlichen Bereiche	./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w17 ./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w18 ./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w19
+TARGET	diesem Hotel	./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w11 ./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w12
+TARGET	auf Bett	./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w55 ./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w57
+TARGET	das Ungeziefer	./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w53 ./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w54
+TARGET	der Teppich	./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w33 ./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w34
+TARGET	Handtücher	./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w41
+TARGET	Abhilfe	./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w66
+TARGET	Zimmer	./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w75
+TARGET	Reklamation	./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w60
+TARGET	da	./opener_hotel/de/german00189_cd1d0c726e4be333cdaeb0cf7906ade1.kaf#w84
+TARGET	Strasse	./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w29
+TARGET	Die Soi 18	./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w15 ./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w16 ./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w17
+TARGET	Hotel	./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w8
+TARGET	Die Station Asok	./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w37 ./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w38 ./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w39
+TARGET	der SkyTrain Linie	./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w33 ./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w34 ./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w35
+TARGET	Restaurant	./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w73
+TARGET	Einkaufcentren	./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w48
+TARGET	Hotels	./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w88
+TARGET	Park Plaza	./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w98 ./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w99
+TARGET	Personal	./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w82
+TARGET	Ausstattung	./opener_hotel/de/german00127_8c97e817c5e97d6fc212ce50b8ad97a2.kaf#w80
+TARGET	Rezeption	./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w34
+TARGET	Ambiente in Rezeption , Esssaal und Wellnessbereich	./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w39 ./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w40 ./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w41 ./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w42 ./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w43 ./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w44 ./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w45
+TARGET	Frühstücksbuffet	./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w49
+TARGET	das Hotel	./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w25 ./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w26
+TARGET	Hotel	./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w103
+TARGET	Die Zimmer	./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w59 ./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w60
+TARGET	Möbel	./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w79
+TARGET	Raucherzimmer	./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w125
+TARGET	Einchecken	./opener_hotel/de/german00036_2b19ffcc12813045ab13742ecec2105e.kaf#w112
+TARGET	Stadthotel	./opener_hotel/de/german00105_6e27f4d7fe031e55600f38e3349be836.kaf#w2
+TARGET	Das Hotel	./opener_hotel/de/german00105_6e27f4d7fe031e55600f38e3349be836.kaf#w3 ./opener_hotel/de/german00105_6e27f4d7fe031e55600f38e3349be836.kaf#w4
+TARGET	Platz an der Straße	./opener_hotel/de/german00105_6e27f4d7fe031e55600f38e3349be836.kaf#w88 ./opener_hotel/de/german00105_6e27f4d7fe031e55600f38e3349be836.kaf#w89 ./opener_hotel/de/german00105_6e27f4d7fe031e55600f38e3349be836.kaf#w90 ./opener_hotel/de/german00105_6e27f4d7fe031e55600f38e3349be836.kaf#w91
+TARGET	das Hotel	./opener_hotel/de/german00105_6e27f4d7fe031e55600f38e3349be836.kaf#w97 ./opener_hotel/de/german00105_6e27f4d7fe031e55600f38e3349be836.kaf#w98
+TARGET	das Zimmer	./opener_hotel/de/german00105_6e27f4d7fe031e55600f38e3349be836.kaf#w102 ./opener_hotel/de/german00105_6e27f4d7fe031e55600f38e3349be836.kaf#w103
+TARGET	Betts	./opener_hotel/de/german00003_060986300c47dbd936b0e6afbd88cb96.kaf#w11
+TARGET	Cappuccino oder so	./opener_hotel/de/german00003_060986300c47dbd936b0e6afbd88cb96.kaf#w47 ./opener_hotel/de/german00003_060986300c47dbd936b0e6afbd88cb96.kaf#w48 ./opener_hotel/de/german00003_060986300c47dbd936b0e6afbd88cb96.kaf#w49
+TARGET	Frühstück	./opener_hotel/de/german00003_060986300c47dbd936b0e6afbd88cb96.kaf#w27
+TARGET	gibt es Tage	./opener_hotel/de/german00003_060986300c47dbd936b0e6afbd88cb96.kaf#w57 ./opener_hotel/de/german00003_060986300c47dbd936b0e6afbd88cb96.kaf#w58 ./opener_hotel/de/german00003_060986300c47dbd936b0e6afbd88cb96.kaf#w59
+TARGET	Preis · Leistungs · Verhältnis	./opener_hotel/de/german00024_26ca464a04b68b0685aac641d24f4318.kaf#w5 ./opener_hotel/de/german00024_26ca464a04b68b0685aac641d24f4318.kaf#w6 ./opener_hotel/de/german00024_26ca464a04b68b0685aac641d24f4318.kaf#w7 ./opener_hotel/de/german00024_26ca464a04b68b0685aac641d24f4318.kaf#w8 ./opener_hotel/de/german00024_26ca464a04b68b0685aac641d24f4318.kaf#w9
+TARGET	Hotel	./opener_hotel/de/german00024_26ca464a04b68b0685aac641d24f4318.kaf#w2
+TARGET	Frühstück	./opener_hotel/de/german00024_26ca464a04b68b0685aac641d24f4318.kaf#w56
+TARGET	das Hotel	./opener_hotel/de/german00024_26ca464a04b68b0685aac641d24f4318.kaf#w12 ./opener_hotel/de/german00024_26ca464a04b68b0685aac641d24f4318.kaf#w13
+TARGET	Fenster	./opener_hotel/de/german00024_26ca464a04b68b0685aac641d24f4318.kaf#w48
+TARGET	das	./opener_hotel/de/german00082_570f8a9b1ce298c92658c947bd43f395.kaf#w40
+TARGET	diesem Hotel	./opener_hotel/de/german00082_570f8a9b1ce298c92658c947bd43f395.kaf#w19 ./opener_hotel/de/german00082_570f8a9b1ce298c92658c947bd43f395.kaf#w24
+TARGET	Hotel	./opener_hotel/de/german00125_884e5d06decdfc3a8294c5b287514f03.kaf#w2
+TARGET	DieZimmer	./opener_hotel/de/german00125_884e5d06decdfc3a8294c5b287514f03.kaf#w93
+TARGET	viele Tauben	./opener_hotel/de/german00125_884e5d06decdfc3a8294c5b287514f03.kaf#w100 ./opener_hotel/de/german00125_884e5d06decdfc3a8294c5b287514f03.kaf#w101
+TARGET	Die Hotelanlage	./opener_hotel/de/german00125_884e5d06decdfc3a8294c5b287514f03.kaf#w6 ./opener_hotel/de/german00125_884e5d06decdfc3a8294c5b287514f03.kaf#w7
+TARGET	wo	./opener_hotel/de/german00125_884e5d06decdfc3a8294c5b287514f03.kaf#w44
+TARGET	Die Anlage	./opener_hotel/de/german00125_884e5d06decdfc3a8294c5b287514f03.kaf#w65 ./opener_hotel/de/german00125_884e5d06decdfc3a8294c5b287514f03.kaf#w66
+TARGET	Bademäntel	./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w130
+TARGET	Schuhe	./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w133
+TARGET	alles	./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w106
+TARGET	das Schwimmbad	./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w112 ./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w113
+TARGET	Die Hotelbar	./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w142 ./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w143
+TARGET	der DJ	./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w151 ./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w152
+TARGET	Handtücher	./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w139
+TARGET	Standard · DZ	./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w19 ./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w20 ./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w21
+TARGET	Hotel	./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w14
+TARGET	das Bad	./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w59 ./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w60
+TARGET	Die Zimmergröße	./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w44 ./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w45
+TARGET	W · Lan	./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w75 ./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w76 ./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w77
+TARGET	Fön	./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w71
+TARGET	Frühstück	./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w94
+TARGET	Safe	./opener_hotel/de/german00098_a13d5f762103d6b6b04fdc3e9a0e2021.kaf#w88
+TARGET	Businesshotel	./opener_hotel/de/german00154_a7438591ca3541d5569af22ac53717aa.kaf#w1
+TARGET	Die Anbindung	./opener_hotel/de/german00154_a7438591ca3541d5569af22ac53717aa.kaf#w14 ./opener_hotel/de/german00154_a7438591ca3541d5569af22ac53717aa.kaf#w15
+TARGET	Die Zimmer	./opener_hotel/de/german00154_a7438591ca3541d5569af22ac53717aa.kaf#w33 ./opener_hotel/de/german00154_a7438591ca3541d5569af22ac53717aa.kaf#w34
+TARGET	Das Frühstück	./opener_hotel/de/german00154_a7438591ca3541d5569af22ac53717aa.kaf#w24 ./opener_hotel/de/german00154_a7438591ca3541d5569af22ac53717aa.kaf#w25
+TARGET	Handtücher	./opener_hotel/de/german00154_a7438591ca3541d5569af22ac53717aa.kaf#w67
+TARGET	Desinfektionsmöglichkeiten	./opener_hotel/de/german00154_a7438591ca3541d5569af22ac53717aa.kaf#w69
+TARGET	4 + Sternehotel	./opener_hotel/de/german00154_a7438591ca3541d5569af22ac53717aa.kaf#w57 ./opener_hotel/de/german00154_a7438591ca3541d5569af22ac53717aa.kaf#w58 ./opener_hotel/de/german00154_a7438591ca3541d5569af22ac53717aa.kaf#w59
+TARGET	Wasserspender	./opener_hotel/de/german00154_a7438591ca3541d5569af22ac53717aa.kaf#w74
+TARGET	das preisleistungsverhältnis	./opener_hotel/de/german00154_a7438591ca3541d5569af22ac53717aa.kaf#w95 ./opener_hotel/de/german00154_a7438591ca3541d5569af22ac53717aa.kaf#w96
+TARGET	der Geschmack	./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w41 ./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w42
+TARGET	die Auswahl	./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w44 ./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w45
+TARGET	Das Essen	./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w33 ./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w34
+TARGET	ein 4 Gänge Menü	./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w19 ./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w20 ./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w21 ./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w22
+TARGET	das Essen	./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w14 ./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w15
+TARGET	das Angebot	./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w57 ./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w58
+TARGET	Für ein 4 Sterne Hotel	./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w51 ./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w52 ./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w53 ./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w54 ./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w55
+TARGET	die Qualität	./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w60 ./opener_hotel/de/german00146_fad2051d79a338a3c5b3b9d36e8023fa.kaf#w61
+TARGET	das Einzelzimmer	./opener_hotel/de/german00178_c20125cd1cc8c37fc6731222b575230f.kaf#w22 ./opener_hotel/de/german00178_c20125cd1cc8c37fc6731222b575230f.kaf#w23
+TARGET	für eine Person	./opener_hotel/de/german00178_c20125cd1cc8c37fc6731222b575230f.kaf#w28 ./opener_hotel/de/german00178_c20125cd1cc8c37fc6731222b575230f.kaf#w29 ./opener_hotel/de/german00178_c20125cd1cc8c37fc6731222b575230f.kaf#w30
+TARGET	Das Doppelzimmer	./opener_hotel/de/german00178_c20125cd1cc8c37fc6731222b575230f.kaf#w13 ./opener_hotel/de/german00178_c20125cd1cc8c37fc6731222b575230f.kaf#w14
+TARGET	Es	./opener_hotel/de/german00178_c20125cd1cc8c37fc6731222b575230f.kaf#w40
+TARGET	Frühstück	./opener_hotel/de/german00178_c20125cd1cc8c37fc6731222b575230f.kaf#w34
+TARGET	Preisleistungsverhältnis	./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w73
+TARGET	Auswahl	./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w67
+TARGET	die Lage	./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w80 ./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w81
+TARGET	Einrichtung	./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w19
+TARGET	Das Hotel	./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w10 ./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w11
+TARGET	Wände	./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w31
+TARGET	Matratzen	./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w28
+TARGET	den Möbeln	./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w45 ./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w46
+TARGET	der Wand	./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w37 ./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w38
+TARGET	Das Frühstücksbuffet	./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w58 ./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w59
+TARGET	Das Badezimmer	./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w48 ./opener_hotel/de/german00106_b3a22bf0a2674c581ba21805293e5d22.kaf#w49
+TARGET	Hotel	./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w2
+TARGET	Ausstattung	./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w19
+TARGET	Hotel	./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w10
+TARGET	Restaurant	./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w47
+TARGET	Eingangsbereich	./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w31
+TARGET	Zimmer	./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w33
+TARGET	Lage des Hotels	./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w68 ./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w69 ./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w70
+TARGET	Geschäfte	./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w80
+TARGET	U · und Straßenbahn	./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w75 ./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w76 ./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w77 ./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w78
+TARGET	Personal	./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w59
+TARGET	Sehenswürdigkeiten	./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w116
+TARGET	in der Innenstadt	./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w118 ./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w119 ./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w120
+TARGET	das Viertel / die Straße Nähe Franz Josefs Bahnhof	./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w90 ./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w91 ./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w92 ./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w93 ./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w94 ./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w95 ./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w96 ./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w97 ./opener_hotel/de/german00008_11e587c6cd6d0a8cac66e66de6d43c9c.kaf#w99
+TARGET	Bad	./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w95
+TARGET	der Plastikvorhang an der Badewanne	./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w83 ./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w84 ./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w85 ./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w86 ./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w87
+TARGET	Bad	./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w79
+TARGET	Zimmer nach hinten	./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w111 ./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w112 ./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w113
+TARGET	Lage	./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w101
+TARGET	Businesshotel	./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w8
+TARGET	Frühstück	./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w44
+TARGET	Lounge	./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w28
+TARGET	die Bar	./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w35 ./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w36
+TARGET	Die Zimmer	./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w60 ./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w61
+TARGET	Frühstück	./opener_hotel/de/german00126_88c3d63555644758490925709c677237.kaf#w46
+TARGET	Hotel	./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w2
+TARGET	Hier	./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w19
+TARGET	Das Hotel	./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w7 ./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w8
+TARGET	die restlichen Zimmer	./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w70 ./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w71 ./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w72
+TARGET	Zimmertür	./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w47
+TARGET	Hotel	./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w44
+TARGET	Die Lobby	./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w31 ./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w32
+TARGET	der Küche	./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w100 ./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w101
+TARGET	Das Frühstück	./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w78 ./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w79
+TARGET	die Meilen für unseren Aufenthalt	./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w126 ./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w127 ./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w128 ./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w129 ./opener_hotel/de/german00142_99bc47b09ff32c3fae91ac7b7fbf54e9.kaf#w130
+TARGET	Hotel	./opener_hotel/de/german00173_bcd4e5686d1dc66137cc8f38c2695712.kaf#w2
+TARGET	Das Hotel	./opener_hotel/de/german00173_bcd4e5686d1dc66137cc8f38c2695712.kaf#w10 ./opener_hotel/de/german00173_bcd4e5686d1dc66137cc8f38c2695712.kaf#w11
+TARGET	in kleinen Shops	./opener_hotel/de/german00173_bcd4e5686d1dc66137cc8f38c2695712.kaf#w31 ./opener_hotel/de/german00173_bcd4e5686d1dc66137cc8f38c2695712.kaf#w32 ./opener_hotel/de/german00173_bcd4e5686d1dc66137cc8f38c2695712.kaf#w33
+TARGET	All Inklusive	./opener_hotel/de/german00173_bcd4e5686d1dc66137cc8f38c2695712.kaf#w84 ./opener_hotel/de/german00173_bcd4e5686d1dc66137cc8f38c2695712.kaf#w85
+TARGET	zweistöckige Häuser	./opener_hotel/de/german00173_bcd4e5686d1dc66137cc8f38c2695712.kaf#w73 ./opener_hotel/de/german00173_bcd4e5686d1dc66137cc8f38c2695712.kaf#w74
+TARGET	Gäste	./opener_hotel/de/german00173_bcd4e5686d1dc66137cc8f38c2695712.kaf#w95
+TARGET	frisches Duschgel	./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w22 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w23
+TARGET	Die Zimmer	./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w12 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w13
+TARGET	Die gesamte Verarbeitung der Zimmer	./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w51 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w52 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w53 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w54 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w55
+TARGET	das Frühstück	./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w30 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w31
+TARGET	viele Details	./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w45 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w46
+TARGET	WLAN	./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w26
+TARGET	Der verlangte Preis für das Zimmer	./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w88 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w89 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w90 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w91 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w92 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w93
+TARGET	Das WLAN	./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w72 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w73
+TARGET	einen Fön auf dem Zimmer	./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w82 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w83 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w84 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w85 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w86
+TARGET	große Parkplatz	./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w106 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w107
+TARGET	direkt auf der gegenüberliegenden Straßenseite gelegene riesige Supermarkt	./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w110 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w111 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w112 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w113 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w114 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w115 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w116 ./opener_hotel/de/german00199_da9d3d4d0ece388ba54137d52c90fdce.kaf#w117
+TARGET	Hotel	./opener_hotel/de/german00094_959376a06f602f272b764939d40f27ee.kaf#w2
+TARGET	Bad	./opener_hotel/de/german00094_959376a06f602f272b764939d40f27ee.kaf#w8
+TARGET	TV	./opener_hotel/de/german00094_959376a06f602f272b764939d40f27ee.kaf#w10
+TARGET	Hotel	./opener_hotel/de/german00094_959376a06f602f272b764939d40f27ee.kaf#w4
+TARGET	Rührei	./opener_hotel/de/german00094_959376a06f602f272b764939d40f27ee.kaf#w36
+TARGET	Frühstücksbuffet	./opener_hotel/de/german00094_959376a06f602f272b764939d40f27ee.kaf#w31
+TARGET	Klimaanlage	./opener_hotel/de/german00094_959376a06f602f272b764939d40f27ee.kaf#w17
+TARGET	Lage	./opener_hotel/de/german00070_4b123b20f6c057ab69c1962297c8c5d0.kaf#w2
+TARGET	Das Frühstück	./opener_hotel/de/german00070_4b123b20f6c057ab69c1962297c8c5d0.kaf#w16 ./opener_hotel/de/german00070_4b123b20f6c057ab69c1962297c8c5d0.kaf#w17
+TARGET	Zimmer	./opener_hotel/de/german00070_4b123b20f6c057ab69c1962297c8c5d0.kaf#w67
+TARGET	Gastgebertum	./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w2
+TARGET	Professionaltät	./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w34
+TARGET	Service	./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w30
+TARGET	Sauberkeit	./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w32
+TARGET	Wasserhähne	./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w50
+TARGET	Das Grand Elysee	./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w5 ./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w6 ./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w7
+TARGET	die Badzimmer im Altgebäude	./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w21 ./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w22 ./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w23 ./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w24
+TARGET	Ort	./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w84
+TARGET	Personal	./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w79
+TARGET	die stabile Block	./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w64 ./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w65 ./opener_hotel/de/german00052_3cbbbcd17305b52b294223d702edf09a.kaf#w66
+TARGET	unseres	./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w122
+TARGET	Die Zimmer	./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w116 ./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w117
+TARGET	Das Hotel	./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w100 ./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w101
+TARGET	das freundliche Personal	./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w107 ./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w108 ./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w109
+TARGET	Es	./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w1
+TARGET	es	./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w17
+TARGET	Das Hotel	./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w6 ./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w7
+TARGET	Das Bad	./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w31 ./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w32
+TARGET	Die Sauberkeit	./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w22 ./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w23
+TARGET	Ausstattung	./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w25
+TARGET	Frühstücksbuffet	./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w65
+TARGET	der freundliche Service	./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w47 ./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w48 ./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w49
+TARGET	Das edle Design	./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w43 ./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w44 ./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w45
+TARGET	Ei	./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w85
+TARGET	Speck	./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w83
+TARGET	Der Versuch amerikanisches Frühstück	./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w67 ./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w68 ./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w69 ./opener_hotel/de/german00194_d378d76beee3d1e0886a0fe08b6a6335.kaf#w70
+TARGET	der Lobby	./opener_hotel/de/german00036_3c3a6d8f74f6121516fb18568287028b.kaf#w25 ./opener_hotel/de/german00036_3c3a6d8f74f6121516fb18568287028b.kaf#w26
+TARGET	Frühstücksraum	./opener_hotel/de/german00036_3c3a6d8f74f6121516fb18568287028b.kaf#w29
+TARGET	Das Hotel	./opener_hotel/de/german00036_3c3a6d8f74f6121516fb18568287028b.kaf#w3 ./opener_hotel/de/german00036_3c3a6d8f74f6121516fb18568287028b.kaf#w4
+TARGET	Frühstück	./opener_hotel/de/german00036_3c3a6d8f74f6121516fb18568287028b.kaf#w36
+TARGET	Die Mülleimer	./opener_hotel/de/german00141_f627eeaf73b43051604bdf9fee20f33f.kaf#w101 ./opener_hotel/de/german00141_f627eeaf73b43051604bdf9fee20f33f.kaf#w102
+TARGET	Die Ruheliegen in der Sauna	./opener_hotel/de/german00141_f627eeaf73b43051604bdf9fee20f33f.kaf#w77 ./opener_hotel/de/german00141_f627eeaf73b43051604bdf9fee20f33f.kaf#w78 ./opener_hotel/de/german00141_f627eeaf73b43051604bdf9fee20f33f.kaf#w79 ./opener_hotel/de/german00141_f627eeaf73b43051604bdf9fee20f33f.kaf#w80 ./opener_hotel/de/german00141_f627eeaf73b43051604bdf9fee20f33f.kaf#w81
+TARGET	Der Wellnessbereich	./opener_hotel/de/german00141_f627eeaf73b43051604bdf9fee20f33f.kaf#w15 ./opener_hotel/de/german00141_f627eeaf73b43051604bdf9fee20f33f.kaf#w16
+TARGET	die Anwendungen	./opener_hotel/de/german00141_f627eeaf73b43051604bdf9fee20f33f.kaf#w21 ./opener_hotel/de/german00141_f627eeaf73b43051604bdf9fee20f33f.kaf#w22
+TARGET	das Abendbuffet	./opener_hotel/de/german00141_f627eeaf73b43051604bdf9fee20f33f.kaf#w40 ./opener_hotel/de/german00141_f627eeaf73b43051604bdf9fee20f33f.kaf#w41
+TARGET	Das Personal	./opener_hotel/de/german00141_f627eeaf73b43051604bdf9fee20f33f.kaf#w68 ./opener_hotel/de/german00141_f627eeaf73b43051604bdf9fee20f33f.kaf#w69
+TARGET	Preis · Leistung	./opener_hotel/de/german00019_163c960391b779cc92b87b8d13346068.kaf#w1 ./opener_hotel/de/german00019_163c960391b779cc92b87b8d13346068.kaf#w2 ./opener_hotel/de/german00019_163c960391b779cc92b87b8d13346068.kaf#w3
+TARGET	Restaurant	./opener_hotel/de/german00019_163c960391b779cc92b87b8d13346068.kaf#w28
+TARGET	das Tagsüber	./opener_hotel/de/german00019_163c960391b779cc92b87b8d13346068.kaf#w21 ./opener_hotel/de/german00019_163c960391b779cc92b87b8d13346068.kaf#w22
+TARGET	Pool und am Strand	./opener_hotel/de/german00019_163c960391b779cc92b87b8d13346068.kaf#w51 ./opener_hotel/de/german00019_163c960391b779cc92b87b8d13346068.kaf#w52 ./opener_hotel/de/german00019_163c960391b779cc92b87b8d13346068.kaf#w53 ./opener_hotel/de/german00019_163c960391b779cc92b87b8d13346068.kaf#w54
+TARGET	Halbpension	./opener_hotel/de/german00019_163c960391b779cc92b87b8d13346068.kaf#w98
+TARGET	Die Gartenanlage	./opener_hotel/de/german00019_163c960391b779cc92b87b8d13346068.kaf#w87 ./opener_hotel/de/german00019_163c960391b779cc92b87b8d13346068.kaf#w88
+TARGET	Pisa	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w1
+TARGET	Lobby	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w42
+TARGET	Lage	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w158
+TARGET	Restaurants	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w163
+TARGET	vom Bahnhof	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w152 ./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w153
+TARGET	Teppichboden	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w102
+TARGET	Badezimmer	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w75
+TARGET	Zimmer	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w50
+TARGET	Badezimmer	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w52
+TARGET	Pisa	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w121
+TARGET	Schlauch der Dusche	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w62 ./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w63 ./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w64
+TARGET	die Abnutzungserscheinungen	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w57 ./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w58
+TARGET	Flatscreen · TV	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w104 ./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w105 ./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w106
+TARGET	an den Wänden	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w84 ./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w85 ./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w86
+TARGET	Gardinen	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w89
+TARGET	der junge Herr am Empfang	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w125 ./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w126 ./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w127 ./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w128 ./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w129
+TARGET	eine Nacht	./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w171 ./opener_hotel/de/german00184_c7f0c782ae67f3e877d103659d42bab9.kaf#w172
+TARGET	russische Gäste	./opener_hotel/de/german00136_93133a95c8ac061c4973e5b0e6ea583b.kaf#w86 ./opener_hotel/de/german00136_93133a95c8ac061c4973e5b0e6ea583b.kaf#w87
+TARGET	Urlaub	./opener_hotel/de/german00136_93133a95c8ac061c4973e5b0e6ea583b.kaf#w2
+TARGET	Anlage	./opener_hotel/de/german00136_93133a95c8ac061c4973e5b0e6ea583b.kaf#w5
+TARGET	die Bodenbeläge	./opener_hotel/de/german00136_93133a95c8ac061c4973e5b0e6ea583b.kaf#w15 ./opener_hotel/de/german00136_93133a95c8ac061c4973e5b0e6ea583b.kaf#w16
+TARGET	Anlage	./opener_hotel/de/german00136_93133a95c8ac061c4973e5b0e6ea583b.kaf#w12
+TARGET	in dieser Anlage	./opener_hotel/de/german00136_93133a95c8ac061c4973e5b0e6ea583b.kaf#w76 ./opener_hotel/de/german00136_93133a95c8ac061c4973e5b0e6ea583b.kaf#w77 ./opener_hotel/de/german00136_93133a95c8ac061c4973e5b0e6ea583b.kaf#w78
+TARGET	eine winzige Bar	./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w105 ./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w106 ./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w107
+TARGET	Auswahl	./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w131
+TARGET	Das Frühstück	./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w123 ./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w124
+TARGET	Die Zimmer	./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w12 ./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w13
+TARGET	Das Hotel	./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w7 ./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w8
+TARGET	Schrank	./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w47
+TARGET	Das Bad	./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w34 ./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w35
+TARGET	Im Bad	./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w59 ./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w60
+TARGET	einen PC für alle	./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w99 ./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w100 ./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w101 ./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w102
+TARGET	die Fernseher	./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w89 ./opener_hotel/de/german00202_dcc40089a37945885846108cded60a9a.kaf#w90
+TARGET	Shoppen	./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w19
+TARGET	Mängel in unserem Zimmer	./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w51 ./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w52 ./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w53 ./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w54
+TARGET	Das Personal	./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w43 ./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w44
+TARGET	Cocktails	./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w34
+TARGET	Essen und Trinken	./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w26 ./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w27 ./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w28
+TARGET	das Hotel	./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w82 ./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w83
+TARGET	vor der großen Hitze und den vielen Urlaubern da	./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w67 ./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w68 ./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w69 ./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w70 ./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w71 ./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w72 ./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w73 ./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w74 ./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w75
+TARGET	Wir	./opener_hotel/de/german00021_1aa2534be2e28b8674fcd766545a0bca.kaf#w59
+TARGET	Essen	./opener_hotel/de/german00203_e0a107904929d20e9bb6e076dff819a6.kaf#w2
+TARGET	einen überdachten Parkplatz	./opener_hotel/de/german00203_e0a107904929d20e9bb6e076dff819a6.kaf#w50 ./opener_hotel/de/german00203_e0a107904929d20e9bb6e076dff819a6.kaf#w51 ./opener_hotel/de/german00203_e0a107904929d20e9bb6e076dff819a6.kaf#w52
+TARGET	Es	./opener_hotel/de/german00203_e0a107904929d20e9bb6e076dff819a6.kaf#w36
+TARGET	es Anlage	./opener_hotel/de/german00203_e0a107904929d20e9bb6e076dff819a6.kaf#w21 ./opener_hotel/de/german00203_e0a107904929d20e9bb6e076dff819a6.kaf#w28
+TARGET	die Zimmer	./opener_hotel/de/german00100_a41485c13c6bc6ff6c1d370b0d6be48f.kaf#w63 ./opener_hotel/de/german00100_a41485c13c6bc6ff6c1d370b0d6be48f.kaf#w64
+TARGET	dem Spa Bereich	./opener_hotel/de/german00100_a41485c13c6bc6ff6c1d370b0d6be48f.kaf#w81 ./opener_hotel/de/german00100_a41485c13c6bc6ff6c1d370b0d6be48f.kaf#w82 ./opener_hotel/de/german00100_a41485c13c6bc6ff6c1d370b0d6be48f.kaf#w83
+TARGET	Service	./opener_hotel/de/german00063_6c03643dd7cd717e91d54bfaa39464f5.kaf#w8
+TARGET	Landschaft	./opener_hotel/de/german00063_6c03643dd7cd717e91d54bfaa39464f5.kaf#w2
+TARGET	Hotel	./opener_hotel/de/german00063_6c03643dd7cd717e91d54bfaa39464f5.kaf#w5
+TARGET	Alles	./opener_hotel/de/german00063_6c03643dd7cd717e91d54bfaa39464f5.kaf#w28
+TARGET	die Zimmer	./opener_hotel/de/german00063_6c03643dd7cd717e91d54bfaa39464f5.kaf#w20 ./opener_hotel/de/german00063_6c03643dd7cd717e91d54bfaa39464f5.kaf#w21
+TARGET	die Hotelanlage	./opener_hotel/de/german00063_6c03643dd7cd717e91d54bfaa39464f5.kaf#w16 ./opener_hotel/de/german00063_6c03643dd7cd717e91d54bfaa39464f5.kaf#w17
+TARGET	Das Frühstücksbuffet	./opener_hotel/de/german00063_6c03643dd7cd717e91d54bfaa39464f5.kaf#w47 ./opener_hotel/de/german00063_6c03643dd7cd717e91d54bfaa39464f5.kaf#w48
+TARGET	Der Bade · und Wellnessbereich	./opener_hotel/de/german00063_6c03643dd7cd717e91d54bfaa39464f5.kaf#w33 ./opener_hotel/de/german00063_6c03643dd7cd717e91d54bfaa39464f5.kaf#w34 ./opener_hotel/de/german00063_6c03643dd7cd717e91d54bfaa39464f5.kaf#w35 ./opener_hotel/de/german00063_6c03643dd7cd717e91d54bfaa39464f5.kaf#w36 ./opener_hotel/de/german00063_6c03643dd7cd717e91d54bfaa39464f5.kaf#w37
+TARGET	die Lage	./opener_hotel/de/german00017_13314901b46e7f6f1a14ac88ad63703b.kaf#w127 ./opener_hotel/de/german00017_13314901b46e7f6f1a14ac88ad63703b.kaf#w128
+TARGET	das was man bekommt	./opener_hotel/de/german00017_13314901b46e7f6f1a14ac88ad63703b.kaf#w7 ./opener_hotel/de/german00017_13314901b46e7f6f1a14ac88ad63703b.kaf#w8 ./opener_hotel/de/german00017_13314901b46e7f6f1a14ac88ad63703b.kaf#w9 ./opener_hotel/de/german00017_13314901b46e7f6f1a14ac88ad63703b.kaf#w10
+TARGET	Zimmer	./opener_hotel/de/german00017_13314901b46e7f6f1a14ac88ad63703b.kaf#w16
+TARGET	Safe	./opener_hotel/de/german00017_13314901b46e7f6f1a14ac88ad63703b.kaf#w50
+TARGET	Dusche und Wc	./opener_hotel/de/german00017_13314901b46e7f6f1a14ac88ad63703b.kaf#w59 ./opener_hotel/de/german00017_13314901b46e7f6f1a14ac88ad63703b.kaf#w60 ./opener_hotel/de/german00017_13314901b46e7f6f1a14ac88ad63703b.kaf#w61
+TARGET	Badewanne	./opener_hotel/de/german00017_13314901b46e7f6f1a14ac88ad63703b.kaf#w53
+TARGET	Zimmer	./opener_hotel/de/german00017_13314901b46e7f6f1a14ac88ad63703b.kaf#w40
+TARGET	Zimmer	./opener_hotel/de/german00017_13314901b46e7f6f1a14ac88ad63703b.kaf#w102
+TARGET	Personal	./opener_hotel/de/german00017_13314901b46e7f6f1a14ac88ad63703b.kaf#w93
+TARGET	Die Gästestruktur	./opener_hotel/de/german00149_fc782d740322f7f851c88947d62d7f55.kaf#w3 ./opener_hotel/de/german00149_fc782d740322f7f851c88947d62d7f55.kaf#w4
+TARGET	Seminarbetrieb	./opener_hotel/de/german00149_fc782d740322f7f851c88947d62d7f55.kaf#w50
+TARGET	die Wege zum Schwimmbad , Sauna etc.	./opener_hotel/de/german00149_fc782d740322f7f851c88947d62d7f55.kaf#w67 ./opener_hotel/de/german00149_fc782d740322f7f851c88947d62d7f55.kaf#w68 ./opener_hotel/de/german00149_fc782d740322f7f851c88947d62d7f55.kaf#w69 ./opener_hotel/de/german00149_fc782d740322f7f851c88947d62d7f55.kaf#w70 ./opener_hotel/de/german00149_fc782d740322f7f851c88947d62d7f55.kaf#w71 ./opener_hotel/de/german00149_fc782d740322f7f851c88947d62d7f55.kaf#w72 ./opener_hotel/de/german00149_fc782d740322f7f851c88947d62d7f55.kaf#w73
+TARGET	Die Anlage	./opener_hotel/de/german00149_fc782d740322f7f851c88947d62d7f55.kaf#w52 ./opener_hotel/de/german00149_fc782d740322f7f851c88947d62d7f55.kaf#w53
+TARGET	Mitarbeiter	./opener_hotel/de/german00144_9be88d22f8b5959c03bf7f4b6d748998.kaf#w26
+TARGET	dieser	./opener_hotel/de/german00144_9be88d22f8b5959c03bf7f4b6d748998.kaf#w16
+TARGET	Das Hotel	./opener_hotel/de/german00144_9be88d22f8b5959c03bf7f4b6d748998.kaf#w3 ./opener_hotel/de/german00144_9be88d22f8b5959c03bf7f4b6d748998.kaf#w4
+TARGET	Das Doppelzimmer	./opener_hotel/de/german00144_9be88d22f8b5959c03bf7f4b6d748998.kaf#w63 ./opener_hotel/de/german00144_9be88d22f8b5959c03bf7f4b6d748998.kaf#w64
+TARGET	Geruch	./opener_hotel/de/german00144_9be88d22f8b5959c03bf7f4b6d748998.kaf#w49
+TARGET	Im Hotel	./opener_hotel/de/german00144_9be88d22f8b5959c03bf7f4b6d748998.kaf#w94 ./opener_hotel/de/german00144_9be88d22f8b5959c03bf7f4b6d748998.kaf#w95
+TARGET	auf unserem Stock	./opener_hotel/de/german00144_9be88d22f8b5959c03bf7f4b6d748998.kaf#w99 ./opener_hotel/de/german00144_9be88d22f8b5959c03bf7f4b6d748998.kaf#w100 ./opener_hotel/de/german00144_9be88d22f8b5959c03bf7f4b6d748998.kaf#w101
+TARGET	den Schlüssel	./opener_hotel/de/german00144_9be88d22f8b5959c03bf7f4b6d748998.kaf#w85 ./opener_hotel/de/german00144_9be88d22f8b5959c03bf7f4b6d748998.kaf#w86
+TARGET	Es	./opener_hotel/de/german00213_e917f032104caee59da4dd07aa7af53b.kaf#w106
+TARGET	Unterhaltung	./opener_hotel/de/german00213_e917f032104caee59da4dd07aa7af53b.kaf#w104
+TARGET	Urlab	./opener_hotel/de/german00213_e917f032104caee59da4dd07aa7af53b.kaf#w3
+TARGET	das Zimmer	./opener_hotel/de/german00213_e917f032104caee59da4dd07aa7af53b.kaf#w33 ./opener_hotel/de/german00213_e917f032104caee59da4dd07aa7af53b.kaf#w34
+TARGET	was	./opener_hotel/de/german00213_e917f032104caee59da4dd07aa7af53b.kaf#w44
+TARGET	Die Anlage	./opener_hotel/de/german00213_e917f032104caee59da4dd07aa7af53b.kaf#w49 ./opener_hotel/de/german00213_e917f032104caee59da4dd07aa7af53b.kaf#w50
+TARGET	alle vom Gärtner bis zum Hotelmanagement	./opener_hotel/de/german00213_e917f032104caee59da4dd07aa7af53b.kaf#w55 ./opener_hotel/de/german00213_e917f032104caee59da4dd07aa7af53b.kaf#w57 ./opener_hotel/de/german00213_e917f032104caee59da4dd07aa7af53b.kaf#w58 ./opener_hotel/de/german00213_e917f032104caee59da4dd07aa7af53b.kaf#w59 ./opener_hotel/de/german00213_e917f032104caee59da4dd07aa7af53b.kaf#w60 ./opener_hotel/de/german00213_e917f032104caee59da4dd07aa7af53b.kaf#w61
+TARGET	Koch	./opener_hotel/de/german00213_e917f032104caee59da4dd07aa7af53b.kaf#w88
+TARGET	Preis	./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w147
+TARGET	Rezeption	./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w130
+TARGET	Das Bellevue · Hotel	./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w176 ./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w177 ./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w178 ./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w179
+TARGET	Hotel	./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w2
+TARGET	Mit diesem Hotel	./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w6 ./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w7 ./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w8
+TARGET	das Hotel	./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w23 ./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w24
+TARGET	seelenloser Neubau	./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w34 ./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w35
+TARGET	In der Innenstadt in Hotelgaragen	./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w81 ./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w82 ./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w83 ./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w85 ./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w86
+TARGET	Room · Service	./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w125 ./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w126 ./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w127
+TARGET	Zimmer	./opener_hotel/de/german00089_8bce1545dda409a8cb5237c32f6969a4.kaf#w122
+TARGET	Service	./opener_hotel/de/german00103_ab1914b5d4715e00b999bd7ceb02510a.kaf#w2
+TARGET	Preis / Leistung	./opener_hotel/de/german00103_ab1914b5d4715e00b999bd7ceb02510a.kaf#w59 ./opener_hotel/de/german00103_ab1914b5d4715e00b999bd7ceb02510a.kaf#w60 ./opener_hotel/de/german00103_ab1914b5d4715e00b999bd7ceb02510a.kaf#w61
+TARGET	den Aufenthalt	./opener_hotel/de/german00103_ab1914b5d4715e00b999bd7ceb02510a.kaf#w49 ./opener_hotel/de/german00103_ab1914b5d4715e00b999bd7ceb02510a.kaf#w50
+TARGET	der Service allg.	./opener_hotel/de/german00103_ab1914b5d4715e00b999bd7ceb02510a.kaf#w38 ./opener_hotel/de/german00103_ab1914b5d4715e00b999bd7ceb02510a.kaf#w39 ./opener_hotel/de/german00103_ab1914b5d4715e00b999bd7ceb02510a.kaf#w40
+TARGET	Das Hotel	./opener_hotel/de/german00103_ab1914b5d4715e00b999bd7ceb02510a.kaf#w29 ./opener_hotel/de/german00103_ab1914b5d4715e00b999bd7ceb02510a.kaf#w30
+TARGET	das aufgeschlossene Personal	./opener_hotel/de/german00103_ab1914b5d4715e00b999bd7ceb02510a.kaf#w34 ./opener_hotel/de/german00103_ab1914b5d4715e00b999bd7ceb02510a.kaf#w35 ./opener_hotel/de/german00103_ab1914b5d4715e00b999bd7ceb02510a.kaf#w36
+TARGET	Lage	./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w7
+TARGET	Wellness · Hotel · Anlage	./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w15 ./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w16 ./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w17 ./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w18 ./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w19
+TARGET	Aqua · Pool · Anlage	./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w35 ./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w36 ./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w37 ./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w38 ./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w39
+TARGET	Lage	./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w29
+TARGET	Saunalandschaft	./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w45
+TARGET	Der Fitnessraum	./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w60 ./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w61
+TARGET	Wellness · Center	./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w52 ./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w53 ./opener_hotel/de/german00068_6f4677b16a2b29bdcd2421eccef2b2c1.kaf#w54
+TARGET	Check · in und Check · out	./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w29 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w30 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w31 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w32 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w33 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w34 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w35
+TARGET	Mercure Terminus Nord	./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w7 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w8 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w9
+TARGET	Zimmer	./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w74
+TARGET	das Zimmer	./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w47 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w48
+TARGET	Das Badezimmer	./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w93 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w94
+TARGET	die Standard · Zimmer für Pariser Verhältnisse	./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w83 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w84 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w85 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w86 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w87 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w88 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w89
+TARGET	Das Frühstücksbüffet	./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w105 ./opener_hotel/de/german00065_459d0d22a8fc88a7b11fc32021d894bb.kaf#w106
+TARGET	Hilton Berlin	./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w1 ./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w2
+TARGET	...	./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w3
+TARGET	Checkin	./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w39
+TARGET	Parkservice	./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w33
+TARGET	HH · Gold	./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w42 ./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w43 ./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w44
+TARGET	das Hilton Berlin	./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w24 ./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w25 ./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w26
+TARGET	der Ausblick	./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w96 ./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w97
+TARGET	Das Zimmer	./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w89 ./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w90
+TARGET	kaltes	./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w80
+TARGET	warmes Buffet	./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w82 ./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w83
+TARGET	alkoholische Getränke	./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w86 ./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w87
+TARGET	warme Getränke	./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w73 ./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w74
+TARGET	Softdrinks	./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w71
+TARGET	dem Hotel	./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w123 ./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w124
+TARGET	dem Hotel	./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w131 ./opener_hotel/de/german00119_809ce7ba04c13a2904b5bc291ac36e60.kaf#w132
+TARGET	alle Speisen	./opener_hotel/de/german00057_587a0fab0f49fab5b83c2d87d34e5ebf.kaf#w101 ./opener_hotel/de/german00057_587a0fab0f49fab5b83c2d87d34e5ebf.kaf#w102
+TARGET	Das gesammte Personal	./opener_hotel/de/german00057_587a0fab0f49fab5b83c2d87d34e5ebf.kaf#w60 ./opener_hotel/de/german00057_587a0fab0f49fab5b83c2d87d34e5ebf.kaf#w61 ./opener_hotel/de/german00057_587a0fab0f49fab5b83c2d87d34e5ebf.kaf#w62
+TARGET	Hotel	./opener_hotel/de/german00060_4111d34b5e537ea9cb387a1dc8c633a4.kaf#w4
+TARGET	das Personal	./opener_hotel/de/german00060_4111d34b5e537ea9cb387a1dc8c633a4.kaf#w21 ./opener_hotel/de/german00060_4111d34b5e537ea9cb387a1dc8c633a4.kaf#w22
+TARGET	Zimmer	./opener_hotel/de/german00060_4111d34b5e537ea9cb387a1dc8c633a4.kaf#w12
+TARGET	Die Lage	./opener_hotel/de/german00060_4111d34b5e537ea9cb387a1dc8c633a4.kaf#w35 ./opener_hotel/de/german00060_4111d34b5e537ea9cb387a1dc8c633a4.kaf#w36
+TARGET	Sauberkeit	./opener_hotel/de/german00060_4111d34b5e537ea9cb387a1dc8c633a4.kaf#w26
+TARGET	alles	./opener_hotel/de/german00060_4111d34b5e537ea9cb387a1dc8c633a4.kaf#w30

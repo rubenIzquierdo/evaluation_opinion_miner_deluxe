@@ -1,0 +1,27 @@
+##################################################
+Precision: 92.00 Total system: 75
+Most wrong on the system:
+	Freq: 3 --> We
+		['./opener_hotel/en/english00081_74f5522e8f5628a2c6591c3411d1bc7f.kaf#w56']
+		['./opener_hotel/en/english00081_74f5522e8f5628a2c6591c3411d1bc7f.kaf#w56']
+		['./opener_hotel/en/english00047_413c7a16899dcf5c56e6cf1a6dafe78d.kaf#w47']
+	Freq: 2 --> I
+		['./opener_hotel/en/english00105_71e28d21015ec527b53c9bccc92e1484.kaf#w101']
+		['./opener_hotel/en/english00105_71e28d21015ec527b53c9bccc92e1484.kaf#w101']
+	Freq: 1 --> we
+		['./opener_hotel/en/english00135_977b29727cbd452452362a22780ee24a.kaf#w104']
+Recall: 91.80 Total gold: 61
+Most missed from the gold:
+	Freq: 3 --> we
+		['./opener_hotel/en/english00135_977b29727cbd452452362a22780ee24a.kaf#w100']
+		['./opener_hotel/en/english00020_14fcd0dd734bab84f7da7aed891b5590.kaf#w83']
+		['./opener_hotel/en/english00105_71e28d21015ec527b53c9bccc92e1484.kaf#w103']
+	Freq: 1 --> eyes.I
+		['./opener_hotel/en/english00029_2a5891717bff19947a0b858a3b1e8230.kaf#w50']
+	Freq: 1 --> you
+		['./opener_hotel/en/english00147_a4f827045ccca4c837ce365bd870850a.kaf#w56']
+##################################################
+%%%<DATA>%%% (total_prec,ok_prec newline total_rec ok_rec
+75 69
+61 56
+%%%</DATA>%%% (type, or, wrong)

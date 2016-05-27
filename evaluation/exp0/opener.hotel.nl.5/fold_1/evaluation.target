@@ -1,0 +1,440 @@
+##################################################
+Precision: 85.57 Total system: 693
+Most wrong on the system:
+	Freq: 9 --> de
+		['./opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w104']
+		['./opener_hotel/nl/dutch00127_e870fe5688527d63795a10276efcb149.kaf#w68']
+		['./opener_hotel/nl/dutch00113_75617a56d8c56be235265a4395932e95.kaf#w82']
+		['./opener_hotel/nl/dutch00113_75617a56d8c56be235265a4395932e95.kaf#w18']
+		['./opener_hotel/nl/dutch00092_b3514cf2f3de04c6e14d0f98f40fe634.kaf#w94']
+		['./opener_hotel/nl/dutch00091_b1dd80eeee85f33660790ed96b2bbc44.kaf#w88']
+		['./opener_hotel/nl/dutch00048_5b3cd77f6b37067a11cd8da83a32ba48.kaf#w50']
+		['./opener_hotel/nl/dutch00178_2993a511e60928ef8697c9d7c7d8a4a0.kaf#w52']
+		['./opener_hotel/nl/dutch00109_cf2b31686d21cf46e9d11038a7493bea.kaf#w73']
+	Freq: 6 --> resort
+		['./opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w8']
+		['./opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w8']
+		['./opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w8']
+		['./opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w8']
+		['./opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w8']
+		['./opener_hotel/nl/dutch00102_80b72940d793d4c132028ac6dc17ca0a.kaf#w12']
+	Freq: 6 --> dit
+		['./opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w17']
+		['./opener_hotel/nl/dutch00159_3f9e294d7525b554ae0303d118a6f183.kaf#w78']
+		['./opener_hotel/nl/dutch00159_3f9e294d7525b554ae0303d118a6f183.kaf#w78']
+		['./opener_hotel/nl/dutch00009_f586a505994439e369a6ba02d182b1be.kaf#w25']
+		['./opener_hotel/nl/dutch00196_103916900bcedf91eed09067b8de47c1.kaf#w5']
+		['./opener_hotel/nl/dutch00196_103916900bcedf91eed09067b8de47c1.kaf#w118']
+	Freq: 5 --> het
+		['./opener_hotel/nl/dutch00183_1b0bcfe6d0c41ad12c0a5d3cb67cea1c.kaf#w31']
+		['./opener_hotel/nl/dutch00135_599e6fe0fb101760041eea5553d89840.kaf#w90']
+		['./opener_hotel/nl/dutch00176_2aeb4358dfe2cef66d43828616a96cb5.kaf#w129']
+		['./opener_hotel/nl/dutch00203_0a33028fb50feb0113c03f1459051c38.kaf#w42']
+		['./opener_hotel/nl/dutch00058_b2fdb7ac8103083b1999fef43778e435.kaf#w37']
+	Freq: 5 --> hotel
+		['./opener_hotel/nl/dutch00054_6cbc4f3383a4d8cd4cba0feb1b7ac6b0.kaf#w49']
+		['./opener_hotel/nl/dutch00069_89974cbde70590dfb69d0b4ce128c7d1.kaf#w39']
+		['./opener_hotel/nl/dutch00069_89974cbde70590dfb69d0b4ce128c7d1.kaf#w39']
+		['./opener_hotel/nl/dutch00016_ec4b86fd6e083ef173596270159cb2c6.kaf#w13']
+		['./opener_hotel/nl/dutch00176_2aeb4358dfe2cef66d43828616a96cb5.kaf#w68']
+	Freq: 4 --> bij
+		['./opener_hotel/nl/dutch00181_2216147ca24fea6c3efb68f2f6f7350e.kaf#w48']
+		['./opener_hotel/nl/dutch00181_2216147ca24fea6c3efb68f2f6f7350e.kaf#w48']
+		['./opener_hotel/nl/dutch00032_d5674747dfca65462bfeee3acadefeb0.kaf#w8']
+		['./opener_hotel/nl/dutch00032_d5674747dfca65462bfeee3acadefeb0.kaf#w8']
+	Freq: 4 --> een
+		['./opener_hotel/nl/dutch00159_3f9e294d7525b554ae0303d118a6f183.kaf#w95']
+		['./opener_hotel/nl/dutch00089_afa98ba272688ef2a2ea979c07204012.kaf#w55']
+		['./opener_hotel/nl/dutch00089_afa98ba272688ef2a2ea979c07204012.kaf#w55']
+		['./opener_hotel/nl/dutch00032_d5674747dfca65462bfeee3acadefeb0.kaf#w77']
+	Freq: 3 --> eten
+		['./opener_hotel/nl/dutch00052_62eff56d5974687865b23620df793e2b.kaf#w56']
+		['./opener_hotel/nl/dutch00052_62eff56d5974687865b23620df793e2b.kaf#w56']
+		['./opener_hotel/nl/dutch00110_7700b9e20b95cd0110546e9674697db8.kaf#w59']
+	Freq: 3 --> Badkamer
+		['./opener_hotel/nl/dutch00083_9a3392d87935405edf0de6e5796cc658.kaf#w7']
+		['./opener_hotel/nl/dutch00083_9a3392d87935405edf0de6e5796cc658.kaf#w7']
+		['./opener_hotel/nl/dutch00083_9a3392d87935405edf0de6e5796cc658.kaf#w7']
+	Freq: 3 --> sfeer
+		['./opener_hotel/nl/dutch00182_1ee576ef12dbf4a1cdeda6cc956b3618.kaf#w71']
+		['./opener_hotel/nl/dutch00182_1ee576ef12dbf4a1cdeda6cc956b3618.kaf#w71']
+		['./opener_hotel/nl/dutch00182_1ee576ef12dbf4a1cdeda6cc956b3618.kaf#w71']
+	Freq: 2 --> andere
+		['./opener_hotel/nl/dutch00044_56685bae9d561db78eed546c6494fa52.kaf#w51']
+		['./opener_hotel/nl/dutch00044_56685bae9d561db78eed546c6494fa52.kaf#w51']
+	Freq: 2 --> alle
+		['./opener_hotel/nl/dutch00167_386eee2f2a65e1d8b840a2f1ffb3a0aa.kaf#w30']
+		['./opener_hotel/nl/dutch00167_386eee2f2a65e1d8b840a2f1ffb3a0aa.kaf#w30']
+	Freq: 2 --> rustig
+		['./opener_hotel/nl/dutch00167_386eee2f2a65e1d8b840a2f1ffb3a0aa.kaf#w85']
+		['./opener_hotel/nl/dutch00167_386eee2f2a65e1d8b840a2f1ffb3a0aa.kaf#w94']
+	Freq: 2 --> de kamer
+		['./opener_hotel/nl/dutch00116_6d9b5b283aff57806a0fcd29c1491da7.kaf#w33', './opener_hotel/nl/dutch00116_6d9b5b283aff57806a0fcd29c1491da7.kaf#w34']
+		['./opener_hotel/nl/dutch00058_b2fdb7ac8103083b1999fef43778e435.kaf#w40', './opener_hotel/nl/dutch00058_b2fdb7ac8103083b1999fef43778e435.kaf#w41']
+	Freq: 2 --> kwaliteit
+		['./opener_hotel/nl/dutch00141_4ff3ef10d94241ebf696c1b1aff58730.kaf#w39']
+		['./opener_hotel/nl/dutch00141_4ff3ef10d94241ebf696c1b1aff58730.kaf#w39']
+	Freq: 2 --> euro
+		['./opener_hotel/nl/dutch00048_5b3cd77f6b37067a11cd8da83a32ba48.kaf#w114']
+		['./opener_hotel/nl/dutch00048_5b3cd77f6b37067a11cd8da83a32ba48.kaf#w114']
+	Freq: 1 --> weg gegaan
+		['./opener_hotel/nl/dutch00182_1ee576ef12dbf4a1cdeda6cc956b3618.kaf#w31', './opener_hotel/nl/dutch00182_1ee576ef12dbf4a1cdeda6cc956b3618.kaf#w32']
+	Freq: 1 --> voortreffelijk
+		['./opener_hotel/nl/dutch00048_5b3cd77f6b37067a11cd8da83a32ba48.kaf#w124']
+	Freq: 1 --> ons beklag
+		['./opener_hotel/nl/dutch00044_56685bae9d561db78eed546c6494fa52.kaf#w42', './opener_hotel/nl/dutch00044_56685bae9d561db78eed546c6494fa52.kaf#w43']
+	Freq: 1 --> aankomst
+		['./opener_hotel/nl/dutch00136_fc13eea768bdddafcac1a84eef78a324.kaf#w13']
+	Freq: 1 --> zee
+		['./opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w100']
+	Freq: 1 --> deze
+		['./opener_hotel/nl/dutch00166_396239e9321b7cf898fad3ce1daf2991.kaf#w61']
+	Freq: 1 --> bussen
+		['./opener_hotel/nl/dutch00089_afa98ba272688ef2a2ea979c07204012.kaf#w31']
+	Freq: 1 --> avonds
+		['./opener_hotel/nl/dutch00058_71c8a80a30c7cf9ada15b07f2bede95d.kaf#w79']
+	Freq: 1 --> familiegevoel
+		['./opener_hotel/nl/dutch00113_75617a56d8c56be235265a4395932e95.kaf#w13']
+	Freq: 1 --> een airco
+		['./opener_hotel/nl/dutch00068_8584f3c8cbd15d1acde2592a705e3aea.kaf#w14', './opener_hotel/nl/dutch00068_8584f3c8cbd15d1acde2592a705e3aea.kaf#w15']
+	Freq: 1 --> bed
+		['./opener_hotel/nl/dutch00044_56685bae9d561db78eed546c6494fa52.kaf#w33']
+	Freq: 1 --> verhouding
+		['./opener_hotel/nl/dutch00007_f6ff08fc983b99399e8796291ade817b.kaf#w27']
+	Freq: 1 --> parkeren
+		['./opener_hotel/nl/dutch00032_d5674747dfca65462bfeee3acadefeb0.kaf#w16']
+	Freq: 1 --> aanbieding
+		['./opener_hotel/nl/dutch00038_50aedb4e3a1f73b4786165a517ca7ec0.kaf#w44']
+	Freq: 1 --> van
+		['./opener_hotel/nl/dutch00159_3f9e294d7525b554ae0303d118a6f183.kaf#w6']
+	Freq: 1 --> /
+		['./opener_hotel/nl/dutch00012_ee084f298bbed8247a04afe2e2e82f6b.kaf#w56']
+	Freq: 1 --> achter
+		['./opener_hotel/nl/dutch00127_e870fe5688527d63795a10276efcb149.kaf#w13']
+	Freq: 1 --> 23 °
+		['./opener_hotel/nl/dutch00116_6d9b5b283aff57806a0fcd29c1491da7.kaf#w62', './opener_hotel/nl/dutch00116_6d9b5b283aff57806a0fcd29c1491da7.kaf#w63']
+	Freq: 1 --> dit hotel
+		['./opener_hotel/nl/dutch00194_1332fbe61d67d4c38d741d34b876ca98.kaf#w18', './opener_hotel/nl/dutch00194_1332fbe61d67d4c38d741d34b876ca98.kaf#w19']
+	Freq: 1 --> personeel
+		['./opener_hotel/nl/dutch00007_f6ff08fc983b99399e8796291ade817b.kaf#w20']
+	Freq: 1 --> gegeten
+		['./opener_hotel/nl/dutch00083_9a3392d87935405edf0de6e5796cc658.kaf#w107']
+	Freq: 1 --> Ontbijt
+		['./opener_hotel/nl/dutch00106_7c1e70d30e2555f6517f90c7ee2f0977.kaf#w89']
+	Freq: 1 --> was.Queensize bed
+		['./opener_hotel/nl/dutch00044_56685bae9d561db78eed546c6494fa52.kaf#w32', './opener_hotel/nl/dutch00044_56685bae9d561db78eed546c6494fa52.kaf#w33']
+	Freq: 1 --> met
+		['./opener_hotel/nl/dutch00183_1b0bcfe6d0c41ad12c0a5d3cb67cea1c.kaf#w55']
+	Freq: 1 --> omgeving
+		['./opener_hotel/nl/dutch00061_7a917156835457d041ad9f8324ad42ee.kaf#w24']
+	Freq: 1 --> Een
+		['./opener_hotel/nl/dutch00091_b1dd80eeee85f33660790ed96b2bbc44.kaf#w10']
+	Freq: 1 --> buffet
+		['./opener_hotel/nl/dutch00016_ec4b86fd6e083ef173596270159cb2c6.kaf#w71']
+	Freq: 1 --> men
+		['./opener_hotel/nl/dutch00059_746519caba1ba7d13db745fafca2b733.kaf#w79']
+	Freq: 1 --> Rust
+		['./opener_hotel/nl/dutch00048_5b3cd77f6b37067a11cd8da83a32ba48.kaf#w48']
+	Freq: 1 --> de aankomsthal
+		['./opener_hotel/nl/dutch00001_046973f3141ba52fb0114ad1c6e4852a.kaf#w69', './opener_hotel/nl/dutch00001_046973f3141ba52fb0114ad1c6e4852a.kaf#w70']
+	Freq: 1 --> lunch
+		['./opener_hotel/nl/dutch00089_afa98ba272688ef2a2ea979c07204012.kaf#w24']
+	Freq: 1 --> ontbijt
+		['./opener_hotel/nl/dutch00054_6cbc4f3383a4d8cd4cba0feb1b7ac6b0.kaf#w54']
+	Freq: 1 --> mededeling
+		['./opener_hotel/nl/dutch00203_0a33028fb50feb0113c03f1459051c38.kaf#w83']
+	Freq: 1 --> voor
+		['./opener_hotel/nl/dutch00061_7a917156835457d041ad9f8324ad42ee.kaf#w22']
+	Freq: 1 --> staat
+		['./opener_hotel/nl/dutch00032_d5674747dfca65462bfeee3acadefeb0.kaf#w86']
+	Freq: 1 --> hier
+		['./opener_hotel/nl/dutch00110_7700b9e20b95cd0110546e9674697db8.kaf#w7']
+	Freq: 1 --> de Rambla
+		['./opener_hotel/nl/dutch00061_7a917156835457d041ad9f8324ad42ee.kaf#w10', './opener_hotel/nl/dutch00061_7a917156835457d041ad9f8324ad42ee.kaf#w11']
+	Freq: 1 --> buurt.Goed
+		['./opener_hotel/nl/dutch00044_56685bae9d561db78eed546c6494fa52.kaf#w131']
+	Freq: 1 --> medewerkers
+		['./opener_hotel/nl/dutch00181_2216147ca24fea6c3efb68f2f6f7350e.kaf#w52']
+	Freq: 1 --> handdoeken
+		['./opener_hotel/nl/dutch00091_b1dd80eeee85f33660790ed96b2bbc44.kaf#w89']
+Recall: 71.54 Total gold: 513
+Most missed from the gold:
+	Freq: 5 --> ze
+		['./opener_hotel/nl/dutch00110_7700b9e20b95cd0110546e9674697db8.kaf#w88']
+		['./opener_hotel/nl/dutch00135_599e6fe0fb101760041eea5553d89840.kaf#w25']
+		['./opener_hotel/nl/dutch00135_599e6fe0fb101760041eea5553d89840.kaf#w67']
+		['./opener_hotel/nl/dutch00176_2aeb4358dfe2cef66d43828616a96cb5.kaf#w74']
+		['./opener_hotel/nl/dutch00125_631e0b6ccce36711e0628a668978c6d4.kaf#w66']
+	Freq: 3 --> bar
+		['./opener_hotel/nl/dutch00054_6cbc4f3383a4d8cd4cba0feb1b7ac6b0.kaf#w13']
+		['./opener_hotel/nl/dutch00031_3f435782121b965977d51f5e8e040c7d.kaf#w60']
+		['./opener_hotel/nl/dutch00066_8234a57e0d6cd63d699d80364549603b.kaf#w39']
+	Freq: 3 --> hier
+		['./opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w36']
+		['./opener_hotel/nl/dutch00106_7c1e70d30e2555f6517f90c7ee2f0977.kaf#w135']
+		['./opener_hotel/nl/dutch00176_2aeb4358dfe2cef66d43828616a96cb5.kaf#w83']
+	Freq: 3 --> het
+		['./opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w61']
+		['./opener_hotel/nl/dutch00031_3f435782121b965977d51f5e8e040c7d.kaf#w45']
+		['./opener_hotel/nl/dutch00206_04053204d00c463a25d0ca128eed81ea.kaf#w19']
+	Freq: 3 --> kamers
+		['./opener_hotel/nl/dutch00182_1ee576ef12dbf4a1cdeda6cc956b3618.kaf#w68']
+		['./opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w14']
+		['./opener_hotel/nl/dutch00122_6410f2059f245637a8b1192084acedd0.kaf#w23']
+	Freq: 2 --> deze
+		['./opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w51']
+		['./opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w25']
+	Freq: 2 --> saunalandschap
+		['./opener_hotel/nl/dutch00054_6cbc4f3383a4d8cd4cba0feb1b7ac6b0.kaf#w21']
+		['./opener_hotel/nl/dutch00059_746519caba1ba7d13db745fafca2b733.kaf#w25']
+	Freq: 2 --> het strand
+		['./opener_hotel/nl/dutch00113_75617a56d8c56be235265a4395932e95.kaf#w87', './opener_hotel/nl/dutch00113_75617a56d8c56be235265a4395932e95.kaf#w88']
+		['./opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w87', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w88']
+	Freq: 2 --> kamer
+		['./opener_hotel/nl/dutch00035_447407fe3b43a35564aa364d492f4edc.kaf#w33']
+		['./opener_hotel/nl/dutch00038_50aedb4e3a1f73b4786165a517ca7ec0.kaf#w10']
+	Freq: 2 --> TV
+		['./opener_hotel/nl/dutch00182_1ee576ef12dbf4a1cdeda6cc956b3618.kaf#w74']
+		['./opener_hotel/nl/dutch00083_9a3392d87935405edf0de6e5796cc658.kaf#w88']
+	Freq: 2 --> eten
+		['./opener_hotel/nl/dutch00091_b1dd80eeee85f33660790ed96b2bbc44.kaf#w43']
+		['./opener_hotel/nl/dutch00102_80b72940d793d4c132028ac6dc17ca0a.kaf#w15']
+	Freq: 1 --> fietsen huren
+		['./opener_hotel/nl/dutch00141_4ff3ef10d94241ebf696c1b1aff58730.kaf#w92', './opener_hotel/nl/dutch00141_4ff3ef10d94241ebf696c1b1aff58730.kaf#w93']
+	Freq: 1 --> gelegen
+		['./opener_hotel/nl/dutch00141_4ff3ef10d94241ebf696c1b1aff58730.kaf#w7']
+	Freq: 1 --> zwembad
+		['./opener_hotel/nl/dutch00054_6cbc4f3383a4d8cd4cba0feb1b7ac6b0.kaf#w23']
+	Freq: 1 --> klantvriendelijkheid
+		['./opener_hotel/nl/dutch00130_eb83fac2a3b5ea81751ab28443ba456d.kaf#w49']
+	Freq: 1 --> uitzicht
+		['./opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w97']
+	Freq: 1 --> de kwaliteit en hoeveelheid van de maaltijden
+		['./opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w30', './opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w31', './opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w32', './opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w33', './opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w34', './opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w35', './opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w36']
+	Freq: 1 --> waar
+		['./opener_hotel/nl/dutch00196_103916900bcedf91eed09067b8de47c1.kaf#w68']
+	Freq: 1 --> Het Astrid Hotel
+		['./opener_hotel/nl/dutch00067_a707fe912d1c5fd0e7b8bfc81f862da6.kaf#w9', './opener_hotel/nl/dutch00067_a707fe912d1c5fd0e7b8bfc81f862da6.kaf#w10', './opener_hotel/nl/dutch00067_a707fe912d1c5fd0e7b8bfc81f862da6.kaf#w11']
+	Freq: 1 --> de behulpzaamheid van het personeel.We
+		['./opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w38', './opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w39', './opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w40', './opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w41', './opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w42']
+	Freq: 1 --> een game · room
+		['./opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w66', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w67', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w68', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w69']
+	Freq: 1 --> verblijf
+		['./opener_hotel/nl/dutch00166_396239e9321b7cf898fad3ce1daf2991.kaf#w29']
+	Freq: 1 --> de vis
+		['./opener_hotel/nl/dutch00052_62eff56d5974687865b23620df793e2b.kaf#w127', './opener_hotel/nl/dutch00052_62eff56d5974687865b23620df793e2b.kaf#w128']
+	Freq: 1 --> Bar
+		['./opener_hotel/nl/dutch00092_b3514cf2f3de04c6e14d0f98f40fe634.kaf#w66']
+	Freq: 1 --> 24 uur receptie
+		['./opener_hotel/nl/dutch00058_b2fdb7ac8103083b1999fef43778e435.kaf#w65', './opener_hotel/nl/dutch00058_b2fdb7ac8103083b1999fef43778e435.kaf#w66', './opener_hotel/nl/dutch00058_b2fdb7ac8103083b1999fef43778e435.kaf#w67']
+	Freq: 1 --> Handvat ligbad
+		['./opener_hotel/nl/dutch00203_0a33028fb50feb0113c03f1459051c38.kaf#w25', './opener_hotel/nl/dutch00203_0a33028fb50feb0113c03f1459051c38.kaf#w26']
+	Freq: 1 --> de merken van drankjes
+		['./opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w70', './opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w71', './opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w72', './opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w73']
+	Freq: 1 --> uitzicht over de stad
+		['./opener_hotel/nl/dutch00048_5b3cd77f6b37067a11cd8da83a32ba48.kaf#w63', './opener_hotel/nl/dutch00048_5b3cd77f6b37067a11cd8da83a32ba48.kaf#w64', './opener_hotel/nl/dutch00048_5b3cd77f6b37067a11cd8da83a32ba48.kaf#w65', './opener_hotel/nl/dutch00048_5b3cd77f6b37067a11cd8da83a32ba48.kaf#w66']
+	Freq: 1 --> strand
+		['./opener_hotel/nl/dutch00057_70579b8f2faa6fa126d12eab0fb162a6.kaf#w15']
+	Freq: 1 --> een buffetrestaurant
+		['./opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w45', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w46']
+	Freq: 1 --> discobar
+		['./opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w59']
+	Freq: 1 --> die
+		['./opener_hotel/nl/dutch00182_1ee576ef12dbf4a1cdeda6cc956b3618.kaf#w49']
+	Freq: 1 --> een kamer
+		['./opener_hotel/nl/dutch00044_56685bae9d561db78eed546c6494fa52.kaf#w23', './opener_hotel/nl/dutch00044_56685bae9d561db78eed546c6494fa52.kaf#w24']
+	Freq: 1 --> Prijzen
+		['./opener_hotel/nl/dutch00106_7c1e70d30e2555f6517f90c7ee2f0977.kaf#w137']
+	Freq: 1 --> Rixos
+		['./opener_hotel/nl/dutch00118_69160e9eb61a9c5dd9021ea7891cff08.kaf#w84']
+	Freq: 1 --> boottocht
+		['./opener_hotel/nl/dutch00113_75617a56d8c56be235265a4395932e95.kaf#w39']
+	Freq: 1 --> dit
+		['./opener_hotel/nl/dutch00181_2216147ca24fea6c3efb68f2f6f7350e.kaf#w44']
+	Freq: 1 --> geur
+		['./opener_hotel/nl/dutch00110_7700b9e20b95cd0110546e9674697db8.kaf#w108']
+	Freq: 1 --> het aangrenzende waterpark
+		['./opener_hotel/nl/dutch00057_70579b8f2faa6fa126d12eab0fb162a6.kaf#w41', './opener_hotel/nl/dutch00057_70579b8f2faa6fa126d12eab0fb162a6.kaf#w42', './opener_hotel/nl/dutch00057_70579b8f2faa6fa126d12eab0fb162a6.kaf#w43']
+	Freq: 1 --> onderlaken
+		['./opener_hotel/nl/dutch00203_0a33028fb50feb0113c03f1459051c38.kaf#w43']
+	Freq: 1 --> verschillende bars
+		['./opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w53', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w54']
+	Freq: 1 --> Kamerthemperatuur
+		['./opener_hotel/nl/dutch00116_6d9b5b283aff57806a0fcd29c1491da7.kaf#w57']
+	Freq: 1 --> een spa · centrum
+		['./opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w55', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w56', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w57', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w58']
+	Freq: 1 --> binnen en buiten zwembad
+		['./opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w74', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w75', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w76', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w77']
+	Freq: 1 --> hiervoor
+		['./opener_hotel/nl/dutch00106_7c1e70d30e2555f6517f90c7ee2f0977.kaf#w57']
+	Freq: 1 --> ligging
+		['./opener_hotel/nl/dutch00092_b3514cf2f3de04c6e14d0f98f40fe634.kaf#w85']
+	Freq: 1 --> Fitnessen
+		['./opener_hotel/nl/dutch00059_746519caba1ba7d13db745fafca2b733.kaf#w28']
+	Freq: 1 --> de landhuizen
+		['./opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w17', './opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w18']
+	Freq: 1 --> in de handdoeken
+		['./opener_hotel/nl/dutch00182_1ee576ef12dbf4a1cdeda6cc956b3618.kaf#w86', './opener_hotel/nl/dutch00182_1ee576ef12dbf4a1cdeda6cc956b3618.kaf#w87', './opener_hotel/nl/dutch00182_1ee576ef12dbf4a1cdeda6cc956b3618.kaf#w88']
+	Freq: 1 --> soep
+		['./opener_hotel/nl/dutch00113_75617a56d8c56be235265a4395932e95.kaf#w106']
+	Freq: 1 --> Toscane
+		['./opener_hotel/nl/dutch00055_b91c2053c76d3ed75a34a534112c110d.kaf#w125']
+	Freq: 1 --> Badjassen
+		['./opener_hotel/nl/dutch00010_158dce0faad9e135fce6565ed586edd9.kaf#w29']
+	Freq: 1 --> frietjes
+		['./opener_hotel/nl/dutch00113_75617a56d8c56be235265a4395932e95.kaf#w103']
+	Freq: 1 --> arrangementen
+		['./opener_hotel/nl/dutch00141_4ff3ef10d94241ebf696c1b1aff58730.kaf#w37']
+	Freq: 1 --> meiden van guest relations
+		['./opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w105', './opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w106', './opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w107', './opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w108']
+	Freq: 1 --> wijn
+		['./opener_hotel/nl/dutch00113_75617a56d8c56be235265a4395932e95.kaf#w104']
+	Freq: 1 --> warm water
+		['./opener_hotel/nl/dutch00157_41fe97411024ac18b69aa38fbe7e62f3.kaf#w104', './opener_hotel/nl/dutch00157_41fe97411024ac18b69aa38fbe7e62f3.kaf#w105']
+	Freq: 1 --> een zelfservice buffet
+		['./opener_hotel/nl/dutch00159_3f9e294d7525b554ae0303d118a6f183.kaf#w80', './opener_hotel/nl/dutch00159_3f9e294d7525b554ae0303d118a6f183.kaf#w81', './opener_hotel/nl/dutch00159_3f9e294d7525b554ae0303d118a6f183.kaf#w82']
+	Freq: 1 --> dit hotel
+		['./opener_hotel/nl/dutch00055_b91c2053c76d3ed75a34a534112c110d.kaf#w122', './opener_hotel/nl/dutch00055_b91c2053c76d3ed75a34a534112c110d.kaf#w123']
+	Freq: 1 --> sauna en welness
+		['./opener_hotel/nl/dutch00141_4ff3ef10d94241ebf696c1b1aff58730.kaf#w96', './opener_hotel/nl/dutch00141_4ff3ef10d94241ebf696c1b1aff58730.kaf#w97', './opener_hotel/nl/dutch00141_4ff3ef10d94241ebf696c1b1aff58730.kaf#w98']
+	Freq: 1 --> Tafels
+		['./opener_hotel/nl/dutch00083_9a3392d87935405edf0de6e5796cc658.kaf#w114']
+	Freq: 1 --> dat ongeveer 80 % van de gasten Russen zijn
+		['./opener_hotel/nl/dutch00181_2216147ca24fea6c3efb68f2f6f7350e.kaf#w20', './opener_hotel/nl/dutch00181_2216147ca24fea6c3efb68f2f6f7350e.kaf#w21', './opener_hotel/nl/dutch00181_2216147ca24fea6c3efb68f2f6f7350e.kaf#w22', './opener_hotel/nl/dutch00181_2216147ca24fea6c3efb68f2f6f7350e.kaf#w23', './opener_hotel/nl/dutch00181_2216147ca24fea6c3efb68f2f6f7350e.kaf#w24', './opener_hotel/nl/dutch00181_2216147ca24fea6c3efb68f2f6f7350e.kaf#w25', './opener_hotel/nl/dutch00181_2216147ca24fea6c3efb68f2f6f7350e.kaf#w26', './opener_hotel/nl/dutch00181_2216147ca24fea6c3efb68f2f6f7350e.kaf#w27', './opener_hotel/nl/dutch00181_2216147ca24fea6c3efb68f2f6f7350e.kaf#w28']
+	Freq: 1 --> druk
+		['./opener_hotel/nl/dutch00118_69160e9eb61a9c5dd9021ea7891cff08.kaf#w69']
+	Freq: 1 --> restaurant
+		['./opener_hotel/nl/dutch00083_9a3392d87935405edf0de6e5796cc658.kaf#w99']
+	Freq: 1 --> restaurantje
+		['./opener_hotel/nl/dutch00090_8be3c17b777cf532b57e5c2aede7d199.kaf#w87']
+	Freq: 1 --> alle positieve beoordelingen
+		['./opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w21', './opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w22', './opener_hotel/nl/dutch00170_300af2e07065ac90f7bd9c23ea7f86a5.kaf#w23']
+	Freq: 1 --> een week Egypte
+		['./opener_hotel/nl/dutch00183_1b0bcfe6d0c41ad12c0a5d3cb67cea1c.kaf#w3', './opener_hotel/nl/dutch00183_1b0bcfe6d0c41ad12c0a5d3cb67cea1c.kaf#w4', './opener_hotel/nl/dutch00183_1b0bcfe6d0c41ad12c0a5d3cb67cea1c.kaf#w5']
+	Freq: 1 --> hiet
+		['./opener_hotel/nl/dutch00166_396239e9321b7cf898fad3ce1daf2991.kaf#w19']
+	Freq: 1 --> ontvangst
+		['./opener_hotel/nl/dutch00166_396239e9321b7cf898fad3ce1daf2991.kaf#w32']
+	Freq: 1 --> speel toestellen
+		['./opener_hotel/nl/dutch00136_fc13eea768bdddafcac1a84eef78a324.kaf#w38', './opener_hotel/nl/dutch00136_fc13eea768bdddafcac1a84eef78a324.kaf#w39']
+	Freq: 1 --> douchecabine
+		['./opener_hotel/nl/dutch00067_a707fe912d1c5fd0e7b8bfc81f862da6.kaf#w50']
+	Freq: 1 --> indoor kinderplaats
+		['./opener_hotel/nl/dutch00106_7c1e70d30e2555f6517f90c7ee2f0977.kaf#w82', './opener_hotel/nl/dutch00106_7c1e70d30e2555f6517f90c7ee2f0977.kaf#w83']
+	Freq: 1 --> verluchting in de gangen
+		['./opener_hotel/nl/dutch00110_7700b9e20b95cd0110546e9674697db8.kaf#w92', './opener_hotel/nl/dutch00110_7700b9e20b95cd0110546e9674697db8.kaf#w93', './opener_hotel/nl/dutch00110_7700b9e20b95cd0110546e9674697db8.kaf#w94', './opener_hotel/nl/dutch00110_7700b9e20b95cd0110546e9674697db8.kaf#w95']
+	Freq: 1 --> het hotel
+		['./opener_hotel/nl/dutch00020_2d2af330788ef3c62253257a7c69d54e.kaf#w8', './opener_hotel/nl/dutch00020_2d2af330788ef3c62253257a7c69d54e.kaf#w9']
+	Freq: 1 --> t centrum
+		['./opener_hotel/nl/dutch00135_599e6fe0fb101760041eea5553d89840.kaf#w97', './opener_hotel/nl/dutch00135_599e6fe0fb101760041eea5553d89840.kaf#w98']
+	Freq: 1 --> mensen achter de receptie
+		['./opener_hotel/nl/dutch00115_d78d07176487be284c3f94d7a0032e5c.kaf#w48', './opener_hotel/nl/dutch00115_d78d07176487be284c3f94d7a0032e5c.kaf#w49', './opener_hotel/nl/dutch00115_d78d07176487be284c3f94d7a0032e5c.kaf#w50', './opener_hotel/nl/dutch00115_d78d07176487be284c3f94d7a0032e5c.kaf#w51']
+	Freq: 1 --> Televisie toestel
+		['./opener_hotel/nl/dutch00116_6d9b5b283aff57806a0fcd29c1491da7.kaf#w78', './opener_hotel/nl/dutch00116_6d9b5b283aff57806a0fcd29c1491da7.kaf#w79']
+	Freq: 1 --> kapper
+		['./opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w71']
+	Freq: 1 --> de old market
+		['./opener_hotel/nl/dutch00196_103916900bcedf91eed09067b8de47c1.kaf#w83', './opener_hotel/nl/dutch00196_103916900bcedf91eed09067b8de47c1.kaf#w84', './opener_hotel/nl/dutch00196_103916900bcedf91eed09067b8de47c1.kaf#w85']
+	Freq: 1 --> bestekken
+		['./opener_hotel/nl/dutch00083_9a3392d87935405edf0de6e5796cc658.kaf#w93']
+	Freq: 1 --> Hotel
+		['./opener_hotel/nl/dutch00048_5b3cd77f6b37067a11cd8da83a32ba48.kaf#w2']
+	Freq: 1 --> personeel.
+		['./opener_hotel/nl/dutch00035_447407fe3b43a35564aa364d492f4edc.kaf#w30']
+	Freq: 1 --> Omgeving
+		['./opener_hotel/nl/dutch00091_b1dd80eeee85f33660790ed96b2bbc44.kaf#w95']
+	Freq: 1 --> een ontbijt
+		['./opener_hotel/nl/dutch00159_3f9e294d7525b554ae0303d118a6f183.kaf#w75', './opener_hotel/nl/dutch00159_3f9e294d7525b554ae0303d118a6f183.kaf#w76']
+	Freq: 1 --> indruk
+		['./opener_hotel/nl/dutch00110_7700b9e20b95cd0110546e9674697db8.kaf#w18']
+	Freq: 1 --> wat
+		['./opener_hotel/nl/dutch00110_7700b9e20b95cd0110546e9674697db8.kaf#w61']
+	Freq: 1 --> broodjes
+		['./opener_hotel/nl/dutch00109_cf2b31686d21cf46e9d11038a7493bea.kaf#w21']
+	Freq: 1 --> het appartement
+		['./opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w20', './opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w21']
+	Freq: 1 --> Gasten
+		['./opener_hotel/nl/dutch00167_386eee2f2a65e1d8b840a2f1ffb3a0aa.kaf#w87']
+	Freq: 1 --> biefstuk
+		['./opener_hotel/nl/dutch00083_9a3392d87935405edf0de6e5796cc658.kaf#w108']
+	Freq: 1 --> Douchedeuren
+		['./opener_hotel/nl/dutch00203_0a33028fb50feb0113c03f1459051c38.kaf#w21']
+	Freq: 1 --> winkeltjes
+		['./opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w73']
+	Freq: 1 --> bedden
+		['./opener_hotel/nl/dutch00031_3f435782121b965977d51f5e8e040c7d.kaf#w36']
+	Freq: 1 --> een gewone radio of een muziek chanel
+		['./opener_hotel/nl/dutch00116_6d9b5b283aff57806a0fcd29c1491da7.kaf#w100', './opener_hotel/nl/dutch00116_6d9b5b283aff57806a0fcd29c1491da7.kaf#w101', './opener_hotel/nl/dutch00116_6d9b5b283aff57806a0fcd29c1491da7.kaf#w102', './opener_hotel/nl/dutch00116_6d9b5b283aff57806a0fcd29c1491da7.kaf#w103', './opener_hotel/nl/dutch00116_6d9b5b283aff57806a0fcd29c1491da7.kaf#w104', './opener_hotel/nl/dutch00116_6d9b5b283aff57806a0fcd29c1491da7.kaf#w105', './opener_hotel/nl/dutch00116_6d9b5b283aff57806a0fcd29c1491da7.kaf#w106']
+	Freq: 1 --> sauzen
+		['./opener_hotel/nl/dutch00052_62eff56d5974687865b23620df793e2b.kaf#w123']
+	Freq: 1 --> de speeltoestellen
+		['./opener_hotel/nl/dutch00001_046973f3141ba52fb0114ad1c6e4852a.kaf#w65', './opener_hotel/nl/dutch00001_046973f3141ba52fb0114ad1c6e4852a.kaf#w66']
+	Freq: 1 --> restaurantjes
+		['./opener_hotel/nl/dutch00089_afa98ba272688ef2a2ea979c07204012.kaf#w61']
+	Freq: 1 --> een snackbar aan het strand
+		['./opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w48', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w49', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w50', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w51', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w52']
+	Freq: 1 --> douche
+		['./opener_hotel/nl/dutch00083_9a3392d87935405edf0de6e5796cc658.kaf#w9']
+	Freq: 1 --> snorkelen
+		['./opener_hotel/nl/dutch00113_75617a56d8c56be235265a4395932e95.kaf#w42']
+	Freq: 1 --> de welness
+		['./opener_hotel/nl/dutch00110_7700b9e20b95cd0110546e9674697db8.kaf#w114', './opener_hotel/nl/dutch00110_7700b9e20b95cd0110546e9674697db8.kaf#w115']
+	Freq: 1 --> badkamer
+		['./opener_hotel/nl/dutch00032_d5674747dfca65462bfeee3acadefeb0.kaf#w82']
+	Freq: 1 --> lekkere weer
+		['./opener_hotel/nl/dutch00183_1b0bcfe6d0c41ad12c0a5d3cb67cea1c.kaf#w32', './opener_hotel/nl/dutch00183_1b0bcfe6d0c41ad12c0a5d3cb67cea1c.kaf#w33']
+	Freq: 1 --> borden
+		['./opener_hotel/nl/dutch00083_9a3392d87935405edf0de6e5796cc658.kaf#w95']
+	Freq: 1 --> hostal
+		['./opener_hotel/nl/dutch00159_3f9e294d7525b554ae0303d118a6f183.kaf#w2']
+	Freq: 1 --> alles
+		['./opener_hotel/nl/dutch00106_7c1e70d30e2555f6517f90c7ee2f0977.kaf#w12']
+	Freq: 1 --> voor paar dagen relaxen
+		['./opener_hotel/nl/dutch00010_158dce0faad9e135fce6565ed586edd9.kaf#w2', './opener_hotel/nl/dutch00010_158dce0faad9e135fce6565ed586edd9.kaf#w3', './opener_hotel/nl/dutch00010_158dce0faad9e135fce6565ed586edd9.kaf#w4', './opener_hotel/nl/dutch00010_158dce0faad9e135fce6565ed586edd9.kaf#w5']
+	Freq: 1 --> het eten
+		['./opener_hotel/nl/dutch00110_7700b9e20b95cd0110546e9674697db8.kaf#w40', './opener_hotel/nl/dutch00110_7700b9e20b95cd0110546e9674697db8.kaf#w41']
+	Freq: 1 --> zitruimte
+		['./opener_hotel/nl/dutch00030_3efbd43658e427a5f8edaf8fda8b3f5b.kaf#w11']
+	Freq: 1 --> hotel.
+		['./opener_hotel/nl/dutch00113_75617a56d8c56be235265a4395932e95.kaf#w5']
+	Freq: 1 --> badkamers
+		['./opener_hotel/nl/dutch00109_cf2b31686d21cf46e9d11038a7493bea.kaf#w37']
+	Freq: 1 --> parkeren
+		['./opener_hotel/nl/dutch00106_7c1e70d30e2555f6517f90c7ee2f0977.kaf#w93']
+	Freq: 1 --> een theater binnen en buiten
+		['./opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w60', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w61', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w62', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w63', './opener_hotel/nl/dutch00046_c3411eacf16193630e14bd94d01dee0a.kaf#w64']
+	Freq: 1 --> actieve vakantiemogelijkheden
+		['./opener_hotel/nl/dutch00141_4ff3ef10d94241ebf696c1b1aff58730.kaf#w64', './opener_hotel/nl/dutch00141_4ff3ef10d94241ebf696c1b1aff58730.kaf#w65']
+	Freq: 1 --> omgangsvormen
+		['./opener_hotel/nl/dutch00141_4ff3ef10d94241ebf696c1b1aff58730.kaf#w47']
+	Freq: 1 --> er
+		['./opener_hotel/nl/dutch00182_1ee576ef12dbf4a1cdeda6cc956b3618.kaf#w78']
+	Freq: 1 --> gym
+		['./opener_hotel/nl/dutch00118_69160e9eb61a9c5dd9021ea7891cff08.kaf#w45']
+	Freq: 1 --> een VCR speler
+		['./opener_hotel/nl/dutch00157_41fe97411024ac18b69aa38fbe7e62f3.kaf#w118', './opener_hotel/nl/dutch00157_41fe97411024ac18b69aa38fbe7e62f3.kaf#w119', './opener_hotel/nl/dutch00157_41fe97411024ac18b69aa38fbe7e62f3.kaf#w120']
+	Freq: 1 --> plaats
+		['./opener_hotel/nl/dutch00055_b91c2053c76d3ed75a34a534112c110d.kaf#w69']
+	Freq: 1 --> WiF
+		['./opener_hotel/nl/dutch00116_6d9b5b283aff57806a0fcd29c1491da7.kaf#w81']
+	Freq: 1 --> het totaalconsept
+		['./opener_hotel/nl/dutch00194_1332fbe61d67d4c38d741d34b876ca98.kaf#w32', './opener_hotel/nl/dutch00194_1332fbe61d67d4c38d741d34b876ca98.kaf#w33']
+	Freq: 1 --> het bos en met zwembad
+		['./opener_hotel/nl/dutch00010_158dce0faad9e135fce6565ed586edd9.kaf#w61', './opener_hotel/nl/dutch00010_158dce0faad9e135fce6565ed586edd9.kaf#w62', './opener_hotel/nl/dutch00010_158dce0faad9e135fce6565ed586edd9.kaf#w63', './opener_hotel/nl/dutch00010_158dce0faad9e135fce6565ed586edd9.kaf#w64', './opener_hotel/nl/dutch00010_158dce0faad9e135fce6565ed586edd9.kaf#w65']
+	Freq: 1 --> een hotel
+		['./opener_hotel/nl/dutch00052_62eff56d5974687865b23620df793e2b.kaf#w21', './opener_hotel/nl/dutch00052_62eff56d5974687865b23620df793e2b.kaf#w23']
+	Freq: 1 --> bediening licht
+		['./opener_hotel/nl/dutch00201_0b575f6f31dabf78d8b95f376563c3c9.kaf#w23', './opener_hotel/nl/dutch00201_0b575f6f31dabf78d8b95f376563c3c9.kaf#w24']
+	Freq: 1 --> supermarkt
+		['./opener_hotel/nl/dutch00089_afa98ba272688ef2a2ea979c07204012.kaf#w79']
+	Freq: 1 --> meerdere restaurants
+		['./opener_hotel/nl/dutch00012_ee084f298bbed8247a04afe2e2e82f6b.kaf#w62', './opener_hotel/nl/dutch00012_ee084f298bbed8247a04afe2e2e82f6b.kaf#w63']
+	Freq: 1 --> de faciliteiten voor de kinderen
+		['./opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w24', './opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w25', './opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w26', './opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w27', './opener_hotel/nl/dutch00158_40d67c1f3e9a1597e2795042c5357e86.kaf#w28']
+	Freq: 1 --> Het centrum van Keulen
+		['./opener_hotel/nl/dutch00178_2993a511e60928ef8697c9d7c7d8a4a0.kaf#w39', './opener_hotel/nl/dutch00178_2993a511e60928ef8697c9d7c7d8a4a0.kaf#w40', './opener_hotel/nl/dutch00178_2993a511e60928ef8697c9d7c7d8a4a0.kaf#w41', './opener_hotel/nl/dutch00178_2993a511e60928ef8697c9d7c7d8a4a0.kaf#w42']
+##################################################
+%%%<DATA>%%% (total_prec,ok_prec newline total_rec ok_rec
+693 593
+513 367
+%%%</DATA>%%% (type, or, wrong)

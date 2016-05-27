@@ -1,0 +1,8 @@
+##################################################
+Precision: 75.97 Total system: 154
+Recall: 81.19 Total gold: 101
+##################################################
+%%%<DATA>%%% (total_prec,ok_prec newline total_rec ok_rec
+154 117
+101 82
+%%%</DATA>%%% (type, or, wrong)

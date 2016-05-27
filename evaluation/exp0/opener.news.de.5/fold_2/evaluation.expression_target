@@ -1,0 +1,1325 @@
+Len sys relations 89
+Len gold relations 106
+##################################################
+System relation
+[[DSE]] ==> ['protestierten', 'gegen']
+   Tokens: set(['./opener_news/de/2014-01-31_www.heute.at_3d6e0c6f6b08cd46e0e362fd1511dd52445fe6ec.kaf#w4', './opener_news/de/2014-01-31_www.heute.at_3d6e0c6f6b08cd46e0e362fd1511dd52445fe6ec.kaf#w3'])
+
+[[TARGET]] ==> ['Russenhomophobie']
+   Tokens: set(['./opener_news/de/2014-01-31_www.heute.at_3d6e0c6f6b08cd46e0e362fd1511dd52445fe6ec.kaf#w5'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['protestierten', 'gegen']
+   Tokens: set(['./opener_news/de/2014-01-31_www.heute.at_3d6e0c6f6b08cd46e0e362fd1511dd52445fe6ec.kaf#w4', './opener_news/de/2014-01-31_www.heute.at_3d6e0c6f6b08cd46e0e362fd1511dd52445fe6ec.kaf#w3'])
+
+[[TARGET]] ==> ['Russenhomophobie']
+   Tokens: set(['./opener_news/de/2014-01-31_www.heute.at_3d6e0c6f6b08cd46e0e362fd1511dd52445fe6ec.kaf#w5'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['wollen']
+   Tokens: set(['./opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w36'])
+
+[[TARGET]] ==> ['beraten']
+   Tokens: set(['./opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w48'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['wollen']
+   Tokens: set(['./opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w36'])
+
+[[TARGET]] ==> ['\xc3\xbcber', 'acht', 'Themenfelder', 'tiefergehend', 'beraten']
+   Tokens: set(['./opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w48', './opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w44', './opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w45', './opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w46', './opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w47'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['sich', 'gegen']
+   Tokens: set(['./opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w395', './opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w396'])
+
+[[TARGET]] ==> ['die', 'Forderung']
+   Tokens: set(['./opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w397', './opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w398'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['wehrte', 'sich', 'gegen']
+   Tokens: set(['./opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w395', './opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w394', './opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w396'])
+
+[[TARGET]] ==> ['die', 'Forderung', 'der', 'Gr\xc3\xbcnen']
+   Tokens: set(['./opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w400', './opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w397', './opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w399', './opener_news/de/2013-10-12_www.faz.net_8ac4fe74ca4edc6e6b77b3d437a1a1628fa4f49d.kaf#w398'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['gegen']
+   Tokens: set(['./opener_news/de/2013-08-12_www.format.at_c81c0e0e63d5ce0d42543c9e4ce0b2595a20b9dc.kaf#w21'])
+
+[[TARGET]] ==> ['die']
+   Tokens: set(['./opener_news/de/2013-08-12_www.format.at_c81c0e0e63d5ce0d42543c9e4ce0b2595a20b9dc.kaf#w23'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['gegen']
+   Tokens: set(['./opener_news/de/2013-08-12_www.format.at_c81c0e0e63d5ce0d42543c9e4ce0b2595a20b9dc.kaf#w21'])
+
+[[TARGET]] ==> ['der']
+   Tokens: set(['./opener_news/de/2013-08-12_www.format.at_c81c0e0e63d5ce0d42543c9e4ce0b2595a20b9dc.kaf#w26'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['gegen']
+   Tokens: set(['./opener_news/de/2013-08-12_www.format.at_c81c0e0e63d5ce0d42543c9e4ce0b2595a20b9dc.kaf#w21'])
+
+[[TARGET]] ==> ['russischen']
+   Tokens: set(['./opener_news/de/2013-08-12_www.format.at_c81c0e0e63d5ce0d42543c9e4ce0b2595a20b9dc.kaf#w19'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['gegen']
+   Tokens: set(['./opener_news/de/2013-08-12_www.format.at_c81c0e0e63d5ce0d42543c9e4ce0b2595a20b9dc.kaf#w21'])
+
+[[TARGET]] ==> ['gegen']
+   Tokens: set(['./opener_news/de/2013-08-12_www.format.at_c81c0e0e63d5ce0d42543c9e4ce0b2595a20b9dc.kaf#w21'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['gegen']
+   Tokens: set(['./opener_news/de/2013-08-12_www.format.at_c81c0e0e63d5ce0d42543c9e4ce0b2595a20b9dc.kaf#w21'])
+
+[[TARGET]] ==> ['der', 'F\xc3\xbchrung']
+   Tokens: set(['./opener_news/de/2013-08-12_www.format.at_c81c0e0e63d5ce0d42543c9e4ce0b2595a20b9dc.kaf#w27', './opener_news/de/2013-08-12_www.format.at_c81c0e0e63d5ce0d42543c9e4ce0b2595a20b9dc.kaf#w26'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['lehne']
+   Tokens: set(['./opener_news/de/2013-06-16_www.br.de_fd844cb41a08a5da9a8deb2f27dc3d98e6f2125f.kaf#w185'])
+
+[[TARGET]] ==> ['Vorschl\xc3\xa4ge']
+   Tokens: set(['./opener_news/de/2013-06-16_www.br.de_fd844cb41a08a5da9a8deb2f27dc3d98e6f2125f.kaf#w187'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['ab']
+   Tokens: set(['./opener_news/de/2013-06-16_www.br.de_fd844cb41a08a5da9a8deb2f27dc3d98e6f2125f.kaf#w191'])
+
+[[TARGET]] ==> ['mehr', '\xc3\x9cberwachung']
+   Tokens: set(['./opener_news/de/2013-06-16_www.br.de_fd844cb41a08a5da9a8deb2f27dc3d98e6f2125f.kaf#w189', './opener_news/de/2013-06-16_www.br.de_fd844cb41a08a5da9a8deb2f27dc3d98e6f2125f.kaf#w190'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['will']
+   Tokens: set(['./opener_news/de/2013-03-27_www.focus.de_70f9018788b16c9ea508e85b4c0d970305d7b3d7.kaf#w52'])
+
+[[TARGET]] ==> ['nun']
+   Tokens: set(['./opener_news/de/2013-03-27_www.focus.de_70f9018788b16c9ea508e85b4c0d970305d7b3d7.kaf#w54'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['will']
+   Tokens: set(['./opener_news/de/2013-03-27_www.focus.de_70f9018788b16c9ea508e85b4c0d970305d7b3d7.kaf#w52'])
+
+[[TARGET]] ==> ['Wladimir']
+   Tokens: set(['./opener_news/de/2013-03-27_www.focus.de_70f9018788b16c9ea508e85b4c0d970305d7b3d7.kaf#w56'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['will']
+   Tokens: set(['./opener_news/de/2013-03-27_www.focus.de_70f9018788b16c9ea508e85b4c0d970305d7b3d7.kaf#w52'])
+
+[[TARGET]] ==> ['mit', 'Wladimir', 'Putin', 'sprechen']
+   Tokens: set(['./opener_news/de/2013-03-27_www.focus.de_70f9018788b16c9ea508e85b4c0d970305d7b3d7.kaf#w57', './opener_news/de/2013-03-27_www.focus.de_70f9018788b16c9ea508e85b4c0d970305d7b3d7.kaf#w56', './opener_news/de/2013-03-27_www.focus.de_70f9018788b16c9ea508e85b4c0d970305d7b3d7.kaf#w55', './opener_news/de/2013-03-27_www.focus.de_70f9018788b16c9ea508e85b4c0d970305d7b3d7.kaf#w61'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['stabilen']
+   Tokens: set(['./opener_news/de/2013-03-10_www.dradio.de_04768c41a2e6a5cb52e08f316fbb94652057303d.kaf#w79'])
+
+[[TARGET]] ==> ['Erholungskurs']
+   Tokens: set(['./opener_news/de/2013-03-10_www.dradio.de_04768c41a2e6a5cb52e08f316fbb94652057303d.kaf#w80'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['stabilen']
+   Tokens: set(['./opener_news/de/2013-03-10_www.dradio.de_04768c41a2e6a5cb52e08f316fbb94652057303d.kaf#w79'])
+
+[[TARGET]] ==> ['Erholungskurs']
+   Tokens: set(['./opener_news/de/2013-03-10_www.dradio.de_04768c41a2e6a5cb52e08f316fbb94652057303d.kaf#w80'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['stabilen']
+   Tokens: set(['./opener_news/de/2013-03-10_www.dradio.de_04768c41a2e6a5cb52e08f316fbb94652057303d.kaf#w79'])
+
+[[TARGET]] ==> ['stabilen', 'Erholungskurs']
+   Tokens: set(['./opener_news/de/2013-03-10_www.dradio.de_04768c41a2e6a5cb52e08f316fbb94652057303d.kaf#w80', './opener_news/de/2013-03-10_www.dradio.de_04768c41a2e6a5cb52e08f316fbb94652057303d.kaf#w79'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['stabilen']
+   Tokens: set(['./opener_news/de/2013-03-10_www.dradio.de_04768c41a2e6a5cb52e08f316fbb94652057303d.kaf#w79'])
+
+[[TARGET]] ==> ['Erholungskurs']
+   Tokens: set(['./opener_news/de/2013-03-10_www.dradio.de_04768c41a2e6a5cb52e08f316fbb94652057303d.kaf#w80'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['zu']
+   Tokens: set(['./opener_news/de/2013-09-29_derstandard.at_dcbd8a48529ff5eeb3c1d594f46666d73a467bee.kaf#w167'])
+
+[[TARGET]] ==> ['zu']
+   Tokens: set(['./opener_news/de/2013-09-29_derstandard.at_dcbd8a48529ff5eeb3c1d594f46666d73a467bee.kaf#w167'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['warnte']
+   Tokens: set(['./opener_news/de/2014-02-10_www.fr-online.de_fe833813d928ae8827324b8d569edb5d55ec7b90.kaf#w636'])
+
+[[TARGET]] ==> ['den', 'Auswirkungen']
+   Tokens: set(['./opener_news/de/2014-02-10_www.fr-online.de_fe833813d928ae8827324b8d569edb5d55ec7b90.kaf#w638', './opener_news/de/2014-02-10_www.fr-online.de_fe833813d928ae8827324b8d569edb5d55ec7b90.kaf#w639'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['warnte', 'vor']
+   Tokens: set(['./opener_news/de/2014-02-10_www.fr-online.de_fe833813d928ae8827324b8d569edb5d55ec7b90.kaf#w636', './opener_news/de/2014-02-10_www.fr-online.de_fe833813d928ae8827324b8d569edb5d55ec7b90.kaf#w637'])
+
+[[TARGET]] ==> ['den', 'Auswirkungen']
+   Tokens: set(['./opener_news/de/2014-02-10_www.fr-online.de_fe833813d928ae8827324b8d569edb5d55ec7b90.kaf#w638', './opener_news/de/2014-02-10_www.fr-online.de_fe833813d928ae8827324b8d569edb5d55ec7b90.kaf#w639'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['warnte']
+   Tokens: set(['./opener_news/de/2014-02-10_www.fr-online.de_fe833813d928ae8827324b8d569edb5d55ec7b90.kaf#w636'])
+
+[[TARGET]] ==> ['die']
+   Tokens: set(['./opener_news/de/2014-02-10_www.fr-online.de_fe833813d928ae8827324b8d569edb5d55ec7b90.kaf#w642'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['warnte']
+   Tokens: set(['./opener_news/de/2014-02-10_www.fr-online.de_fe833813d928ae8827324b8d569edb5d55ec7b90.kaf#w636'])
+
+[[TARGET]] ==> ['die']
+   Tokens: set(['./opener_news/de/2014-02-10_www.fr-online.de_fe833813d928ae8827324b8d569edb5d55ec7b90.kaf#w645'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['wollen']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w143'])
+
+[[TARGET]] ==> ['Europ\xc3\xa4ische', 'Union']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w139', './opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w140'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['st\xc3\xa4rker']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w159'])
+
+[[TARGET]] ==> ['Westen']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w155'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['wollen']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w143'])
+
+[[TARGET]] ==> ['Europ\xc3\xa4ische', 'Union']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w139', './opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w140'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['st\xc3\xa4rker']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w159'])
+
+[[TARGET]] ==> ['Westen']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w155'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['wichtiges']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w149'])
+
+[[TARGET]] ==> ['Transitland']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w150'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['st\xc3\xa4rker']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w159'])
+
+[[TARGET]] ==> ['Westen']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w155'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['wichtiges']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w149'])
+
+[[TARGET]] ==> ['Transitland']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w150'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['st\xc3\xa4rker']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w159'])
+
+[[TARGET]] ==> ['Westen']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w155'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['wollen']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w143'])
+
+[[TARGET]] ==> ['Union']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w140'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['st\xc3\xa4rker']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w159'])
+
+[[TARGET]] ==> ['den', 'Westen']
+   Tokens: set(['./opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w155', './opener_news/de/2013-11-24_www.faz.net_e8065287b600c275d3e493f0675939b5be732f56.kaf#w154'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['ein', 'B\xc3\xbcndnis']
+   Tokens: set(['./opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w52', './opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w53'])
+
+[[TARGET]] ==> ['den', 'Gr\xc3\xbcnen']
+   Tokens: set(['./opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w56', './opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w55'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['ein', 'B\xc3\xbcndnis', 'mit']
+   Tokens: set(['./opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w52', './opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w53', './opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w54'])
+
+[[TARGET]] ==> ['den', 'Gr\xc3\xbcnen']
+   Tokens: set(['./opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w56', './opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w55'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['echte']
+   Tokens: set(['./opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w49'])
+
+[[TARGET]] ==> ['Chancen']
+   Tokens: set(['./opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w50'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['echte']
+   Tokens: set(['./opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w49'])
+
+[[TARGET]] ==> ['Chancen']
+   Tokens: set(['./opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w50'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['ein', 'B\xc3\xbcndnis']
+   Tokens: set(['./opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w52', './opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w53'])
+
+[[TARGET]] ==> ['den']
+   Tokens: set(['./opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w55'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['ein', 'B\xc3\xbcndnis', 'mit']
+   Tokens: set(['./opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w52', './opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w53', './opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w54'])
+
+[[TARGET]] ==> ['den', 'Gr\xc3\xbcnen']
+   Tokens: set(['./opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w56', './opener_news/de/2013-10-05_www.focus.de_1ae0c0a06aabeca79ac816d7bec339c9904339d0.kaf#w55'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['unglaublich', 'wichtig']
+   Tokens: set(['./opener_news/de/2013-12-20_www.pnp.de_028812d438ab5373a1a1fac54a0a3bc915df7011.kaf#w192', './opener_news/de/2013-12-20_www.pnp.de_028812d438ab5373a1a1fac54a0a3bc915df7011.kaf#w191'])
+
+[[TARGET]] ==> ['Verantwortlicher']
+   Tokens: set(['./opener_news/de/2013-12-20_www.pnp.de_028812d438ab5373a1a1fac54a0a3bc915df7011.kaf#w197'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['unglaublich', 'wichtig']
+   Tokens: set(['./opener_news/de/2013-12-20_www.pnp.de_028812d438ab5373a1a1fac54a0a3bc915df7011.kaf#w192', './opener_news/de/2013-12-20_www.pnp.de_028812d438ab5373a1a1fac54a0a3bc915df7011.kaf#w191'])
+
+[[TARGET]] ==> ['Verantwortlicher']
+   Tokens: set(['./opener_news/de/2013-12-20_www.pnp.de_028812d438ab5373a1a1fac54a0a3bc915df7011.kaf#w197'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['gegen']
+   Tokens: set(['./opener_news/de/2013-12-08_www.focus.de_8ba24631bebbcff61752bd5b3e5e0fa11d7f3509.kaf#w565'])
+
+[[TARGET]] ==> ['Teile', 'des']
+   Tokens: set(['./opener_news/de/2013-12-08_www.focus.de_8ba24631bebbcff61752bd5b3e5e0fa11d7f3509.kaf#w567', './opener_news/de/2013-12-08_www.focus.de_8ba24631bebbcff61752bd5b3e5e0fa11d7f3509.kaf#w566'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['Bedenken', 'gegen']
+   Tokens: set(['./opener_news/de/2013-12-08_www.focus.de_8ba24631bebbcff61752bd5b3e5e0fa11d7f3509.kaf#w565', './opener_news/de/2013-12-08_www.focus.de_8ba24631bebbcff61752bd5b3e5e0fa11d7f3509.kaf#w564'])
+
+[[TARGET]] ==> ['Teile', 'des', 'Koalitionsvertrags']
+   Tokens: set(['./opener_news/de/2013-12-08_www.focus.de_8ba24631bebbcff61752bd5b3e5e0fa11d7f3509.kaf#w567', './opener_news/de/2013-12-08_www.focus.de_8ba24631bebbcff61752bd5b3e5e0fa11d7f3509.kaf#w566', './opener_news/de/2013-12-08_www.focus.de_8ba24631bebbcff61752bd5b3e5e0fa11d7f3509.kaf#w568'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['gegen']
+   Tokens: set(['./opener_news/de/2013-12-08_www.focus.de_8ba24631bebbcff61752bd5b3e5e0fa11d7f3509.kaf#w565'])
+
+[[TARGET]] ==> ['Teile', 'des']
+   Tokens: set(['./opener_news/de/2013-12-08_www.focus.de_8ba24631bebbcff61752bd5b3e5e0fa11d7f3509.kaf#w567', './opener_news/de/2013-12-08_www.focus.de_8ba24631bebbcff61752bd5b3e5e0fa11d7f3509.kaf#w566'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['Bedenken', 'gegen']
+   Tokens: set(['./opener_news/de/2013-12-08_www.focus.de_8ba24631bebbcff61752bd5b3e5e0fa11d7f3509.kaf#w565', './opener_news/de/2013-12-08_www.focus.de_8ba24631bebbcff61752bd5b3e5e0fa11d7f3509.kaf#w564'])
+
+[[TARGET]] ==> ['Teile', 'des', 'Koalitionsvertrags']
+   Tokens: set(['./opener_news/de/2013-12-08_www.focus.de_8ba24631bebbcff61752bd5b3e5e0fa11d7f3509.kaf#w567', './opener_news/de/2013-12-08_www.focus.de_8ba24631bebbcff61752bd5b3e5e0fa11d7f3509.kaf#w566', './opener_news/de/2013-12-08_www.focus.de_8ba24631bebbcff61752bd5b3e5e0fa11d7f3509.kaf#w568'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['sehr', 'guten', 'Weg']
+   Tokens: set(['./opener_news/de/2014-01-24_www.bernerzeitung.ch_f9b52151fd157a20dc4a76393974e7167d2194b7.kaf#w391', './opener_news/de/2014-01-24_www.bernerzeitung.ch_f9b52151fd157a20dc4a76393974e7167d2194b7.kaf#w390', './opener_news/de/2014-01-24_www.bernerzeitung.ch_f9b52151fd157a20dc4a76393974e7167d2194b7.kaf#w389'])
+
+[[TARGET]] ==> ['Weg']
+   Tokens: set(['./opener_news/de/2014-01-24_www.bernerzeitung.ch_f9b52151fd157a20dc4a76393974e7167d2194b7.kaf#w391'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['sehr', 'guten']
+   Tokens: set(['./opener_news/de/2014-01-24_www.bernerzeitung.ch_f9b52151fd157a20dc4a76393974e7167d2194b7.kaf#w390', './opener_news/de/2014-01-24_www.bernerzeitung.ch_f9b52151fd157a20dc4a76393974e7167d2194b7.kaf#w389'])
+
+[[TARGET]] ==> ['Weg']
+   Tokens: set(['./opener_news/de/2014-01-24_www.bernerzeitung.ch_f9b52151fd157a20dc4a76393974e7167d2194b7.kaf#w391'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['\xc3\xbcberzeugt']
+   Tokens: set(['./opener_news/de/2013-11-27_www.derbund.ch_b799349a7c0df06bbf6279c8a04e7eadd1e79beb.kaf#w260'])
+
+[[TARGET]] ==> ['Koalitionsvereinbarung']
+   Tokens: set(['./opener_news/de/2013-11-27_www.derbund.ch_b799349a7c0df06bbf6279c8a04e7eadd1e79beb.kaf#w264'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['zeigte', '\xc3\xbcberzeugt']
+   Tokens: set(['./opener_news/de/2013-11-27_www.derbund.ch_b799349a7c0df06bbf6279c8a04e7eadd1e79beb.kaf#w258', './opener_news/de/2013-11-27_www.derbund.ch_b799349a7c0df06bbf6279c8a04e7eadd1e79beb.kaf#w260'])
+
+[[TARGET]] ==> ['dass', 'die', 'Koalitionsvereinbarung', 'von', 'der', 'Parteibasis', 'gebilligt', 'wird']
+   Tokens: set(['./opener_news/de/2013-11-27_www.derbund.ch_b799349a7c0df06bbf6279c8a04e7eadd1e79beb.kaf#w269', './opener_news/de/2013-11-27_www.derbund.ch_b799349a7c0df06bbf6279c8a04e7eadd1e79beb.kaf#w268', './opener_news/de/2013-11-27_www.derbund.ch_b799349a7c0df06bbf6279c8a04e7eadd1e79beb.kaf#w263', './opener_news/de/2013-11-27_www.derbund.ch_b799349a7c0df06bbf6279c8a04e7eadd1e79beb.kaf#w262', './opener_news/de/2013-11-27_www.derbund.ch_b799349a7c0df06bbf6279c8a04e7eadd1e79beb.kaf#w265', './opener_news/de/2013-11-27_www.derbund.ch_b799349a7c0df06bbf6279c8a04e7eadd1e79beb.kaf#w264', './opener_news/de/2013-11-27_www.derbund.ch_b799349a7c0df06bbf6279c8a04e7eadd1e79beb.kaf#w267', './opener_news/de/2013-11-27_www.derbund.ch_b799349a7c0df06bbf6279c8a04e7eadd1e79beb.kaf#w266'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['unver\xc3\xa4u\xc3\x9ferliche']
+   Tokens: set(['./opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w389'])
+
+[[TARGET]] ==> ['Meinungs\xc3\xa4u\xc3\x9ferung']
+   Tokens: set(['./opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w387'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['unver\xc3\xa4u\xc3\x9ferliche', 'Grundrechte']
+   Tokens: set(['./opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w389', './opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w390'])
+
+[[TARGET]] ==> ['freie', 'Meinungs\xc3\xa4u\xc3\x9ferung']
+   Tokens: set(['./opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w386', './opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w387'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['unver\xc3\xa4u\xc3\x9ferliche']
+   Tokens: set(['./opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w389'])
+
+[[TARGET]] ==> ['Meinungs\xc3\xa4u\xc3\x9ferung']
+   Tokens: set(['./opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w387'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['unver\xc3\xa4u\xc3\x9ferliche', 'Grundrechte']
+   Tokens: set(['./opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w389', './opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w390'])
+
+[[TARGET]] ==> ['freie', 'Meinungs\xc3\xa4u\xc3\x9ferung']
+   Tokens: set(['./opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w386', './opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w387'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['unver\xc3\xa4u\xc3\x9ferliche']
+   Tokens: set(['./opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w389'])
+
+[[TARGET]] ==> ['Meinungs\xc3\xa4u\xc3\x9ferung']
+   Tokens: set(['./opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w387'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['unver\xc3\xa4u\xc3\x9ferliche', 'Grundrechte']
+   Tokens: set(['./opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w389', './opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w390'])
+
+[[TARGET]] ==> ['freie', 'Meinungs\xc3\xa4u\xc3\x9ferung']
+   Tokens: set(['./opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w386', './opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w387'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['unver\xc3\xa4u\xc3\x9ferliche']
+   Tokens: set(['./opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w389'])
+
+[[TARGET]] ==> ['Meinungs\xc3\xa4u\xc3\x9ferung']
+   Tokens: set(['./opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w387'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['unver\xc3\xa4u\xc3\x9ferliche', 'Grundrechte']
+   Tokens: set(['./opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w389', './opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w390'])
+
+[[TARGET]] ==> ['freie', 'Meinungs\xc3\xa4u\xc3\x9ferung']
+   Tokens: set(['./opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w386', './opener_news/de/2013-06-12_www.rtl.de_3321b18ce778f2f8b8bd0b6009cb71a3681b34f9.kaf#w387'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['Eine']
+   Tokens: set(['./opener_news/de/2013-10-31_www.fr-online.de_0df3f1606643de13b37cc85b9ba76d6a5102c7c3.kaf#w282'])
+
+[[TARGET]] ==> ['Vignette']
+   Tokens: set(['./opener_news/de/2013-10-31_www.fr-online.de_0df3f1606643de13b37cc85b9ba76d6a5102c7c3.kaf#w283'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['will']
+   Tokens: set(['./opener_news/de/2013-04-29_www.nzz.ch_76e8efd4148c1f56252a2b0b5662ea4ed6441096.kaf#w37'])
+
+[[TARGET]] ==> ['Wirtschaft']
+   Tokens: set(['./opener_news/de/2013-04-29_www.nzz.ch_76e8efd4148c1f56252a2b0b5662ea4ed6441096.kaf#w39'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['Reformen']
+   Tokens: set(['./opener_news/de/2013-04-29_www.nzz.ch_76e8efd4148c1f56252a2b0b5662ea4ed6441096.kaf#w43'])
+
+[[TARGET]] ==> ['Reformen']
+   Tokens: set(['./opener_news/de/2013-04-29_www.nzz.ch_76e8efd4148c1f56252a2b0b5662ea4ed6441096.kaf#w43'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['niedriger']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w234'])
+
+[[TARGET]] ==> ['Arbeitslosigkeit']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w232'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['ist', 'niedriger']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w233', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w234'])
+
+[[TARGET]] ==> ['die', 'Arbeitslosigkeit']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w231', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w232'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['niedriger']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w234'])
+
+[[TARGET]] ==> ['Arbeitslosigkeit']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w232'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['ist', 'niedriger']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w233', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w234'])
+
+[[TARGET]] ==> ['die', 'Arbeitslosigkeit']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w231', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w232'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['h\xc3\xb6her']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w238'])
+
+[[TARGET]] ==> ['das', 'Wirtschaftswachstum']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w237', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w236'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['h\xc3\xb6her', 'als', 'anderswo', 'in', 'Europa']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w239', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w238', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w240', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w241', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w242'])
+
+[[TARGET]] ==> ['das', 'Wirtschaftswachstum']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w237', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w236'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['lautet']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w245'])
+
+[[TARGET]] ==> ['Botschaft']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w247'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['niedriger']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w234'])
+
+[[TARGET]] ==> ['Arbeitslosigkeit']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w232'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['ist', 'niedriger']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w233', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w234'])
+
+[[TARGET]] ==> ['die', 'Arbeitslosigkeit']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w231', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w232'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['h\xc3\xb6her']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w238'])
+
+[[TARGET]] ==> ['das', 'Wirtschaftswachstum']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w237', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w236'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['h\xc3\xb6her', 'als', 'anderswo', 'in', 'Europa']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w239', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w238', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w240', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w241', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w242'])
+
+[[TARGET]] ==> ['das', 'Wirtschaftswachstum']
+   Tokens: set(['./opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w237', './opener_news/de/2013-08-20_derstandard.at_d3c7dc5d5fcc39db591fe1eb11cf170dc1919424.kaf#w236'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['vermutlich', 'illegal']
+   Tokens: set(['./opener_news/de/2014-01-30_www.handelsblatt.com_b5e939c3ca3f3f73f68a20e8255fc8f55edaaec6.kaf#w87', './opener_news/de/2014-01-30_www.handelsblatt.com_b5e939c3ca3f3f73f68a20e8255fc8f55edaaec6.kaf#w88'])
+
+[[TARGET]] ==> ['Forderungen']
+   Tokens: set(['./opener_news/de/2014-01-30_www.handelsblatt.com_b5e939c3ca3f3f73f68a20e8255fc8f55edaaec6.kaf#w85'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['vermutlich', 'illegal']
+   Tokens: set(['./opener_news/de/2014-01-30_www.handelsblatt.com_b5e939c3ca3f3f73f68a20e8255fc8f55edaaec6.kaf#w87', './opener_news/de/2014-01-30_www.handelsblatt.com_b5e939c3ca3f3f73f68a20e8255fc8f55edaaec6.kaf#w88'])
+
+[[TARGET]] ==> ['die', 'Forderungen']
+   Tokens: set(['./opener_news/de/2014-01-30_www.handelsblatt.com_b5e939c3ca3f3f73f68a20e8255fc8f55edaaec6.kaf#w84', './opener_news/de/2014-01-30_www.handelsblatt.com_b5e939c3ca3f3f73f68a20e8255fc8f55edaaec6.kaf#w85'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['vermutlich', 'illegal']
+   Tokens: set(['./opener_news/de/2014-01-30_www.handelsblatt.com_b5e939c3ca3f3f73f68a20e8255fc8f55edaaec6.kaf#w87', './opener_news/de/2014-01-30_www.handelsblatt.com_b5e939c3ca3f3f73f68a20e8255fc8f55edaaec6.kaf#w88'])
+
+[[TARGET]] ==> ['Forderungen']
+   Tokens: set(['./opener_news/de/2014-01-30_www.handelsblatt.com_b5e939c3ca3f3f73f68a20e8255fc8f55edaaec6.kaf#w85'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['vermutlich', 'illegal']
+   Tokens: set(['./opener_news/de/2014-01-30_www.handelsblatt.com_b5e939c3ca3f3f73f68a20e8255fc8f55edaaec6.kaf#w87', './opener_news/de/2014-01-30_www.handelsblatt.com_b5e939c3ca3f3f73f68a20e8255fc8f55edaaec6.kaf#w88'])
+
+[[TARGET]] ==> ['die', 'Forderungen']
+   Tokens: set(['./opener_news/de/2014-01-30_www.handelsblatt.com_b5e939c3ca3f3f73f68a20e8255fc8f55edaaec6.kaf#w84', './opener_news/de/2014-01-30_www.handelsblatt.com_b5e939c3ca3f3f73f68a20e8255fc8f55edaaec6.kaf#w85'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['positiven']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w312'])
+
+[[TARGET]] ==> ['Atmosph\xc3\xa4re']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w313'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['positiven']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w312'])
+
+[[TARGET]] ==> ['Atmosph\xc3\xa4re']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w313'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['freundlichen']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w316'])
+
+[[TARGET]] ==> ['Stimmung']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w317'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['freundlichen']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w316'])
+
+[[TARGET]] ==> ['Stimmung']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w317'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['positiven']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w312'])
+
+[[TARGET]] ==> ['positiven', 'Atmosph\xc3\xa4re']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w313', './opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w312'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['positiven']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w312'])
+
+[[TARGET]] ==> ['Atmosph\xc3\xa4re']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w313'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['positiven']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w312'])
+
+[[TARGET]] ==> ['Atmosph\xc3\xa4re']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w313'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['positiven']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w312'])
+
+[[TARGET]] ==> ['Atmosph\xc3\xa4re']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w313'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['freundlichen']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w316'])
+
+[[TARGET]] ==> ['freundlichen', 'Stimmung']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w317', './opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w316'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['freundlichen']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w316'])
+
+[[TARGET]] ==> ['Stimmung']
+   Tokens: set(['./opener_news/de/2013-10-10_www.ksta.de_9aad014b345708ab092804f36e7e4d7a3d294dbe.kaf#w317'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['s\xc3\xa4t']
+   Tokens: set(['./opener_news/de/2014-01-29_www.blick.ch_8d4d6f07e6b5d0be7936218dfe2848a9aa254610.kaf#w127'])
+
+[[TARGET]] ==> ['Misstrauen']
+   Tokens: set(['./opener_news/de/2014-01-29_www.blick.ch_8d4d6f07e6b5d0be7936218dfe2848a9aa254610.kaf#w128'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['technisch', 'machbar']
+   Tokens: set(['./opener_news/de/2014-01-29_www.blick.ch_8d4d6f07e6b5d0be7936218dfe2848a9aa254610.kaf#w116', './opener_news/de/2014-01-29_www.blick.ch_8d4d6f07e6b5d0be7936218dfe2848a9aa254610.kaf#w115'])
+
+[[TARGET]] ==> ['machbar']
+   Tokens: set(['./opener_news/de/2014-01-29_www.blick.ch_8d4d6f07e6b5d0be7936218dfe2848a9aa254610.kaf#w116'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['s\xc3\xa4t']
+   Tokens: set(['./opener_news/de/2014-01-29_www.blick.ch_8d4d6f07e6b5d0be7936218dfe2848a9aa254610.kaf#w127'])
+
+[[TARGET]] ==> ['Misstrauen']
+   Tokens: set(['./opener_news/de/2014-01-29_www.blick.ch_8d4d6f07e6b5d0be7936218dfe2848a9aa254610.kaf#w128'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['unterst\xc3\xbctzt']
+   Tokens: set(['./opener_news/de/2013-06-21_www.fr-online.de_0ce9b5d50dbe1e5b8ff16307a7456ad2c350e2c1.kaf#w371'])
+
+[[TARGET]] ==> ['Bem\xc3\xbchungen']
+   Tokens: set(['./opener_news/de/2013-06-21_www.fr-online.de_0ce9b5d50dbe1e5b8ff16307a7456ad2c350e2c1.kaf#w373'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['unterst\xc3\xbctzt']
+   Tokens: set(['./opener_news/de/2013-06-21_www.fr-online.de_0ce9b5d50dbe1e5b8ff16307a7456ad2c350e2c1.kaf#w371'])
+
+[[TARGET]] ==> ['diese', 'Bem\xc3\xbchungen']
+   Tokens: set(['./opener_news/de/2013-06-21_www.fr-online.de_0ce9b5d50dbe1e5b8ff16307a7456ad2c350e2c1.kaf#w372', './opener_news/de/2013-06-21_www.fr-online.de_0ce9b5d50dbe1e5b8ff16307a7456ad2c350e2c1.kaf#w373'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['betonte']
+   Tokens: set(['./opener_news/de/2013-07-01_www.fr-online.de_7db83596f80fd99a020b971604b056ebaed35d1c.kaf#w355'])
+
+[[TARGET]] ==> ['den']
+   Tokens: set(['./opener_news/de/2013-07-01_www.fr-online.de_7db83596f80fd99a020b971604b056ebaed35d1c.kaf#w363'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['betonte']
+   Tokens: set(['./opener_news/de/2013-07-01_www.fr-online.de_7db83596f80fd99a020b971604b056ebaed35d1c.kaf#w355'])
+
+[[TARGET]] ==> ['Zusammenarbeit']
+   Tokens: set(['./opener_news/de/2013-07-01_www.fr-online.de_7db83596f80fd99a020b971604b056ebaed35d1c.kaf#w361'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['betonte']
+   Tokens: set(['./opener_news/de/2013-07-01_www.fr-online.de_7db83596f80fd99a020b971604b056ebaed35d1c.kaf#w355'])
+
+[[TARGET]] ==> ['Zusammenarbeit']
+   Tokens: set(['./opener_news/de/2013-07-01_www.fr-online.de_7db83596f80fd99a020b971604b056ebaed35d1c.kaf#w361'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['inakzeptabel']
+   Tokens: set(['./opener_news/de/2013-07-01_www.fr-online.de_7db83596f80fd99a020b971604b056ebaed35d1c.kaf#w269'])
+
+[[TARGET]] ==> ['das']
+   Tokens: set(['./opener_news/de/2013-07-01_www.fr-online.de_7db83596f80fd99a020b971604b056ebaed35d1c.kaf#w267'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['geht']
+   Tokens: set(['./opener_news/de/2013-07-01_www.fr-online.de_7db83596f80fd99a020b971604b056ebaed35d1c.kaf#w272'])
+
+[[TARGET]] ==> ['das']
+   Tokens: set(['./opener_news/de/2013-07-01_www.fr-online.de_7db83596f80fd99a020b971604b056ebaed35d1c.kaf#w271'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['inakzeptabel']
+   Tokens: set(['./opener_news/de/2013-07-01_www.fr-online.de_7db83596f80fd99a020b971604b056ebaed35d1c.kaf#w269'])
+
+[[TARGET]] ==> ['das']
+   Tokens: set(['./opener_news/de/2013-07-01_www.fr-online.de_7db83596f80fd99a020b971604b056ebaed35d1c.kaf#w267'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['geht']
+   Tokens: set(['./opener_news/de/2013-07-01_www.fr-online.de_7db83596f80fd99a020b971604b056ebaed35d1c.kaf#w272'])
+
+[[TARGET]] ==> ['das']
+   Tokens: set(['./opener_news/de/2013-07-01_www.fr-online.de_7db83596f80fd99a020b971604b056ebaed35d1c.kaf#w271'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['warnte', 'vor']
+   Tokens: set(['./opener_news/de/2013-07-25_www.general-anzeiger-bonn.de_bab1b7a881f4410d8f12de13a47b86e9166cece8.kaf#w130', './opener_news/de/2013-07-25_www.general-anzeiger-bonn.de_bab1b7a881f4410d8f12de13a47b86e9166cece8.kaf#w131'])
+
+[[TARGET]] ==> ['vorschnellen']
+   Tokens: set(['./opener_news/de/2013-07-25_www.general-anzeiger-bonn.de_bab1b7a881f4410d8f12de13a47b86e9166cece8.kaf#w132'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['warnte']
+   Tokens: set(['./opener_news/de/2013-07-25_www.general-anzeiger-bonn.de_bab1b7a881f4410d8f12de13a47b86e9166cece8.kaf#w130'])
+
+[[TARGET]] ==> ['vor', 'vorschnellen', 'Schlussfolgerungen']
+   Tokens: set(['./opener_news/de/2013-07-25_www.general-anzeiger-bonn.de_bab1b7a881f4410d8f12de13a47b86e9166cece8.kaf#w132', './opener_news/de/2013-07-25_www.general-anzeiger-bonn.de_bab1b7a881f4410d8f12de13a47b86e9166cece8.kaf#w133', './opener_news/de/2013-07-25_www.general-anzeiger-bonn.de_bab1b7a881f4410d8f12de13a47b86e9166cece8.kaf#w131'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['warnte', 'vor']
+   Tokens: set(['./opener_news/de/2013-07-25_www.general-anzeiger-bonn.de_bab1b7a881f4410d8f12de13a47b86e9166cece8.kaf#w130', './opener_news/de/2013-07-25_www.general-anzeiger-bonn.de_bab1b7a881f4410d8f12de13a47b86e9166cece8.kaf#w131'])
+
+[[TARGET]] ==> ['Schlussfolgerungen']
+   Tokens: set(['./opener_news/de/2013-07-25_www.general-anzeiger-bonn.de_bab1b7a881f4410d8f12de13a47b86e9166cece8.kaf#w133'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['warnte']
+   Tokens: set(['./opener_news/de/2013-07-25_www.general-anzeiger-bonn.de_bab1b7a881f4410d8f12de13a47b86e9166cece8.kaf#w130'])
+
+[[TARGET]] ==> ['vor', 'vorschnellen', 'Schlussfolgerungen']
+   Tokens: set(['./opener_news/de/2013-07-25_www.general-anzeiger-bonn.de_bab1b7a881f4410d8f12de13a47b86e9166cece8.kaf#w132', './opener_news/de/2013-07-25_www.general-anzeiger-bonn.de_bab1b7a881f4410d8f12de13a47b86e9166cece8.kaf#w133', './opener_news/de/2013-07-25_www.general-anzeiger-bonn.de_bab1b7a881f4410d8f12de13a47b86e9166cece8.kaf#w131'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['\xc3\xbcberm\xc3\xa4ssig', 'klar']
+   Tokens: set(['./opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w86', './opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w87'])
+
+[[TARGET]] ==> ['Es']
+   Tokens: set(['./opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w84'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['\xc3\xbcberm\xc3\xa4ssig', 'klar']
+   Tokens: set(['./opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w86', './opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w87'])
+
+[[TARGET]] ==> ['Es']
+   Tokens: set(['./opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w84'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['\xc3\xbcberm\xc3\xa4ssig', 'klar']
+   Tokens: set(['./opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w86', './opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w87'])
+
+[[TARGET]] ==> ['Es']
+   Tokens: set(['./opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w84'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['\xc3\xbcberm\xc3\xa4ssig', 'klar']
+   Tokens: set(['./opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w86', './opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w87'])
+
+[[TARGET]] ==> ['Es']
+   Tokens: set(['./opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w84'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['\xc3\xbcberm\xc3\xa4ssig', 'klar']
+   Tokens: set(['./opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w86', './opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w87'])
+
+[[TARGET]] ==> ['Es']
+   Tokens: set(['./opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w84'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['\xc3\xbcberm\xc3\xa4ssig', 'klar']
+   Tokens: set(['./opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w86', './opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w87'])
+
+[[TARGET]] ==> ['Es']
+   Tokens: set(['./opener_news/de/2013-10-28_bazonline.ch_74a74f8cb318388099e90eee7f46eb6cccf862eb.kaf#w84'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['dramatischen']
+   Tokens: set(['./opener_news/de/2013-06-28_www.kn-online.de_4f354a109e28f563ce3e8d2273392cd03e582b25.kaf#w24'])
+
+[[TARGET]] ==> ['Sozialkrise']
+   Tokens: set(['./opener_news/de/2013-06-28_www.kn-online.de_4f354a109e28f563ce3e8d2273392cd03e582b25.kaf#w25'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['dramatischen']
+   Tokens: set(['./opener_news/de/2013-06-28_www.kn-online.de_4f354a109e28f563ce3e8d2273392cd03e582b25.kaf#w24'])
+
+[[TARGET]] ==> ['Sozialkrise']
+   Tokens: set(['./opener_news/de/2013-06-28_www.kn-online.de_4f354a109e28f563ce3e8d2273392cd03e582b25.kaf#w25'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['pocht']
+   Tokens: set(['./opener_news/de/2013-05-30_derstandard.at_dc6c322950ae861821766fad545a760cd54fe945.kaf#w34'])
+
+[[TARGET]] ==> ['mehr', 'Raum']
+   Tokens: set(['./opener_news/de/2013-05-30_derstandard.at_dc6c322950ae861821766fad545a760cd54fe945.kaf#w32', './opener_news/de/2013-05-30_derstandard.at_dc6c322950ae861821766fad545a760cd54fe945.kaf#w31'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['pocht']
+   Tokens: set(['./opener_news/de/2013-05-30_derstandard.at_dc6c322950ae861821766fad545a760cd54fe945.kaf#w34'])
+
+[[TARGET]] ==> ['Reformen']
+   Tokens: set(['./opener_news/de/2013-05-30_derstandard.at_dc6c322950ae861821766fad545a760cd54fe945.kaf#w37'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['pocht', 'auf']
+   Tokens: set(['./opener_news/de/2013-05-30_derstandard.at_dc6c322950ae861821766fad545a760cd54fe945.kaf#w36', './opener_news/de/2013-05-30_derstandard.at_dc6c322950ae861821766fad545a760cd54fe945.kaf#w34'])
+
+[[TARGET]] ==> ['Reformen']
+   Tokens: set(['./opener_news/de/2013-05-30_derstandard.at_dc6c322950ae861821766fad545a760cd54fe945.kaf#w37'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['wolle', 'nicht']
+   Tokens: set(['./opener_news/de/2013-08-13_www.format.at_46790d634ed90bfc9e1a1fa1f4d6c44b4c7a7b6c.kaf#w171', './opener_news/de/2013-08-13_www.format.at_46790d634ed90bfc9e1a1fa1f4d6c44b4c7a7b6c.kaf#w172'])
+
+[[TARGET]] ==> ['mehr', 'Europa']
+   Tokens: set(['./opener_news/de/2013-08-13_www.format.at_46790d634ed90bfc9e1a1fa1f4d6c44b4c7a7b6c.kaf#w174', './opener_news/de/2013-08-13_www.format.at_46790d634ed90bfc9e1a1fa1f4d6c44b4c7a7b6c.kaf#w175'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['wolle', 'nicht']
+   Tokens: set(['./opener_news/de/2013-08-13_www.format.at_46790d634ed90bfc9e1a1fa1f4d6c44b4c7a7b6c.kaf#w171', './opener_news/de/2013-08-13_www.format.at_46790d634ed90bfc9e1a1fa1f4d6c44b4c7a7b6c.kaf#w172'])
+
+[[TARGET]] ==> ['mehr', 'Europa']
+   Tokens: set(['./opener_news/de/2013-08-13_www.format.at_46790d634ed90bfc9e1a1fa1f4d6c44b4c7a7b6c.kaf#w174', './opener_news/de/2013-08-13_www.format.at_46790d634ed90bfc9e1a1fa1f4d6c44b4c7a7b6c.kaf#w175'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['reagierte', 'entt\xc3\xa4uscht']
+   Tokens: set(['./opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w229', './opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w228'])
+
+[[TARGET]] ==> ['auf', 'das', 'Scheitern']
+   Tokens: set(['./opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w230', './opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w231', './opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w232'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['entt\xc3\xa4uscht']
+   Tokens: set(['./opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w229'])
+
+[[TARGET]] ==> ['das', 'Scheitern']
+   Tokens: set(['./opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w231', './opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w232'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['hitzigen', 'Debatte', 'gegen']
+   Tokens: set(['./opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w173', './opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w172', './opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w171'])
+
+[[TARGET]] ==> ['die', 'Zwangsabgabe']
+   Tokens: set(['./opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w175', './opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w174'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['stimmten', 'gegen']
+   Tokens: set(['./opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w168', './opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w173'])
+
+[[TARGET]] ==> ['die', 'Zwangsabgabe']
+   Tokens: set(['./opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w175', './opener_news/de/2013-03-20_www.general-anzeiger-bonn.de_562493175c237d5436f09b77ac3c04eadb3b4549.kaf#w174'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['politisches']
+   Tokens: set(['./opener_news/de/2013-10-30_derstandard.at_09a3b1ef3d4f85016ff168408f7093d7f20fb844.kaf#w206'])
+
+[[TARGET]] ==> ['ein', 'politisches']
+   Tokens: set(['./opener_news/de/2013-10-30_derstandard.at_09a3b1ef3d4f85016ff168408f7093d7f20fb844.kaf#w206', './opener_news/de/2013-10-30_derstandard.at_09a3b1ef3d4f85016ff168408f7093d7f20fb844.kaf#w205'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['einseitige']
+   Tokens: set(['./opener_news/de/2013-03-18_www.dradio.de_5613cf540ebf2de4ce9114573587cd9d903038e4.kaf#w306'])
+
+[[TARGET]] ==> ['Sicht', 'auf', 'den', 'Nahostkonflikt']
+   Tokens: set(['./opener_news/de/2013-03-18_www.dradio.de_5613cf540ebf2de4ce9114573587cd9d903038e4.kaf#w307', './opener_news/de/2013-03-18_www.dradio.de_5613cf540ebf2de4ce9114573587cd9d903038e4.kaf#w310', './opener_news/de/2013-03-18_www.dradio.de_5613cf540ebf2de4ce9114573587cd9d903038e4.kaf#w309', './opener_news/de/2013-03-18_www.dradio.de_5613cf540ebf2de4ce9114573587cd9d903038e4.kaf#w308'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['einseitige']
+   Tokens: set(['./opener_news/de/2013-03-18_www.dradio.de_5613cf540ebf2de4ce9114573587cd9d903038e4.kaf#w306'])
+
+[[TARGET]] ==> ['Sicht']
+   Tokens: set(['./opener_news/de/2013-03-18_www.dradio.de_5613cf540ebf2de4ce9114573587cd9d903038e4.kaf#w307'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['warnt']
+   Tokens: set(['./opener_news/de/2014-01-29_www.aargauerzeitung.ch_0ae9c92e6f0ca8f81665ab299068a1ec2675afc4.kaf#w15'])
+
+[[TARGET]] ==> ['USA']
+   Tokens: set(['./opener_news/de/2014-01-29_www.aargauerzeitung.ch_0ae9c92e6f0ca8f81665ab299068a1ec2675afc4.kaf#w17'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['warnt']
+   Tokens: set(['./opener_news/de/2014-01-29_www.aargauerzeitung.ch_0ae9c92e6f0ca8f81665ab299068a1ec2675afc4.kaf#w15'])
+
+[[TARGET]] ==> ['die', 'USA']
+   Tokens: set(['./opener_news/de/2014-01-29_www.aargauerzeitung.ch_0ae9c92e6f0ca8f81665ab299068a1ec2675afc4.kaf#w17', './opener_news/de/2014-01-29_www.aargauerzeitung.ch_0ae9c92e6f0ca8f81665ab299068a1ec2675afc4.kaf#w16'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['freut', 'sich']
+   Tokens: set(['./opener_news/de/2013-05-16_www.merkur-online.de_80_54655d7e87e21a07a3920bc6b630e97e733dd296.kaf#w81', './opener_news/de/2013-05-16_www.merkur-online.de_80_54655d7e87e21a07a3920bc6b630e97e733dd296.kaf#w80'])
+
+[[TARGET]] ==> ['die']
+   Tokens: set(['./opener_news/de/2013-05-16_www.merkur-online.de_80_54655d7e87e21a07a3920bc6b630e97e733dd296.kaf#w83'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['freut', 'sich', '\xc3\xbcber']
+   Tokens: set(['./opener_news/de/2013-05-16_www.merkur-online.de_80_54655d7e87e21a07a3920bc6b630e97e733dd296.kaf#w82', './opener_news/de/2013-05-16_www.merkur-online.de_80_54655d7e87e21a07a3920bc6b630e97e733dd296.kaf#w81', './opener_news/de/2013-05-16_www.merkur-online.de_80_54655d7e87e21a07a3920bc6b630e97e733dd296.kaf#w80'])
+
+[[TARGET]] ==> ['die', 'B\xc3\xb6llersch\xc3\xbcsse']
+   Tokens: set(['./opener_news/de/2013-05-16_www.merkur-online.de_80_54655d7e87e21a07a3920bc6b630e97e733dd296.kaf#w84', './opener_news/de/2013-05-16_www.merkur-online.de_80_54655d7e87e21a07a3920bc6b630e97e733dd296.kaf#w83'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['freut', 'sich']
+   Tokens: set(['./opener_news/de/2013-05-16_www.merkur-online.de_80_54655d7e87e21a07a3920bc6b630e97e733dd296.kaf#w81', './opener_news/de/2013-05-16_www.merkur-online.de_80_54655d7e87e21a07a3920bc6b630e97e733dd296.kaf#w80'])
+
+[[TARGET]] ==> ['die']
+   Tokens: set(['./opener_news/de/2013-05-16_www.merkur-online.de_80_54655d7e87e21a07a3920bc6b630e97e733dd296.kaf#w83'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['freut', 'sich', '\xc3\xbcber']
+   Tokens: set(['./opener_news/de/2013-05-16_www.merkur-online.de_80_54655d7e87e21a07a3920bc6b630e97e733dd296.kaf#w82', './opener_news/de/2013-05-16_www.merkur-online.de_80_54655d7e87e21a07a3920bc6b630e97e733dd296.kaf#w81', './opener_news/de/2013-05-16_www.merkur-online.de_80_54655d7e87e21a07a3920bc6b630e97e733dd296.kaf#w80'])
+
+[[TARGET]] ==> ['die', 'B\xc3\xb6llersch\xc3\xbcsse']
+   Tokens: set(['./opener_news/de/2013-05-16_www.merkur-online.de_80_54655d7e87e21a07a3920bc6b630e97e733dd296.kaf#w84', './opener_news/de/2013-05-16_www.merkur-online.de_80_54655d7e87e21a07a3920bc6b630e97e733dd296.kaf#w83'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['besorgt']
+   Tokens: set(['./opener_news/de/2013-06-11_de.euronews.com_5f08821e949c20507ed68c05dcc1fe278452ce72.kaf#w23'])
+
+[[TARGET]] ==> ['Kommission']
+   Tokens: set(['./opener_news/de/2013-06-11_de.euronews.com_5f08821e949c20507ed68c05dcc1fe278452ce72.kaf#w21'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['besorgt']
+   Tokens: set(['./opener_news/de/2013-06-11_de.euronews.com_5f08821e949c20507ed68c05dcc1fe278452ce72.kaf#w23'])
+
+[[TARGET]] ==> ['die', '\xc3\x9cberwachung']
+   Tokens: set(['./opener_news/de/2013-06-11_de.euronews.com_5f08821e949c20507ed68c05dcc1fe278452ce72.kaf#w26', './opener_news/de/2013-06-11_de.euronews.com_5f08821e949c20507ed68c05dcc1fe278452ce72.kaf#w25'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['ist', 'besorgt', '\xc3\xbcber']
+   Tokens: set(['./opener_news/de/2013-06-11_de.euronews.com_5f08821e949c20507ed68c05dcc1fe278452ce72.kaf#w24', './opener_news/de/2013-06-11_de.euronews.com_5f08821e949c20507ed68c05dcc1fe278452ce72.kaf#w23', './opener_news/de/2013-06-11_de.euronews.com_5f08821e949c20507ed68c05dcc1fe278452ce72.kaf#w22'])
+
+[[TARGET]] ==> ['die', '\xc3\x9cberwachung', 'des', 'Internets']
+   Tokens: set(['./opener_news/de/2013-06-11_de.euronews.com_5f08821e949c20507ed68c05dcc1fe278452ce72.kaf#w27', './opener_news/de/2013-06-11_de.euronews.com_5f08821e949c20507ed68c05dcc1fe278452ce72.kaf#w26', './opener_news/de/2013-06-11_de.euronews.com_5f08821e949c20507ed68c05dcc1fe278452ce72.kaf#w25', './opener_news/de/2013-06-11_de.euronews.com_5f08821e949c20507ed68c05dcc1fe278452ce72.kaf#w28'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['wies', 'Kritik']
+   Tokens: set(['./opener_news/de/2013-06-30_kurier.at_c57cc8c0f45c0cbde62d64d6cb032edd735b2e6d.kaf#w294', './opener_news/de/2013-06-30_kurier.at_c57cc8c0f45c0cbde62d64d6cb032edd735b2e6d.kaf#w293'])
+
+[[TARGET]] ==> ['den', 'Sp\xc3\xa4hprogrammen']
+   Tokens: set(['./opener_news/de/2013-06-30_kurier.at_c57cc8c0f45c0cbde62d64d6cb032edd735b2e6d.kaf#w296', './opener_news/de/2013-06-30_kurier.at_c57cc8c0f45c0cbde62d64d6cb032edd735b2e6d.kaf#w297'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['Kritik']
+   Tokens: set(['./opener_news/de/2013-06-30_kurier.at_c57cc8c0f45c0cbde62d64d6cb032edd735b2e6d.kaf#w294'])
+
+[[TARGET]] ==> ['Sp\xc3\xa4hprogrammen']
+   Tokens: set(['./opener_news/de/2013-06-30_kurier.at_c57cc8c0f45c0cbde62d64d6cb032edd735b2e6d.kaf#w297'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['warnte']
+   Tokens: set(['./opener_news/de/2013-03-16_www.haz.de_baa305ac4d27f149675ea24906723289e4843903.kaf#w159'])
+
+[[TARGET]] ==> ['Forderungen']
+   Tokens: set(['./opener_news/de/2013-03-16_www.haz.de_baa305ac4d27f149675ea24906723289e4843903.kaf#w163'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['warnte']
+   Tokens: set(['./opener_news/de/2013-03-16_www.haz.de_baa305ac4d27f149675ea24906723289e4843903.kaf#w159'])
+
+[[TARGET]] ==> ['vor', '\xc3\xbcberzogenen', 'Forderungen']
+   Tokens: set(['./opener_news/de/2013-03-16_www.haz.de_baa305ac4d27f149675ea24906723289e4843903.kaf#w161', './opener_news/de/2013-03-16_www.haz.de_baa305ac4d27f149675ea24906723289e4843903.kaf#w162', './opener_news/de/2013-03-16_www.haz.de_baa305ac4d27f149675ea24906723289e4843903.kaf#w163'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['zugestimmt']
+   Tokens: set(['./opener_news/de/2013-02-24_de.euronews.com_ad876ea7ad600543415ffe67bb1e253f2437387a.kaf#w146'])
+
+[[TARGET]] ==> ['der', 'Beitrittsverhandlungen']
+   Tokens: set(['./opener_news/de/2013-02-24_de.euronews.com_ad876ea7ad600543415ffe67bb1e253f2437387a.kaf#w144', './opener_news/de/2013-02-24_de.euronews.com_ad876ea7ad600543415ffe67bb1e253f2437387a.kaf#w145'])
+
+CORRECT: False
+##################################################
+
+############################################################
+PREC: 53.93
+REC: 45.28
+F: 49.23
+############################################################
+%%%<DATA>%%% ok wrong total
+48 41 106
+%%%</DATA>%%% ok wrong total

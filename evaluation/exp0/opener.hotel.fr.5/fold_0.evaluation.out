@@ -1,0 +1,333 @@
+CRF++: Yet Another CRF Tool Kit
+Copyright (C) 2005-2013 Taku Kudo, All rights reserved.
+
+reading training data: 100.. 200.. 300.. 400.. 500.. 600.. 700.. 800.. 900.. 1000.. 1100.. 1200.. 1300.. 
+Done!0.22 s
+
+Number of sentences: 1301
+Number of features:  43328
+Number of thread(s): 8
+Freq:                1
+eta:                 0.00010
+C:                   1.00000
+shrinking size:      20
+iter=0 terr=0.65680 serr=0.94466 act=43328 obj=17070.13562 diff=1.00000
+iter=1 terr=0.30893 serr=0.93928 act=43328 obj=14763.82150 diff=0.13511
+iter=2 terr=0.29013 serr=0.89008 act=43328 obj=13971.80134 diff=0.05365
+iter=3 terr=0.28282 serr=0.86626 act=43328 obj=13435.33080 diff=0.03840
+iter=4 terr=0.28067 serr=0.85934 act=43328 obj=13272.85136 diff=0.01209
+iter=5 terr=0.27291 serr=0.85626 act=43328 obj=12967.12290 diff=0.02303
+iter=6 terr=0.26422 serr=0.82244 act=43328 obj=12802.93514 diff=0.01266
+iter=7 terr=0.25907 serr=0.81168 act=43328 obj=12562.19741 diff=0.01880
+iter=8 terr=0.25789 serr=0.81553 act=43328 obj=12455.06706 diff=0.00853
+iter=9 terr=0.25330 serr=0.80938 act=43328 obj=12342.94325 diff=0.00900
+iter=10 terr=0.24782 serr=0.81168 act=43328 obj=12299.84515 diff=0.00349
+iter=11 terr=0.24437 serr=0.80323 act=43328 obj=12128.42041 diff=0.01394
+iter=12 terr=0.24294 serr=0.79631 act=43328 obj=12055.79361 diff=0.00599
+iter=13 terr=0.24039 serr=0.79170 act=43328 obj=11961.97325 diff=0.00778
+iter=14 terr=0.23803 serr=0.77709 act=43328 obj=11815.25896 diff=0.01227
+iter=15 terr=0.22723 serr=0.75942 act=43328 obj=11587.54524 diff=0.01927
+iter=16 terr=0.22297 serr=0.75711 act=43328 obj=11424.38391 diff=0.01408
+iter=17 terr=0.21887 serr=0.75711 act=43328 obj=11310.56259 diff=0.00996
+iter=18 terr=0.21367 serr=0.74327 act=43328 obj=11217.26598 diff=0.00825
+iter=19 terr=0.21018 serr=0.75019 act=43328 obj=11130.89166 diff=0.00770
+iter=20 terr=0.20189 serr=0.73943 act=43328 obj=10978.60420 diff=0.01368
+iter=21 terr=0.19568 serr=0.73021 act=43328 obj=10831.31020 diff=0.01342
+iter=22 terr=0.19422 serr=0.72636 act=43328 obj=10769.79694 diff=0.00568
+iter=23 terr=0.18853 serr=0.72329 act=43328 obj=10665.63141 diff=0.00967
+iter=24 terr=0.19661 serr=0.72022 act=43328 obj=10668.10021 diff=0.00023
+iter=25 terr=0.19170 serr=0.71483 act=43328 obj=10611.48090 diff=0.00531
+iter=26 terr=0.18772 serr=0.71176 act=43328 obj=10549.17606 diff=0.00587
+iter=27 terr=0.18212 serr=0.70331 act=43328 obj=10444.38193 diff=0.00993
+iter=28 terr=0.17574 serr=0.69639 act=43328 obj=10335.49093 diff=0.01043
+iter=29 terr=0.17692 serr=0.69562 act=43328 obj=10290.01430 diff=0.00440
+iter=30 terr=0.17148 serr=0.68716 act=43328 obj=10174.70094 diff=0.01121
+iter=31 terr=0.17144 serr=0.69331 act=43328 obj=10129.51682 diff=0.00444
+iter=32 terr=0.16929 serr=0.69024 act=43328 obj=10070.75013 diff=0.00580
+iter=33 terr=0.16868 serr=0.68716 act=43328 obj=9957.08441 diff=0.01129
+iter=34 terr=0.16620 serr=0.67948 act=43328 obj=10124.88870 diff=0.01685
+iter=35 terr=0.16315 serr=0.68025 act=43328 obj=9917.70255 diff=0.02046
+iter=36 terr=0.16360 serr=0.67717 act=43328 obj=9866.64802 diff=0.00515
+iter=37 terr=0.16238 serr=0.66795 act=43328 obj=9829.17391 diff=0.00380
+iter=38 terr=0.16072 serr=0.66180 act=43328 obj=9786.93574 diff=0.00430
+iter=39 terr=0.15877 serr=0.66103 act=43328 obj=9710.12209 diff=0.00785
+iter=40 terr=0.15256 serr=0.66795 act=43328 obj=9642.29997 diff=0.00698
+iter=41 terr=0.15207 serr=0.66103 act=43328 obj=9592.46921 diff=0.00517
+iter=42 terr=0.15199 serr=0.65872 act=43328 obj=9547.62598 diff=0.00467
+iter=43 terr=0.14598 serr=0.64950 act=43328 obj=9570.80808 diff=0.00243
+iter=44 terr=0.14809 serr=0.65104 act=43328 obj=9523.44453 diff=0.00495
+iter=45 terr=0.14793 serr=0.64873 act=43328 obj=9491.36909 diff=0.00337
+iter=46 terr=0.14606 serr=0.63643 act=43328 obj=9448.12446 diff=0.00456
+iter=47 terr=0.14419 serr=0.62875 act=43328 obj=9414.95052 diff=0.00351
+iter=48 terr=0.14175 serr=0.63259 act=43328 obj=9368.17000 diff=0.00497
+iter=49 terr=0.14062 serr=0.63643 act=43328 obj=9321.84226 diff=0.00495
+iter=50 terr=0.13790 serr=0.63643 act=43328 obj=9284.20740 diff=0.00404
+iter=51 terr=0.13810 serr=0.63720 act=43328 obj=9262.81023 diff=0.00230
+iter=52 terr=0.13729 serr=0.63566 act=43328 obj=9236.79420 diff=0.00281
+iter=53 terr=0.13700 serr=0.62798 act=43328 obj=9220.99850 diff=0.00171
+iter=54 terr=0.13599 serr=0.62875 act=43328 obj=9192.98501 diff=0.00304
+iter=55 terr=0.13461 serr=0.62721 act=43328 obj=9181.80618 diff=0.00122
+iter=56 terr=0.13343 serr=0.62260 act=43328 obj=9161.99023 diff=0.00216
+iter=57 terr=0.13254 serr=0.61952 act=43328 obj=9136.22927 diff=0.00281
+iter=58 terr=0.12811 serr=0.61722 act=43328 obj=9121.32631 diff=0.00163
+iter=59 terr=0.12807 serr=0.61030 act=43328 obj=9096.30899 diff=0.00274
+iter=60 terr=0.12933 serr=0.61568 act=43328 obj=9084.17792 diff=0.00133
+iter=61 terr=0.12909 serr=0.61722 act=43328 obj=9075.74510 diff=0.00093
+iter=62 terr=0.12771 serr=0.61184 act=43328 obj=9054.09667 diff=0.00239
+iter=63 terr=0.12466 serr=0.61799 act=43328 obj=9039.60595 diff=0.00160
+iter=64 terr=0.12369 serr=0.60723 act=43328 obj=9021.28748 diff=0.00203
+iter=65 terr=0.12336 serr=0.60492 act=43328 obj=9013.74630 diff=0.00084
+iter=66 terr=0.12304 serr=0.60415 act=43328 obj=9003.99551 diff=0.00108
+iter=67 terr=0.11954 serr=0.60492 act=43328 obj=9004.70165 diff=0.00008
+iter=68 terr=0.12092 serr=0.60569 act=43328 obj=8996.27616 diff=0.00094
+iter=69 terr=0.12048 serr=0.60108 act=43328 obj=8984.31082 diff=0.00133
+iter=70 terr=0.11979 serr=0.60261 act=43328 obj=8973.10170 diff=0.00125
+iter=71 terr=0.12027 serr=0.60415 act=43328 obj=8964.39699 diff=0.00097
+iter=72 terr=0.11906 serr=0.60261 act=43328 obj=8957.16153 diff=0.00081
+iter=73 terr=0.11885 serr=0.60492 act=43328 obj=8951.78843 diff=0.00060
+iter=74 terr=0.11881 serr=0.60492 act=43328 obj=8945.94059 diff=0.00065
+iter=75 terr=0.11552 serr=0.59185 act=43328 obj=8949.13762 diff=0.00036
+iter=76 terr=0.11743 serr=0.60031 act=43328 obj=8939.02326 diff=0.00113
+iter=77 terr=0.11841 serr=0.60184 act=43328 obj=8927.36354 diff=0.00130
+iter=78 terr=0.11784 serr=0.59877 act=43328 obj=8920.29640 diff=0.00079
+iter=79 terr=0.11768 serr=0.59416 act=43328 obj=8912.90302 diff=0.00083
+iter=80 terr=0.11686 serr=0.59185 act=43328 obj=8906.62298 diff=0.00070
+iter=81 terr=0.11597 serr=0.58878 act=43328 obj=8898.25947 diff=0.00094
+iter=82 terr=0.11524 serr=0.59108 act=43328 obj=8890.55226 diff=0.00087
+iter=83 terr=0.11459 serr=0.58955 act=43328 obj=8887.69142 diff=0.00032
+iter=84 terr=0.11422 serr=0.58570 act=43328 obj=8880.93260 diff=0.00076
+iter=85 terr=0.11577 serr=0.58724 act=43328 obj=8882.90135 diff=0.00022
+iter=86 terr=0.11394 serr=0.58340 act=43328 obj=8877.89197 diff=0.00056
+iter=87 terr=0.11398 serr=0.58493 act=43328 obj=8874.95119 diff=0.00033
+iter=88 terr=0.11496 serr=0.58570 act=43328 obj=8872.18170 diff=0.00031
+iter=89 terr=0.11447 serr=0.58647 act=43328 obj=8868.26414 diff=0.00044
+iter=90 terr=0.11333 serr=0.58493 act=43328 obj=8863.53501 diff=0.00053
+iter=91 terr=0.11357 serr=0.58724 act=43328 obj=8860.06010 diff=0.00039
+iter=92 terr=0.11280 serr=0.58263 act=43328 obj=8855.46185 diff=0.00052
+iter=93 terr=0.11232 serr=0.57955 act=43328 obj=8853.73765 diff=0.00019
+iter=94 terr=0.11272 serr=0.57571 act=43328 obj=8851.67146 diff=0.00023
+iter=95 terr=0.11305 serr=0.57955 act=43328 obj=8849.13501 diff=0.00029
+iter=96 terr=0.11211 serr=0.57571 act=43328 obj=8846.90485 diff=0.00025
+iter=97 terr=0.11199 serr=0.57802 act=43328 obj=8844.73436 diff=0.00025
+iter=98 terr=0.11130 serr=0.57187 act=43328 obj=8843.40606 diff=0.00015
+iter=99 terr=0.11146 serr=0.57264 act=43328 obj=8841.95480 diff=0.00016
+iter=100 terr=0.11154 serr=0.57341 act=43328 obj=8840.80796 diff=0.00013
+iter=101 terr=0.11122 serr=0.57033 act=43328 obj=8839.27814 diff=0.00017
+iter=102 terr=0.11195 serr=0.57187 act=43328 obj=8838.62204 diff=0.00007
+iter=103 terr=0.11130 serr=0.56879 act=43328 obj=8837.37971 diff=0.00014
+iter=104 terr=0.11134 serr=0.57187 act=43328 obj=8836.29627 diff=0.00012
+iter=105 terr=0.11130 serr=0.57341 act=43328 obj=8835.23696 diff=0.00012
+iter=106 terr=0.11102 serr=0.56956 act=43328 obj=8833.57043 diff=0.00019
+iter=107 terr=0.11089 serr=0.56879 act=43328 obj=8832.26944 diff=0.00015
+iter=108 terr=0.11098 serr=0.56726 act=43328 obj=8830.17599 diff=0.00024
+iter=109 terr=0.11142 serr=0.57110 act=43328 obj=8829.42070 diff=0.00009
+iter=110 terr=0.11081 serr=0.56802 act=43328 obj=8828.80242 diff=0.00007
+iter=111 terr=0.11049 serr=0.56649 act=43328 obj=8828.12028 diff=0.00008
+
+Done!7.87 s
+
+CRF++: Yet Another CRF Tool Kit
+Copyright (C) 2005-2013 Taku Kudo, All rights reserved.
+
+reading training data: 100.. 200.. 300.. 400.. 500.. 600.. 700.. 800.. 900.. 1000.. 1100.. 1200.. 1300.. 1400.. 1500.. 1600.. 1700.. 1800.. 1900.. 2000.. 2100.. 
+Done!0.43 s
+
+Number of sentences: 2164
+Number of features:  40664
+Number of thread(s): 8
+Freq:                1
+eta:                 0.00010
+C:                   1.00000
+shrinking size:      20
+iter=0 terr=0.06782 serr=0.99677 act=40664 obj=48477.32751 diff=1.00000
+iter=1 terr=0.06782 serr=0.99677 act=40664 obj=20425.46630 diff=0.57866
+iter=2 terr=0.06782 serr=0.99677 act=40664 obj=18560.42441 diff=0.09131
+iter=3 terr=0.06782 serr=0.99677 act=40664 obj=16234.51392 diff=0.12532
+iter=4 terr=0.06782 serr=0.99677 act=40664 obj=14327.84793 diff=0.11745
+iter=5 terr=0.05927 serr=0.86137 act=40664 obj=12558.84438 diff=0.12347
+iter=6 terr=0.05187 serr=0.74168 act=40664 obj=11260.24493 diff=0.10340
+iter=7 terr=0.05109 serr=0.69501 act=40664 obj=10610.71114 diff=0.05768
+iter=8 terr=0.05140 serr=0.69224 act=40664 obj=10365.57611 diff=0.02310
+iter=9 terr=0.05087 serr=0.68392 act=40664 obj=9769.01256 diff=0.05755
+iter=10 terr=0.04932 serr=0.67514 act=40664 obj=9342.00543 diff=0.04371
+iter=11 terr=0.04721 serr=0.66959 act=40664 obj=9058.98822 diff=0.03030
+iter=12 terr=0.04638 serr=0.67421 act=40664 obj=8785.80664 diff=0.03016
+iter=13 terr=0.04598 serr=0.66312 act=40664 obj=8676.69171 diff=0.01242
+iter=14 terr=0.04598 serr=0.65065 act=40664 obj=8610.65301 diff=0.00761
+iter=15 terr=0.04598 serr=0.65111 act=40664 obj=8566.24882 diff=0.00516
+iter=16 terr=0.04565 serr=0.65434 act=40664 obj=8506.87655 diff=0.00693
+iter=17 terr=0.04475 serr=0.64418 act=40664 obj=8384.55199 diff=0.01438
+iter=18 terr=0.04402 serr=0.63309 act=40664 obj=8261.79592 diff=0.01464
+iter=19 terr=0.04390 serr=0.64464 act=40664 obj=8196.79050 diff=0.00787
+iter=20 terr=0.04360 serr=0.60906 act=40664 obj=8101.20551 diff=0.01166
+iter=21 terr=0.04285 serr=0.61830 act=40664 obj=7965.97714 diff=0.01669
+iter=22 terr=0.04268 serr=0.61460 act=40664 obj=7930.98644 diff=0.00439
+iter=23 terr=0.04239 serr=0.62107 act=40664 obj=7825.94131 diff=0.01324
+iter=24 terr=0.04139 serr=0.61368 act=40664 obj=7730.02618 diff=0.01226
+iter=25 terr=0.04098 serr=0.60120 act=40664 obj=7670.99045 diff=0.00764
+iter=26 terr=0.04066 serr=0.59519 act=40664 obj=7603.57777 diff=0.00879
+iter=27 terr=0.04118 serr=0.58919 act=40664 obj=7575.07596 diff=0.00375
+iter=28 terr=0.03982 serr=0.57994 act=40664 obj=7480.30260 diff=0.01251
+iter=29 terr=0.04002 serr=0.58641 act=40664 obj=7445.02550 diff=0.00472
+iter=30 terr=0.03986 serr=0.58595 act=40664 obj=7408.67655 diff=0.00488
+iter=31 terr=0.03925 serr=0.58272 act=40664 obj=7338.09732 diff=0.00953
+iter=32 terr=0.03908 serr=0.59150 act=40664 obj=7364.45040 diff=0.00359
+iter=33 terr=0.03871 serr=0.57671 act=40664 obj=7298.53967 diff=0.00895
+iter=34 terr=0.03776 serr=0.56285 act=40664 obj=7245.22270 diff=0.00731
+iter=35 terr=0.03775 serr=0.56470 act=40664 obj=7225.59905 diff=0.00271
+iter=36 terr=0.03829 serr=0.56793 act=40664 obj=7196.96773 diff=0.00396
+iter=37 terr=0.03796 serr=0.56423 act=40664 obj=7159.59588 diff=0.00519
+iter=38 terr=0.03742 serr=0.55961 act=40664 obj=7108.67136 diff=0.00711
+iter=39 terr=0.03720 serr=0.55591 act=40664 obj=7067.46112 diff=0.00580
+iter=40 terr=0.03670 serr=0.55776 act=40664 obj=7016.01721 diff=0.00728
+iter=41 terr=0.03616 serr=0.54760 act=40664 obj=6963.46425 diff=0.00749
+iter=42 terr=0.03575 serr=0.54621 act=40664 obj=6943.82922 diff=0.00282
+iter=43 terr=0.03583 serr=0.54436 act=40664 obj=6920.63738 diff=0.00334
+iter=44 terr=0.03603 serr=0.55083 act=40664 obj=6902.00409 diff=0.00269
+iter=45 terr=0.03596 serr=0.54806 act=40664 obj=6879.45733 diff=0.00327
+iter=46 terr=0.03559 serr=0.54067 act=40664 obj=6836.70351 diff=0.00621
+iter=47 terr=0.03586 serr=0.54852 act=40664 obj=6837.22030 diff=0.00008
+iter=48 terr=0.03533 serr=0.54113 act=40664 obj=6811.67820 diff=0.00374
+iter=49 terr=0.03499 serr=0.53327 act=40664 obj=6777.61106 diff=0.00500
+iter=50 terr=0.03447 serr=0.53420 act=40664 obj=6783.51629 diff=0.00087
+iter=51 terr=0.03462 serr=0.53327 act=40664 obj=6767.30554 diff=0.00239
+iter=52 terr=0.03446 serr=0.53235 act=40664 obj=6752.58947 diff=0.00217
+iter=53 terr=0.03437 serr=0.53281 act=40664 obj=6727.00118 diff=0.00379
+iter=54 terr=0.03412 serr=0.52680 act=40664 obj=6701.58346 diff=0.00378
+iter=55 terr=0.03364 serr=0.52311 act=40664 obj=6680.14182 diff=0.00320
+iter=56 terr=0.03394 serr=0.52542 act=40664 obj=6644.08870 diff=0.00540
+iter=57 terr=0.03332 serr=0.51895 act=40664 obj=6631.97516 diff=0.00182
+iter=58 terr=0.03347 serr=0.51941 act=40664 obj=6619.65419 diff=0.00186
+iter=59 terr=0.03314 serr=0.51941 act=40664 obj=6604.63878 diff=0.00227
+iter=60 terr=0.03284 serr=0.51710 act=40664 obj=6586.76272 diff=0.00271
+iter=61 terr=0.03276 serr=0.51756 act=40664 obj=6567.95538 diff=0.00286
+iter=62 terr=0.03209 serr=0.50786 act=40664 obj=6553.07083 diff=0.00227
+iter=63 terr=0.03221 serr=0.50370 act=40664 obj=6539.02898 diff=0.00214
+iter=64 terr=0.03253 serr=0.50786 act=40664 obj=6529.68015 diff=0.00143
+iter=65 terr=0.03240 serr=0.50601 act=40664 obj=6523.45113 diff=0.00095
+iter=66 terr=0.03243 serr=0.50878 act=40664 obj=6504.42826 diff=0.00292
+iter=67 terr=0.03240 serr=0.50739 act=40664 obj=6487.10267 diff=0.00266
+iter=68 terr=0.03230 serr=0.51248 act=40664 obj=6471.71897 diff=0.00237
+iter=69 terr=0.03213 serr=0.50786 act=40664 obj=6459.43374 diff=0.00190
+iter=70 terr=0.03224 serr=0.51063 act=40664 obj=6453.19628 diff=0.00097
+iter=71 terr=0.03180 serr=0.50601 act=40664 obj=6448.77323 diff=0.00069
+iter=72 terr=0.03191 serr=0.50924 act=40664 obj=6445.59457 diff=0.00049
+iter=73 terr=0.03204 serr=0.50878 act=40664 obj=6440.80883 diff=0.00074
+iter=74 terr=0.03194 serr=0.51063 act=40664 obj=6432.38544 diff=0.00131
+iter=75 terr=0.03176 serr=0.50693 act=40664 obj=6423.78964 diff=0.00134
+iter=76 terr=0.03163 serr=0.50462 act=40664 obj=6415.04027 diff=0.00136
+iter=77 terr=0.03111 serr=0.49677 act=40664 obj=6408.92398 diff=0.00095
+iter=78 terr=0.03106 serr=0.49769 act=40664 obj=6405.22989 diff=0.00058
+iter=79 terr=0.03113 serr=0.49723 act=40664 obj=6401.48885 diff=0.00058
+iter=80 terr=0.03127 serr=0.49861 act=40664 obj=6395.25802 diff=0.00097
+iter=81 terr=0.03133 serr=0.50092 act=40664 obj=6402.57361 diff=0.00114
+iter=82 terr=0.03117 serr=0.49861 act=40664 obj=6392.73060 diff=0.00154
+iter=83 terr=0.03090 serr=0.49399 act=40664 obj=6387.65514 diff=0.00079
+iter=84 terr=0.03076 serr=0.49214 act=40664 obj=6381.85882 diff=0.00091
+iter=85 terr=0.03063 serr=0.48891 act=40664 obj=6376.92695 diff=0.00077
+iter=86 terr=0.03031 serr=0.48429 act=40664 obj=6370.09927 diff=0.00107
+iter=87 terr=0.03071 serr=0.49261 act=40664 obj=6374.07870 diff=0.00062
+iter=88 terr=0.03054 serr=0.48845 act=40664 obj=6365.47262 diff=0.00135
+iter=89 terr=0.03051 serr=0.48891 act=40664 obj=6359.45926 diff=0.00094
+iter=90 terr=0.03053 serr=0.49261 act=40664 obj=6355.46792 diff=0.00063
+iter=91 terr=0.03066 serr=0.49399 act=40664 obj=6350.72923 diff=0.00075
+iter=92 terr=0.03057 serr=0.49076 act=40664 obj=6346.96039 diff=0.00059
+iter=93 terr=0.03021 serr=0.48429 act=40664 obj=6341.14510 diff=0.00092
+iter=94 terr=0.03043 serr=0.49076 act=40664 obj=6341.03278 diff=0.00002
+iter=95 terr=0.03036 serr=0.48845 act=40664 obj=6339.51700 diff=0.00024
+iter=96 terr=0.03033 serr=0.48706 act=40664 obj=6338.16841 diff=0.00021
+iter=97 terr=0.03018 serr=0.48290 act=40664 obj=6335.25122 diff=0.00046
+iter=98 terr=0.02988 serr=0.47967 act=40664 obj=6331.17381 diff=0.00064
+iter=99 terr=0.02991 serr=0.48059 act=40664 obj=6327.96823 diff=0.00051
+iter=100 terr=0.02997 serr=0.48152 act=40664 obj=6326.38100 diff=0.00025
+iter=101 terr=0.03010 serr=0.48567 act=40664 obj=6323.01546 diff=0.00053
+iter=102 terr=0.02990 serr=0.48567 act=40664 obj=6319.27933 diff=0.00059
+iter=103 terr=0.02990 serr=0.48429 act=40664 obj=6323.73367 diff=0.00070
+iter=104 terr=0.02998 serr=0.48614 act=40664 obj=6317.77867 diff=0.00094
+iter=105 terr=0.03004 serr=0.48660 act=40664 obj=6316.19753 diff=0.00025
+iter=106 terr=0.02994 serr=0.48521 act=40664 obj=6314.76517 diff=0.00023
+iter=107 terr=0.03051 serr=0.49307 act=40664 obj=6316.57744 diff=0.00029
+iter=108 terr=0.03013 serr=0.48799 act=40664 obj=6313.61160 diff=0.00047
+iter=109 terr=0.03018 serr=0.48983 act=40664 obj=6312.19169 diff=0.00022
+iter=110 terr=0.03006 serr=0.48983 act=40664 obj=6309.57362 diff=0.00041
+iter=111 terr=0.02987 serr=0.48799 act=40664 obj=6308.37319 diff=0.00019
+iter=112 terr=0.02984 serr=0.48475 act=40664 obj=6306.69934 diff=0.00027
+iter=113 terr=0.02980 serr=0.48475 act=40664 obj=6304.50609 diff=0.00035
+iter=114 terr=0.02980 serr=0.48429 act=40664 obj=6303.30364 diff=0.00019
+iter=115 terr=0.02977 serr=0.48521 act=40664 obj=6302.02776 diff=0.00020
+iter=116 terr=0.02975 serr=0.48336 act=40664 obj=6301.86222 diff=0.00003
+iter=117 terr=0.02971 serr=0.48521 act=40664 obj=6300.32566 diff=0.00024
+iter=118 terr=0.02984 serr=0.48660 act=40664 obj=6299.61441 diff=0.00011
+iter=119 terr=0.02990 serr=0.48799 act=40664 obj=6298.50775 diff=0.00018
+iter=120 terr=0.02997 serr=0.48799 act=40664 obj=6297.55184 diff=0.00015
+iter=121 terr=0.02988 serr=0.48706 act=40664 obj=6296.41531 diff=0.00018
+iter=122 terr=0.02978 serr=0.48475 act=40664 obj=6295.87945 diff=0.00009
+iter=123 terr=0.02983 serr=0.48429 act=40664 obj=6295.11435 diff=0.00012
+iter=124 terr=0.02963 serr=0.47874 act=40664 obj=6296.31367 diff=0.00019
+iter=125 terr=0.02978 serr=0.48059 act=40664 obj=6294.78818 diff=0.00024
+iter=126 terr=0.02974 serr=0.48059 act=40664 obj=6294.41241 diff=0.00006
+iter=127 terr=0.02991 serr=0.48383 act=40664 obj=6293.44062 diff=0.00015
+iter=128 terr=0.03000 serr=0.48429 act=40664 obj=6292.66262 diff=0.00012
+iter=129 terr=0.02984 serr=0.48521 act=40664 obj=6292.76756 diff=0.00002
+iter=130 terr=0.02991 serr=0.48475 act=40664 obj=6292.27389 diff=0.00008
+iter=131 terr=0.02994 serr=0.48567 act=40664 obj=6291.81064 diff=0.00007
+
+Done!7.97 s
+
+opener.hotel.fr.5/fold_0/training.holder
+CRF++: Yet Another CRF Tool Kit
+Copyright (C) 2005-2013 Taku Kudo, All rights reserved.
+
+reading training data: 100.. 200.. 
+Done!0.05 s
+
+Number of sentences: 257
+Number of features:  16372
+Number of thread(s): 8
+Freq:                1
+eta:                 0.00010
+C:                   1.00000
+shrinking size:      20
+iter=0 terr=0.96767 serr=1.00000 act=16372 obj=5918.09063 diff=1.00000
+iter=1 terr=0.03233 serr=1.00000 act=16372 obj=1847.60115 diff=0.68780
+iter=2 terr=0.03233 serr=1.00000 act=16372 obj=1367.99387 diff=0.25958
+iter=3 terr=0.03233 serr=1.00000 act=16372 obj=974.05887 diff=0.28797
+iter=4 terr=0.02600 serr=0.77043 act=16372 obj=695.63680 diff=0.28584
+iter=5 terr=0.01944 serr=0.48249 act=16372 obj=544.18371 diff=0.21772
+iter=6 terr=0.01722 serr=0.41634 act=16372 obj=451.30685 diff=0.17067
+iter=7 terr=0.01499 serr=0.33463 act=16372 obj=388.66964 diff=0.13879
+iter=8 terr=0.01323 serr=0.30739 act=16372 obj=349.98079 diff=0.09954
+iter=9 terr=0.01183 serr=0.28794 act=16372 obj=320.66375 diff=0.08377
+iter=10 terr=0.01113 serr=0.28794 act=16372 obj=295.80206 diff=0.07753
+iter=11 terr=0.00820 serr=0.21012 act=16372 obj=270.20399 diff=0.08654
+iter=12 terr=0.00750 serr=0.19455 act=16372 obj=250.94438 diff=0.07128
+iter=13 terr=0.00644 serr=0.15564 act=16372 obj=243.10284 diff=0.03125
+iter=14 terr=0.00668 serr=0.16342 act=16372 obj=237.51834 diff=0.02297
+iter=15 terr=0.00562 serr=0.15564 act=16372 obj=244.73509 diff=0.03038
+iter=16 terr=0.00574 serr=0.14008 act=16372 obj=229.05618 diff=0.06406
+iter=17 terr=0.00609 serr=0.15175 act=16372 obj=224.31974 diff=0.02068
+iter=18 terr=0.00574 serr=0.13619 act=16372 obj=220.02381 diff=0.01915
+iter=19 terr=0.00515 serr=0.12062 act=16372 obj=217.24302 diff=0.01264
+iter=20 terr=0.00574 serr=0.14397 act=16372 obj=217.67377 diff=0.00198
+iter=21 terr=0.00527 serr=0.12451 act=16372 obj=216.31978 diff=0.00622
+iter=22 terr=0.00539 serr=0.12840 act=16372 obj=215.59300 diff=0.00336
+iter=23 terr=0.00550 serr=0.13230 act=16372 obj=215.11244 diff=0.00223
+iter=24 terr=0.00515 serr=0.12451 act=16372 obj=213.98660 diff=0.00523
+iter=25 terr=0.00492 serr=0.12062 act=16372 obj=213.35767 diff=0.00294
+iter=26 terr=0.00504 serr=0.11284 act=16372 obj=212.92713 diff=0.00202
+iter=27 terr=0.00480 serr=0.10895 act=16372 obj=212.32238 diff=0.00284
+iter=28 terr=0.00480 serr=0.10895 act=16372 obj=212.22460 diff=0.00046
+iter=29 terr=0.00480 serr=0.10895 act=16372 obj=212.13008 diff=0.00045
+iter=30 terr=0.00480 serr=0.10895 act=16372 obj=212.10297 diff=0.00013
+iter=31 terr=0.00492 serr=0.11284 act=16372 obj=212.03273 diff=0.00033
+iter=32 terr=0.00504 serr=0.11284 act=16372 obj=211.94260 diff=0.00043
+iter=33 terr=0.00492 serr=0.10895 act=16372 obj=211.88924 diff=0.00025
+iter=34 terr=0.00480 serr=0.10506 act=16372 obj=211.71458 diff=0.00082
+iter=35 terr=0.00480 serr=0.10506 act=16372 obj=211.68984 diff=0.00012
+iter=36 terr=0.00492 serr=0.10895 act=16372 obj=211.67764 diff=0.00006
+iter=37 terr=0.00492 serr=0.10895 act=16372 obj=211.65843 diff=0.00009
+iter=38 terr=0.00480 serr=0.10506 act=16372 obj=211.63888 diff=0.00009
+
+Done!0.91 s
+
+opener.hotel.fr.5/fold_0/testing.holder

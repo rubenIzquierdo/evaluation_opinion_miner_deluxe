@@ -1,0 +1,85 @@
+LOADED 6871 from the file /home/izquierdo/ruben_github/opinion_miner_deluxePP/polarity_lexicons/FR-lexicon/fr-sentiment_lexicon.lmf
+CRF++: Yet Another CRF Tool Kit
+Copyright (C) 2005-2013 Taku Kudo, All rights reserved.
+
+reading training data: 100.. 200.. 
+Done!0.05 s
+
+Number of sentences: 248
+Number of features:  18258
+Number of thread(s): 8
+Freq:                1
+eta:                 0.00010
+C:                   1.00000
+shrinking size:      20
+iter=0 terr=0.84543 serr=1.00000 act=18258 obj=3762.40290 diff=1.00000
+iter=1 terr=0.15457 serr=1.00000 act=18258 obj=2183.97406 diff=0.41953
+iter=2 terr=0.15457 serr=1.00000 act=18258 obj=2141.63054 diff=0.01939
+iter=3 terr=0.15291 serr=0.97177 act=18258 obj=2004.95431 diff=0.06382
+iter=4 terr=0.14757 serr=0.95161 act=18258 obj=1920.70104 diff=0.04202
+iter=5 terr=0.14094 serr=0.90323 act=18258 obj=1804.38642 diff=0.06056
+iter=6 terr=0.13596 serr=0.91532 act=18258 obj=1745.08454 diff=0.03287
+iter=7 terr=0.13080 serr=0.88306 act=18258 obj=1684.54717 diff=0.03469
+iter=8 terr=0.12509 serr=0.83065 act=18258 obj=1648.48962 diff=0.02140
+iter=9 terr=0.11975 serr=0.79032 act=18258 obj=1602.55110 diff=0.02787
+iter=10 terr=0.11441 serr=0.78629 act=18258 obj=1550.98272 diff=0.03218
+iter=11 terr=0.10980 serr=0.78226 act=18258 obj=1479.10800 diff=0.04634
+iter=12 terr=0.09985 serr=0.74597 act=18258 obj=1411.03679 diff=0.04602
+iter=13 terr=0.09064 serr=0.71774 act=18258 obj=1344.08275 diff=0.04745
+iter=14 terr=0.08069 serr=0.65323 act=18258 obj=1298.38807 diff=0.03400
+iter=15 terr=0.07996 serr=0.64113 act=18258 obj=1269.48545 diff=0.02226
+iter=16 terr=0.07001 serr=0.65726 act=18258 obj=1351.73697 diff=0.06479
+iter=17 terr=0.06909 serr=0.60484 act=18258 obj=1247.60984 diff=0.07703
+iter=18 terr=0.06964 serr=0.60081 act=18258 obj=1219.26171 diff=0.02272
+iter=19 terr=0.06761 serr=0.58065 act=18258 obj=1197.36681 diff=0.01796
+iter=20 terr=0.06264 serr=0.54032 act=18258 obj=1165.33132 diff=0.02675
+iter=21 terr=0.05748 serr=0.52016 act=18258 obj=1139.66017 diff=0.02203
+iter=22 terr=0.04790 serr=0.52016 act=18258 obj=1162.39369 diff=0.01995
+iter=23 terr=0.05177 serr=0.51210 act=18258 obj=1128.50090 diff=0.02916
+iter=24 terr=0.05214 serr=0.51210 act=18258 obj=1115.89622 diff=0.01117
+iter=25 terr=0.04698 serr=0.45968 act=18258 obj=1113.68676 diff=0.00198
+iter=26 terr=0.04845 serr=0.48387 act=18258 obj=1106.64570 diff=0.00632
+iter=27 terr=0.04790 serr=0.46774 act=18258 obj=1101.30849 diff=0.00482
+iter=28 terr=0.04735 serr=0.45161 act=18258 obj=1097.02052 diff=0.00389
+iter=29 terr=0.04514 serr=0.44355 act=18258 obj=1090.15520 diff=0.00626
+iter=30 terr=0.04716 serr=0.42742 act=18258 obj=1095.47144 diff=0.00488
+iter=31 terr=0.04606 serr=0.44758 act=18258 obj=1086.72482 diff=0.00798
+iter=32 terr=0.04090 serr=0.41532 act=18258 obj=1081.70448 diff=0.00462
+iter=33 terr=0.04090 serr=0.41129 act=18258 obj=1079.48795 diff=0.00205
+iter=34 terr=0.03353 serr=0.37500 act=18258 obj=1080.67348 diff=0.00110
+iter=35 terr=0.03777 serr=0.39113 act=18258 obj=1077.83223 diff=0.00263
+iter=36 terr=0.03850 serr=0.38710 act=18258 obj=1075.55887 diff=0.00211
+iter=37 terr=0.03850 serr=0.39113 act=18258 obj=1074.07646 diff=0.00138
+iter=38 terr=0.03832 serr=0.39919 act=18258 obj=1072.23524 diff=0.00171
+iter=39 terr=0.03740 serr=0.39113 act=18258 obj=1070.72603 diff=0.00141
+iter=40 terr=0.03869 serr=0.40726 act=18258 obj=1072.76914 diff=0.00191
+iter=41 terr=0.03795 serr=0.40726 act=18258 obj=1069.84982 diff=0.00272
+iter=42 terr=0.03556 serr=0.37903 act=18258 obj=1068.47559 diff=0.00128
+iter=43 terr=0.03666 serr=0.39919 act=18258 obj=1067.70861 diff=0.00072
+iter=44 terr=0.03335 serr=0.37097 act=18258 obj=1067.17272 diff=0.00050
+iter=45 terr=0.03464 serr=0.38306 act=18258 obj=1066.60045 diff=0.00054
+iter=46 terr=0.03482 serr=0.37903 act=18258 obj=1065.92228 diff=0.00064
+iter=47 terr=0.03464 serr=0.37903 act=18258 obj=1065.52212 diff=0.00038
+iter=48 terr=0.03445 serr=0.37903 act=18258 obj=1064.49737 diff=0.00096
+iter=49 terr=0.03335 serr=0.37903 act=18258 obj=1063.39929 diff=0.00103
+iter=50 terr=0.03261 serr=0.37097 act=18258 obj=1064.25720 diff=0.00081
+iter=51 terr=0.03279 serr=0.37903 act=18258 obj=1063.01270 diff=0.00117
+iter=52 terr=0.03224 serr=0.37500 act=18258 obj=1062.54595 diff=0.00044
+iter=53 terr=0.03279 serr=0.37500 act=18258 obj=1062.18868 diff=0.00034
+iter=54 terr=0.03077 serr=0.36290 act=18258 obj=1062.68873 diff=0.00047
+iter=55 terr=0.03169 serr=0.36290 act=18258 obj=1062.03324 diff=0.00062
+iter=56 terr=0.03187 serr=0.36694 act=18258 obj=1061.80343 diff=0.00022
+iter=57 terr=0.03224 serr=0.37097 act=18258 obj=1061.64285 diff=0.00015
+iter=58 terr=0.03261 serr=0.37500 act=18258 obj=1061.51792 diff=0.00012
+iter=59 terr=0.03261 serr=0.37500 act=18258 obj=1061.39004 diff=0.00012
+iter=60 terr=0.03242 serr=0.37500 act=18258 obj=1061.25326 diff=0.00013
+iter=61 terr=0.03242 serr=0.37500 act=18258 obj=1061.15167 diff=0.00010
+iter=62 terr=0.03261 serr=0.37500 act=18258 obj=1061.03444 diff=0.00011
+iter=63 terr=0.03279 serr=0.37500 act=18258 obj=1061.02943 diff=0.00000
+iter=64 terr=0.03261 serr=0.37500 act=18258 obj=1060.97224 diff=0.00005
+iter=65 terr=0.03279 serr=0.37500 act=18258 obj=1060.92378 diff=0.00005
+
+Done!0.53 s
+
+LOADED 6871 from the file /home/izquierdo/ruben_github/opinion_miner_deluxePP/polarity_lexicons/FR-lexicon/fr-sentiment_lexicon.lmf
+opener.news.fr.5/fold_1/evaluation.expression

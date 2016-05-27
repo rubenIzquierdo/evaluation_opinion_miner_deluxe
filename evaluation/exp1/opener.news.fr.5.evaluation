@@ -1,0 +1,25 @@
+##################################################
+EVALUATION FOR: opener.news.fr.5 with 5 folds
+Entity Evaluation:
+	expression
+		Precision: 57.78
+		Recall:    58.50
+		F:    58.14
+	target
+		Precision: 68.93
+		Recall:    55.53
+		F:    61.51
+	holder
+		Precision: 56.69
+		Recall:    70.48
+		F:    62.84
+Relation Evaluation
+	expression_target
+		Precision: 31.12
+		Recall:    42.24
+		F:    35.84
+	expression_holder
+		Precision: 53.27
+		Recall:    36.18
+		F:    43.09
+##################################################

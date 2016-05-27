@@ -1,0 +1,17 @@
+CRF++: Yet Another CRF Tool Kit
+Copyright (C) 2005-2013 Taku Kudo, All rights reserved.
+
+reading training data: 
+Done!0.00 s
+
+Number of sentences: 0
+Number of features:  0
+Number of thread(s): 8
+Freq:                1
+eta:                 0.00010
+C:                   1.00000
+shrinking size:      20
+iter=0 terr=-nan serr=-nan act=0 obj=0.00000 diff=1.00000
+0.00 s
+
+opener.news.de.5//evaluation.expression

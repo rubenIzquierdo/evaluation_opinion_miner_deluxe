@@ -1,0 +1,652 @@
+Len sys relations 45
+Len gold relations 76
+##################################################
+System relation
+[[DSE]] ==> ['incremento']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-01707fba9618cc24cce31006fa54b9208ab4f237.kaf#w78'])
+
+[[TARGET]] ==> ['un', 'forte']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-01707fba9618cc24cce31006fa54b9208ab4f237.kaf#w77', './opener_news/it/IT-Merkel-Europa-01707fba9618cc24cce31006fa54b9208ab4f237.kaf#w76'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['soddisfacente']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-e54f12ed54fcba5ed95c137bd74158f28094eef2.kaf#w16'])
+
+[[TARGET]] ==> ['Un', 'risultato']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-e54f12ed54fcba5ed95c137bd74158f28094eef2.kaf#w15', './opener_news/it/IT-Cameron-Europa-e54f12ed54fcba5ed95c137bd74158f28094eef2.kaf#w14'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['soddisfacente']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-e54f12ed54fcba5ed95c137bd74158f28094eef2.kaf#w16'])
+
+[[TARGET]] ==> ['risultato']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-e54f12ed54fcba5ed95c137bd74158f28094eef2.kaf#w15'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['piuttosto']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-0ab786a2afcc9b666e4ae5bcb871f98e9d43b75c.kaf#w163'])
+
+[[TARGET]] ==> ['Professore']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-0ab786a2afcc9b666e4ae5bcb871f98e9d43b75c.kaf#w156'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['piuttosto']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-0ab786a2afcc9b666e4ae5bcb871f98e9d43b75c.kaf#w163'])
+
+[[TARGET]] ==> ['critiche']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-0ab786a2afcc9b666e4ae5bcb871f98e9d43b75c.kaf#w159'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['in']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-9c7510bbb642ca0179deed9242d2c227f794c1b4.kaf#w135'])
+
+[[TARGET]] ==> ['lo']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-9c7510bbb642ca0179deed9242d2c227f794c1b4.kaf#w126'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['minano']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-f7691775673f498de9ed97f7cb156f7d2f7f56b4.kaf#w11'])
+
+[[TARGET]] ==> ['Europa']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-f7691775673f498de9ed97f7cb156f7d2f7f56b4.kaf#w2'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['minano']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-f7691775673f498de9ed97f7cb156f7d2f7f56b4.kaf#w11'])
+
+[[TARGET]] ==> ['messaggio']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-f7691775673f498de9ed97f7cb156f7d2f7f56b4.kaf#w5'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['minano']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-f7691775673f498de9ed97f7cb156f7d2f7f56b4.kaf#w11'])
+
+[[TARGET]] ==> ['Obama']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-f7691775673f498de9ed97f7cb156f7d2f7f56b4.kaf#w7'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['minano']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-f7691775673f498de9ed97f7cb156f7d2f7f56b4.kaf#w11'])
+
+[[TARGET]] ==> ['Le']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-f7691775673f498de9ed97f7cb156f7d2f7f56b4.kaf#w9'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['minano']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-f7691775673f498de9ed97f7cb156f7d2f7f56b4.kaf#w11'])
+
+[[TARGET]] ==> ['fiducia']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-f7691775673f498de9ed97f7cb156f7d2f7f56b4.kaf#w13'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['minano']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-f7691775673f498de9ed97f7cb156f7d2f7f56b4.kaf#w11'])
+
+[[TARGET]] ==> ['fiducia']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-f7691775673f498de9ed97f7cb156f7d2f7f56b4.kaf#w13'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['sconfitta']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-a4073be4641aea59ad286c759b1bf5dbfc4fb780.kaf#w2'])
+
+[[TARGET]] ==> ['pronta']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-a4073be4641aea59ad286c759b1bf5dbfc4fb780.kaf#w4'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['pi\xc3\xb9', 'breve']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-f93e0711f7da4d688c0a64f329aeefd799c92279.kaf#w154', './opener_news/it/IT-Merkel-Europa-f93e0711f7da4d688c0a64f329aeefd799c92279.kaf#w153'])
+
+[[TARGET]] ==> ['pi\xc3\xb9']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-f93e0711f7da4d688c0a64f329aeefd799c92279.kaf#w153'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['orientato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w178'])
+
+[[TARGET]] ==> ['quadro']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w171'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['orientato', 'a', 'sostenere', 'la', 'crescita', 'economica', ',', 'l\xe2\x80\x99', 'occupazione', 'e', 'la', 'coesione', 'economica', 'e', 'sociale']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w188', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w189', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w190', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w192', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w179', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w178', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w182', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w183', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w184', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w185', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w186', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w187', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w180', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w181', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w191'])
+
+[[TARGET]] ==> ['il', 'quadro', 'finanziario', '\xc2\xbb', 'della', 'Ue', '\xc2\xab']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w171', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w170', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w173', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w172', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w175', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w174', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w176'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['sostenere']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w180'])
+
+[[TARGET]] ==> ['crescita', 'economica']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w182', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w183'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['orientato', 'a', 'sostenere']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w179', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w178', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w180'])
+
+[[TARGET]] ==> ['la', 'crescita', 'economica']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w181', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w182', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w183'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['orientato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w178'])
+
+[[TARGET]] ==> ['quadro']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w171'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['orientato', 'a', 'sostenere', 'la', 'crescita', 'economica', ',', 'l\xe2\x80\x99', 'occupazione', 'e', 'la', 'coesione', 'economica', 'e', 'sociale']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w188', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w189', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w190', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w192', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w179', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w178', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w182', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w183', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w184', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w185', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w186', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w187', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w180', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w181', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w191'])
+
+[[TARGET]] ==> ['il', 'quadro', 'finanziario', '\xc2\xbb', 'della', 'Ue', '\xc2\xab']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w171', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w170', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w173', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w172', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w175', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w174', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w176'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['sostenere']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w180'])
+
+[[TARGET]] ==> ['crescita', 'economica']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w182', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w183'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['orientato', 'a', 'sostenere']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w179', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w178', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w180'])
+
+[[TARGET]] ==> ['la', 'crescita', 'economica']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w181', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w182', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w183'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['orientato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w178'])
+
+[[TARGET]] ==> ['quadro']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w171'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['orientato', 'a', 'sostenere', 'la', 'crescita', 'economica', ',', 'l\xe2\x80\x99', 'occupazione', 'e', 'la', 'coesione', 'economica', 'e', 'sociale']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w188', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w189', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w190', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w192', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w179', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w178', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w182', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w183', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w184', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w185', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w186', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w187', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w180', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w181', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w191'])
+
+[[TARGET]] ==> ['il', 'quadro', 'finanziario', '\xc2\xbb', 'della', 'Ue', '\xc2\xab']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w171', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w170', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w173', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w172', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w175', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w174', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w176'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['sostenere']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w180'])
+
+[[TARGET]] ==> ['crescita', 'economica']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w182', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w183'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['orientato', 'a', 'sostenere']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w179', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w178', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w180'])
+
+[[TARGET]] ==> ['la', 'crescita', 'economica']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w181', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w182', './opener_news/it/IT-Merkel-Europa-6f5d1dcde542279775268b10b5aec3ba0d158f1a.kaf#w183'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['estremamente']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-3741d436841e5e07010ae90410faf7f0c4783bf8.kaf#w66'])
+
+[[TARGET]] ==> ['stato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-3741d436841e5e07010ae90410faf7f0c4783bf8.kaf#w72'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['non', 'sar\xc3\xa0', 'immediato']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-c1caa3403efca9245186c3c4175771e1022d1a94.kaf#w86', './opener_news/it/IT-Cameron-Europa-c1caa3403efca9245186c3c4175771e1022d1a94.kaf#w87', './opener_news/it/IT-Cameron-Europa-c1caa3403efca9245186c3c4175771e1022d1a94.kaf#w85'])
+
+[[TARGET]] ==> ['e']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-c1caa3403efca9245186c3c4175771e1022d1a94.kaf#w88'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['non', 'sar\xc3\xa0', 'immediato']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-c1caa3403efca9245186c3c4175771e1022d1a94.kaf#w86', './opener_news/it/IT-Cameron-Europa-c1caa3403efca9245186c3c4175771e1022d1a94.kaf#w87', './opener_news/it/IT-Cameron-Europa-c1caa3403efca9245186c3c4175771e1022d1a94.kaf#w85'])
+
+[[TARGET]] ==> ['vittoria']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-c1caa3403efca9245186c3c4175771e1022d1a94.kaf#w94'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['vorranno', 'pi\xc3\xb9']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-92d69487e71967bc7b076d32895564312e2eec08.kaf#w11', './opener_news/it/IT-Merkel-Europa-92d69487e71967bc7b076d32895564312e2eec08.kaf#w10'])
+
+[[TARGET]] ==> ['crisi', 'economica']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-92d69487e71967bc7b076d32895564312e2eec08.kaf#w5', './opener_news/it/IT-Merkel-Europa-92d69487e71967bc7b076d32895564312e2eec08.kaf#w4'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['applaude']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-75df7c8fc5bad7ef6daa6a9e9b4731853cdd067e.kaf#w3'])
+
+[[TARGET]] ==> ['Governo']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-75df7c8fc5bad7ef6daa6a9e9b4731853cdd067e.kaf#w5'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['applaude']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-75df7c8fc5bad7ef6daa6a9e9b4731853cdd067e.kaf#w3'])
+
+[[TARGET]] ==> ['Governo', 'Monti']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-75df7c8fc5bad7ef6daa6a9e9b4731853cdd067e.kaf#w5', './opener_news/it/IT-Merkel-Europa-75df7c8fc5bad7ef6daa6a9e9b4731853cdd067e.kaf#w6'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['clima', 'molto', 'sereno']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-4f3ec354dfe7af5f35fa3b16936634370b1a9518.kaf#w170', './opener_news/it/IT-Merkel-Europa-4f3ec354dfe7af5f35fa3b16936634370b1a9518.kaf#w171', './opener_news/it/IT-Merkel-Europa-4f3ec354dfe7af5f35fa3b16936634370b1a9518.kaf#w169'])
+
+[[TARGET]] ==> ['desiderio']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-4f3ec354dfe7af5f35fa3b16936634370b1a9518.kaf#w176'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['Nobel']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-c974820eccb60efc76e13826d44e4b1c82286bcc.kaf#w60'])
+
+[[TARGET]] ==> ['pace']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-c974820eccb60efc76e13826d44e4b1c82286bcc.kaf#w63'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['incassato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-ea3a4bdbe4f692db0e59a11f9efeaaae1228aca6.kaf#w83'])
+
+[[TARGET]] ==> ['plauso']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-ea3a4bdbe4f692db0e59a11f9efeaaae1228aca6.kaf#w85'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['ha', 'incassato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-ea3a4bdbe4f692db0e59a11f9efeaaae1228aca6.kaf#w82', './opener_news/it/IT-Merkel-Europa-ea3a4bdbe4f692db0e59a11f9efeaaae1228aca6.kaf#w83'])
+
+[[TARGET]] ==> ['il', 'plauso', 'dei', 'leader', 'delle', 'maggiori', 'potenze', 'mondiali']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-ea3a4bdbe4f692db0e59a11f9efeaaae1228aca6.kaf#w91', './opener_news/it/IT-Merkel-Europa-ea3a4bdbe4f692db0e59a11f9efeaaae1228aca6.kaf#w90', './opener_news/it/IT-Merkel-Europa-ea3a4bdbe4f692db0e59a11f9efeaaae1228aca6.kaf#w86', './opener_news/it/IT-Merkel-Europa-ea3a4bdbe4f692db0e59a11f9efeaaae1228aca6.kaf#w87', './opener_news/it/IT-Merkel-Europa-ea3a4bdbe4f692db0e59a11f9efeaaae1228aca6.kaf#w84', './opener_news/it/IT-Merkel-Europa-ea3a4bdbe4f692db0e59a11f9efeaaae1228aca6.kaf#w85', './opener_news/it/IT-Merkel-Europa-ea3a4bdbe4f692db0e59a11f9efeaaae1228aca6.kaf#w88', './opener_news/it/IT-Merkel-Europa-ea3a4bdbe4f692db0e59a11f9efeaaae1228aca6.kaf#w89'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['ha', 'incontrato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-8b540cd101d0e26a8ea76f4bb3138d7b292087c1.kaf#w494', './opener_news/it/IT-Merkel-Europa-8b540cd101d0e26a8ea76f4bb3138d7b292087c1.kaf#w493'])
+
+[[TARGET]] ==> ['pubblico']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-8b540cd101d0e26a8ea76f4bb3138d7b292087c1.kaf#w496'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['ha', 'incontrato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-8b540cd101d0e26a8ea76f4bb3138d7b292087c1.kaf#w494', './opener_news/it/IT-Merkel-Europa-8b540cd101d0e26a8ea76f4bb3138d7b292087c1.kaf#w493'])
+
+[[TARGET]] ==> ['pubblico']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-8b540cd101d0e26a8ea76f4bb3138d7b292087c1.kaf#w496'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['ha', 'incontrato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-8b540cd101d0e26a8ea76f4bb3138d7b292087c1.kaf#w494', './opener_news/it/IT-Merkel-Europa-8b540cd101d0e26a8ea76f4bb3138d7b292087c1.kaf#w493'])
+
+[[TARGET]] ==> ['comunale']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-8b540cd101d0e26a8ea76f4bb3138d7b292087c1.kaf#w499'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['Sconfitti']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-bd91b112f489b433d97d771742ec0a0b7a073743.kaf#w32'])
+
+[[TARGET]] ==> ['risultati']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-bd91b112f489b433d97d771742ec0a0b7a073743.kaf#w35'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['Sconfitti']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-bd91b112f489b433d97d771742ec0a0b7a073743.kaf#w32'])
+
+[[TARGET]] ==> ['euroscetticiI']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-bd91b112f489b433d97d771742ec0a0b7a073743.kaf#w33'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['Sconfitti']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-bd91b112f489b433d97d771742ec0a0b7a073743.kaf#w32'])
+
+[[TARGET]] ==> ['euroscetticiI']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-bd91b112f489b433d97d771742ec0a0b7a073743.kaf#w33'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['Sconfitti']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-bd91b112f489b433d97d771742ec0a0b7a073743.kaf#w32'])
+
+[[TARGET]] ==> ['risultati']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-bd91b112f489b433d97d771742ec0a0b7a073743.kaf#w35'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['ottiene']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-a4911add4bf368e7377fea2faa09957440d8bbcd.kaf#w21'])
+
+[[TARGET]] ==> ['miliardi']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-a4911add4bf368e7377fea2faa09957440d8bbcd.kaf#w23'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['ottiene']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-a4911add4bf368e7377fea2faa09957440d8bbcd.kaf#w21'])
+
+[[TARGET]] ==> ['8', 'miliardi']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-a4911add4bf368e7377fea2faa09957440d8bbcd.kaf#w23', './opener_news/it/IT-Cameron-Europa-a4911add4bf368e7377fea2faa09957440d8bbcd.kaf#w22'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['ottiene']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-a4911add4bf368e7377fea2faa09957440d8bbcd.kaf#w21'])
+
+[[TARGET]] ==> ['giovani']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-a4911add4bf368e7377fea2faa09957440d8bbcd.kaf#w26'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['soddisfacente']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-e54f12ed54fcba5ed95c137bd74158f28094eef2.kaf#w16'])
+
+[[TARGET]] ==> ['Un', 'risultato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-e54f12ed54fcba5ed95c137bd74158f28094eef2.kaf#w15', './opener_news/it/IT-Merkel-Europa-e54f12ed54fcba5ed95c137bd74158f28094eef2.kaf#w14'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['soddisfacente']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-e54f12ed54fcba5ed95c137bd74158f28094eef2.kaf#w16'])
+
+[[TARGET]] ==> ['risultato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-e54f12ed54fcba5ed95c137bd74158f28094eef2.kaf#w15'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['non', 'si']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w9', './opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w10'])
+
+[[TARGET]] ==> ['Il', 'fiscal', 'compact']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w7', './opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w6', './opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w8'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['non', 'si', 'rinegozia']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w11', './opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w9', './opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w10'])
+
+[[TARGET]] ==> ['fiscal', 'compact']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w7', './opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w8'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['non', 'si']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w9', './opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w10'])
+
+[[TARGET]] ==> ['compact']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w8'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['non', 'si', 'rinegozia']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w11', './opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w9', './opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w10'])
+
+[[TARGET]] ==> ['fiscal', 'compact']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w7', './opener_news/it/IT-Merkel-Europa-b747dcfb9c85fa2ec5950d3dc3ed6df3f3348dc5.kaf#w8'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['infatti']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-ba32544e3ba2d74f28e0ec82ba41708315fe73a5.kaf#w79'])
+
+[[TARGET]] ==> ['europea']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-ba32544e3ba2d74f28e0ec82ba41708315fe73a5.kaf#w73'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['infatti']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-ba32544e3ba2d74f28e0ec82ba41708315fe73a5.kaf#w79'])
+
+[[TARGET]] ==> ['sua', 'battaglia']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-ba32544e3ba2d74f28e0ec82ba41708315fe73a5.kaf#w82', './opener_news/it/IT-Merkel-Europa-ba32544e3ba2d74f28e0ec82ba41708315fe73a5.kaf#w83'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['aveva', 'infatti', 'vinto']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-ba32544e3ba2d74f28e0ec82ba41708315fe73a5.kaf#w79', './opener_news/it/IT-Merkel-Europa-ba32544e3ba2d74f28e0ec82ba41708315fe73a5.kaf#w78', './opener_news/it/IT-Merkel-Europa-ba32544e3ba2d74f28e0ec82ba41708315fe73a5.kaf#w80'])
+
+[[TARGET]] ==> ['la', 'sua', 'battaglia']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-ba32544e3ba2d74f28e0ec82ba41708315fe73a5.kaf#w81', './opener_news/it/IT-Merkel-Europa-ba32544e3ba2d74f28e0ec82ba41708315fe73a5.kaf#w82', './opener_news/it/IT-Merkel-Europa-ba32544e3ba2d74f28e0ec82ba41708315fe73a5.kaf#w83'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['pi\xc3\xb9', 'positivo']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-190bf1a7d87b7422e026fbd622e7d28eb7a3fbc8.kaf#w92', './opener_news/it/IT-Merkel-Europa-190bf1a7d87b7422e026fbd622e7d28eb7a3fbc8.kaf#w91'])
+
+[[TARGET]] ==> ['le', 'tre', 'principali']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-190bf1a7d87b7422e026fbd622e7d28eb7a3fbc8.kaf#w96', './opener_news/it/IT-Merkel-Europa-190bf1a7d87b7422e026fbd622e7d28eb7a3fbc8.kaf#w95', './opener_news/it/IT-Merkel-Europa-190bf1a7d87b7422e026fbd622e7d28eb7a3fbc8.kaf#w94'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['non', 'risultano']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-ce32120c5a5390030d0148b33bf320f07a78c1b1.kaf#w175', './opener_news/it/IT-Cameron-Europa-ce32120c5a5390030d0148b33bf320f07a78c1b1.kaf#w176'])
+
+[[TARGET]] ==> ['di', 'butene']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-ce32120c5a5390030d0148b33bf320f07a78c1b1.kaf#w179', './opener_news/it/IT-Cameron-Europa-ce32120c5a5390030d0148b33bf320f07a78c1b1.kaf#w178'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['non', 'risultano']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-ce32120c5a5390030d0148b33bf320f07a78c1b1.kaf#w175', './opener_news/it/IT-Cameron-Europa-ce32120c5a5390030d0148b33bf320f07a78c1b1.kaf#w176'])
+
+[[TARGET]] ==> ['tracce', 'di', 'butene']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-ce32120c5a5390030d0148b33bf320f07a78c1b1.kaf#w179', './opener_news/it/IT-Cameron-Europa-ce32120c5a5390030d0148b33bf320f07a78c1b1.kaf#w178', './opener_news/it/IT-Cameron-Europa-ce32120c5a5390030d0148b33bf320f07a78c1b1.kaf#w177'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['copiato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w61'])
+
+[[TARGET]] ==> ['la', 'sua', 'tesi']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w62', './opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w63', './opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w64'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['ha', 'copiato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w60', './opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w61'])
+
+[[TARGET]] ==> ['la', 'sua', 'tesi', 'di', 'dottorato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w62', './opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w63', './opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w64', './opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w65', './opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w66'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['copiato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w61'])
+
+[[TARGET]] ==> ['dottorato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w66'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['ha', 'copiato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w60', './opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w61'])
+
+[[TARGET]] ==> ['la', 'sua', 'tesi', 'di', 'dottorato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w62', './opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w63', './opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w64', './opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w65', './opener_news/it/IT-Merkel-Europa-76f2ded6be5718917fdec52a151339afb5e4893e.kaf#w66'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['ha', 'gelato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-4a4c79e13ecd1b75698b3092ee2a6c5a172836ab.kaf#w45', './opener_news/it/IT-Merkel-Europa-4a4c79e13ecd1b75698b3092ee2a6c5a172836ab.kaf#w46'])
+
+[[TARGET]] ==> ['speranze', 'della', 'Grecia']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-4a4c79e13ecd1b75698b3092ee2a6c5a172836ab.kaf#w48', './opener_news/it/IT-Merkel-Europa-4a4c79e13ecd1b75698b3092ee2a6c5a172836ab.kaf#w49', './opener_news/it/IT-Merkel-Europa-4a4c79e13ecd1b75698b3092ee2a6c5a172836ab.kaf#w50'])
+
+CORRECT: True
+Matched with the GOLD relation
+[[DSE]] ==> ['ha', 'gelato']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-4a4c79e13ecd1b75698b3092ee2a6c5a172836ab.kaf#w45', './opener_news/it/IT-Merkel-Europa-4a4c79e13ecd1b75698b3092ee2a6c5a172836ab.kaf#w46'])
+
+[[TARGET]] ==> ['speranze', 'della', 'Grecia']
+   Tokens: set(['./opener_news/it/IT-Merkel-Europa-4a4c79e13ecd1b75698b3092ee2a6c5a172836ab.kaf#w48', './opener_news/it/IT-Merkel-Europa-4a4c79e13ecd1b75698b3092ee2a6c5a172836ab.kaf#w49', './opener_news/it/IT-Merkel-Europa-4a4c79e13ecd1b75698b3092ee2a6c5a172836ab.kaf#w50'])
+
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['ha', 'aperto']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-5c74ba672573f1a41943005198a692e3b511a0df.kaf#w64', './opener_news/it/IT-Cameron-Europa-5c74ba672573f1a41943005198a692e3b511a0df.kaf#w63'])
+
+[[TARGET]] ==> ['euro']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-5c74ba672573f1a41943005198a692e3b511a0df.kaf#w45'])
+
+CORRECT: False
+##################################################
+
+##################################################
+System relation
+[[DSE]] ==> ['ha', 'aperto']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-5c74ba672573f1a41943005198a692e3b511a0df.kaf#w64', './opener_news/it/IT-Cameron-Europa-5c74ba672573f1a41943005198a692e3b511a0df.kaf#w63'])
+
+[[TARGET]] ==> ['euro']
+   Tokens: set(['./opener_news/it/IT-Cameron-Europa-5c74ba672573f1a41943005198a692e3b511a0df.kaf#w45'])
+
+CORRECT: False
+##################################################
+
+############################################################
+PREC: 46.67
+REC: 27.63
+F: 34.71
+############################################################
+%%%<DATA>%%% ok wrong total
+21 24 76
+%%%</DATA>%%% ok wrong total
