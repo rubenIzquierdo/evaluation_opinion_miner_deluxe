@@ -1,6 +1,8 @@
-# EVALUATION OPINION MINER DELUXE#
+# EVALUATION AND DATA OPINION MINER DELUXE#
 
 In this repository we show the evaluation of the [opinion miner deluxe system](https://github.com/rubenIzquierdo/opinion_miner_deluxePP), for 6 languages (en, nl, de, es, it, fr) and 2 domains (hotel reviews and news).
+Also all the annotated data in KAF format are contained in the file `annotated_data.tgz`.
+
 All the intermediate evaluation output files are included for these criteria:
 
 + Six different languages: English, Dutch, German, Italian, Spanish and French
